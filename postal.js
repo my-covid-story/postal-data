@@ -1,9 +1,15 @@
 #!/usr/bin/env node
 const fs = require('fs/promises')
+const https = require('https')
 const bent = require('bent')
 const cheerio = require('cheerio')
 
-const VERBOSE = true
+// TLS connections to elections.on.ca fail with UNABLE_TO_VERIFY_LEAF_SIGNATURE.
+// Disabling certificate verification solves that, with a risk of man-in-the-middle attacks.
+https.globalAgent.options.rejectUnauthorized = false
+
+// The script is verbose by default, can be silenced via an environment variable.
+const VERBOSE = process.env.POSTAL_VERBOSE !== 'false'
 
 function log(...args) {
   if (VERBOSE) {
@@ -11,6 +17,10 @@ function log(...args) {
   }
 }
 
+const ELECTIONS_ONTARIO_URL = 'https://voterinformationservice.elections.on.ca'
+
+// First letter of FSA to province mapping.
+// Nunavut/Northwest Territories share a first letter, so a function is needed to disambiguate.
 const LETTER_PROVINCE = {
   A: 'NL',
   B: 'NS',
@@ -31,15 +41,21 @@ const LETTER_PROVINCE = {
   X: (fsa) => (['X0A', 'X0B', 'X0C'].includes(fsa) ? 'NU' : 'NT'),
   Y: 'YT',
 }
-
 const LETTERS = Object.keys(LETTER_PROVINCE)
 
+// Look up the province for an FSA.
 function fsaProvince(fsa) {
   const province = LETTER_PROVINCE[fsa.charAt(0)]
   return typeof province === 'function' ? province(fsa) : province
 }
 
+// FSA names to exclude.
 const NOT_FSA = ['Not assigned', 'Not in use', 'Reserved', 'Commercial Returns']
+
+// Ontario Electoral IDs: 1..124.
+const ED_IDS = Array(124)
+  .fill()
+  .map((_, i) => i + 1)
 
 async function prepare() {
   process.chdir(__dirname)
@@ -147,8 +163,95 @@ async function fsaScrape(letters = LETTERS) {
   log('Done')
 }
 
+const PATH_EO = 'elections.on.ca'
+const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
+const PATH_ED = 'ed.json'
+const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.toString().padStart(3, '0')}.html`
+
+async function edFetch(ids = ED_IDS) {
+  if (ids.length === 0) ids = ED_IDS
+  const get = bent(ELECTIONS_ONTARIO_URL, 'json')
+  await fs.mkdir('elections.on.ca', { recursive: true })
+
+  const eds = []
+  for (const id of ids) {
+    const url = `/api/electoral-district/en/${id}`
+    log(`Fetching ${url} from Elections Ontario`)
+    eds.push(await get(url))
+  }
+
+  log(`Writing JSON data to ${PATH_ED_RAW}`)
+  await fs.writeFile(PATH_ED_RAW, JSON.stringify(eds, null, 2))
+  log('Done')
+}
+
+async function mppFetch(ids = ED_IDS) {
+  if (ids.length === 0) ids = ED_IDS
+  const get = bent('buffer')
+  log(`Loading ED data from ${PATH_ED_RAW}`)
+  const eds = JSON.parse(await fs.readFile(PATH_ED_RAW, 'utf8'))
+
+  for (const id of ids) {
+    const ed = eds.find((e) => e.id == id)
+    const url = ed.mppUrl
+    log(`Fetching ${url}`)
+    const buffer = await get(url)
+    const path = pathMppHtml(id)
+    log(`Writing HTML data to ${path}`)
+    await fs.writeFile(path, buffer)
+  }
+  log('Done')
+}
+
+function mppScrapeFrom(buffer) {
+  const $ = cheerio.load(buffer)
+
+  const mppParty = $('.views-field-field-party').first().text().trim()
+  const emails = $('.field--name-field-email-address .field__item')
+    .toArray()
+    .map((e) => $(e).text().trim().toLowerCase())
+  const phones = $('.field--name-field-number .field__item')
+    .toArray()
+    .map((e) => $(e).text().trim())
+
+  return { mppParty, mppEmail: emails[0], mppPhone: phones[0] }
+}
+
+async function edMppEnrich(ids = ED_IDS) {
+  if (ids.length === 0) ids = ED_IDS
+  log(`Loading ED data from ${PATH_ED_RAW}`)
+  const raw = JSON.parse(await fs.readFile(PATH_ED_RAW, 'utf8'))
+  const eds = []
+
+  for (const id of ids) {
+    log(`Enriching ED data for ${id}`)
+    let ed = raw.find((e) => e.id == id)
+    const { name, municipalities, population, areaSquareKm: area, mppUrl, mppName } = ed
+    const url = `${ELECTIONS_ONTARIO_URL}/en/electoral-district/${id}`
+    const names = mppName.split(' ')
+    const mppFirstName = names[0] !== 'Hon.' ? names[0] : names[1]
+    const mppLastName = names[names.length - 1]
+    ed = { name, municipalities, population, area, url, mppUrl, mppName, mppFirstName, mppLastName }
+
+    const path = pathMppHtml(id)
+    log(`Scraping MPP data from ${path}`)
+    const buffer = await fs.readFile(path)
+    eds.push({ id, ...ed, ...mppScrapeFrom(buffer) })
+  }
+
+  log(`Writing JSON data to ${PATH_ED}`)
+  await fs.writeFile(PATH_ED, JSON.stringify(eds, null, 2))
+  log('Done')
+}
+
 const [, , command, ...args] = process.argv
-const func = command === 'fsa-fetch' ? fsaFetch : command === 'fsa-scrape' ? fsaScrape : undefined
+let func
+if (command === 'fsa-fetch') func = fsaFetch
+else if (command === 'fsa-scrape') func = fsaScrape
+else if (command === 'ed-fetch') func = edFetch
+else if (command === 'mpp-fetch') func = mppFetch
+else if (command === 'ed-mpp-enrich') func = edMppEnrich
+
 if (func) {
   prepare()
     .then(() => func(args))
@@ -159,12 +262,14 @@ if (func) {
   return
 }
 
-const usage = `Usage: postal.js COMMAND [ARGS]
+console.error(`Usage: postal.js COMMAND [ARGS]
 
 Commands:
 
 fsa-fetch [LETTER...]   Fetch Forward Sortation Area HTML from Wikipedia
 fsa-scrape [LETTER...]  Scrape FSA HTML to extract data
-`
-console.error(usage)
+ed-fetch [ID...]        Fetch Electoral District JSON from Elections Ontario
+mpp-fetch [ID...]       Fetch MPP HTML from Elections Ontario
+ed-mpp-enrich [ID...]   Enrich ED JSON with MPP data scraped from HTML files.
+`)
 process.exit(1)

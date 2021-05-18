@@ -20,10 +20,17 @@ npm install
 
 ```
 data/
-├── wikipedia/   HTML pages fetched from wikipedia.org (fsa-fetch)
-│   ├── A.html   One file per valid first letter, listing FSAs
+├── elections.on.ca/   ED and MPP data fetched from Elections Ontario
+│   ├── ed-raw.json    ED JSON data (ed-fetch)
+│   ├── mpp-001.html   One HTML file per ED, describing the MPP (mpp-fetch)
+│   ├── mpp-002.html
+│   │   ...
+│   └── mpp-124.html
+├── wikipedia/         FSA HTML pages fetched from Wikipedia
+│   ├── A.html         One file per valid first letter (fsa-fetch)
 │   ├── B.html
 │   │   ...
 │   └── Y.html
-└── fsa.json     JSON FSA data scraped from HTML pages (fsa-scrape)
+├── ed.json            ED JSON data enriched with MPP details (ed-mpp-enrich)
+└── fsa.json           FSA JSON data scraped from HTML pages (fsa-scrape)
 ```
