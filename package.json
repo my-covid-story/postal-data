@@ -6,6 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "license": "CC0-1.0",
+  "dependencies": {
+    "bent": "^7.3.12",
+    "cheerio": "^1.0.0-rc.9"
+  },
   "devDependencies": {
     "eslint": "^7.26.0",
     "eslint-config-prettier": "^8.3.0",
@@ -16,10 +20,7 @@
     "root": true,
     "env": {
       "node": true,
-      "es6": true
-    },
-    "parserOptions": {
-      "ecmaVersion": 2018
+      "es2020": true
     },
     "extends": [
       "eslint:recommended",
