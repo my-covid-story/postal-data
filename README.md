@@ -26,11 +26,11 @@ data/
 │   ├── mpp-002.html
 │   │   ...
 │   └── mpp-124.html
-├── wikipedia/         FSA HTML pages fetched from Wikipedia
-│   ├── A.html         One file per valid first letter (fsa-fetch)
-│   ├── B.html
+├── wikipedia.org/     FSA HTML pages fetched from Wikipedia
+│   ├── fsa-a.html     One file per valid first letter (fsa-fetch)
+│   ├── fsa-b.html
 │   │   ...
-│   └── Y.html
+│   └── fsa-y.html
 ├── ed.json            ED JSON data enriched with MPP details (ed-mpp-enrich)
 └── fsa.json           FSA JSON data scraped from HTML pages (fsa-scrape)
 ```

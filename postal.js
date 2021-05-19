@@ -19,6 +19,16 @@ function log(...args) {
 
 const ELECTIONS_ONTARIO_URL = 'https://voterinformationservice.elections.on.ca'
 
+// Data file paths.
+const PATH_WIKIPEDIA = 'wikipedia.org'
+const PATH_FSA = 'fsa.json'
+const pathFsaHtml = (letter) => `${PATH_WIKIPEDIA}/fsa-${letter.toLowerCase()}.html`
+
+const PATH_EO = 'elections.on.ca'
+const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
+const PATH_ED = 'ed.json'
+const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.toString().padStart(3, '0')}.html`
+
 // First letter of FSA to province mapping.
 // Nunavut/Northwest Territories share a first letter, so a function is needed to disambiguate.
 const LETTER_PROVINCE = {
@@ -65,14 +75,14 @@ async function prepare() {
 
 async function fsaFetch(letters = LETTERS) {
   if (letters.length === 0) letters = LETTERS
-  const get = bent('https://en.wikipedia.org/wiki', 'buffer')
+  const get = bent('https://en.wikipedia.org', 'buffer')
   await fs.mkdir('wikipedia', { recursive: true })
 
   for (const letter of letters) {
-    const url = `/List_of_postal_codes_of_Canada:_${letter}`
+    const url = `/wiki/List_of_postal_codes_of_Canada:_${letter}`
     log(`Fetching ${url} from Wikipedia`)
     const buffer = await get(url)
-    const path = `wikipedia/${letter}.html`
+    const path = pathFsaHtml(letter)
     log(`Writing HTML data to ${path}`)
     await fs.writeFile(path, buffer)
   }
@@ -95,7 +105,7 @@ function dataLines(data) {
 }
 
 function fsaScrapeFrom(buffer) {
-  const $ = cheerio.load(buffer, { ignoreWhitespace: false })
+  const $ = cheerio.load(buffer)
 
   // Some pages have Urban and Rural sections, with separate tables of FSAs.
   // Other pages have a single table that is all urban, all rural, or a mix of both.
@@ -149,7 +159,7 @@ async function fsaScrape(letters = LETTERS) {
   const fsas = []
 
   for (const letter of letters) {
-    const path = `wikipedia/${letter}.html`
+    const path = pathFsaHtml(letter)
     log(`Scraping FSAs for ${letter} from ${path}`)
     const buffer = await fs.readFile(path)
     const f = fsaScrapeFrom(buffer)
@@ -157,16 +167,10 @@ async function fsaScrape(letters = LETTERS) {
     fsas.push(...f)
   }
 
-  const path = 'fsa.json'
-  log(`Writing JSON data to ${path}`)
-  await fs.writeFile(path, JSON.stringify(fsas, null, 2))
+  log(`Writing JSON data to ${PATH_FSA}`)
+  await fs.writeFile(PATH_FSA, JSON.stringify(fsas, null, 2))
   log('Done')
 }
-
-const PATH_EO = 'elections.on.ca'
-const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
-const PATH_ED = 'ed.json'
-const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.toString().padStart(3, '0')}.html`
 
 async function edFetch(ids = ED_IDS) {
   if (ids.length === 0) ids = ED_IDS
