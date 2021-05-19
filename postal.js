@@ -3,6 +3,7 @@ const fs = require('fs/promises')
 const https = require('https')
 const bent = require('bent')
 const cheerio = require('cheerio')
+const shuffle = require('array-shuffle')
 
 // TLS connections to elections.on.ca fail with UNABLE_TO_VERIFY_LEAF_SIGNATURE.
 // Disabling certificate verification solves that, with a risk of man-in-the-middle attacks.
@@ -24,6 +25,7 @@ const PATH_WIKIPEDIA = 'wikipedia.org'
 const PATH_FSA = 'fsa.json'
 const pathFsaHtml = (letter) => `${PATH_WIKIPEDIA}/fsa-${letter.toLowerCase()}.html`
 
+const PATH_LDU = 'ldu.json'
 const PATH_EO = 'elections.on.ca'
 const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
 const PATH_ED = 'ed.json'
@@ -172,6 +174,26 @@ async function fsaScrape(letters = LETTERS) {
   log('Done')
 }
 
+async function lduGenerate() {
+  log('Generating LDUs')
+  const letters = 'ABCEGHJKLMNPRSTVWXYZ'.split('')
+  const digits = '0123456789'.split('')
+  let ldus = []
+
+  for (const d1 of digits) {
+    for (const l of letters) {
+      for (const d2 of digits) {
+        ldus.push(d1 + l + d2)
+      }
+    }
+  }
+  ldus = shuffle(ldus)
+
+  log(`Writing JSON data to ${PATH_LDU}`)
+  await fs.writeFile(PATH_LDU, JSON.stringify(ldus, null, 2))
+  log('Done')
+}
+
 async function edFetch(ids = ED_IDS) {
   if (ids.length === 0) ids = ED_IDS
   const get = bent(ELECTIONS_ONTARIO_URL, 'json')
@@ -252,6 +274,7 @@ const [, , command, ...args] = process.argv
 let func
 if (command === 'fsa-fetch') func = fsaFetch
 else if (command === 'fsa-scrape') func = fsaScrape
+else if (command === 'ldu-generate') func = lduGenerate
 else if (command === 'ed-fetch') func = edFetch
 else if (command === 'mpp-fetch') func = mppFetch
 else if (command === 'ed-mpp-enrich') func = edMppEnrich
@@ -272,6 +295,7 @@ Commands:
 
 fsa-fetch [LETTER...]   Fetch Forward Sortation Area HTML from Wikipedia
 fsa-scrape [LETTER...]  Scrape FSA HTML to extract data
+ldu-generate            Generate a random-order list of Local Delivery Units
 ed-fetch [ID...]        Fetch Electoral District JSON from Elections Ontario
 mpp-fetch [ID...]       Fetch MPP HTML from Elections Ontario
 ed-mpp-enrich [ID...]   Enrich ED JSON with MPP data scraped from HTML files.
