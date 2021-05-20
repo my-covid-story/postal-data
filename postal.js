@@ -65,7 +65,126 @@ function fsaProvince(fsa) {
 }
 
 // FSA names to exclude.
-const NOT_FSA = ['Not assigned', 'Not in use', 'Reserved', 'Commercial Returns']
+const UNUSED_FSA_NAMES = ['Not assigned', 'Not in use', 'Reserved', 'Commercial Returns']
+
+// Ontario hotspot FSAs.
+// From https://covid-19.ontario.ca/ontarios-covid-19-vaccination-plan
+const HOTSPOT_FSAS = [
+  'L1S', // Durham Region Health Department
+  'L1T',
+  'L1V',
+  'L1X',
+  'L1Z',
+  'L9E', // Halton Region Public Health
+  'L8W', // City of Hamilton Public Health Services
+  'L9C',
+  'L2G', // Niagara Region Public Health
+  'K1T', // Ottawa Public Health
+  'K1V',
+  'K2V',
+  'L4T', // Peel Public Health
+  'L4W',
+  'L4X',
+  'L4Z',
+  'L5A',
+  'L5B',
+  'L5C',
+  'L5K',
+  'L5L',
+  'L5M',
+  'L5N',
+  'L5R',
+  'L5V',
+  'L5W',
+  'L6P',
+  'L6R',
+  'L6S',
+  'L6T',
+  'L6V',
+  'L6W',
+  'L6X',
+  'L6Y',
+  'L6Z',
+  'L7A',
+  'L7C',
+  'L3Z', // Simcoe-Muskoka District Health Unit
+  'N2C', // Region of Waterloo Public Health and Emergency Services
+  'N1K', // Wellington-Dufferin Guelph Public Health
+  'N8H', // Windsor-Essex County Health Unit
+  'N8X',
+  'N8Y',
+  'N9A',
+  'N9B',
+  'N9C',
+  'N9Y',
+  'L0J', // York Region Public Health
+  'L3S',
+  'L3T',
+  'L4B',
+  'L4E',
+  'L4H',
+  'L4J',
+  'L4K',
+  'L4L',
+  'L6A',
+  'L6B',
+  'L6C',
+  'L6E',
+  'M1B', // Toronto Public Health
+  'M1C',
+  'M1E',
+  'M1G',
+  'M1H',
+  'M1J',
+  'M1K',
+  'M1L',
+  'M1M',
+  'M1P',
+  'M1R',
+  'M1S',
+  'M1T',
+  'M1V',
+  'M1W',
+  'M1X',
+  'M2J',
+  'M2M',
+  'M2R',
+  'M3A',
+  'M3C',
+  'M3H',
+  'M3J',
+  'M3K',
+  'M3L',
+  'M3M',
+  'M3N',
+  'M4A',
+  'M4H',
+  'M4X',
+  'M5A',
+  'M5B',
+  'M5N',
+  'M5V',
+  'M6A',
+  'M6B',
+  'M6E',
+  'M6H',
+  'M6K',
+  'M6L',
+  'M6M',
+  'M6N',
+  'M8V',
+  'M9A',
+  'M9B',
+  'M9C',
+  'M9L',
+  'M9M',
+  'M9N',
+  'M9P',
+  'M9R',
+  'M9V',
+  'M9W',
+  'N5H', // Southwestern Public Health
+]
 
 // How many random LDUs to search for urban FSAs.
 const SEARCH_LDU_COUNT = 600
@@ -133,6 +252,7 @@ function fsaScrapeFrom(buffer) {
       const [fsa, name, ...rest] = dataLines($(d))
       const type = fsa.charAt(1) === '0' ? 'rural' : 'urban'
       const province = fsaProvince(fsa)
+      const hotspot = HOTSPOT_FSAS.includes(fsa)
 
       if (type === 'urban') {
         // For an urban FSA, the rest, if any, is just location detail, part or all of which may be parenthesized.
@@ -142,7 +262,7 @@ function fsaScrapeFrom(buffer) {
         if (captures) {
           detail = captures[1].trim()
         }
-        return { fsa, type, province, name, detail: detail || undefined }
+        return { fsa, type, province, hotspot, name, detail: detail || undefined }
       } else {
         // For a rural FSA, the rest lists its LDUs, one per line.
         // Each line contains the LDU and its name, separated by a colon and whitespace.
@@ -157,12 +277,12 @@ function fsaScrapeFrom(buffer) {
             name = name.substring(0, name.length - 1)
             retired = true
           }
-          return { ldu, name, retired }
+          return { ldu, retired, name }
         })
-        return { fsa, type, province, name, ldus }
+        return { fsa, type, province, hotspot, name, ldus }
       }
     })
-    .filter((f) => !NOT_FSA.includes(f.name))
+    .filter((f) => !UNUSED_FSA_NAMES.includes(f.name))
     .sort((a, b) => (a.fsa === b.fsa ? 0 : a.fsa > b.fsa ? 1 : -1))
 }
 
