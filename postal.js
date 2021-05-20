@@ -385,14 +385,27 @@ async function edMppEnrich(ids = []) {
     const { name, municipalities, population, areaSquareKm: area, mppUrl, mppName } = ed
     const url = `${ELECTIONS_ONTARIO_URL}/en/electoral-district/${id}`
     const names = mppName.split(' ')
-    const mppFirstName = names[0] !== 'Hon.' ? names[0] : names[1]
+
+    // Recognize this premier specifically by ED number.
+    const mppDesignation = id === 30 ? 'Premier' : names[0] === 'Hon.' ? 'Minister' : 'MPP'
+    const mppFirstName = mppDesignation === 'MPP' ? names[0] : names[1]
     const mppLastName = names[names.length - 1]
-    ed = { name, municipalities, population, area, url, mppUrl, mppName, mppFirstName, mppLastName }
+    ed = {
+      name,
+      municipalities,
+      population,
+      area,
+      url,
+      mppName,
+      mppDesignation,
+      mppFirstName,
+      mppLastName,
+    }
 
     const path = pathMppHtml(id)
     log(`Scraping MPP data from ${path}`)
     const buffer = await fs.readFile(path)
-    eds.push({ id, ...ed, ...mppScrapeFrom(buffer) })
+    eds.push({ id, ...ed, ...mppScrapeFrom(buffer), mppUrl })
   }
 
   log(`Writing JSON data to ${PATH_ED}`)
