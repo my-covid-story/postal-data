@@ -11,7 +11,8 @@
   "dependencies": {
     "array-shuffle": "^2.0.0",
     "bent": "^7.3.12",
-    "cheerio": "^1.0.0-rc.9"
+    "cheerio": "^1.0.0-rc.9",
+    "delay": "^5.0.0"
   },
   "devDependencies": {
     "eslint": "^7.26.0",

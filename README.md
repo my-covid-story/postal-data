@@ -20,18 +20,22 @@ npm install
 
 ```
 data/
-├── elections.on.ca/   ED and MPP data fetched from Elections Ontario
-│   ├── ed-raw.json    ED JSON data (ed-fetch)
-│   ├── mpp-001.html   One HTML file per ED, describing the MPP (mpp-fetch)
+├── elections.on.ca/     ED and MPP data fetched from Elections Ontario
+│   ├── ed-raw.json      Electoral District JSON data (ed-fetch)
+│   ├── fsa-ed-k0a.json  One JSON file per FSA, mapping to EDs (ed-mpp-search)
+│   ├── fsa-ed-k0b.json
+│   │   ...
+│   ├── fsa-ed-p9n.json
+│   ├── mpp-001.html     One HTML file per ED, describing the MPP (mpp-fetch)
 │   ├── mpp-002.html
 │   │   ...
 │   └── mpp-124.html
-├── wikipedia.org/     FSA HTML pages fetched from Wikipedia
-│   ├── fsa-a.html     One file per valid first letter (fsa-fetch)
+├── wikipedia.org/       FSA HTML pages fetched from Wikipedia
+│   ├── fsa-a.html       One file per valid first letter (fsa-fetch)
 │   ├── fsa-b.html
 │   │   ...
 │   └── fsa-y.html
-├── ed.json            ED JSON data enriched with MPP details (ed-mpp-enrich)
-├── fsa.json           FSA JSON data scraped from HTML pages (fsa-scrape)
-└── ldu.json           JSON list of all valid LDUs (ldu-generate)
+├── ed.json              ED JSON data enriched with MPP details (ed-mpp-enrich)
+├── fsa.json             FSA JSON data scraped from HTML pages (fsa-scrape)
+└── ldu.json             JSON list of all valid LDUs (ldu-generate)
 ```

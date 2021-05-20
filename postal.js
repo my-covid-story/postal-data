@@ -4,6 +4,7 @@ const https = require('https')
 const bent = require('bent')
 const cheerio = require('cheerio')
 const shuffle = require('array-shuffle')
+const delay = require('delay')
 
 // TLS connections to elections.on.ca fail with UNABLE_TO_VERIFY_LEAF_SIGNATURE.
 // Disabling certificate verification solves that, with a risk of man-in-the-middle attacks.
@@ -30,6 +31,7 @@ const PATH_EO = 'elections.on.ca'
 const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
 const PATH_ED = 'ed.json'
 const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.toString().padStart(3, '0')}.html`
+const pathFsaEd = (fsa) => `${PATH_EO}/fsa-ed-${fsa.toLowerCase()}.json`
 
 // First letter of FSA to province mapping.
 // Nunavut/Northwest Territories share a first letter, so a function is needed to disambiguate.
@@ -63,6 +65,9 @@ function fsaProvince(fsa) {
 
 // FSA names to exclude.
 const NOT_FSA = ['Not assigned', 'Not in use', 'Reserved', 'Commercial Returns']
+
+// How many random LDUs to search for urban FSAs.
+const SEARCH_LDU_COUNT = 600
 
 // Ontario Electoral IDs: 1..124.
 const ED_IDS = Array(124)
@@ -274,6 +279,61 @@ async function edMppEnrich(ids = ED_IDS) {
   log('Done')
 }
 
+async function fsaEdSearchFor(fsa, ldus) {
+  const get = bent(ELECTIONS_ONTARIO_URL, 'json')
+  let results = []
+
+  const path = pathFsaEd(fsa)
+  log(`Checking for existing data in ${path}`)
+  try {
+    results = JSON.parse(await fs.readFile(path, 'utf8'))
+    log(`${results.length} results found`)
+  } catch (err) {
+    // None found.
+  }
+
+  try {
+    for (const ldu of ldus) {
+      const postal = fsa + ldu
+      const existing = results.find((r) => r.postal === postal)
+      if (!existing) {
+        const url = `/api/electoral-district-search/en/postal-code/${postal}`
+        log(`Fetching ${url} from Elections Ontario`)
+        const result = await get(url)
+        results.push({ postal, result })
+
+        // Ensure we do not exceed the API limit of 4000 requests/hour.
+        await delay(900)
+      }
+    }
+    log(`Writing JSON data to ${path}`)
+  } catch (err) {
+    log(`Writing partial JSON data to ${path} on error`)
+    throw err
+  } finally {
+    await fs.writeFile(path, stringify(results))
+  }
+}
+
+async function fsaEdSearch(fsas = []) {
+  fsas = fsas.map((f) => f.toUpperCase())
+  log(`Loading FSA data from ${PATH_FSA}`)
+  const fsaData = JSON.parse(await fs.readFile(PATH_FSA, 'utf8')).filter(
+    (f) => f.province === 'ON' && (fsas.length === 0 || fsas.includes(f.fsa))
+  )
+
+  log(`Loading random LDUs from ${PATH_LDU}`)
+  const randomLdus = JSON.parse(await fs.readFile(PATH_LDU, 'utf8'))
+  randomLdus.length = SEARCH_LDU_COUNT
+
+  for (const { fsa, ldus } of fsaData) {
+    const count = ldus ? ldus.length : SEARCH_LDU_COUNT
+    log(`Searching FSA ${fsa} with ${count} ${ldus ? 'known rural' : 'random'} LDUs`)
+    await fsaEdSearchFor(fsa, ldus ? ldus.map((l) => l.ldu) : randomLdus)
+  }
+  log('Done')
+}
+
 const [, , command, ...args] = process.argv
 let func
 if (command === 'fsa-fetch') func = fsaFetch
@@ -282,6 +342,7 @@ else if (command === 'ldu-generate') func = lduGenerate
 else if (command === 'ed-fetch') func = edFetch
 else if (command === 'mpp-fetch') func = mppFetch
 else if (command === 'ed-mpp-enrich') func = edMppEnrich
+else if (command === 'fsa-ed-search') func = fsaEdSearch
 
 if (func) {
   prepare()
@@ -302,6 +363,7 @@ fsa-scrape [LETTER...]  Scrape FSA HTML to extract data
 ldu-generate            Generate a random-order list of Local Delivery Units
 ed-fetch [ID...]        Fetch Electoral District JSON from Elections Ontario
 mpp-fetch [ID...]       Fetch MPP HTML from Elections Ontario
-ed-mpp-enrich [ID...]   Enrich ED JSON with MPP data scraped from HTML files.
+ed-mpp-enrich [ID...]   Enrich ED JSON with MPP data scraped from HTML files
+fsa-ed-search [FSA...]  Search for FSA-ED mappings from Elections Ontario
 `)
 process.exit(1)
