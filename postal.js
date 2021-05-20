@@ -69,6 +69,10 @@ const ED_IDS = Array(124)
   .fill()
   .map((_, i) => i + 1)
 
+function stringify(obj) {
+  return JSON.stringify(obj, null, 2) + '\n'
+}
+
 async function prepare() {
   process.chdir(__dirname)
   await fs.mkdir('data', { recursive: true })
@@ -78,7 +82,7 @@ async function prepare() {
 async function fsaFetch(letters = LETTERS) {
   if (letters.length === 0) letters = LETTERS
   const get = bent('https://en.wikipedia.org', 'buffer')
-  await fs.mkdir('wikipedia', { recursive: true })
+  await fs.mkdir(PATH_WIKIPEDIA, { recursive: true })
 
   for (const letter of letters) {
     const url = `/wiki/List_of_postal_codes_of_Canada:_${letter}`
@@ -170,7 +174,7 @@ async function fsaScrape(letters = LETTERS) {
   }
 
   log(`Writing JSON data to ${PATH_FSA}`)
-  await fs.writeFile(PATH_FSA, JSON.stringify(fsas, null, 2))
+  await fs.writeFile(PATH_FSA, stringify(fsas))
   log('Done')
 }
 
@@ -190,14 +194,14 @@ async function lduGenerate() {
   ldus = shuffle(ldus)
 
   log(`Writing JSON data to ${PATH_LDU}`)
-  await fs.writeFile(PATH_LDU, JSON.stringify(ldus, null, 2))
+  await fs.writeFile(PATH_LDU, stringify(ldus))
   log('Done')
 }
 
 async function edFetch(ids = ED_IDS) {
   if (ids.length === 0) ids = ED_IDS
   const get = bent(ELECTIONS_ONTARIO_URL, 'json')
-  await fs.mkdir('elections.on.ca', { recursive: true })
+  await fs.mkdir(PATH_EO, { recursive: true })
 
   const eds = []
   for (const id of ids) {
@@ -207,7 +211,7 @@ async function edFetch(ids = ED_IDS) {
   }
 
   log(`Writing JSON data to ${PATH_ED_RAW}`)
-  await fs.writeFile(PATH_ED_RAW, JSON.stringify(eds, null, 2))
+  await fs.writeFile(PATH_ED_RAW, stringify(eds))
   log('Done')
 }
 
@@ -266,7 +270,7 @@ async function edMppEnrich(ids = ED_IDS) {
   }
 
   log(`Writing JSON data to ${PATH_ED}`)
-  await fs.writeFile(PATH_ED, JSON.stringify(eds, null, 2))
+  await fs.writeFile(PATH_ED, stringify(eds))
   log('Done')
 }
 
