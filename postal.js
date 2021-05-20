@@ -5,6 +5,7 @@ const bent = require('bent')
 const cheerio = require('cheerio')
 const shuffle = require('array-shuffle')
 const delay = require('delay')
+const replace = require('replace-buffer')
 
 // TLS connections to elections.on.ca fail with UNABLE_TO_VERIFY_LEAF_SIGNATURE.
 // Disabling certificate verification solves that, with a risk of man-in-the-middle attacks.
@@ -84,8 +85,8 @@ async function prepare() {
   process.chdir('data')
 }
 
-async function fsaFetch(letters = LETTERS) {
-  if (letters.length === 0) letters = LETTERS
+async function fsaFetch(letters = []) {
+  letters = letters.length === 0 ? LETTERS : letters.map((l) => l.toUpperCase())
   const get = bent('https://en.wikipedia.org', 'buffer')
   await fs.mkdir(PATH_WIKIPEDIA, { recursive: true })
 
@@ -165,8 +166,8 @@ function fsaScrapeFrom(buffer) {
     .sort((a, b) => (a.fsa === b.fsa ? 0 : a.fsa > b.fsa ? 1 : -1))
 }
 
-async function fsaScrape(letters = LETTERS) {
-  if (letters.length === 0) letters = LETTERS
+async function fsaScrape(letters = []) {
+  letters = letters.length === 0 ? LETTERS : letters.map((l) => l.toUpperCase())
   const fsas = []
 
   for (const letter of letters) {
@@ -203,7 +204,7 @@ async function lduGenerate() {
   log('Done')
 }
 
-async function edFetch(ids = ED_IDS) {
+async function edFetch(ids = []) {
   if (ids.length === 0) ids = ED_IDS
   const get = bent(ELECTIONS_ONTARIO_URL, 'json')
   await fs.mkdir(PATH_EO, { recursive: true })
@@ -220,7 +221,7 @@ async function edFetch(ids = ED_IDS) {
   log('Done')
 }
 
-async function mppFetch(ids = ED_IDS) {
+async function mppFetch(ids = []) {
   if (ids.length === 0) ids = ED_IDS
   const get = bent('buffer')
   log(`Loading ED data from ${PATH_ED_RAW}`)
@@ -233,7 +234,7 @@ async function mppFetch(ids = ED_IDS) {
     const buffer = await get(url)
     const path = pathMppHtml(id)
     log(`Writing HTML data to ${path}`)
-    await fs.writeFile(path, buffer)
+    await fs.writeFile(path, replace(buffer, '\r\n', '\n'))
   }
   log('Done')
 }
@@ -252,7 +253,7 @@ function mppScrapeFrom(buffer) {
   return { mppParty, mppEmail: emails[0], mppPhone: phones[0] }
 }
 
-async function edMppEnrich(ids = ED_IDS) {
+async function edMppEnrich(ids = []) {
   if (ids.length === 0) ids = ED_IDS
   log(`Loading ED data from ${PATH_ED_RAW}`)
   const raw = JSON.parse(await fs.readFile(PATH_ED_RAW, 'utf8'))

@@ -12,7 +12,8 @@
     "array-shuffle": "^2.0.0",
     "bent": "^7.3.12",
     "cheerio": "^1.0.0-rc.9",
-    "delay": "^5.0.0"
+    "delay": "^5.0.0",
+    "replace-buffer": "^1.2.1"
   },
   "devDependencies": {
     "eslint": "^7.26.0",
