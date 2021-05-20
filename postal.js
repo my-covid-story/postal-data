@@ -433,11 +433,24 @@ async function fsaEdSearchFor(fsa, ldus) {
       if (!existing) {
         const url = `/api/electoral-district-search/en/postal-code/${postal}`
         log(`Fetching ${url} from Elections Ontario`)
-        const result = await get(url)
-        results.push({ postal, result })
 
-        // Ensure we do not exceed the API limit of 4000 requests/hour.
-        await delay(900)
+        // Connections to Elections Ontario's API fail sometimes, so allow retries.
+        for (let retry = 0; ; retry++) {
+          try {
+            // Ensure we do not exceed the API limit of 4000 requests/hour.
+            await delay(900)
+
+            const result = await get(url)
+            results.push({ postal, result })
+            break
+          } catch (err) {
+            if (retry < 3) {
+              log('Request failed, retrying')
+            } else {
+              throw err
+            }
+          }
+        }
       }
     }
     log(`Writing JSON data to ${path}`)
