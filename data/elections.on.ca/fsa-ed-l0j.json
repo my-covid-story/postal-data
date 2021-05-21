@@ -1,0 +1,1847 @@
+[
+  {
+    "postal": "L0J0A1",
+    "result": []
+  },
+  {
+    "postal": "L0J1A0",
+    "result": []
+  },
+  {
+    "postal": "L0J1B0",
+    "result": []
+  },
+  {
+    "postal": "L0J1C0",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102975
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "10TH",
+        "streetDirectionId": null,
+        "streetTypeId": "CONC",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "10TH CONC, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102975
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "10TH",
+        "streetDirectionId": null,
+        "streetTypeId": "CONC",
+        "placeName": "SCHOMBERG",
+        "streetNameDisplayText": "10TH CONC, SCHOMBERG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102976
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "10TH CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "10TH CONCESSION RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102982,
+          10103007,
+          10102981,
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "27",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "27 HWY, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102976
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "27",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "NOBLETON",
+        "streetNameDisplayText": "27 HWY, NOBLETON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          },
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980,
+          10111391
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "50",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "50 HWY, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "7",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "7 HWY, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 23,
+            "name": "Dufferin—Caledon"
+          }
+        ],
+        "pollDivisionIds": [
+          10137809
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ALBION VAUGHAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BOLTON",
+        "streetNameDisplayText": "ALBION VAUGHAN RD, BOLTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102975,
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ALBION VAUGHAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ALBION VAUGHAN RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ANGLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ANGLEWOOD CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ART",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ART DR, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "AUTUMN GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "AUTUMN GROVE CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "AUTUMN WIND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "AUTUMN WIND CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "AVA",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "AVA PL, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "BELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "BELL CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "BELSITE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "BELSITE CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "BINDERTWINE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "BINDERTWINE BLVD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "BRIAROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "BRIAROSE AVE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CAMLAREN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CAMLAREN CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CAPNER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CAPNER CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CARDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CARDISH ST, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CEDAR GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CEDAR GLEN CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CEDARVALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CEDARVALLEY CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CHARLES COOPER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CHARLES COOPER CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          },
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10102975,
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CLAIREWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CLAIREWOOD CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CLAIREWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WOODBRIDGE",
+        "streetNameDisplayText": "CLAIREWOOD CRT, WOODBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "COLD CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "COLD CREEK RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "COLDSPRING",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "COLDSPRING RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "COLONY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "COLONY CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "CONCESSION 10",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "CONCESSION 10 RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "COOPERAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "COOPERAGE RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "DALEVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "DALEVIEW CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "DONBAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "DONBAY DR, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "DONHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "DONHILL CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ENGLISH DAISY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ENGLISH DAISY CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "FOREST HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "FOREST HEIGHTS BLVD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "GRANARY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "GRANARY RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "GREEN VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "GREEN VALLEY CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HAZELRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HAZELRIDGE CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HEDGEROW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HEDGEROW CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HEDGEROW",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HEDGEROW LANE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HIGH VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HIGH VALLEY CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          },
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981,
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HIGHLAND CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HIGHLAND CREEK CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HIGHWAY 27",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HIGHWAY 27, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HOWLAND MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HOWLAND MILL RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          },
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10111382,
+          10102981,
+          10102980,
+          10111391
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "HUNTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "HUNTINGTON RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980,
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ISLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ISLINGTON AVE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ISLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ISLINGTON RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "JOHN KLINE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "JOHN KLINE LANE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "JOHN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "JOHN ST, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KELLAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KELLAM ST, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KING VAUGHAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KING VAUGHAN RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980,
+          10102982
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KING-VAUGHAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KING-VAUGHAN RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981,
+          10102982
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KIPLING",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KIPLING AVE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981,
+          10102982,
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KIRBY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KIRBY RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KLEIN'S",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KLEIN'S CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "KLEIN'S",
+        "streetDirectionId": null,
+        "streetTypeId": "RIDGE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "KLEIN'S RIDGE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "LESTER B PEARSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "LESTER B PEARSON ST, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "MAIN ST, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "MAJOR MACKENZIE",
+        "streetDirectionId": "W",
+        "streetTypeId": "DR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "MAJOR MACKENZIE DR W, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "MILL RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "MIZUNO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "MIZUNO CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "NAPIER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "NAPIER ST, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981,
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "NASHVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "NASHVILLE RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "NIGHTFALL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "NIGHTFALL CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "NORTHFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "NORTHFIELD CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "OLD HUMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "OLD HUMBER CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ORICO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ORICO CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "PARK RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "PARK RIDGE DR, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "PAULA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "PAULA CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "PENNON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "PENNON RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "PUTTING GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "PUTTING GREEN CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RAINBOW'S",
+        "streetDirectionId": null,
+        "streetTypeId": "END",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RAINBOW'S END, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RANCH TRAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RANCH TRAIL RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RAVENDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RAVENDALE CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RICHARD LOVAT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RICHARD LOVAT CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RICHLER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RICHLER AVE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ROE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ROE RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "ROSEBUD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "ROSEBUD CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RUSHWORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RUSHWORTH CRES, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "RUTHERFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "RUTHERFORD RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "SEVILLA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "SEVILLA BLVD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "SPRINGRAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "SPRINGRAIN CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "STEGMAN'S MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "STEGMAN'S MILL RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "STEVENSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "STEVENSON AVE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "SUMMERBREEZE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "SUMMERBREEZE CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "TESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "TESTON RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "THERESA",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "THERESA CIR, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 113,
+            "name": "Vaughan—Woodbridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10111383
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "TIMBERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "TIMBERWOOD DR, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "TINSMITH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "TINSMITH CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980,
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "TREELAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "TREELAWN BLVD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "VALLEY RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "VALLEYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "VALLEYVIEW CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980,
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "WEAVER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "WEAVER CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "WESTRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "WESTRIDGE DR, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102980
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "WHISPER",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "WHISPER LANE, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "WINDRUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "WINDRUSH RD, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "WINTERLUDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "WINTERLUDE CRT, KLEINBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 45,
+            "name": "King—Vaughan"
+          }
+        ],
+        "pollDivisionIds": [
+          10102981
+        ],
+        "postalCode": "L0J1C0",
+        "streetName": "WISHING WELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KLEINBURG",
+        "streetNameDisplayText": "WISHING WELL CRT, KLEINBURG"
+      }
+    ]
+  },
+  {
+    "postal": "L0J1E0",
+    "result": []
+  },
+  {
+    "postal": "L0J1K0",
+    "result": []
+  }
+]
