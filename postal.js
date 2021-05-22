@@ -23,16 +23,18 @@ function log(...args) {
 const ELECTIONS_ONTARIO_URL = 'https://voterinformationservice.elections.on.ca'
 
 // Data file paths.
-const PATH_WIKIPEDIA = 'wikipedia.org'
 const PATH_FSA = 'fsa.json'
+const PATH_LDU = 'ldu.json'
+const PATH_ED = 'ed.json'
+const PATH_FSA_ED = `fsa-ed.json`
+
+const PATH_WIKIPEDIA = 'wikipedia.org'
 const pathFsaHtml = (letter) => `${PATH_WIKIPEDIA}/fsa-${letter.toLowerCase()}.html`
 
-const PATH_LDU = 'ldu.json'
 const PATH_EO = 'elections.on.ca'
 const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
-const PATH_ED = 'ed.json'
 const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.toString().padStart(3, '0')}.html`
-const pathFsaEd = (fsa) => `${PATH_EO}/fsa-ed-${fsa.toLowerCase()}.json`
+const pathFsaEdSearch = (fsa) => `${PATH_EO}/fsa-ed-${fsa.toLowerCase()}.json`
 
 // First letter of FSA to province mapping.
 // Nunavut/Northwest Territories share a first letter, so a function is needed to disambiguate.
@@ -413,11 +415,19 @@ async function edMppEnrich(ids = []) {
   log('Done')
 }
 
+async function readFsaData(fsas) {
+  fsas = fsas.map((f) => f.toUpperCase())
+  log(`Loading FSA data from ${PATH_FSA}`)
+  return JSON.parse(await fs.readFile(PATH_FSA, 'utf8')).filter(
+    (f) => f.province === 'ON' && (fsas.length === 0 || fsas.includes(f.fsa))
+  )
+}
+
 async function fsaEdSearchFor(fsa, ldus) {
   const get = bent(ELECTIONS_ONTARIO_URL, 'json')
   let results = []
 
-  const path = pathFsaEd(fsa)
+  const path = pathFsaEdSearch(fsa)
   log(`Checking for existing data in ${path}`)
   try {
     results = JSON.parse(await fs.readFile(path, 'utf8'))
@@ -463,11 +473,7 @@ async function fsaEdSearchFor(fsa, ldus) {
 }
 
 async function fsaEdSearch(fsas = []) {
-  fsas = fsas.map((f) => f.toUpperCase())
-  log(`Loading FSA data from ${PATH_FSA}`)
-  const fsaData = JSON.parse(await fs.readFile(PATH_FSA, 'utf8')).filter(
-    (f) => f.province === 'ON' && (fsas.length === 0 || fsas.includes(f.fsa))
-  )
+  const fsaData = await readFsaData(fsas)
 
   log(`Loading random LDUs from ${PATH_LDU}`)
   const randomLdus = JSON.parse(await fs.readFile(PATH_LDU, 'utf8'))
@@ -481,6 +487,56 @@ async function fsaEdSearch(fsas = []) {
   log('Done')
 }
 
+function fsaEdAggregateFor(results) {
+  const postalCount = results.length
+  results = results.filter((r) => r.result.length > 0)
+  const foundPostalCount = results.length
+  const edCounts = new Map()
+  let edCount = 0
+
+  // Count occurences of EDs in the results for all the postal codes.
+  results.forEach(({ postal, result }) => {
+    console.error(`${postal}: ${result.length}`)
+    result.forEach(({ electoralDistricts }) => {
+      electoralDistricts.forEach(({ id }) => {
+        const count = edCounts.get(id) || 0
+        edCounts.set(id, count + 1)
+        edCount++
+      })
+    })
+  })
+
+  const eds = Array.from(edCounts, ([id, count]) => ({
+    id,
+    count,
+    percent: Math.round((100 * count) / edCount),
+  })).sort((a, b) => b.count - a.count)
+  return { postalCount, foundPostalCount, edCount, eds }
+}
+
+async function fsaEdAggregate(fsas = []) {
+  const fsaData = await readFsaData(fsas)
+  const aggregates = []
+
+  for (const { fsa, type } of fsaData) {
+    const path = pathFsaEdSearch(fsa)
+    log(`Aggregating ED search results for FSA ${fsa} from ${path}`)
+    try {
+      const results = JSON.parse(await fs.readFile(path, 'utf8'))
+      aggregates.push({ fsa, type, ...fsaEdAggregateFor(results) })
+    } catch (err) {
+      if (err.code !== 'ENOENT') {
+        throw err
+      }
+      log('File not found')
+    }
+  }
+
+  log(`Writing JSON data to ${PATH_FSA_ED}`)
+  await fs.writeFile(PATH_FSA_ED, stringify(aggregates))
+  log('Done')
+}
+
 const [, , command, ...args] = process.argv
 let func
 if (command === 'fsa-fetch') func = fsaFetch
@@ -490,6 +546,7 @@ else if (command === 'ed-fetch') func = edFetch
 else if (command === 'mpp-fetch') func = mppFetch
 else if (command === 'ed-mpp-enrich') func = edMppEnrich
 else if (command === 'fsa-ed-search') func = fsaEdSearch
+else if (command === 'fsa-ed-aggregate') func = fsaEdAggregate
 
 if (func) {
   prepare()
@@ -505,12 +562,13 @@ console.error(`Usage: postal.js COMMAND [ARGS]
 
 Commands:
 
-fsa-fetch [LETTER...]   Fetch Forward Sortation Area HTML from Wikipedia
-fsa-scrape [LETTER...]  Scrape FSA HTML to extract data
-ldu-generate            Generate a random-order list of Local Delivery Units
-ed-fetch [ID...]        Fetch Electoral District JSON from Elections Ontario
-mpp-fetch [ID...]       Fetch MPP HTML from Elections Ontario
-ed-mpp-enrich [ID...]   Enrich ED JSON with MPP data scraped from HTML files
-fsa-ed-search [FSA...]  Search for FSA-ED mappings from Elections Ontario
+fsa-fetch [LETTER...]      Fetch Forward Sortation Area HTML from Wikipedia
+fsa-scrape [LETTER...]     Scrape FSA HTML to extract data
+ldu-generate               Generate a random-order list of Local Delivery Units
+ed-fetch [ID...]           Fetch Electoral District JSON from Elections Ontario
+mpp-fetch [ID...]          Fetch MPP HTML from Elections Ontario
+ed-mpp-enrich [ID...]      Enrich ED JSON with MPP data scraped from HTML files
+fsa-ed-search [FSA...]     Search for FSA-ED mappings from Elections Ontario
+fsa-ed-aggregate [FSA...]  Aggregate FSA-ED search results
 `)
 process.exit(1)

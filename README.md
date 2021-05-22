@@ -37,5 +37,6 @@ data/
 │   └── fsa-y.html
 ├── ed.json              ED JSON data enriched with MPP details (ed-mpp-enrich)
 ├── fsa.json             FSA JSON data scraped from HTML pages (fsa-scrape)
+├── fsa-ed.json          Aggregated FSA-ED mappings (ed-mpp-aggregate)
 └── ldu.json             JSON list of all valid LDUs (ldu-generate)
 ```
