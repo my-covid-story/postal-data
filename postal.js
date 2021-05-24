@@ -496,7 +496,6 @@ function fsaEdAggregateFor(results) {
 
   // Count occurences of EDs in the results for all the postal codes.
   results.forEach(({ postal, result }) => {
-    console.error(`${postal}: ${result.length}`)
     result.forEach(({ electoralDistricts }) => {
       electoralDistricts.forEach(({ id }) => {
         const count = edCounts.get(id) || 0
