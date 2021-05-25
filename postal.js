@@ -26,7 +26,8 @@ const ELECTIONS_ONTARIO_URL = 'https://voterinformationservice.elections.on.ca'
 const PATH_FSA = 'fsa.json'
 const PATH_LDU = 'ldu.json'
 const PATH_ED = 'ed.json'
-const PATH_FSA_ED = `fsa-ed.json`
+const PATH_FSA_ED = 'fsa-ed.json'
+const PATH_EXPORT = 'postal-data.json'
 
 const PATH_WIKIPEDIA = 'wikipedia.org'
 const pathFsaHtml = (letter) => `${PATH_WIKIPEDIA}/fsa-${letter.toLowerCase()}.html`
@@ -539,6 +540,48 @@ async function fsaEdAggregate(fsas = []) {
   log('Done')
 }
 
+async function dataExport() {
+  log(`Exporting FSA data from from ${PATH_FSA}`)
+  const fsas = JSON.parse(await fs.readFile(PATH_FSA, 'utf8'))
+  const postalCodes = fsas.map(({ fsa, province, type, hotspot, name }) => {
+    return { code: fsa, province, type, hotspot, name }
+  })
+
+  log(`Exporting ED data from from ${PATH_ED}`)
+  const eds = JSON.parse(await fs.readFile(PATH_ED, 'utf8'))
+  const ridings = eds.map((ed) => {
+    return {
+      province: ed.province,
+      id: ed.id,
+      name: ed.name,
+      population: ed.population,
+      area: ed.area,
+      url: ed.url,
+      mppName: ed.mppName,
+      mppDesignation: ed.mppDesignation,
+      mppFirstName: ed.mppFirstName,
+      mppLastName: ed.mppLastName,
+      mppEmail: ed.mppEmail,
+      mppPhone: ed.mppPhone,
+      mppParty: ed.mppParty,
+      mppUrl: ed.mppUrl,
+    }
+  })
+
+  log(`Exporting FSA-ED mappings from from ${PATH_FSA_ED}`)
+  const aggregates = JSON.parse(await fs.readFile(PATH_FSA_ED, 'utf8'))
+  const ridingsForPostalCodes = []
+  aggregates.forEach(({ fsa, province, eds }) => {
+    eds.forEach(({ id, count }) => {
+      ridingsForPostalCodes.push({ postal: fsa, province, ridingId: id, weight: count })
+    })
+  })
+
+  log(`Writing JSON data to ${PATH_EXPORT}`)
+  await fs.writeFile(PATH_EXPORT, stringify({ postalCodes, ridings, ridingsForPostalCodes }))
+  log('Done')
+}
+
 const [, , command, ...args] = process.argv
 let func
 if (command === 'fsa-fetch') func = fsaFetch
@@ -549,6 +592,7 @@ else if (command === 'mpp-fetch') func = mppFetch
 else if (command === 'ed-mpp-enrich') func = edMppEnrich
 else if (command === 'fsa-ed-search') func = fsaEdSearch
 else if (command === 'fsa-ed-aggregate') func = fsaEdAggregate
+else if (command === 'data-export') func = dataExport
 
 if (func) {
   prepare()
@@ -572,5 +616,6 @@ mpp-fetch [ID...]          Fetch MPP HTML from Elections Ontario
 ed-mpp-enrich [ID...]      Enrich ED JSON with MPP data scraped from HTML files
 fsa-ed-search [FSA...]     Search for FSA-ED mappings from Elections Ontario
 fsa-ed-aggregate [FSA...]  Aggregate FSA-ED search results
+data-export                Export all data to seed MyCovidStory database
 `)
 process.exit(1)
