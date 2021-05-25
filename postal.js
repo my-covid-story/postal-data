@@ -33,7 +33,7 @@ const pathFsaHtml = (letter) => `${PATH_WIKIPEDIA}/fsa-${letter.toLowerCase()}.h
 
 const PATH_EO = 'elections.on.ca'
 const PATH_ED_RAW = `${PATH_EO}/ed-raw.json`
-const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.toString().padStart(3, '0')}.html`
+const pathMppHtml = (id) => `${PATH_EO}/mpp-${id.padStart(3, '0')}.html`
 const pathFsaEdSearch = (fsa) => `${PATH_EO}/fsa-ed-${fsa.toLowerCase()}.json`
 
 // First letter of FSA to province mapping.
@@ -191,10 +191,11 @@ const HOTSPOT_FSAS = [
 // How many random LDUs to search for urban FSAs.
 const SEARCH_LDU_COUNT = 600
 
-// Ontario Electoral IDs: 1..124.
+// Ontario Electoral District IDs: 1..124.
+// Elections Ontario uses numbers, but we will use strings for compatibility with other ID forms.
 const ED_IDS = Array(124)
   .fill()
-  .map((_, i) => i + 1)
+  .map((_, i) => String(i + 1))
 
 function stringify(obj) {
   return JSON.stringify(obj, null, 2) + '\n'
@@ -379,6 +380,7 @@ async function edMppEnrich(ids = []) {
   if (ids.length === 0) ids = ED_IDS
   log(`Loading ED data from ${PATH_ED_RAW}`)
   const raw = JSON.parse(await fs.readFile(PATH_ED_RAW, 'utf8'))
+  const province = 'ON'
   const eds = []
 
   for (const id of ids) {
@@ -389,7 +391,7 @@ async function edMppEnrich(ids = []) {
     const names = mppName.split(' ')
 
     // Recognize this premier specifically by ED number.
-    const mppDesignation = id === 30 ? 'Premier' : names[0] === 'Hon.' ? 'Minister' : 'MPP'
+    const mppDesignation = id === '30' ? 'Premier' : names[0] === 'Hon.' ? 'Minister' : 'MPP'
     const mppFirstName = mppDesignation === 'MPP' ? names[0] : names[1]
     const mppLastName = names[names.length - 1]
     ed = {
@@ -407,7 +409,7 @@ async function edMppEnrich(ids = []) {
     const path = pathMppHtml(id)
     log(`Scraping MPP data from ${path}`)
     const buffer = await fs.readFile(path)
-    eds.push({ id, ...ed, ...mppScrapeFrom(buffer), mppUrl })
+    eds.push({ province, id, ...ed, ...mppScrapeFrom(buffer), mppUrl })
   }
 
   log(`Writing JSON data to ${PATH_ED}`)
@@ -497,7 +499,8 @@ function fsaEdAggregateFor(results) {
   // Count occurences of EDs in the results for all the postal codes.
   results.forEach(({ postal, result }) => {
     result.forEach(({ electoralDistricts }) => {
-      electoralDistricts.forEach(({ id }) => {
+      electoralDistricts.forEach((ed) => {
+        const id = ed.id.toString()
         const count = edCounts.get(id) || 0
         edCounts.set(id, count + 1)
         edCount++
@@ -517,12 +520,12 @@ async function fsaEdAggregate(fsas = []) {
   const fsaData = await readFsaData(fsas)
   const aggregates = []
 
-  for (const { fsa, type } of fsaData) {
+  for (const { fsa, province, type } of fsaData) {
     const path = pathFsaEdSearch(fsa)
     log(`Aggregating ED search results for FSA ${fsa} from ${path}`)
     try {
       const results = JSON.parse(await fs.readFile(path, 'utf8'))
-      aggregates.push({ fsa, type, ...fsaEdAggregateFor(results) })
+      aggregates.push({ fsa, province, type, ...fsaEdAggregateFor(results) })
     } catch (err) {
       if (err.code !== 'ENOENT') {
         throw err
