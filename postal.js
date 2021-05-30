@@ -224,12 +224,17 @@ async function fsaFetch(letters = []) {
   log('Done')
 }
 
-// Truncate at <hr>, then split lines on <br> (unless immediately preceded by -) and/or \n.
+// Truncate at <hr>, then split lines on <br> (unless immediately preceded by - or 	–) and/or \n.
 // Some FSAs descriptions are split by <hr> and the meaining is not apparent, e.g. A1B.
 // Some hyphenated place-names are incorrectly split with <br>, e.g. G3A.
 // Trim whitespace, remove footnotes, and filter out any blank lines.
 function dataLines(data) {
-  const html = data.html().split('<hr>')[0].replace(/-<br>/g, '-').replace(/<br>/g, '\n')
+  const html = data
+    .html()
+    .split('<hr>')[0]
+    .replace(/-<br>/g, '-')
+    .replace(/\u2013<br>/g, '\u2013')
+    .replace(/<br>/g, '\n')
   return cheerio
     .load(html)
     .text()
