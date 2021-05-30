@@ -6729,5 +6729,4312 @@
   {
     "postal": "K1N0W6",
     "result": []
+  },
+  {
+    "postal": "K1N4C5",
+    "result": []
+  },
+  {
+    "postal": "K1N7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708,
+          10140710
+        ],
+        "postalCode": "K1N7E4",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1R9",
+    "result": []
+  },
+  {
+    "postal": "K1N2P0",
+    "result": []
+  },
+  {
+    "postal": "K1N5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N5S4",
+        "streetName": "CLARENCE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CLARENCE ST E, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K8",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K8",
+        "streetName": "ST. PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST. PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N8K4",
+        "streetName": "LOWER CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LOWER CHARLOTTE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N7C1",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7K9",
+    "result": []
+  },
+  {
+    "postal": "K1N5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5J1",
+        "streetName": "GUIGUES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GUIGUES AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4P9",
+    "result": []
+  },
+  {
+    "postal": "K1N0N2",
+    "result": []
+  },
+  {
+    "postal": "K1N2G6",
+    "result": []
+  },
+  {
+    "postal": "K1N6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6P4",
+        "streetName": "LAURIER",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LAURIER AVE E, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3J0",
+    "result": []
+  },
+  {
+    "postal": "K1N8X4",
+    "result": []
+  },
+  {
+    "postal": "K1N1Y3",
+    "result": []
+  },
+  {
+    "postal": "K1N1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N1A8",
+        "streetName": "WIGGINS",
+        "streetDirectionId": null,
+        "streetTypeId": "PVT",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WIGGINS PVT, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N6Y5",
+        "streetName": "MANN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MANN AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0J6",
+    "result": []
+  },
+  {
+    "postal": "K1N2C9",
+    "result": []
+  },
+  {
+    "postal": "K1N8J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8J6",
+        "streetName": "RANGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RANGE RD, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8T4",
+    "result": []
+  },
+  {
+    "postal": "K1N1P7",
+    "result": []
+  },
+  {
+    "postal": "K1N9V9",
+    "result": []
+  },
+  {
+    "postal": "K1N0M1",
+    "result": []
+  },
+  {
+    "postal": "K1N6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6K5",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "STEWART ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2T5",
+    "result": []
+  },
+  {
+    "postal": "K1N7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N7E9",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5K5",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5K5",
+        "streetName": "ST. PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST. PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3R5",
+    "result": []
+  },
+  {
+    "postal": "K1N5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5B1",
+        "streetName": "BOLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BOLTON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2P1",
+    "result": []
+  },
+  {
+    "postal": "K1N7L0",
+    "result": []
+  },
+  {
+    "postal": "K1N3L6",
+    "result": []
+  },
+  {
+    "postal": "K1N2A4",
+    "result": []
+  },
+  {
+    "postal": "K1N8S0",
+    "result": []
+  },
+  {
+    "postal": "K1N3L5",
+    "result": []
+  },
+  {
+    "postal": "K1N2R5",
+    "result": []
+  },
+  {
+    "postal": "K1N9T6",
+    "result": []
+  },
+  {
+    "postal": "K1N8Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N8Z2",
+        "streetName": "FRIEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "FRIEL ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0E9",
+    "result": []
+  },
+  {
+    "postal": "K1N8C0",
+    "result": []
+  },
+  {
+    "postal": "K1N3K7",
+    "result": []
+  },
+  {
+    "postal": "K1N2H3",
+    "result": []
+  },
+  {
+    "postal": "K1N2Y6",
+    "result": []
+  },
+  {
+    "postal": "K1N7M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N7M2",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "KING EDWARD AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N6E2",
+        "streetName": "DALY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALY AVE, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N6E2",
+        "streetName": "WALLER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WALLER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3R0",
+    "result": []
+  },
+  {
+    "postal": "K1N4J7",
+    "result": []
+  },
+  {
+    "postal": "K1N6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140712
+        ],
+        "postalCode": "K1N6N8",
+        "streetName": "LAURIER",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LAURIER AVE E, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140712
+        ],
+        "postalCode": "K1N6N8",
+        "streetName": "WILBROD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILBROD ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0J7",
+    "result": []
+  },
+  {
+    "postal": "K1N7P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7P2",
+        "streetName": "HENDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "HENDERSON AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3T8",
+    "result": []
+  },
+  {
+    "postal": "K1N3S7",
+    "result": []
+  },
+  {
+    "postal": "K1N2S7",
+    "result": []
+  },
+  {
+    "postal": "K1N1S4",
+    "result": []
+  },
+  {
+    "postal": "K1N1L8",
+    "result": []
+  },
+  {
+    "postal": "K1N8E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8E9",
+        "streetName": "MARLBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MARLBOROUGH AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0T0",
+    "result": []
+  },
+  {
+    "postal": "K1N3G4",
+    "result": []
+  },
+  {
+    "postal": "K1N0V6",
+    "result": []
+  },
+  {
+    "postal": "K1N4W1",
+    "result": []
+  },
+  {
+    "postal": "K1N9G9",
+    "result": []
+  },
+  {
+    "postal": "K1N5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5W4",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GEORGE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N7M8",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "KING EDWARD AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2C2",
+    "result": []
+  },
+  {
+    "postal": "K1N4Y2",
+    "result": []
+  },
+  {
+    "postal": "K1N9X9",
+    "result": []
+  },
+  {
+    "postal": "K1N3T0",
+    "result": []
+  },
+  {
+    "postal": "K1N4T8",
+    "result": []
+  },
+  {
+    "postal": "K1N9C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9C4",
+        "streetName": "WALLER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WALLER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8P2",
+    "result": []
+  },
+  {
+    "postal": "K1N0Y8",
+    "result": []
+  },
+  {
+    "postal": "K1N1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N1G8",
+        "streetName": "SUSSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SUSSEX DR, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2T6",
+    "result": []
+  },
+  {
+    "postal": "K1N1N7",
+    "result": []
+  },
+  {
+    "postal": "K1N0L6",
+    "result": []
+  },
+  {
+    "postal": "K1N9V4",
+    "result": []
+  },
+  {
+    "postal": "K1N2V1",
+    "result": []
+  },
+  {
+    "postal": "K1N3L8",
+    "result": []
+  },
+  {
+    "postal": "K1N2R8",
+    "result": []
+  },
+  {
+    "postal": "K1N5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5C1",
+        "streetName": "CATHCART",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CATHCART ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4W3",
+    "result": []
+  },
+  {
+    "postal": "K1N5X5",
+    "result": []
+  },
+  {
+    "postal": "K1N9W5",
+    "result": []
+  },
+  {
+    "postal": "K1N3C4",
+    "result": []
+  },
+  {
+    "postal": "K1N1N6",
+    "result": []
+  },
+  {
+    "postal": "K1N9S9",
+    "result": []
+  },
+  {
+    "postal": "K1N9M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140745
+        ],
+        "postalCode": "K1N9M2",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GEORGE ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9M2",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8Y4",
+    "result": []
+  },
+  {
+    "postal": "K1N7S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7S4",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "NELSON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0K6",
+    "result": []
+  },
+  {
+    "postal": "K1N1W3",
+    "result": []
+  },
+  {
+    "postal": "K1N7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N7R2",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "NELSON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2Y9",
+    "result": []
+  },
+  {
+    "postal": "K1N7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N7G4",
+        "streetName": "WALLER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WALLER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N7E5",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N9G2",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MURRAY ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7Y8",
+    "result": []
+  },
+  {
+    "postal": "K1N9V2",
+    "result": []
+  },
+  {
+    "postal": "K1N3T7",
+    "result": []
+  },
+  {
+    "postal": "K1N1H0",
+    "result": []
+  },
+  {
+    "postal": "K1N1M7",
+    "result": []
+  },
+  {
+    "postal": "K1N8V4",
+    "result": []
+  },
+  {
+    "postal": "K1N4M2",
+    "result": []
+  },
+  {
+    "postal": "K1N0X2",
+    "result": []
+  },
+  {
+    "postal": "K1N5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N5Z4",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6V4",
+        "streetName": "SOMERSET",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SOMERSET ST E, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8J3",
+        "streetName": "RANGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RANGE RD, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N8E5",
+        "streetName": "GOULBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GOULBURN AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2V5",
+    "result": []
+  },
+  {
+    "postal": "K1N7S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7S1",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "NELSON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6V3",
+    "result": []
+  },
+  {
+    "postal": "K1N2L8",
+    "result": []
+  },
+  {
+    "postal": "K1N9V0",
+    "result": []
+  },
+  {
+    "postal": "K1N3M4",
+    "result": []
+  },
+  {
+    "postal": "K1N5B2",
+    "result": []
+  },
+  {
+    "postal": "K1N3X5",
+    "result": []
+  },
+  {
+    "postal": "K1N9R7",
+    "result": []
+  },
+  {
+    "postal": "K1N2X2",
+    "result": []
+  },
+  {
+    "postal": "K1N8Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N8Z6",
+        "streetName": "COBOURG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "COBOURG ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4R4",
+    "result": []
+  },
+  {
+    "postal": "K1N2R1",
+    "result": []
+  },
+  {
+    "postal": "K1N3R8",
+    "result": []
+  },
+  {
+    "postal": "K1N9A1",
+    "result": []
+  },
+  {
+    "postal": "K1N8L3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8L3",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CHARLOTTE ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N8L3",
+        "streetName": "LOWER CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LOWER CHARLOTTE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9K4",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9S3",
+    "result": []
+  },
+  {
+    "postal": "K1N8N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N8N7",
+        "streetName": "HURDMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "HURDMAN RD, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1C6",
+    "result": []
+  },
+  {
+    "postal": "K1N3Z8",
+    "result": []
+  },
+  {
+    "postal": "K1N8G5",
+    "result": []
+  },
+  {
+    "postal": "K1N5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708,
+          10140711
+        ],
+        "postalCode": "K1N5R6",
+        "streetName": "BARBER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BARBER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2W3",
+    "result": []
+  },
+  {
+    "postal": "K1N0A0",
+    "result": []
+  },
+  {
+    "postal": "K1N6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6P8",
+        "streetName": "LAURIER",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LAURIER AVE E, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N8N9",
+        "streetName": "ROBINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ROBINSON AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0S9",
+    "result": []
+  },
+  {
+    "postal": "K1N8G0",
+    "result": []
+  },
+  {
+    "postal": "K1N8C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8C7",
+        "streetName": "GOULBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GOULBURN AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5X8",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N7E8",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6X2",
+    "result": []
+  },
+  {
+    "postal": "K1N4C6",
+    "result": []
+  },
+  {
+    "postal": "K1N7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N7H2",
+        "streetName": "CUMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CUMBERLAND ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4R0",
+    "result": []
+  },
+  {
+    "postal": "K1N6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6J3",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "STEWART ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4B8",
+    "result": []
+  },
+  {
+    "postal": "K1N6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N6H6",
+        "streetName": "DALY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALY AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0S1",
+    "result": []
+  },
+  {
+    "postal": "K1N4E3",
+    "result": []
+  },
+  {
+    "postal": "K1N7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7K2",
+        "streetName": "CUMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CUMBERLAND ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7T8",
+        "streetName": "SWEETLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SWEETLAND AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0J9",
+    "result": []
+  },
+  {
+    "postal": "K1N5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5J9",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5S7",
+        "streetName": "YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "YORK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0G9",
+    "result": []
+  },
+  {
+    "postal": "K1N3J9",
+    "result": []
+  },
+  {
+    "postal": "K1N2Y0",
+    "result": []
+  },
+  {
+    "postal": "K1N8X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N8X5",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2M7",
+    "result": []
+  },
+  {
+    "postal": "K1N9Z3",
+    "result": []
+  },
+  {
+    "postal": "K1N7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N7W2",
+        "streetName": "FRIEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "FRIEL ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3W0",
+    "result": []
+  },
+  {
+    "postal": "K1N3M1",
+    "result": []
+  },
+  {
+    "postal": "K1N6A5",
+    "result": []
+  },
+  {
+    "postal": "K1N2M9",
+    "result": []
+  },
+  {
+    "postal": "K1N5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5C3",
+        "streetName": "CATHCART",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CATHCART ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0Y6",
+    "result": []
+  },
+  {
+    "postal": "K1N9H7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9H7",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GEORGE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3L0",
+    "result": []
+  },
+  {
+    "postal": "K1N5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N5N9",
+        "streetName": "DESJARDINS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DESJARDINS AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5E3",
+        "streetName": "BRUYERE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BRUYERE ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5E3",
+        "streetName": "BRUYÈRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BRUYÈRE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7M9",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "KING EDWARD AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8N2",
+    "result": []
+  },
+  {
+    "postal": "K1N9H3",
+    "result": []
+  },
+  {
+    "postal": "K1N2K8",
+    "result": []
+  },
+  {
+    "postal": "K1N9L0",
+    "result": []
+  },
+  {
+    "postal": "K1N6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6L9",
+        "streetName": "WILBROD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILBROD ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6A8",
+    "result": []
+  },
+  {
+    "postal": "K1N2K6",
+    "result": []
+  },
+  {
+    "postal": "K1N2M0",
+    "result": []
+  },
+  {
+    "postal": "K1N5X7",
+    "result": []
+  },
+  {
+    "postal": "K1N0M7",
+    "result": []
+  },
+  {
+    "postal": "K1N7A6",
+    "result": []
+  },
+  {
+    "postal": "K1N3C5",
+    "result": []
+  },
+  {
+    "postal": "K1N2P2",
+    "result": []
+  },
+  {
+    "postal": "K1N9N4",
+    "result": []
+  },
+  {
+    "postal": "K1N3M9",
+    "result": []
+  },
+  {
+    "postal": "K1N8K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N8K6",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CHARLOTTE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1L2",
+    "result": []
+  },
+  {
+    "postal": "K1N2Z9",
+    "result": []
+  },
+  {
+    "postal": "K1N2S2",
+    "result": []
+  },
+  {
+    "postal": "K1N2W2",
+    "result": []
+  },
+  {
+    "postal": "K1N2C3",
+    "result": []
+  },
+  {
+    "postal": "K1N6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6L7",
+        "streetName": "WILBROD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILBROD ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3K0",
+    "result": []
+  },
+  {
+    "postal": "K1N3C1",
+    "result": []
+  },
+  {
+    "postal": "K1N6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6M9",
+        "streetName": "WILBROD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILBROD ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4N9",
+    "result": []
+  },
+  {
+    "postal": "K1N3Y7",
+    "result": []
+  },
+  {
+    "postal": "K1N2A9",
+    "result": []
+  },
+  {
+    "postal": "K1N6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N6H5",
+        "streetName": "DALY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALY AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8B4",
+    "result": []
+  },
+  {
+    "postal": "K1N4Z2",
+    "result": []
+  },
+  {
+    "postal": "K1N9J0",
+    "result": []
+  },
+  {
+    "postal": "K1N7V7",
+    "result": []
+  },
+  {
+    "postal": "K1N5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5T5",
+        "streetName": "YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "YORK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4W5",
+    "result": []
+  },
+  {
+    "postal": "K1N1T8",
+    "result": []
+  },
+  {
+    "postal": "K1N9G6",
+    "result": []
+  },
+  {
+    "postal": "K1N1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140712
+        ],
+        "postalCode": "K1N1H3",
+        "streetName": "UNIVERSITY",
+        "streetDirectionId": null,
+        "streetTypeId": "PVT",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "UNIVERSITY PVT, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5R5",
+        "streetName": "BARBER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BARBER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8A4",
+        "streetName": "BLACKBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BLACKBURN AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3T6",
+    "result": []
+  },
+  {
+    "postal": "K1N9W8",
+    "result": []
+  },
+  {
+    "postal": "K1N0N3",
+    "result": []
+  },
+  {
+    "postal": "K1N7V0",
+    "result": []
+  },
+  {
+    "postal": "K1N8T5",
+    "result": []
+  },
+  {
+    "postal": "K1N5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5N3",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MURRAY ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5G9",
+        "streetName": "ST ANDREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST ANDREW ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5G9",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3X8",
+    "result": []
+  },
+  {
+    "postal": "K1N9R3",
+    "result": []
+  },
+  {
+    "postal": "K1N2S1",
+    "result": []
+  },
+  {
+    "postal": "K1N9J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9J7",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2J3",
+    "result": []
+  },
+  {
+    "postal": "K1N3B6",
+    "result": []
+  },
+  {
+    "postal": "K1N8J0",
+    "result": []
+  },
+  {
+    "postal": "K1N7R4",
+    "result": []
+  },
+  {
+    "postal": "K1N8K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N8K8",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CHARLOTTE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4P3",
+    "result": []
+  },
+  {
+    "postal": "K1N0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140797
+        ],
+        "postalCode": "K1N0A2",
+        "streetName": "ISLAND LODGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ISLAND LODGE RD, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2G2",
+    "result": []
+  },
+  {
+    "postal": "K1N5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N5Y9",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7X0",
+    "result": []
+  },
+  {
+    "postal": "K1N7W3",
+    "result": []
+  },
+  {
+    "postal": "K1N7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N7X5",
+        "streetName": "RUSSELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RUSSELL AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K6",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5B6",
+        "streetName": "BOLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BOLTON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7Z0",
+    "result": []
+  },
+  {
+    "postal": "K1N9H6",
+    "result": []
+  },
+  {
+    "postal": "K1N1B4",
+    "result": []
+  },
+  {
+    "postal": "K1N1A0",
+    "result": []
+  },
+  {
+    "postal": "K1N9A0",
+    "result": []
+  },
+  {
+    "postal": "K1N1M6",
+    "result": []
+  },
+  {
+    "postal": "K1N5H0",
+    "result": []
+  },
+  {
+    "postal": "K1N1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N1K6",
+        "streetName": "SUSSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SUSSEX DR, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5E1",
+        "streetName": "BRUYERE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BRUYERE ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5E1",
+        "streetName": "BRUYÈRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BRUYÈRE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3T9",
+    "result": []
+  },
+  {
+    "postal": "K1N2M6",
+    "result": []
+  },
+  {
+    "postal": "K1N0G5",
+    "result": []
+  },
+  {
+    "postal": "K1N0Y2",
+    "result": []
+  },
+  {
+    "postal": "K1N2Y7",
+    "result": []
+  },
+  {
+    "postal": "K1N2J7",
+    "result": []
+  },
+  {
+    "postal": "K1N4K7",
+    "result": []
+  },
+  {
+    "postal": "K1N7P9",
+    "result": []
+  },
+  {
+    "postal": "K1N8X0",
+    "result": []
+  },
+  {
+    "postal": "K1N3X1",
+    "result": []
+  },
+  {
+    "postal": "K1N1R5",
+    "result": []
+  },
+  {
+    "postal": "K1N6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N6X6",
+        "streetName": "TEMPLETON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "TEMPLETON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0Y1",
+    "result": []
+  },
+  {
+    "postal": "K1N8G1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8G1",
+        "streetName": "MARLBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MARLBOROUGH AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3J3",
+    "result": []
+  },
+  {
+    "postal": "K1N8C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N8C2",
+        "streetName": "AUGUSTA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "AUGUSTA ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4X9",
+    "result": []
+  },
+  {
+    "postal": "K1N6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6G9",
+        "streetName": "DALY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALY AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4M3",
+    "result": []
+  },
+  {
+    "postal": "K1N9P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N9P7",
+        "streetName": "TEMPLETON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "TEMPLETON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4E5",
+    "result": []
+  },
+  {
+    "postal": "K1N5K9",
+    "result": []
+  },
+  {
+    "postal": "K1N2V2",
+    "result": []
+  },
+  {
+    "postal": "K1N2N9",
+    "result": []
+  },
+  {
+    "postal": "K1N6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6L4",
+        "streetName": "WILBROD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILBROD ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8E0",
+    "result": []
+  },
+  {
+    "postal": "K1N0N0",
+    "result": []
+  },
+  {
+    "postal": "K1N6R0",
+    "result": []
+  },
+  {
+    "postal": "K1N9C1",
+    "result": []
+  },
+  {
+    "postal": "K1N4H4",
+    "result": []
+  },
+  {
+    "postal": "K1N5W3",
+    "result": []
+  },
+  {
+    "postal": "K1N9N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9N9",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GEORGE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1V7",
+    "result": []
+  },
+  {
+    "postal": "K1N8J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8J1",
+        "streetName": "COBOURG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "COBOURG ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N5V9",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "GEORGE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2S8",
+    "result": []
+  },
+  {
+    "postal": "K1N6P0",
+    "result": []
+  },
+  {
+    "postal": "K1N4J8",
+    "result": []
+  },
+  {
+    "postal": "K1N0N1",
+    "result": []
+  },
+  {
+    "postal": "K1N1Y7",
+    "result": []
+  },
+  {
+    "postal": "K1N7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7W5",
+        "streetName": "FRIEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "FRIEL ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3Z1",
+    "result": []
+  },
+  {
+    "postal": "K1N7M6",
+    "result": []
+  },
+  {
+    "postal": "K1N1W7",
+    "result": []
+  },
+  {
+    "postal": "K1N1X1",
+    "result": []
+  },
+  {
+    "postal": "K1N0C1",
+    "result": []
+  },
+  {
+    "postal": "K1N4N3",
+    "result": []
+  },
+  {
+    "postal": "K1N4S8",
+    "result": []
+  },
+  {
+    "postal": "K1N1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N1H6",
+        "streetName": "FRIEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "FRIEL ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2Z4",
+    "result": []
+  },
+  {
+    "postal": "K1N7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140712
+        ],
+        "postalCode": "K1N7K3",
+        "streetName": "CUMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CUMBERLAND ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N8A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N8A2",
+        "streetName": "BLACKBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BLACKBURN AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6J1",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "STEWART ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N5Z6",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3Z0",
+    "result": []
+  },
+  {
+    "postal": "K1N8M0",
+    "result": []
+  },
+  {
+    "postal": "K1N1Z6",
+    "result": []
+  },
+  {
+    "postal": "K1N8K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N8K7",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CHARLOTTE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1N3",
+    "result": []
+  },
+  {
+    "postal": "K1N9S2",
+    "result": []
+  },
+  {
+    "postal": "K1N2K1",
+    "result": []
+  },
+  {
+    "postal": "K1N1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N1E8",
+        "streetName": "RIDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RIDEAU ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N9B8",
+        "streetName": "BY WARD MARKET",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BY WARD MARKET SQ, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7X4",
+        "streetName": "RUSSELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "RUSSELL AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1Z4",
+    "result": []
+  },
+  {
+    "postal": "K1N2C7",
+    "result": []
+  },
+  {
+    "postal": "K1N2E7",
+    "result": []
+  },
+  {
+    "postal": "K1N3R1",
+    "result": []
+  },
+  {
+    "postal": "K1N4K4",
+    "result": []
+  },
+  {
+    "postal": "K1N9G3",
+    "result": []
+  },
+  {
+    "postal": "K1N6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N6C9",
+        "streetName": "BESSERER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BESSERER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N9H5",
+        "streetName": "OLD ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "OLD ST PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1P5",
+    "result": []
+  },
+  {
+    "postal": "K1N2J5",
+    "result": []
+  },
+  {
+    "postal": "K1N4W6",
+    "result": []
+  },
+  {
+    "postal": "K1N8M8",
+    "result": []
+  },
+  {
+    "postal": "K1N6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N6C5",
+        "streetName": "BESSERER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BESSERER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9H0",
+    "result": []
+  },
+  {
+    "postal": "K1N1X8",
+    "result": []
+  },
+  {
+    "postal": "K1N3H4",
+    "result": []
+  },
+  {
+    "postal": "K1N4E7",
+    "result": []
+  },
+  {
+    "postal": "K1N8A0",
+    "result": []
+  },
+  {
+    "postal": "K1N1Z7",
+    "result": []
+  },
+  {
+    "postal": "K1N7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7Z3",
+        "streetName": "CHAPEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CHAPEL ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0L7",
+    "result": []
+  },
+  {
+    "postal": "K1N2C6",
+    "result": []
+  },
+  {
+    "postal": "K1N6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6M3",
+        "streetName": "WILBROD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILBROD ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2J1",
+    "result": []
+  },
+  {
+    "postal": "K1N3E3",
+    "result": []
+  },
+  {
+    "postal": "K1N6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N6Z9",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WILLIAM ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3M3",
+    "result": []
+  },
+  {
+    "postal": "K1N9B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140712
+        ],
+        "postalCode": "K1N9B1",
+        "streetName": "UNIVERSITY",
+        "streetDirectionId": null,
+        "streetTypeId": "PVT",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "UNIVERSITY PVT, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N9J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N9J5",
+        "streetName": "MICHEL RIEL",
+        "streetDirectionId": null,
+        "streetTypeId": "PVT",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MICHEL RIEL PVT, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4V8",
+    "result": []
+  },
+  {
+    "postal": "K1N6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6W2",
+        "streetName": "SOMERSET",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SOMERSET ST E, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 78,
+            "name": "Ottawa Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10140563
+        ],
+        "postalCode": "K1N6W2",
+        "streetName": "SOMERSET",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SOMERSET ST W, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0V5",
+    "result": []
+  },
+  {
+    "postal": "K1N0Z8",
+    "result": []
+  },
+  {
+    "postal": "K1N5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5G2",
+        "streetName": "ST ANDREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST ANDREW ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4N4",
+    "result": []
+  },
+  {
+    "postal": "K1N8G7",
+    "result": []
+  },
+  {
+    "postal": "K1N8W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140752
+        ],
+        "postalCode": "K1N8W1",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MURRAY ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1S6",
+    "result": []
+  },
+  {
+    "postal": "K1N4E0",
+    "result": []
+  },
+  {
+    "postal": "K1N4L9",
+    "result": []
+  },
+  {
+    "postal": "K1N5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5Z9",
+        "streetName": "CATHCART",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CATHCART SQ, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N5V3",
+        "streetName": "YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "YORK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4V2",
+    "result": []
+  },
+  {
+    "postal": "K1N7C0",
+    "result": []
+  },
+  {
+    "postal": "K1N6L0",
+    "result": []
+  },
+  {
+    "postal": "K1N1S9",
+    "result": []
+  },
+  {
+    "postal": "K1N7R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N7R6",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "NELSON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7J0",
+    "result": []
+  },
+  {
+    "postal": "K1N5M0",
+    "result": []
+  },
+  {
+    "postal": "K1N2E5",
+    "result": []
+  },
+  {
+    "postal": "K1N7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N7C7",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALHOUSIE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5C0",
+    "result": []
+  },
+  {
+    "postal": "K1N8V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140711
+        ],
+        "postalCode": "K1N8V9",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "MURRAY ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7E0",
+    "result": []
+  },
+  {
+    "postal": "K1N6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6R4",
+        "streetName": "LAURIER",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LAURIER AVE E, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3Z7",
+    "result": []
+  },
+  {
+    "postal": "K1N1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N1J9",
+        "streetName": "SUSSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SUSSEX DR, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7K6",
+    "result": []
+  },
+  {
+    "postal": "K1N7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N7Y5",
+        "streetName": "CHAPEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CHAPEL ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N1B7",
+        "streetName": "CLARENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "CLARENCE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N4S9",
+    "result": []
+  },
+  {
+    "postal": "K1N9R9",
+    "result": []
+  },
+  {
+    "postal": "K1N5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708,
+          10140710
+        ],
+        "postalCode": "K1N5K7",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K7",
+        "streetName": "ST. PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST. PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6P2",
+        "streetName": "LAURIER",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "LAURIER AVE E, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2C5",
+    "result": []
+  },
+  {
+    "postal": "K1N2N0",
+    "result": []
+  },
+  {
+    "postal": "K1N1G0",
+    "result": []
+  },
+  {
+    "postal": "K1N4K5",
+    "result": []
+  },
+  {
+    "postal": "K1N9B5",
+    "result": []
+  },
+  {
+    "postal": "K1N6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N6T5",
+        "streetName": "OSGOODE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "OSGOODE ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N1N8",
+    "result": []
+  },
+  {
+    "postal": "K1N0C0",
+    "result": []
+  },
+  {
+    "postal": "K1N0R9",
+    "result": []
+  },
+  {
+    "postal": "K1N7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N7L1",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "KING EDWARD AVE, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N3Y8",
+    "result": []
+  },
+  {
+    "postal": "K1N7X9",
+    "result": []
+  },
+  {
+    "postal": "K1N1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N1A7",
+        "streetName": "WIGGINS",
+        "streetDirectionId": null,
+        "streetTypeId": "PVT",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WIGGINS PVT, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N2T9",
+    "result": []
+  },
+  {
+    "postal": "K1N2E6",
+    "result": []
+  },
+  {
+    "postal": "K1N8Y1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140743
+        ],
+        "postalCode": "K1N8Y1",
+        "streetName": "BOTELER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "BOTELER ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N0J5",
+    "result": []
+  },
+  {
+    "postal": "K1N4J1",
+    "result": []
+  },
+  {
+    "postal": "K1N1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140720
+        ],
+        "postalCode": "K1N1A5",
+        "streetName": "WIGGINS",
+        "streetDirectionId": null,
+        "streetTypeId": "PVT",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "WIGGINS PVT, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140710
+        ],
+        "postalCode": "K1N6Z6",
+        "streetName": "SUSSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "SUSSEX DR, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K4",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GLOUCESTER",
+        "streetNameDisplayText": "ST PATRICK ST, GLOUCESTER"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K4",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST PATRICK ST, OTTAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140708
+        ],
+        "postalCode": "K1N5K4",
+        "streetName": "ST. PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "ST. PATRICK ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10144283
+        ],
+        "postalCode": "K1N7R9",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "NELSON ST, OTTAWA"
+      }
+    ]
+  },
+  {
+    "postal": "K1N6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 80,
+            "name": "Ottawa—Vanier"
+          }
+        ],
+        "pollDivisionIds": [
+          10140715
+        ],
+        "postalCode": "K1N6G4",
+        "streetName": "DALY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OTTAWA",
+        "streetNameDisplayText": "DALY AVE, OTTAWA"
+      }
+    ]
   }
 ]

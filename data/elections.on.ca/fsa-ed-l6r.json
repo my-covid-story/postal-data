@@ -10362,5 +10362,7100 @@
         "streetNameDisplayText": "PEACH DR, BRAMPTON"
       }
     ]
+  },
+  {
+    "postal": "L6R4C5",
+    "result": []
+  },
+  {
+    "postal": "L6R7E4",
+    "result": []
+  },
+  {
+    "postal": "L6R1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1R9",
+        "streetName": "BISON RUN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BISON RUN RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1R9",
+        "streetName": "ELK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ELK ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1R9",
+        "streetName": "POPPY BLOOM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "POPPY BLOOM AVE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1R9",
+        "streetName": "QUAIL FEATHER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "QUAIL FEATHER CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2P0",
+    "result": []
+  },
+  {
+    "postal": "L6R5S4",
+    "result": []
+  },
+  {
+    "postal": "L6R5K8",
+    "result": []
+  },
+  {
+    "postal": "L6R8K4",
+    "result": []
+  },
+  {
+    "postal": "L6R7C1",
+    "result": []
+  },
+  {
+    "postal": "L6R7K9",
+    "result": []
+  },
+  {
+    "postal": "L6R5J1",
+    "result": []
+  },
+  {
+    "postal": "L6R4P9",
+    "result": []
+  },
+  {
+    "postal": "L6R0N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N2",
+        "streetName": "FATHER TOBIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FATHER TOBIN RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N2",
+        "streetName": "WALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WALL ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2G6",
+        "streetName": "ALBERTA",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ALBERTA TERR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2G6",
+        "streetName": "MANITOBA",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MANITOBA PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626,
+          10126625
+        ],
+        "postalCode": "L6R2G6",
+        "streetName": "RED CLOVER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED CLOVER RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2G6",
+        "streetName": "WYOMING",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WYOMING TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6P4",
+    "result": []
+  },
+  {
+    "postal": "L6R3J0",
+    "result": []
+  },
+  {
+    "postal": "L6R8X4",
+    "result": []
+  },
+  {
+    "postal": "L6R1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Y3",
+        "streetName": "DANDELION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DANDELION RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Y3",
+        "streetName": "OATFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "OATFIELD RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R1A8",
+        "streetName": "RED CEDAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED CEDAR CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6Y5",
+    "result": []
+  },
+  {
+    "postal": "L6R0J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J6",
+        "streetName": "SLED DOG",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SLED DOG RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J6",
+        "streetName": "SNOWSHOE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SNOWSHOE LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2C9",
+        "streetName": "SPRINGTOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRINGTOWN TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2C9",
+        "streetName": "TIGERLILY",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TIGERLILY PL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8J6",
+    "result": []
+  },
+  {
+    "postal": "L6R8T4",
+    "result": []
+  },
+  {
+    "postal": "L6R1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R1P7",
+        "streetName": "DESERT SAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DESERT SAND DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R1P7",
+        "streetName": "PALMOLIVE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PALMOLIVE ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R1P7",
+        "streetName": "RATTLESNAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RATTLESNAKE RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9V9",
+    "result": []
+  },
+  {
+    "postal": "L6R0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R0M1",
+        "streetName": "BAY BREEZE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BAY BREEZE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R0M1",
+        "streetName": "CAMROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CAMROSE ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R0M1",
+        "streetName": "EAGLE TRACE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EAGLE TRACE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R0M1",
+        "streetName": "GIFFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GIFFORD GATE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6K5",
+    "result": []
+  },
+  {
+    "postal": "L6R2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R2T5",
+        "streetName": "PLUM HOLLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PLUM HOLLOW CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7E9",
+    "result": []
+  },
+  {
+    "postal": "L6R5K5",
+    "result": []
+  },
+  {
+    "postal": "L6R3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R3R5",
+        "streetName": "SUSSEXVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUSSEXVALE DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5B1",
+    "result": []
+  },
+  {
+    "postal": "L6R2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P1",
+        "streetName": "ARABIA",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ARABIA GATE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P1",
+        "streetName": "EARTH STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EARTH STAR TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P1",
+        "streetName": "GECKO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GECKO CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P1",
+        "streetName": "KALAHARI",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "KALAHARI RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7L0",
+    "result": []
+  },
+  {
+    "postal": "L6R3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R3L6",
+        "streetName": "FROSTBITE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FROSTBITE LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114,
+          10111376
+        ],
+        "postalCode": "L6R3L6",
+        "streetName": "GOOD HOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GOOD HOPE RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2A4",
+        "streetName": "BARRIER REEF",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BARRIER REEF LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2A4",
+        "streetName": "CANADA GOOSE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CANADA GOOSE BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2A4",
+        "streetName": "DOLPHIN SONG",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DOLPHIN SONG CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8S0",
+    "result": []
+  },
+  {
+    "postal": "L6R3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R3L5",
+        "streetName": "GOOD HOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GOOD HOPE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          },
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114,
+          10139811
+        ],
+        "postalCode": "L6R3L5",
+        "streetName": "OCEAN RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "OCEAN RIDGE DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2R5",
+        "streetName": "BLUE WHALE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BLUE WHALE BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2R5",
+        "streetName": "STARFISH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "STARFISH CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9T6",
+    "result": []
+  },
+  {
+    "postal": "L6R8Z2",
+    "result": []
+  },
+  {
+    "postal": "L6R0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0E9",
+        "streetName": "SERENCES",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SERENCES WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0E9",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8C0",
+    "result": []
+  },
+  {
+    "postal": "L6R3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3K7",
+        "streetName": "GREY WHALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GREY WHALE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3K7",
+        "streetName": "MIDNIGHTSUN",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MIDNIGHTSUN TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3K7",
+        "streetName": "WHALE COVE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WHALE COVE CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2H3",
+        "streetName": "SANDYSHORES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SANDYSHORES DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R2Y6",
+        "streetName": "BLACKCHERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BLACKCHERRY LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R2Y6",
+        "streetName": "OAK GARDENS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "OAK GARDENS CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7M2",
+    "result": []
+  },
+  {
+    "postal": "L6R6E2",
+    "result": []
+  },
+  {
+    "postal": "L6R3R0",
+    "result": []
+  },
+  {
+    "postal": "L6R4J7",
+    "result": []
+  },
+  {
+    "postal": "L6R6N8",
+    "result": []
+  },
+  {
+    "postal": "L6R0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J7",
+        "streetName": "ICEBERG",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ICEBERG TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J7",
+        "streetName": "SLED DOG",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SLED DOG RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7P2",
+    "result": []
+  },
+  {
+    "postal": "L6R3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R3T8",
+        "streetName": "BROWNBUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BROWNBUSH WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R3T8",
+        "streetName": "LOCARNO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LOCARNO ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R3S7",
+        "streetName": "ROSS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROSS DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R3S7",
+        "streetName": "VONTRESS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "VONTRESS ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2S7",
+        "streetName": "MIRAMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MIRAMAR ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1S4",
+        "streetName": "CLOVER BLOOM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CLOVER BLOOM RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1S4",
+        "streetName": "RAIN LILY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RAIN LILY LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1L8",
+        "streetName": "FOXTAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FOXTAIL RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1L8",
+        "streetName": "HICKORYBUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HICKORYBUSH AVE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1L8",
+        "streetName": "PETER ROBERTSON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PETER ROBERTSON BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8E9",
+    "result": []
+  },
+  {
+    "postal": "L6R0T0",
+    "result": []
+  },
+  {
+    "postal": "L6R3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R3G4",
+        "streetName": "REVELSTOKE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "REVELSTOKE PL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0V6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0V6",
+        "streetName": "ABITIBI LAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ABITIBI LAKE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0V6",
+        "streetName": "BON ECHO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BON ECHO TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0V6",
+        "streetName": "GAMSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GAMSON CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0V6",
+        "streetName": "MOIRA CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOIRA CREEK DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4W1",
+    "result": []
+  },
+  {
+    "postal": "L6R9G9",
+    "result": []
+  },
+  {
+    "postal": "L6R5W4",
+    "result": []
+  },
+  {
+    "postal": "L6R7M8",
+    "result": []
+  },
+  {
+    "postal": "L6R2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R2C2",
+        "streetName": "MOUNT MCKINLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOUNT MCKINLEY LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4Y2",
+    "result": []
+  },
+  {
+    "postal": "L6R9X9",
+    "result": []
+  },
+  {
+    "postal": "L6R3T0",
+    "result": []
+  },
+  {
+    "postal": "L6R4T8",
+    "result": []
+  },
+  {
+    "postal": "L6R9C4",
+    "result": []
+  },
+  {
+    "postal": "L6R8P2",
+    "result": []
+  },
+  {
+    "postal": "L6R0Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R0Y8",
+        "streetName": "ALISMA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ALISMA TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R0Y8",
+        "streetName": "LOCUST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LOCUST DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137113
+        ],
+        "postalCode": "L6R1G8",
+        "streetName": "RED STAG",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED STAG RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137113
+        ],
+        "postalCode": "L6R1G8",
+        "streetName": "STONELEDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "STONELEDGE CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2T6",
+        "streetName": "LARKSPUR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LARKSPUR RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1N7",
+        "streetName": "SHADY PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SHADY PINE CIR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1N7",
+        "streetName": "WOODSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WOODSTREAM AVE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0L6",
+        "streetName": "FINLAYSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FINLAYSON CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0L6",
+        "streetName": "KEELEVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "KEELEVIEW CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0L6",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9V4",
+    "result": []
+  },
+  {
+    "postal": "L6R2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2V1",
+        "streetName": "HOPECREST",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HOPECREST PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2V1",
+        "streetName": "MAINARD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MAINARD CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R3L8",
+        "streetName": "FROSTBITE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FROSTBITE LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R3L8",
+        "streetName": "POLAR BEAR",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "POLAR BEAR PL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2R8",
+        "streetName": "GREAT LAKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GREAT LAKES DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5C1",
+    "result": []
+  },
+  {
+    "postal": "L6R4W3",
+    "result": []
+  },
+  {
+    "postal": "L6R5X5",
+    "result": []
+  },
+  {
+    "postal": "L6R9W5",
+    "result": []
+  },
+  {
+    "postal": "L6R3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C4",
+        "streetName": "CANARYGRASS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CANARYGRASS DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C4",
+        "streetName": "CHAPPARAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CHAPPARAL DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1N6",
+        "streetName": "SHADY PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SHADY PINE CIR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1N6",
+        "streetName": "SPRUCELANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRUCELANDS AVE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9S9",
+    "result": []
+  },
+  {
+    "postal": "L6R9M2",
+    "result": []
+  },
+  {
+    "postal": "L6R8Y4",
+    "result": []
+  },
+  {
+    "postal": "L6R7S4",
+    "result": []
+  },
+  {
+    "postal": "L6R0K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R0K6",
+        "streetName": "HIBISCUS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HIBISCUS CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R0K6",
+        "streetName": "YELLOW AVENS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "YELLOW AVENS BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R1W3",
+        "streetName": "MOUNTAINBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOUNTAINBERRY RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7R2",
+    "result": []
+  },
+  {
+    "postal": "L6R2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Y9",
+        "streetName": "APPLEGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "APPLEGROVE CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Y9",
+        "streetName": "MINT LEAF",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MINT LEAF BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Y9",
+        "streetName": "SUMMER MIST",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUMMER MIST CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7G4",
+    "result": []
+  },
+  {
+    "postal": "L6R7E5",
+    "result": []
+  },
+  {
+    "postal": "L6R9G2",
+    "result": []
+  },
+  {
+    "postal": "L6R7Y8",
+    "result": []
+  },
+  {
+    "postal": "L6R9V2",
+    "result": []
+  },
+  {
+    "postal": "L6R3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R3T7",
+        "streetName": "COOKVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "COOKVIEW DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1H0",
+    "result": []
+  },
+  {
+    "postal": "L6R1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621,
+          10126623
+        ],
+        "postalCode": "L6R1M7",
+        "streetName": "SPRUCELANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRUCELANDS AVE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1M7",
+        "streetName": "WILDBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILDBERRY CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1M7",
+        "streetName": "WOODSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WOODSTREAM AVE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8V4",
+    "result": []
+  },
+  {
+    "postal": "L6R4M2",
+    "result": []
+  },
+  {
+    "postal": "L6R0X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R0X2",
+        "streetName": "FAIRWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FAIRWOOD CIR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R0X2",
+        "streetName": "NUTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "NUTWOOD WAY, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5Z4",
+    "result": []
+  },
+  {
+    "postal": "L6R6V4",
+    "result": []
+  },
+  {
+    "postal": "L6R8J3",
+    "result": []
+  },
+  {
+    "postal": "L6R8E5",
+    "result": []
+  },
+  {
+    "postal": "L6R2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R2V5",
+        "streetName": "FERNFOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FERNFOREST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R2V5",
+        "streetName": "HARTWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HARTWELL GATE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7S1",
+    "result": []
+  },
+  {
+    "postal": "L6R6V3",
+    "result": []
+  },
+  {
+    "postal": "L6R2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R2L8",
+        "streetName": "HIMALAYA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HIMALAYA ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R2L8",
+        "streetName": "SNOW LEOPARD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SNOW LEOPARD CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9V0",
+    "result": []
+  },
+  {
+    "postal": "L6R3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3M4",
+        "streetName": "CASSINWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CASSINWAY RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3M4",
+        "streetName": "KLONDIKE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "KLONDIKE TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3M4",
+        "streetName": "PERMAFROST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PERMAFROST DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5B2",
+    "result": []
+  },
+  {
+    "postal": "L6R3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3X5",
+        "streetName": "INSPIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "INSPIRE BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3X5",
+        "streetName": "YELLOWKNIFE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "YELLOWKNIFE RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9R7",
+    "result": []
+  },
+  {
+    "postal": "L6R2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R2X2",
+        "streetName": "FALLING ROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FALLING ROCK DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R2X2",
+        "streetName": "MOUNTAIN GORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOUNTAIN GORGE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R2X2",
+        "streetName": "STONECREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "STONECREST DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8Z6",
+    "result": []
+  },
+  {
+    "postal": "L6R4R4",
+    "result": []
+  },
+  {
+    "postal": "L6R2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2R1",
+        "streetName": "JEWEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "JEWEL CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2R1",
+        "streetName": "KALAHARI",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "KALAHARI RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R3R8",
+        "streetName": "LOFTSMOOR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LOFTSMOOR DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R3R8",
+        "streetName": "SUSSEXVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUSSEXVALE DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9A1",
+    "result": []
+  },
+  {
+    "postal": "L6R8L3",
+    "result": []
+  },
+  {
+    "postal": "L6R9K4",
+    "result": []
+  },
+  {
+    "postal": "L6R9S3",
+    "result": []
+  },
+  {
+    "postal": "L6R8N7",
+    "result": []
+  },
+  {
+    "postal": "L6R1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1C6",
+        "streetName": "HORNED OWL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HORNED OWL DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3Z8",
+        "streetName": "ALAMODE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ALAMODE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3Z8",
+        "streetName": "LOBELIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LOBELIA ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8G5",
+    "result": []
+  },
+  {
+    "postal": "L6R5R6",
+    "result": []
+  },
+  {
+    "postal": "L6R2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R2W3",
+        "streetName": "EGYPT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EGYPT DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2W3",
+        "streetName": "SAINTSBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SAINTSBURY CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0A0",
+    "result": []
+  },
+  {
+    "postal": "L6R6P8",
+    "result": []
+  },
+  {
+    "postal": "L6R8N9",
+    "result": []
+  },
+  {
+    "postal": "L6R0S9",
+    "result": []
+  },
+  {
+    "postal": "L6R8G0",
+    "result": []
+  },
+  {
+    "postal": "L6R8C7",
+    "result": []
+  },
+  {
+    "postal": "L6R5X8",
+    "result": []
+  },
+  {
+    "postal": "L6R7E8",
+    "result": []
+  },
+  {
+    "postal": "L6R6X2",
+    "result": []
+  },
+  {
+    "postal": "L6R4C6",
+    "result": []
+  },
+  {
+    "postal": "L6R7H2",
+    "result": []
+  },
+  {
+    "postal": "L6R4R0",
+    "result": []
+  },
+  {
+    "postal": "L6R6J3",
+    "result": []
+  },
+  {
+    "postal": "L6R4B8",
+    "result": []
+  },
+  {
+    "postal": "L6R6H6",
+    "result": []
+  },
+  {
+    "postal": "L6R0S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0S1",
+        "streetName": "ADDISCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ADDISCOTT ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0S1",
+        "streetName": "FAIRSERVICE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FAIRSERVICE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0S1",
+        "streetName": "FATHER TOBIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FATHER TOBIN RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0S1",
+        "streetName": "WATSONBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WATSONBROOK DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4E3",
+    "result": []
+  },
+  {
+    "postal": "L6R7K2",
+    "result": []
+  },
+  {
+    "postal": "L6R7T8",
+    "result": []
+  },
+  {
+    "postal": "L6R0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R0J9",
+        "streetName": "FATHER TOBIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FATHER TOBIN RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5J9",
+    "result": []
+  },
+  {
+    "postal": "L6R5S7",
+    "result": []
+  },
+  {
+    "postal": "L6R0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0G9",
+        "streetName": "CONNOLLY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CONNOLLY CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0G9",
+        "streetName": "PRUDHOMME",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PRUDHOMME DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3J9",
+        "streetName": "ROSEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "VIA",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROSEDALE VIA, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2Y0",
+    "result": []
+  },
+  {
+    "postal": "L6R8X5",
+    "result": []
+  },
+  {
+    "postal": "L6R2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R2M7",
+        "streetName": "NARROW VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "NARROW VALLEY CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9Z3",
+    "result": []
+  },
+  {
+    "postal": "L6R7W2",
+    "result": []
+  },
+  {
+    "postal": "L6R3W0",
+    "result": []
+  },
+  {
+    "postal": "L6R3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 12,
+            "name": "Brampton West"
+          },
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137166,
+          10137114
+        ],
+        "postalCode": "L6R3M1",
+        "streetName": "OCEAN RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "OCEAN RIDGE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R3M1",
+        "streetName": "TUNDRA SWAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TUNDRA SWAN RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6A5",
+    "result": []
+  },
+  {
+    "postal": "L6R2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R2M9",
+        "streetName": "BLACK FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BLACK FOREST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626,
+          10126623
+        ],
+        "postalCode": "L6R2M9",
+        "streetName": "WILLOW PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILLOW PARK DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5C3",
+    "result": []
+  },
+  {
+    "postal": "L6R0Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R0Y6",
+        "streetName": "FAIRWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FAIRWOOD CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9H7",
+    "result": []
+  },
+  {
+    "postal": "L6R3L0",
+    "result": []
+  },
+  {
+    "postal": "L6R5N9",
+    "result": []
+  },
+  {
+    "postal": "L6R5E3",
+    "result": []
+  },
+  {
+    "postal": "L6R7M9",
+    "result": []
+  },
+  {
+    "postal": "L6R8N2",
+    "result": []
+  },
+  {
+    "postal": "L6R9H3",
+    "result": []
+  },
+  {
+    "postal": "L6R2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R2K8",
+        "streetName": "MOUNT RANIER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOUNT RANIER CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9L0",
+    "result": []
+  },
+  {
+    "postal": "L6R6L9",
+    "result": []
+  },
+  {
+    "postal": "L6R6A8",
+    "result": []
+  },
+  {
+    "postal": "L6R2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2K6",
+        "streetName": "SILKTOP",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SILKTOP TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2M0",
+    "result": []
+  },
+  {
+    "postal": "L6R5X7",
+    "result": []
+  },
+  {
+    "postal": "L6R0M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0M7",
+        "streetName": "EDENFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EDENFIELD ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0M7",
+        "streetName": "HADFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HADFIELD CIR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0M7",
+        "streetName": "HESLOP",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HESLOP CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7A6",
+    "result": []
+  },
+  {
+    "postal": "L6R3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C5",
+        "streetName": "BORNEO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BORNEO CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C5",
+        "streetName": "CHAPPARAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CHAPPARAL DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C5",
+        "streetName": "FAUNA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FAUNA CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C5",
+        "streetName": "HONEYBEE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HONEYBEE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3C5",
+        "streetName": "IVORY TUSK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "IVORY TUSK CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P2",
+        "streetName": "EARTH STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EARTH STAR TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P2",
+        "streetName": "JEWEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "JEWEL CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2P2",
+        "streetName": "KALAHARI",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "KALAHARI RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9N4",
+    "result": []
+  },
+  {
+    "postal": "L6R3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3M9",
+        "streetName": "ROCKGARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROCKGARDEN TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8K6",
+    "result": []
+  },
+  {
+    "postal": "L6R1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1L2",
+        "streetName": "RANGELAND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RANGELAND RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1L2",
+        "streetName": "SOFTNEEDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SOFTNEEDLE AVE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Z9",
+        "streetName": "FEATHER REED",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FEATHER REED WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Z9",
+        "streetName": "SWEET CLOVER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SWEET CLOVER CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2S2",
+        "streetName": "COBBLESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "COBBLESTONE CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2S2",
+        "streetName": "WHITFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WHITFORD CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2S2",
+        "streetName": "WILLOW HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILLOW HEIGHTS CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2W2",
+        "streetName": "STARHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "STARHILL CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R2C3",
+        "streetName": "BUNCHBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BUNCHBERRY WAY, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6L7",
+    "result": []
+  },
+  {
+    "postal": "L6R3K0",
+    "result": []
+  },
+  {
+    "postal": "L6R3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R3C1",
+        "streetName": "DEWRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DEWRIDGE CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6M9",
+    "result": []
+  },
+  {
+    "postal": "L6R4N9",
+    "result": []
+  },
+  {
+    "postal": "L6R3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3Y7",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2A9",
+        "streetName": "MORNINGMIST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MORNINGMIST ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2A9",
+        "streetName": "PENGUIN",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PENGUIN LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2A9",
+        "streetName": "STREAMSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "STREAMSIDE LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6H5",
+    "result": []
+  },
+  {
+    "postal": "L6R8B4",
+    "result": []
+  },
+  {
+    "postal": "L6R4Z2",
+    "result": []
+  },
+  {
+    "postal": "L6R9J0",
+    "result": []
+  },
+  {
+    "postal": "L6R7V7",
+    "result": []
+  },
+  {
+    "postal": "L6R5T5",
+    "result": []
+  },
+  {
+    "postal": "L6R4W5",
+    "result": []
+  },
+  {
+    "postal": "L6R1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1T8",
+        "streetName": "CLUSTER OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CLUSTER OAK PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1T8",
+        "streetName": "GOLD TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GOLD TREE ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9G6",
+    "result": []
+  },
+  {
+    "postal": "L6R1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137113
+        ],
+        "postalCode": "L6R1H3",
+        "streetName": "URAL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "URAL CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5R5",
+    "result": []
+  },
+  {
+    "postal": "L6R8A4",
+    "result": []
+  },
+  {
+    "postal": "L6R3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R3T6",
+        "streetName": "COOKVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "COOKVIEW DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9W8",
+    "result": []
+  },
+  {
+    "postal": "L6R0N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N3",
+        "streetName": "CAVERSHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CAVERSHAM DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N3",
+        "streetName": "FATHER TOBIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FATHER TOBIN RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N3",
+        "streetName": "QUAILVALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "QUAILVALLEY DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7V0",
+    "result": []
+  },
+  {
+    "postal": "L6R8T5",
+    "result": []
+  },
+  {
+    "postal": "L6R5N3",
+    "result": []
+  },
+  {
+    "postal": "L6R5G9",
+    "result": []
+  },
+  {
+    "postal": "L6R3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3X8",
+        "streetName": "INSPIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "INSPIRE BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9R3",
+    "result": []
+  },
+  {
+    "postal": "L6R2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2S1",
+        "streetName": "COBBLESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "COBBLESTONE CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2S1",
+        "streetName": "LARKMEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LARKMEAD PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2S1",
+        "streetName": "WHITFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WHITFORD CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9J7",
+    "result": []
+  },
+  {
+    "postal": "L6R2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J3",
+        "streetName": "ZEBRA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ZEBRA TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R3B6",
+        "streetName": "DEWSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DEWSIDE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R3B6",
+        "streetName": "FERNFOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FERNFOREST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R3B6",
+        "streetName": "LADY BELLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LADY BELLE CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8J0",
+    "result": []
+  },
+  {
+    "postal": "L6R7R4",
+    "result": []
+  },
+  {
+    "postal": "L6R8K8",
+    "result": []
+  },
+  {
+    "postal": "L6R4P3",
+    "result": []
+  },
+  {
+    "postal": "L6R0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0A2",
+        "streetName": "TORBRAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TORBRAM RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2G2",
+        "streetName": "SAILWIND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SAILWIND RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2G2",
+        "streetName": "SMOOTHWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SMOOTHWATER ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5Y9",
+    "result": []
+  },
+  {
+    "postal": "L6R7X0",
+    "result": []
+  },
+  {
+    "postal": "L6R7W3",
+    "result": []
+  },
+  {
+    "postal": "L6R7X5",
+    "result": []
+  },
+  {
+    "postal": "L6R5K6",
+    "result": []
+  },
+  {
+    "postal": "L6R5B6",
+    "result": []
+  },
+  {
+    "postal": "L6R7Z0",
+    "result": []
+  },
+  {
+    "postal": "L6R9H6",
+    "result": []
+  },
+  {
+    "postal": "L6R1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1B4",
+        "streetName": "CHIPMUNK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CHIPMUNK CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1A0",
+    "result": []
+  },
+  {
+    "postal": "L6R9A0",
+    "result": []
+  },
+  {
+    "postal": "L6R1M6",
+    "result": []
+  },
+  {
+    "postal": "L6R5H0",
+    "result": []
+  },
+  {
+    "postal": "L6R1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1K6",
+        "streetName": "FERN VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FERN VALLEY CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1K6",
+        "streetName": "LOFTY PINES",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LOFTY PINES PL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5E1",
+    "result": []
+  },
+  {
+    "postal": "L6R3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R3T9",
+        "streetName": "BROWNBUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BROWNBUSH WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R3T9",
+        "streetName": "COOKVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "COOKVIEW DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111374
+        ],
+        "postalCode": "L6R2M6",
+        "streetName": "NARROW VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "NARROW VALLEY CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0G5",
+        "streetName": "FATHER TOBIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FATHER TOBIN RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0G5",
+        "streetName": "MELSANDRA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MELSANDRA ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0G5",
+        "streetName": "SILVERSHADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SILVERSHADOW TERR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0G5",
+        "streetName": "SUGARCANE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUGARCANE AVE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0Y2",
+        "streetName": "ADDISCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ADDISCOTT ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0Y2",
+        "streetName": "BERRYFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BERRYFIELD WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0Y2",
+        "streetName": "CEDARSPRINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CEDARSPRINGS WAY, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Y7",
+        "streetName": "FEATHER REED",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FEATHER REED WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Y7",
+        "streetName": "MINT LEAF",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MINT LEAF BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2Y7",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J7",
+        "streetName": "MARBLESEED",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MARBLESEED CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4K7",
+    "result": []
+  },
+  {
+    "postal": "L6R7P9",
+    "result": []
+  },
+  {
+    "postal": "L6R8X0",
+    "result": []
+  },
+  {
+    "postal": "L6R3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3X1",
+        "streetName": "BRAMALEA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BRAMALEA RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625,
+          10126626
+        ],
+        "postalCode": "L6R1R5",
+        "streetName": "PRAIRIE ROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PRAIRIE ROSE CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6X6",
+    "result": []
+  },
+  {
+    "postal": "L6R0Y1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0Y1",
+        "streetName": "GOWER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GOWER CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8G1",
+    "result": []
+  },
+  {
+    "postal": "L6R3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3J3",
+        "streetName": "FALCONWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FALCONWOOD PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3J3",
+        "streetName": "KEEPSAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "KEEPSAKE TERR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3J3",
+        "streetName": "LOCUST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LOCUST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3J3",
+        "streetName": "YORKWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "YORKWOOD TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8C2",
+    "result": []
+  },
+  {
+    "postal": "L6R4X9",
+    "result": []
+  },
+  {
+    "postal": "L6R6G9",
+    "result": []
+  },
+  {
+    "postal": "L6R4M3",
+    "result": []
+  },
+  {
+    "postal": "L6R9P7",
+    "result": []
+  },
+  {
+    "postal": "L6R4E5",
+    "result": []
+  },
+  {
+    "postal": "L6R5K9",
+    "result": []
+  },
+  {
+    "postal": "L6R2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2V2",
+        "streetName": "EGYPT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EGYPT DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2V2",
+        "streetName": "HOPECREST",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HOPECREST PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2V2",
+        "streetName": "MAINARD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MAINARD CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2N9",
+        "streetName": "ARABIA",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ARABIA GATE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2N9",
+        "streetName": "GECKO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GECKO CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6L4",
+    "result": []
+  },
+  {
+    "postal": "L6R8E0",
+    "result": []
+  },
+  {
+    "postal": "L6R0N0",
+    "result": []
+  },
+  {
+    "postal": "L6R6R0",
+    "result": []
+  },
+  {
+    "postal": "L6R9C1",
+    "result": []
+  },
+  {
+    "postal": "L6R4H4",
+    "result": []
+  },
+  {
+    "postal": "L6R5W3",
+    "result": []
+  },
+  {
+    "postal": "L6R9N9",
+    "result": []
+  },
+  {
+    "postal": "L6R1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R1V7",
+        "streetName": "DESERT SAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DESERT SAND DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8J1",
+    "result": []
+  },
+  {
+    "postal": "L6R5V9",
+    "result": []
+  },
+  {
+    "postal": "L6R2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2S8",
+        "streetName": "CHECKERBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CHECKERBERRY CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6P0",
+    "result": []
+  },
+  {
+    "postal": "L6R4J8",
+    "result": []
+  },
+  {
+    "postal": "L6R0N1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N1",
+        "streetName": "EDENFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EDENFIELD ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0N1",
+        "streetName": "FATHER TOBIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FATHER TOBIN RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626,
+          10126623
+        ],
+        "postalCode": "L6R1Y7",
+        "streetName": "OATFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "OATFIELD RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623,
+          10126626
+        ],
+        "postalCode": "L6R1Y7",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7W5",
+    "result": []
+  },
+  {
+    "postal": "L6R3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3Z1",
+        "streetName": "DOLBYHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DOLBYHILL DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3Z1",
+        "streetName": "FRINGETREE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FRINGETREE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3Z1",
+        "streetName": "ROCKBANK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROCKBANK RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7M6",
+    "result": []
+  },
+  {
+    "postal": "L6R1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1W7",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R1X1",
+        "streetName": "DANDELION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "DANDELION RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R1X1",
+        "streetName": "FEATHERTOP",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FEATHERTOP LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R0C1",
+        "streetName": "BRAMALEA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BRAMALEA RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4N3",
+    "result": []
+  },
+  {
+    "postal": "L6R4S8",
+    "result": []
+  },
+  {
+    "postal": "L6R1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137113
+        ],
+        "postalCode": "L6R1H6",
+        "streetName": "SAL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SAL CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126620
+        ],
+        "postalCode": "L6R2Z4",
+        "streetName": "GREAT LAKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GREAT LAKES DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7K3",
+    "result": []
+  },
+  {
+    "postal": "L6R8A2",
+    "result": []
+  },
+  {
+    "postal": "L6R6J1",
+    "result": []
+  },
+  {
+    "postal": "L6R5Z6",
+    "result": []
+  },
+  {
+    "postal": "L6R3Z0",
+    "result": []
+  },
+  {
+    "postal": "L6R8M0",
+    "result": []
+  },
+  {
+    "postal": "L6R1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z6",
+        "streetName": "GREAT PLAINS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GREAT PLAINS ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z6",
+        "streetName": "MEADOW GLADE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MEADOW GLADE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z6",
+        "streetName": "RED CLOVER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED CLOVER RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8K7",
+    "result": []
+  },
+  {
+    "postal": "L6R1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1N3",
+        "streetName": "BUTTERCUP",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BUTTERCUP LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1N3",
+        "streetName": "SPRUCELANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRUCELANDS AVE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9S2",
+    "result": []
+  },
+  {
+    "postal": "L6R2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2K1",
+        "streetName": "BUNCHGRASS",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BUNCHGRASS PL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2K1",
+        "streetName": "MINT LEAF",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MINT LEAF BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2K1",
+        "streetName": "WILD INDIGO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILD INDIGO CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137113
+        ],
+        "postalCode": "L6R1E8",
+        "streetName": "EAGLERIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EAGLERIDGE DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137113
+        ],
+        "postalCode": "L6R1E8",
+        "streetName": "ROCKY MOUNTAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROCKY MOUNTAIN CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9B8",
+    "result": []
+  },
+  {
+    "postal": "L6R7X4",
+    "result": []
+  },
+  {
+    "postal": "L6R1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z4",
+        "streetName": "GOLDEN EAGLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "GOLDEN EAGLE RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2C7",
+        "streetName": "SPRINGTOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRINGTOWN TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R2E7",
+        "streetName": "BUNCHBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BUNCHBERRY WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R2E7",
+        "streetName": "HACKBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HACKBERRY GATE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R3R1",
+        "streetName": "SUSSEXVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUSSEXVALE DR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4K4",
+    "result": []
+  },
+  {
+    "postal": "L6R9G3",
+    "result": []
+  },
+  {
+    "postal": "L6R6C9",
+    "result": []
+  },
+  {
+    "postal": "L6R9H5",
+    "result": []
+  },
+  {
+    "postal": "L6R1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10137115
+        ],
+        "postalCode": "L6R1P5",
+        "streetName": "PALMOLIVE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PALMOLIVE ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J5",
+        "streetName": "LEOPARD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LEOPARD GATE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J5",
+        "streetName": "STEEPLEBUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "STEEPLEBUSH AVE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J5",
+        "streetName": "WILDHORSE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILDHORSE LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4W6",
+    "result": []
+  },
+  {
+    "postal": "L6R8M8",
+    "result": []
+  },
+  {
+    "postal": "L6R6C5",
+    "result": []
+  },
+  {
+    "postal": "L6R9H0",
+    "result": []
+  },
+  {
+    "postal": "L6R1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1X8",
+        "streetName": "COACHWHIP",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "COACHWHIP RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1X8",
+        "streetName": "VELVET GRASS",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "VELVET GRASS LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3H4",
+        "streetName": "PINE LANDING",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PINE LANDING TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3H4",
+        "streetName": "ROCKSTEP",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROCKSTEP CRT, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3H4",
+        "streetName": "TRAILHEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TRAILHEAD CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4E7",
+    "result": []
+  },
+  {
+    "postal": "L6R8A0",
+    "result": []
+  },
+  {
+    "postal": "L6R1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z7",
+        "streetName": "BARLEYFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BARLEYFIELD RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z7",
+        "streetName": "MEADOW GLADE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MEADOW GLADE RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1Z7",
+        "streetName": "PETER ROBERTSON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PETER ROBERTSON BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7Z3",
+    "result": []
+  },
+  {
+    "postal": "L6R0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111378
+        ],
+        "postalCode": "L6R0L7",
+        "streetName": "INSPIRATION",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "INSPIRATION WAY, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2C6",
+        "streetName": "SPRINGTOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRINGTOWN TRAIL, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2C6",
+        "streetName": "TIGERLILY",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TIGERLILY PL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6M3",
+    "result": []
+  },
+  {
+    "postal": "L6R2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J1",
+        "streetName": "BARLEYFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BARLEYFIELD RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J1",
+        "streetName": "FLATLANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FLATLANDS WAY, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J1",
+        "streetName": "RED RIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED RIVER DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2J1",
+        "streetName": "ZEBRA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ZEBRA TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3E3",
+        "streetName": "LION PRIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LION PRIDE LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111379
+        ],
+        "postalCode": "L6R3E3",
+        "streetName": "SEDGEGRASS",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SEDGEGRASS WAY, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6Z9",
+    "result": []
+  },
+  {
+    "postal": "L6R3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R3M3",
+        "streetName": "EAGLE PLAINS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EAGLE PLAINS DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376
+        ],
+        "postalCode": "L6R3M3",
+        "streetName": "LUCKY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LUCKY LANE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10111376,
+          10137114,
+          10137112
+        ],
+        "postalCode": "L6R3M3",
+        "streetName": "MOUNTAINASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOUNTAINASH RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137112
+        ],
+        "postalCode": "L6R3M3",
+        "streetName": "UNGAVA BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "UNGAVA BAY RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R9B1",
+    "result": []
+  },
+  {
+    "postal": "L6R9J5",
+    "result": []
+  },
+  {
+    "postal": "L6R4V8",
+    "result": []
+  },
+  {
+    "postal": "L6R6W2",
+    "result": []
+  },
+  {
+    "postal": "L6R0V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0V5",
+        "streetName": "MOIRA CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MOIRA CREEK DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0V5",
+        "streetName": "TOMABROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TOMABROOK CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R0Z8",
+        "streetName": "NAPERTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "NAPERTON DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R0Z8",
+        "streetName": "TEMPLEHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TEMPLEHILL RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R5G2",
+    "result": []
+  },
+  {
+    "postal": "L6R4N4",
+    "result": []
+  },
+  {
+    "postal": "L6R8G7",
+    "result": []
+  },
+  {
+    "postal": "L6R8W1",
+    "result": []
+  },
+  {
+    "postal": "L6R1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1S6",
+        "streetName": "CLOVER BLOOM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CLOVER BLOOM RD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4E0",
+    "result": []
+  },
+  {
+    "postal": "L6R4L9",
+    "result": []
+  },
+  {
+    "postal": "L6R5Z9",
+    "result": []
+  },
+  {
+    "postal": "L6R5V3",
+    "result": []
+  },
+  {
+    "postal": "L6R4V2",
+    "result": []
+  },
+  {
+    "postal": "L6R7C0",
+    "result": []
+  },
+  {
+    "postal": "L6R6L0",
+    "result": []
+  },
+  {
+    "postal": "L6R1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1S9",
+        "streetName": "PETER ROBERTSON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "PETER ROBERTSON BLVD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1S9",
+        "streetName": "TREEPARK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TREEPARK ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R1S9",
+        "streetName": "TWISTED OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "TWISTED OAK ST, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7R6",
+    "result": []
+  },
+  {
+    "postal": "L6R7J0",
+    "result": []
+  },
+  {
+    "postal": "L6R5M0",
+    "result": []
+  },
+  {
+    "postal": "L6R2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2E5",
+        "streetName": "BARLEYFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BARLEYFIELD RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2E5",
+        "streetName": "JACK RABBIT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "JACK RABBIT CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2E5",
+        "streetName": "LEOPARD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LEOPARD GATE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126625
+        ],
+        "postalCode": "L6R2E5",
+        "streetName": "WILDHORSE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILDHORSE LANE, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7C7",
+    "result": []
+  },
+  {
+    "postal": "L6R5C0",
+    "result": []
+  },
+  {
+    "postal": "L6R8V9",
+    "result": []
+  },
+  {
+    "postal": "L6R7E0",
+    "result": []
+  },
+  {
+    "postal": "L6R6R4",
+    "result": []
+  },
+  {
+    "postal": "L6R3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126617
+        ],
+        "postalCode": "L6R3Z7",
+        "streetName": "ROSEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "VIA",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ROSEDALE VIA, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1J9",
+        "streetName": "WILDBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WILDBERRY CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7K6",
+    "result": []
+  },
+  {
+    "postal": "L6R7Y5",
+    "result": []
+  },
+  {
+    "postal": "L6R1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1B7",
+        "streetName": "BLACK OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BLACK OAK DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R1B7",
+        "streetName": "CHIPMUNK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "CHIPMUNK CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4S9",
+    "result": []
+  },
+  {
+    "postal": "L6R9R9",
+    "result": []
+  },
+  {
+    "postal": "L6R5K7",
+    "result": []
+  },
+  {
+    "postal": "L6R6P2",
+    "result": []
+  },
+  {
+    "postal": "L6R2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2C5",
+        "streetName": "LARKSPUR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "LARKSPUR RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2C5",
+        "streetName": "RIBBON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RIBBON DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R2C5",
+        "streetName": "SUNNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SUNNY MEADOW BLVD, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2N0",
+    "result": []
+  },
+  {
+    "postal": "L6R1G0",
+    "result": []
+  },
+  {
+    "postal": "L6R4K5",
+    "result": []
+  },
+  {
+    "postal": "L6R9B5",
+    "result": []
+  },
+  {
+    "postal": "L6R6T5",
+    "result": []
+  },
+  {
+    "postal": "L6R1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R1N8",
+        "streetName": "SPRUCELANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SPRUCELANDS AVE, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126623
+        ],
+        "postalCode": "L6R1N8",
+        "streetName": "WICKSTEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "WICKSTEAD CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R0C0",
+    "result": []
+  },
+  {
+    "postal": "L6R0R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R0R9",
+        "streetName": "EVERINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EVERINGHAM CIR, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7L1",
+    "result": []
+  },
+  {
+    "postal": "L6R3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126616
+        ],
+        "postalCode": "L6R3Y8",
+        "streetName": "VILLADOWNS",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "VILLADOWNS TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R7X9",
+    "result": []
+  },
+  {
+    "postal": "L6R1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R1A7",
+        "streetName": "RAINFOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RAINFOREST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R1A7",
+        "streetName": "RED CEDAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED CEDAR CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2T9",
+        "streetName": "EGYPT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "EGYPT DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R2T9",
+        "streetName": "MAINARD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "MAINARD CRES, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126621
+        ],
+        "postalCode": "L6R2E6",
+        "streetName": "BLACK FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BLACK FOREST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126626
+        ],
+        "postalCode": "L6R2E6",
+        "streetName": "BUNCHBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "BUNCHBERRY WAY, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R8Y1",
+    "result": []
+  },
+  {
+    "postal": "L6R0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J5",
+        "streetName": "ARCTIC FOX",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "ARCTIC FOX CRES, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J5",
+        "streetName": "SLED DOG",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SLED DOG RD, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 9,
+            "name": "Brampton East"
+          }
+        ],
+        "pollDivisionIds": [
+          10137114
+        ],
+        "postalCode": "L6R0J5",
+        "streetName": "SOAPSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "SOAPSTONE TRAIL, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R4J1",
+    "result": []
+  },
+  {
+    "postal": "L6R1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R1A5",
+        "streetName": "FERNFOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "FERNFOREST DR, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R1A5",
+        "streetName": "HOLLYBUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "HOLLYBUSH ST, BRAMPTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 10,
+            "name": "Brampton North"
+          }
+        ],
+        "pollDivisionIds": [
+          10126613
+        ],
+        "postalCode": "L6R1A5",
+        "streetName": "RED SQUIRREL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRAMPTON",
+        "streetNameDisplayText": "RED SQUIRREL CRT, BRAMPTON"
+      }
+    ]
+  },
+  {
+    "postal": "L6R6Z6",
+    "result": []
+  },
+  {
+    "postal": "L6R5K4",
+    "result": []
+  },
+  {
+    "postal": "L6R7R9",
+    "result": []
+  },
+  {
+    "postal": "L6R6G4",
+    "result": []
   }
 ]

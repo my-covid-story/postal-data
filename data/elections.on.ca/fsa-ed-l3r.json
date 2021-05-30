@@ -12880,5 +12880,8566 @@
   {
     "postal": "L3R0W6",
     "result": []
+  },
+  {
+    "postal": "L3R4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R4C5",
+        "streetName": "BUCHANAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BUCHANAN DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7E4",
+    "result": []
+  },
+  {
+    "postal": "L3R1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R1R9",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VICTORIA AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2P0",
+    "result": []
+  },
+  {
+    "postal": "L3R5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5S4",
+        "streetName": "CABOTO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CABOTO TRAIL, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5S4",
+        "streetName": "VINELAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VINELAND ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5K8",
+    "result": []
+  },
+  {
+    "postal": "L3R8K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8K4",
+        "streetName": "HOLLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOLLINGHAM RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7C1",
+    "result": []
+  },
+  {
+    "postal": "L3R7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R7K9",
+        "streetName": "AITKEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "AITKEN CIR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143444
+        ],
+        "postalCode": "L3R5J1",
+        "streetName": "STEELES",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STEELES AVE E, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4P9",
+    "result": []
+  },
+  {
+    "postal": "L3R0N2",
+    "result": []
+  },
+  {
+    "postal": "L3R2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678,
+          10139682
+        ],
+        "postalCode": "L3R2G6",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R6P4",
+        "streetName": "NORTHOLT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NORTHOLT CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3J0",
+    "result": []
+  },
+  {
+    "postal": "L3R8X4",
+    "result": []
+  },
+  {
+    "postal": "L3R1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R1Y3",
+        "streetName": "MAYHOFF",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAYHOFF SQ, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1A8",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6Y5",
+        "streetName": "TANGMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TANGMERE CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0J6",
+    "result": []
+  },
+  {
+    "postal": "L3R2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2C9",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENNEDY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8J6",
+        "streetName": "CONISTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CONISTAN RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8J6",
+        "streetName": "HOLLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOLLINGHAM RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8T4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R8T4",
+        "streetName": "KONRAD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KONRAD CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1P7",
+        "streetName": "EMMELOORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "EMMELOORD CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9V9",
+    "result": []
+  },
+  {
+    "postal": "L3R0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139661
+        ],
+        "postalCode": "L3R0M1",
+        "streetName": "16TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "16TH AVE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139661
+        ],
+        "postalCode": "L3R0M1",
+        "streetName": "16TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "16TH AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6K5",
+        "streetName": "WOODMAN'S CHART",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WOODMAN'S CHART, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R2T5",
+        "streetName": "HUGHSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HUGHSON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7E9",
+        "streetName": "HALDER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HALDER CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139699
+        ],
+        "postalCode": "L3R5K5",
+        "streetName": "SECOND",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SECOND ST S, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139699
+        ],
+        "postalCode": "L3R5K5",
+        "streetName": "SECOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SECOND ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143176,
+          10143175
+        ],
+        "postalCode": "L3R3R5",
+        "streetName": "HIGHGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HIGHGATE DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R5B1",
+        "streetName": "APPLE CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "APPLE CREEK BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          },
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175,
+          10139674
+        ],
+        "postalCode": "L3R2P1",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7L0",
+    "result": []
+  },
+  {
+    "postal": "L3R3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3L6",
+        "streetName": "DENISON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DENISON ST, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2A4",
+        "streetName": "HEMINGWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HEMINGWAY CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8S0",
+    "result": []
+  },
+  {
+    "postal": "L3R3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3L5",
+        "streetName": "ALDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDEN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2R5",
+        "streetName": "STEELCASE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STEELCASE RD E, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R9T6",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R8Z2",
+        "streetName": "ETON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "ETON ST, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R8Z2",
+        "streetName": "JANNA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "JANNA CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0E9",
+    "result": []
+  },
+  {
+    "postal": "L3R8C0",
+    "result": []
+  },
+  {
+    "postal": "L3R3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3K7",
+        "streetName": "GIBSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "GIBSON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R2H3",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2Y6",
+    "result": []
+  },
+  {
+    "postal": "L3R7M2",
+    "result": []
+  },
+  {
+    "postal": "L3R6E2",
+    "result": []
+  },
+  {
+    "postal": "L3R3R0",
+    "result": []
+  },
+  {
+    "postal": "L3R4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R4J7",
+        "streetName": "NORMANDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "NORMANDALE RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R6N8",
+        "streetName": "NORTHOLT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NORTHOLT CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R0J7",
+        "streetName": "BUTTONVILLE",
+        "streetDirectionId": "W",
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BUTTONVILLE CRES W, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R0J7",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177,
+          10143442
+        ],
+        "postalCode": "L3R7P2",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENNEDY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3T8",
+        "streetName": "HEATHROW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HEATHROW CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3S7",
+        "streetName": "HAMPSTEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HAMPSTEAD CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2S7",
+        "streetName": "VILLAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VILLAGE PKY, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R1S4",
+        "streetName": "FRED VARLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FRED VARLEY DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139697
+        ],
+        "postalCode": "L3R1L8",
+        "streetName": "7",
+        "streetDirectionId": "E",
+        "streetTypeId": "HWY",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "7 HWY E, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8E9",
+        "streetName": "KEVLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KEVLIN RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8E9",
+        "streetName": "NOBLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NOBLE ST, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0T0",
+    "result": []
+  },
+  {
+    "postal": "L3R3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3G4",
+        "streetName": "FULLERTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "FULLERTON CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0V6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R0V6",
+        "streetName": "MILLIKEN MEADOWS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MILLIKEN MEADOWS DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139663,
+          10139683
+        ],
+        "postalCode": "L3R4W1",
+        "streetName": "VANESSA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VANESSA RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G9",
+        "streetName": "CAVALRY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CAVALRY TRAIL, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5W4",
+        "streetName": "CABOTO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CABOTO TRAIL, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5W4",
+        "streetName": "VIA JESSICA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VIA JESSICA DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7M8",
+    "result": []
+  },
+  {
+    "postal": "L3R2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139699
+        ],
+        "postalCode": "L3R2C2",
+        "streetName": "SECOND",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SECOND ST S, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139699
+        ],
+        "postalCode": "L3R2C2",
+        "streetName": "SECOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SECOND ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4Y2",
+        "streetName": "KARMA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "KARMA RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R9X9",
+        "streetName": "CROWN STEEL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CROWN STEEL DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3T0",
+    "result": []
+  },
+  {
+    "postal": "L3R4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R4T8",
+        "streetName": "ALLSTATE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALLSTATE PKY, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9C4",
+        "streetName": "CHAPEL",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CHAPEL PL, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8P2",
+        "streetName": "HIGHGLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HIGHGLEN AVE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8P2",
+        "streetName": "KEVLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KEVLIN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R0Y8",
+        "streetName": "WARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WARDEN AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R1G8",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENNEDY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R2T6",
+        "streetName": "HUGHSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HUGHSON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R1N7",
+        "streetName": "PAVILLION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "PAVILLION ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R0L6",
+        "streetName": "OLD KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "OLD KENNEDY RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R0L6",
+        "streetName": "THELMA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "THELMA AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R9V4",
+        "streetName": "STEELES",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STEELES AVE E, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2V1",
+        "streetName": "DON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DON PARK RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R3L8",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R2R8",
+        "streetName": "CABOTO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CABOTO TRAIL, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R2R8",
+        "streetName": "GLENBAR",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "GLENBAR GDNS, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R5C1",
+        "streetName": "UPTOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "UPTOWN DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4W3",
+        "streetName": "VANESSA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VANESSA RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R5X5",
+        "streetName": "WARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WARDEN AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R9W5",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "KENNEDY RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3C4",
+    "result": []
+  },
+  {
+    "postal": "L3R1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1N6",
+        "streetName": "FERRAH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FERRAH ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9S9",
+        "streetName": "RENFREW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RENFREW DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9M2",
+        "streetName": "MARY ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MARY ELIZABETH CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8Y4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R8Y4",
+        "streetName": "AVOCA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "AVOCA DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682,
+          10139684
+        ],
+        "postalCode": "L3R8Y4",
+        "streetName": "SWANSEA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SWANSEA RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7S4",
+        "streetName": "KERRIGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KERRIGAN CRES, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7S4",
+        "streetName": "LOCKRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LOCKRIDGE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139670
+        ],
+        "postalCode": "L3R0K6",
+        "streetName": "16TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "16TH AVE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139670
+        ],
+        "postalCode": "L3R0K6",
+        "streetName": "16TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "16TH AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1W3",
+        "streetName": "KRIEGHOFF",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "KRIEGHOFF AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7R2",
+        "streetName": "FAIRHOLME",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "FAIRHOLME DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2Y9",
+        "streetName": "FERRIER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "FERRIER ST, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7G4",
+        "streetName": "ALDERGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDERGROVE DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7G4",
+        "streetName": "DIGBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DIGBY CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7E5",
+    "result": []
+  },
+  {
+    "postal": "L3R9G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G2",
+        "streetName": "CAPTAIN FRANCIS D",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CAPTAIN FRANCIS D DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G2",
+        "streetName": "CAPTAIN FRANCIS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CAPTAIN FRANCIS DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G2",
+        "streetName": "COLONEL MARR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "COLONEL MARR RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G2",
+        "streetName": "JOHN BUTTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "JOHN BUTTON BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R7Y8",
+        "streetName": "BARLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BARLOW RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R9V2",
+        "streetName": "TIVERTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TIVERTON CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3T7",
+        "streetName": "14TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "14TH AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1H0",
+    "result": []
+  },
+  {
+    "postal": "L3R1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R1M7",
+        "streetName": "7",
+        "streetDirectionId": "E",
+        "streetTypeId": "HWY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "7 HWY E, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R8V4",
+        "streetName": "WATERBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WATERBRIDGE LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4M2",
+        "streetName": "HARVEST MOON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HARVEST MOON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0X2",
+    "result": []
+  },
+  {
+    "postal": "L3R5Z4",
+    "result": []
+  },
+  {
+    "postal": "L3R6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6V4",
+        "streetName": "ASHMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ASHMORE CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8J3",
+        "streetName": "BRANTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BRANTWOOD CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8E5",
+    "result": []
+  },
+  {
+    "postal": "L3R2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2V5",
+        "streetName": "UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "UNION ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7S1",
+        "streetName": "DANBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DANBURY CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6V3",
+        "streetName": "ASHMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ASHMORE CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R2L8",
+        "streetName": "ALDERGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDERGROVE DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R2L8",
+        "streetName": "COMELY",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "COMELY WAY, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R2L8",
+        "streetName": "DEARIE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DEARIE LANE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R2L8",
+        "streetName": "PETLY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "PETLY LANE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9V0",
+    "result": []
+  },
+  {
+    "postal": "L3R3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R3M4",
+        "streetName": "PENNOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "PENNOCK CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R5B2",
+        "streetName": "14TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "14TH AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3X5",
+    "result": []
+  },
+  {
+    "postal": "L3R9R7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R9R7",
+        "streetName": "ALDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDEN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2X2",
+        "streetName": "BRIARWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BRIARWOOD RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R8Z6",
+        "streetName": "MELCHIOR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MELCHIOR CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R4R4",
+        "streetName": "VALENTINA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VALENTINA DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R4R4",
+        "streetName": "WOLTNER",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WOLTNER WAY, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2R1",
+        "streetName": "STIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "STIVER CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3R8",
+        "streetName": "HIGHGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HIGHGATE DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9A1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9A1",
+        "streetName": "JOSIAH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "JOSIAH CRT, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9A1",
+        "streetName": "MELCHIOR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MELCHIOR CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8L3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8L3",
+        "streetName": "CRANLEIGH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CRANLEIGH DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8L3",
+        "streetName": "QUEENSGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "QUEENSGATE CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9K4",
+        "streetName": "TOMLINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TOMLINSON CIR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9S3",
+    "result": []
+  },
+  {
+    "postal": "L3R8N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8N7",
+        "streetName": "WINDSONG",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WINDSONG CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1C6",
+        "streetName": "DON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DON PARK RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R3Z8",
+        "streetName": "PINEBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "HOLLOW",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "PINEBROOK HOLLOW, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R3Z8",
+        "streetName": "PINEBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "HOLLOW",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "PINEBROOK HOLLOW, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674,
+          10139680
+        ],
+        "postalCode": "L3R8G5",
+        "streetName": "TOWN CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TOWN CENTRE BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R5R6",
+        "streetName": "HELEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HELEN AVE, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R5R6",
+        "streetName": "SOUTH UNIONVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SOUTH UNIONVILLE AVE, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R5R6",
+        "streetName": "UNITY GARDENS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "UNITY GARDENS DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2W3",
+    "result": []
+  },
+  {
+    "postal": "L3R0A0",
+    "result": []
+  },
+  {
+    "postal": "L3R6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R6P8",
+        "streetName": "BRACKIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BRACKIN RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R6P8",
+        "streetName": "EDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "EDEN AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8N9",
+        "streetName": "LOGANBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LOGANBERRY CRT, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8N9",
+        "streetName": "MALLORY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MALLORY AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R0S9",
+        "streetName": "14TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "14TH AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8G0",
+    "result": []
+  },
+  {
+    "postal": "L3R8C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R8C7",
+        "streetName": "MCINTOSH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MCINTOSH DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R5X8",
+        "streetName": "14TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "14TH AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7E8",
+        "streetName": "HALDER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HALDER CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6X2",
+    "result": []
+  },
+  {
+    "postal": "L3R4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R4C6",
+        "streetName": "BUCHANAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BUCHANAN DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7H2",
+        "streetName": "DIGBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DIGBY CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4R0",
+    "result": []
+  },
+  {
+    "postal": "L3R6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6J3",
+        "streetName": "HEDGEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HEDGEWOOD DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6J3",
+        "streetName": "MARSHFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "HOLLOW",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MARSHFIELD HOLLOW, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4B8",
+        "streetName": "MCNABB",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MCNABB ST, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678,
+          10139662
+        ],
+        "postalCode": "L3R6H6",
+        "streetName": "WRENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WRENWOOD CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R0S1",
+        "streetName": "MILFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MILFORD LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R4E3",
+        "streetName": "SPANHOUSE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SPANHOUSE CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7K2",
+        "streetName": "STIRLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STIRLING CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7T8",
+    "result": []
+  },
+  {
+    "postal": "L3R0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R0J9",
+        "streetName": "BUTTONVILLE",
+        "streetDirectionId": "E",
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BUTTONVILLE CRES E, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R0J9",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R5J9",
+        "streetName": "RIVIERA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RIVIERA DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5S7",
+    "result": []
+  },
+  {
+    "postal": "L3R0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R0G9",
+        "streetName": "14TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "14TH AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3J9",
+        "streetName": "STEELCASE",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STEELCASE RD W, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2Y0",
+    "result": []
+  },
+  {
+    "postal": "L3R8X5",
+    "result": []
+  },
+  {
+    "postal": "L3R2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2M7",
+        "streetName": "VICTORIA PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "VICTORIA PARK AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R9Z3",
+        "streetName": "HOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOOD RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7W2",
+        "streetName": "CARNFORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CARNFORTH DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7W2",
+        "streetName": "HOLLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOLLINGHAM RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3W0",
+    "result": []
+  },
+  {
+    "postal": "L3R3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R3M1",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6A5",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2M9",
+        "streetName": "TORBAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TORBAY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5C3",
+        "streetName": "HARRY COOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HARRY COOK DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5C3",
+        "streetName": "IAN BARON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "IAN BARON AVE, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5C3",
+        "streetName": "SOUTH UNIONVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "SOUTH UNIONVILLE AVE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5C3",
+        "streetName": "SOUTH UNIONVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SOUTH UNIONVILLE AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0Y6",
+    "result": []
+  },
+  {
+    "postal": "L3R9H7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9H7",
+        "streetName": "MILITIA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MILITIA TRAIL, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3L0",
+    "result": []
+  },
+  {
+    "postal": "L3R5N9",
+    "result": []
+  },
+  {
+    "postal": "L3R5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R5E3",
+        "streetName": "VILLAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VILLAGE PKY, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7M9",
+    "result": []
+  },
+  {
+    "postal": "L3R8N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R8N2",
+        "streetName": "ALDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDEN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9H3",
+        "streetName": "CAVALRY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CAVALRY TRAIL, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2K8",
+        "streetName": "VILLAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VILLAGE PKY, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9L0",
+    "result": []
+  },
+  {
+    "postal": "L3R6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6L9",
+        "streetName": "BERKELEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BERKELEY CRT, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6L9",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VICTORIA AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R6A8",
+        "streetName": "ALDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDEN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2K6",
+        "streetName": "JEREMY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "JEREMY DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2M0",
+    "result": []
+  },
+  {
+    "postal": "L3R5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5X7",
+        "streetName": "CABOTO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CABOTO TRAIL, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5X7",
+        "streetName": "KINGSLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "KINGSLEY RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R0M7",
+        "streetName": "GIBSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "GIBSON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R7A6",
+        "streetName": "DUXFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DUXFORD CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3C5",
+        "streetName": "RISEBROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CIRCT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RISEBROUGH CIRCT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2P2",
+    "result": []
+  },
+  {
+    "postal": "L3R9N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R9N4",
+        "streetName": "LANDMARK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "LANDMARK CRT, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R9N4",
+        "streetName": "STRATFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "STRATFORD CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143176
+        ],
+        "postalCode": "L3R3M9",
+        "streetName": "HARVEST MOON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HARVEST MOON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8K6",
+        "streetName": "CONISTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CONISTAN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R1L2",
+        "streetName": "CABOTO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CABOTO TRAIL, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2Z9",
+        "streetName": "AMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "AMBER ST, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2S2",
+        "streetName": "ESNA PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ESNA PARK DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2W2",
+        "streetName": "STEELCASE",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STEELCASE RD W, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2C3",
+        "streetName": "SECOND",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SECOND ST S, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6L7",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6L7",
+        "streetName": "STANFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "STANFORD RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3K0",
+    "result": []
+  },
+  {
+    "postal": "L3R3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3C1",
+        "streetName": "RISEBROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CIRCT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RISEBROUGH CIRCT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6M9",
+    "result": []
+  },
+  {
+    "postal": "L3R4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R4N9",
+        "streetName": "HASTINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HASTINGS DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R3Y7",
+        "streetName": "FERNDELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FERNDELL CIR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2A9",
+        "streetName": "WEMBLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WEMBLEY AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6H5",
+        "streetName": "WRENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WRENWOOD CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R8B4",
+        "streetName": "WARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WARDEN AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R4Z2",
+        "streetName": "EASTPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "EASTPINE DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9J0",
+    "result": []
+  },
+  {
+    "postal": "L3R7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7V7",
+        "streetName": "GLAMORGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "GLAMORGAN CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R5T5",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "KENNEDY RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4W5",
+        "streetName": "RALEIGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "RALEIGH CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1T8",
+        "streetName": "MARKHAVEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MARKHAVEN RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G6",
+        "streetName": "BUTTONFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BUTTONFIELD RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1H3",
+        "streetName": "ESNA PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ESNA PARK DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5R5",
+    "result": []
+  },
+  {
+    "postal": "L3R8A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R8A4",
+        "streetName": "BARLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BARLOW RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R8A4",
+        "streetName": "HALSTEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HALSTEAD DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3T6",
+        "streetName": "CROXLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "GREEN",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CROXLEY GREEN, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9W8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R9W8",
+        "streetName": "ROYAL CREST",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ROYAL CREST CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R0N3",
+        "streetName": "WARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WARDEN AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7V0",
+    "result": []
+  },
+  {
+    "postal": "L3R8T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R8T5",
+        "streetName": "CENTURIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CENTURIAN DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5N3",
+    "result": []
+  },
+  {
+    "postal": "L3R5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5G9",
+        "streetName": "ATTILIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "ATTILIO ST, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5G9",
+        "streetName": "BIANCA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BIANCA DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684,
+          10139676
+        ],
+        "postalCode": "L3R5G9",
+        "streetName": "JOHN GARY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "JOHN GARY DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3X8",
+        "streetName": "COTTSMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "COTTSMORE CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9R3",
+    "result": []
+  },
+  {
+    "postal": "L3R2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2S1",
+        "streetName": "ALDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDEN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9J7",
+        "streetName": "TOMLINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TOMLINSON CIR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R2J3",
+        "streetName": "SCIBERRAS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SCIBERRAS RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143176
+        ],
+        "postalCode": "L3R3B6",
+        "streetName": "RISEBROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CIRCT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RISEBROUGH CIRCT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8J0",
+    "result": []
+  },
+  {
+    "postal": "L3R7R4",
+    "result": []
+  },
+  {
+    "postal": "L3R8K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8K8",
+        "streetName": "CONISTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CONISTAN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4P3",
+        "streetName": "MADSEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MADSEN CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R0A2",
+        "streetName": "ROYAL CREST",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ROYAL CREST CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2G2",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5Y9",
+        "streetName": "HARRY COOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HARRY COOK DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7X0",
+    "result": []
+  },
+  {
+    "postal": "L3R7W3",
+    "result": []
+  },
+  {
+    "postal": "L3R7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7X5",
+        "streetName": "CALDERBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CALDERBRIDGE CRES, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7X5",
+        "streetName": "HOLLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOLLINGHAM RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R5K6",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5B6",
+    "result": []
+  },
+  {
+    "postal": "L3R7Z0",
+    "result": []
+  },
+  {
+    "postal": "L3R9H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9H6",
+        "streetName": "MILITIA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MILITIA TRAIL, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1B4",
+        "streetName": "WARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WARDEN AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1A0",
+    "result": []
+  },
+  {
+    "postal": "L3R9A0",
+    "result": []
+  },
+  {
+    "postal": "L3R1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R1M6",
+        "streetName": "7",
+        "streetDirectionId": "E",
+        "streetTypeId": "HWY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "7 HWY E, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5H0",
+    "result": []
+  },
+  {
+    "postal": "L3R1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R1K6",
+        "streetName": "RIVER BEND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "RIVER BEND RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5E1",
+        "streetName": "LUCIEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "LUCIEN ST, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684,
+          10139663
+        ],
+        "postalCode": "L3R5E1",
+        "streetName": "SOUTH UNIONVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SOUTH UNIONVILLE AVE, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5E1",
+        "streetName": "ZIO CARLO",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "ZIO CARLO DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3T9",
+        "streetName": "TIFFANY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TIFFANY CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2M6",
+    "result": []
+  },
+  {
+    "postal": "L3R0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R0G5",
+        "streetName": "KONRAD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KONRAD CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0Y2",
+    "result": []
+  },
+  {
+    "postal": "L3R2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2Y7",
+        "streetName": "VICTORIA PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "VICTORIA PARK AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R2J7",
+        "streetName": "RYCROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "RYCROFT DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R4K7",
+        "streetName": "VILLAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VILLAGE PKY, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7P9",
+    "result": []
+  },
+  {
+    "postal": "L3R8X0",
+    "result": []
+  },
+  {
+    "postal": "L3R3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3X1",
+        "streetName": "14TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "14TH AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1R5",
+        "streetName": "FITZGERALD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FITZGERALD AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6X6",
+        "streetName": "KENLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENLEY CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0Y1",
+    "result": []
+  },
+  {
+    "postal": "L3R8G1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8G1",
+        "streetName": "NOBLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NOBLE ST, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R8G1",
+        "streetName": "REGAL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "REGAL CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3J3",
+        "streetName": "RISEBROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CIRCT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RISEBROUGH CIRCT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8C2",
+    "result": []
+  },
+  {
+    "postal": "L3R4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R4X9",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6G9",
+    "result": []
+  },
+  {
+    "postal": "L3R4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4M3",
+        "streetName": "HARVEST MOON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HARVEST MOON DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R9P7",
+        "streetName": "VERCLAIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VERCLAIRE GATE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R4E5",
+        "streetName": "THE BRIDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "THE BRIDLE TRAIL, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143530
+        ],
+        "postalCode": "L3R5K9",
+        "streetName": "SUN YAT-SEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "SUN YAT-SEN AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2V2",
+        "streetName": "DON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DON PARK RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2N9",
+        "streetName": "MEADOWBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MEADOWBROOK LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6L4",
+    "result": []
+  },
+  {
+    "postal": "L3R8E0",
+    "result": []
+  },
+  {
+    "postal": "L3R0N0",
+    "result": []
+  },
+  {
+    "postal": "L3R6R0",
+    "result": []
+  },
+  {
+    "postal": "L3R9C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9C1",
+        "streetName": "BURR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BURR CRES, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9C1",
+        "streetName": "JOHN BUTTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "JOHN BUTTON BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R4H4",
+        "streetName": "BAUER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BAUER CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5W3",
+        "streetName": "VIA JESSICA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VIA JESSICA DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R9N9",
+        "streetName": "BUCHANAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BUCHANAN DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R9N9",
+        "streetName": "CHILLWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CHILLWOOD CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1V7",
+        "streetName": "FONTHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FONTHILL BLVD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8J1",
+        "streetName": "HEATHMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HEATHMORE CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5V9",
+        "streetName": "CABOTO",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CABOTO TRAIL, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R5V9",
+        "streetName": "RAINTREE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "RAINTREE DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2S8",
+    "result": []
+  },
+  {
+    "postal": "L3R6P0",
+    "result": []
+  },
+  {
+    "postal": "L3R4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R4J8",
+        "streetName": "NORMANDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "NORMANDALE RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0N1",
+    "result": []
+  },
+  {
+    "postal": "L3R1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R1Y7",
+        "streetName": "CHANT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CHANT CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7W5",
+        "streetName": "LOWESWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LOWESWATER AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R3Z1",
+        "streetName": "REDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "REDWOOD LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7M6",
+    "result": []
+  },
+  {
+    "postal": "L3R1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R1W7",
+        "streetName": "GAINSVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "GAINSVILLE AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R1X1",
+        "streetName": "GAINSVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "GAINSVILLE AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R0C1",
+        "streetName": "MONTGOMERY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MONTGOMERY CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4N3",
+        "streetName": "HOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOOD RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4S8",
+        "streetName": "KARMA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "KARMA RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R1H6",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENNEDY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R2Z4",
+        "streetName": "DENISON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DENISON ST, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143179
+        ],
+        "postalCode": "L3R7K3",
+        "streetName": "STIRLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STIRLING CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R8A2",
+        "streetName": "BARLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BARLOW RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6J1",
+    "result": []
+  },
+  {
+    "postal": "L3R5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R5Z6",
+        "streetName": "TOWN CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TOWN CENTRE BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3Z0",
+    "result": []
+  },
+  {
+    "postal": "L3R8M0",
+    "result": []
+  },
+  {
+    "postal": "L3R1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R1Z6",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R8K7",
+        "streetName": "CONISTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CONISTAN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R1N3",
+        "streetName": "7",
+        "streetDirectionId": "E",
+        "streetTypeId": "HWY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "7 HWY E, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R9S2",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R2K1",
+        "streetName": "CALLAHAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CALLAHAN RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1E8",
+        "streetName": "STEELCASE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "STEELCASE RD E, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9B8",
+        "streetName": "BURR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BURR CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7X4",
+        "streetName": "COLEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "COLEDALE RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R7X4",
+        "streetName": "HOLLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOLLINGHAM RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1Z4",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R2C7",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENNEDY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2E7",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143176
+        ],
+        "postalCode": "L3R3R1",
+        "streetName": "LARKSMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LARKSMERE CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R4K4",
+        "streetName": "RITTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "RITTER CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9G3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G3",
+        "streetName": "BUTTONFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BUTTONFIELD RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9G3",
+        "streetName": "MUSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MUSTER CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R6C9",
+        "streetName": "APPLE CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "APPLE CREEK BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9H5",
+        "streetName": "MILITIA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MILITIA TRAIL, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R1P5",
+        "streetName": "EUCLID",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "EUCLID ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R2J5",
+        "streetName": "SCIBERRAS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SCIBERRAS RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R4W6",
+        "streetName": "CARIGLIA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARIGLIA TRAIL, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R4W6",
+        "streetName": "REMBRANDT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "REMBRANDT DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R4W6",
+        "streetName": "SOUTH UNIONVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SOUTH UNIONVILLE AVE, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R4W6",
+        "streetName": "VIA JESSICA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VIA JESSICA DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676,
+          10139680
+        ],
+        "postalCode": "L3R8M8",
+        "streetName": "CORBY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "CORBY RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6C5",
+        "streetName": "LONGWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "CHASE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "LONGWATER CHASE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9H0",
+    "result": []
+  },
+  {
+    "postal": "L3R1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R1X8",
+        "streetName": "POMANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "POMANDER RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R3H4",
+        "streetName": "PAVILLION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "PAVILLION ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R4E7",
+        "streetName": "THE BRIDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "THE BRIDLE TRAIL, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8A0",
+    "result": []
+  },
+  {
+    "postal": "L3R1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1Z7",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R7Z3",
+        "streetName": "HALSTEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HALSTEAD DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R0L7",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "KENNEDY RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R0L7",
+        "streetName": "LEE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LEE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2C6",
+        "streetName": "MEADOWBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MEADOWBROOK LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R6M3",
+        "streetName": "BERKELEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "BERKELEY CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2J1",
+    "result": []
+  },
+  {
+    "postal": "L3R3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R3E3",
+        "streetName": "RISEBROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CIRCT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RISEBROUGH CIRCT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6Z9",
+        "streetName": "ALDERGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDERGROVE DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6Z9",
+        "streetName": "HENDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HENDON RD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6Z9",
+        "streetName": "MANSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MANSTON CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R3M3",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "CARLTON RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9B1",
+        "streetName": "JOHN STIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "JOHN STIVER CRES, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9B1",
+        "streetName": "WILLIAM CRAIG",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WILLIAM CRAIG CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9J5",
+        "streetName": "JOHN BUTTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "JOHN BUTTON BLVD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4V8",
+        "streetName": "MARKVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MARKVILLE RD, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6W2",
+        "streetName": "DUNBAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DUNBAR CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R0V5",
+        "streetName": "GREENSBORO",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "GREENSBORO DR, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R0V5",
+        "streetName": "MACON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MACON PL, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R0V5",
+        "streetName": "MILLIKEN MEADOWS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "MILLIKEN MEADOWS DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0Z8",
+    "result": []
+  },
+  {
+    "postal": "L3R5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R5G2",
+        "streetName": "BIRCHMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BIRCHMOUNT RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4N4",
+        "streetName": "ALDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ALDEN RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8G7",
+    "result": []
+  },
+  {
+    "postal": "L3R8W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R8W1",
+        "streetName": "FOXMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FOXMEADOW LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1S6",
+        "streetName": "FRED VARLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FRED VARLEY DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4E0",
+    "result": []
+  },
+  {
+    "postal": "L3R4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4L9",
+        "streetName": "NOLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NOLAN CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R5Z9",
+        "streetName": "LEGENDS",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LEGENDS WAY, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R5V3",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139683
+        ],
+        "postalCode": "L3R4V2",
+        "streetName": "MILEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MILEY DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7C0",
+    "result": []
+  },
+  {
+    "postal": "L3R6L0",
+    "result": []
+  },
+  {
+    "postal": "L3R1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R1S9",
+        "streetName": "FRED VARLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FRED VARLEY DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7R6",
+    "result": []
+  },
+  {
+    "postal": "L3R7J0",
+    "result": []
+  },
+  {
+    "postal": "L3R5M0",
+    "result": []
+  },
+  {
+    "postal": "L3R2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2E5",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7C7",
+    "result": []
+  },
+  {
+    "postal": "L3R5C0",
+    "result": []
+  },
+  {
+    "postal": "L3R8V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R8V9",
+        "streetName": "WATERBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WATERBRIDGE LANE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R8V9",
+        "streetName": "WATERBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "WATERBRIDGE LANE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7E0",
+    "result": []
+  },
+  {
+    "postal": "L3R6R4",
+    "result": []
+  },
+  {
+    "postal": "L3R3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R3Z7",
+        "streetName": "JUNIPER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "JUNIPER CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R1J9",
+        "streetName": "HELEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HELEN AVE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R1J9",
+        "streetName": "HELEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "HELEN AVE, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677,
+          10139678
+        ],
+        "postalCode": "L3R7K6",
+        "streetName": "AITKEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "AITKEN CIR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R7K6",
+        "streetName": "ROVERDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "ROVERDALE CRT, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R7Y5",
+        "streetName": "NADINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NADINE CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1B7",
+        "streetName": "DENISON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DENISON ST, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1B7",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R4S9",
+        "streetName": "BLACKCOMB",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "BLACKCOMB GATE, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R4S9",
+        "streetName": "WHISTLER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WHISTLER CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R9R9",
+        "streetName": "COCHRANE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "COCHRANE DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681,
+          10139678
+        ],
+        "postalCode": "L3R5K7",
+        "streetName": "E J LENNOX",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "E J LENNOX WAY, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143177
+        ],
+        "postalCode": "L3R6P2",
+        "streetName": "NORTHOLT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "NORTHOLT CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2C5",
+        "streetName": "SECOND",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "SECOND ST N, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2N0",
+    "result": []
+  },
+  {
+    "postal": "L3R1G0",
+    "result": []
+  },
+  {
+    "postal": "L3R4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139677
+        ],
+        "postalCode": "L3R4K5",
+        "streetName": "RITTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "RITTER CRES, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R9B5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139675
+        ],
+        "postalCode": "L3R9B5",
+        "streetName": "JOHN STIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "JOHN STIVER CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6T5",
+        "streetName": "ASHMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ASHMORE CRES, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6T5",
+        "streetName": "TEDDINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "TEDDINGTON AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R1N8",
+        "streetName": "PAVILLION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "PAVILLION ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0C0",
+    "result": []
+  },
+  {
+    "postal": "L3R0R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139681
+        ],
+        "postalCode": "L3R0R9",
+        "streetName": "GUILDFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "GUILDFORD CIR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R7L1",
+        "streetName": "AITKEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "AITKEN CIR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139678
+        ],
+        "postalCode": "L3R3Y8",
+        "streetName": "FERNDELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "FERNDELL CIR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R7X9",
+        "streetName": "APPLE CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "APPLE CREEK BLVD, MARKHAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139680
+        ],
+        "postalCode": "L3R7X9",
+        "streetName": "HOLLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HOLLINGHAM RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1A7",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R2T9",
+        "streetName": "LUNAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "LUNAR CRES, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139682
+        ],
+        "postalCode": "L3R2E6",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "MAIN ST, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R8Y1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684
+        ],
+        "postalCode": "L3R8Y1",
+        "streetName": "AVOCA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "AVOCA DR, UNIONVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139684,
+          10139682
+        ],
+        "postalCode": "L3R8Y1",
+        "streetName": "VALENTINA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "UNIONVILLE",
+        "streetNameDisplayText": "VALENTINA DR, UNIONVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L3R0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R0J5",
+        "streetName": "7",
+        "streetDirectionId": "E",
+        "streetTypeId": "HWY",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "7 HWY E, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R4J1",
+        "streetName": "ESNA PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "ESNA PARK DR, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143175
+        ],
+        "postalCode": "L3R1A5",
+        "streetName": "WOODBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "WOODBINE AVE, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 57,
+            "name": "Markham—Thornhill"
+          }
+        ],
+        "pollDivisionIds": [
+          10143442
+        ],
+        "postalCode": "L3R6Z6",
+        "streetName": "HENDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "HENDON RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139674
+        ],
+        "postalCode": "L3R5K4",
+        "streetName": "RODICK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "RODICK RD, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 58,
+            "name": "Markham—Unionville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139676
+        ],
+        "postalCode": "L3R7R9",
+        "streetName": "DANBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MARKHAM",
+        "streetNameDisplayText": "DANBURY CRT, MARKHAM"
+      }
+    ]
+  },
+  {
+    "postal": "L3R6G4",
+    "result": []
   }
 ]

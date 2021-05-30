@@ -6185,5 +6185,4264 @@
   {
     "postal": "L2S0W6",
     "result": []
+  },
+  {
+    "postal": "L2S4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S4C5",
+        "streetName": "NICHOLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "NICHOLAS DR, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S4C5",
+        "streetName": "WESTMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WESTMOUNT CRT, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7E4",
+    "result": []
+  },
+  {
+    "postal": "L2S1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1R9",
+        "streetName": "HILLVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HILLVIEW RD N, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2P0",
+    "result": []
+  },
+  {
+    "postal": "L2S5S4",
+    "result": []
+  },
+  {
+    "postal": "L2S5K8",
+    "result": []
+  },
+  {
+    "postal": "L2S8K4",
+    "result": []
+  },
+  {
+    "postal": "L2S7C1",
+    "result": []
+  },
+  {
+    "postal": "L2S7K9",
+    "result": []
+  },
+  {
+    "postal": "L2S5J1",
+    "result": []
+  },
+  {
+    "postal": "L2S4P9",
+    "result": []
+  },
+  {
+    "postal": "L2S0N2",
+    "result": []
+  },
+  {
+    "postal": "L2S2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2G6",
+        "streetName": "PERMILLA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PERMILLA ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6P4",
+    "result": []
+  },
+  {
+    "postal": "L2S3J0",
+    "result": []
+  },
+  {
+    "postal": "L2S8X4",
+    "result": []
+  },
+  {
+    "postal": "L2S1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907,
+          10139910
+        ],
+        "postalCode": "L2S1Y3",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907,
+          10139910
+        ],
+        "postalCode": "L2S1A8",
+        "streetName": "ROSEMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ROSEMORE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6Y5",
+    "result": []
+  },
+  {
+    "postal": "L2S0J6",
+    "result": []
+  },
+  {
+    "postal": "L2S2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          },
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906,
+          10141357
+        ],
+        "postalCode": "L2S2C9",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8J6",
+    "result": []
+  },
+  {
+    "postal": "L2S8T4",
+    "result": []
+  },
+  {
+    "postal": "L2S1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1P7",
+        "streetName": "LISGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LISGAR ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9V9",
+    "result": []
+  },
+  {
+    "postal": "L2S0M1",
+    "result": []
+  },
+  {
+    "postal": "L2S6K5",
+    "result": []
+  },
+  {
+    "postal": "L2S2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S2T5",
+        "streetName": "LOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LOUTH ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7E9",
+    "result": []
+  },
+  {
+    "postal": "L2S5K5",
+    "result": []
+  },
+  {
+    "postal": "L2S3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3R5",
+        "streetName": "HUNTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HUNTINGTON LANE, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5B1",
+    "result": []
+  },
+  {
+    "postal": "L2S2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2P1",
+        "streetName": "LLOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LLOYD ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7L0",
+    "result": []
+  },
+  {
+    "postal": "L2S3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3L6",
+        "streetName": "STRADA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STRADA BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2A4",
+        "streetName": "CHETWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CHETWOOD ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8S0",
+    "result": []
+  },
+  {
+    "postal": "L2S3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3L5",
+        "streetName": "STRADA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STRADA BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2R5",
+    "result": []
+  },
+  {
+    "postal": "L2S9T6",
+    "result": []
+  },
+  {
+    "postal": "L2S8Z2",
+    "result": []
+  },
+  {
+    "postal": "L2S0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S0E9",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8C0",
+    "result": []
+  },
+  {
+    "postal": "L2S3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3K7",
+        "streetName": "BASCARY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BASCARY CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3K7",
+        "streetName": "STRADA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STRADA BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2H3",
+        "streetName": "RIDLEY",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "RIDLEY RD W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2Y6",
+        "streetName": "MARTINDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MARTINDALE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7M2",
+    "result": []
+  },
+  {
+    "postal": "L2S6E2",
+    "result": []
+  },
+  {
+    "postal": "L2S3R0",
+    "result": []
+  },
+  {
+    "postal": "L2S4J7",
+    "result": []
+  },
+  {
+    "postal": "L2S6N8",
+    "result": []
+  },
+  {
+    "postal": "L2S0J7",
+    "result": []
+  },
+  {
+    "postal": "L2S7P2",
+    "result": []
+  },
+  {
+    "postal": "L2S3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3T8",
+        "streetName": "FOX TRAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FOX TRAIL DR, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3T8",
+        "streetName": "RYKERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "RYKERT ST, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3T8",
+        "streetName": "VANSICKLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VANSICKLE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S3S7",
+        "streetName": "WELLAND VALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WELLAND VALE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2S7",
+        "streetName": "VANSICKLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VANSICKLE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1S4",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1L8",
+        "streetName": "MORRIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MORRIS ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8E9",
+    "result": []
+  },
+  {
+    "postal": "L2S0T0",
+    "result": []
+  },
+  {
+    "postal": "L2S3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S3G4",
+        "streetName": "ELDERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ELDERWOOD DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S0V6",
+    "result": []
+  },
+  {
+    "postal": "L2S4W1",
+    "result": []
+  },
+  {
+    "postal": "L2S9G9",
+    "result": []
+  },
+  {
+    "postal": "L2S5W4",
+    "result": []
+  },
+  {
+    "postal": "L2S7M8",
+    "result": []
+  },
+  {
+    "postal": "L2S2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2C2",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2C2",
+        "streetName": "ST. PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4Y2",
+    "result": []
+  },
+  {
+    "postal": "L2S9X9",
+    "result": []
+  },
+  {
+    "postal": "L2S3T0",
+    "result": []
+  },
+  {
+    "postal": "L2S4T8",
+    "result": []
+  },
+  {
+    "postal": "L2S9C4",
+    "result": []
+  },
+  {
+    "postal": "L2S8P2",
+    "result": []
+  },
+  {
+    "postal": "L2S0Y8",
+    "result": []
+  },
+  {
+    "postal": "L2S1G8",
+    "result": []
+  },
+  {
+    "postal": "L2S2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S2T6",
+        "streetName": "LOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LOUTH ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1N7",
+    "result": []
+  },
+  {
+    "postal": "L2S0L6",
+    "result": []
+  },
+  {
+    "postal": "L2S9V4",
+    "result": []
+  },
+  {
+    "postal": "L2S2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2V1",
+        "streetName": "CORONATION",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CORONATION BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3L8",
+        "streetName": "STRADA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STRADA BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2R8",
+        "streetName": "WESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WESTDALE DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5C1",
+    "result": []
+  },
+  {
+    "postal": "L2S4W3",
+    "result": []
+  },
+  {
+    "postal": "L2S5X5",
+    "result": []
+  },
+  {
+    "postal": "L2S9W5",
+    "result": []
+  },
+  {
+    "postal": "L2S3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S3C4",
+        "streetName": "CORNWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CORNWELL CIR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          },
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906,
+          10141356
+        ],
+        "postalCode": "L2S1N6",
+        "streetName": "BELLEVUE",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BELLEVUE TERR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9S9",
+    "result": []
+  },
+  {
+    "postal": "L2S9M2",
+    "result": []
+  },
+  {
+    "postal": "L2S8Y4",
+    "result": []
+  },
+  {
+    "postal": "L2S7S4",
+    "result": []
+  },
+  {
+    "postal": "L2S0K6",
+    "result": []
+  },
+  {
+    "postal": "L2S1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1W3",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7R2",
+    "result": []
+  },
+  {
+    "postal": "L2S2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2Y9",
+        "streetName": "BURDY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BURDY DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7G4",
+    "result": []
+  },
+  {
+    "postal": "L2S7E5",
+    "result": []
+  },
+  {
+    "postal": "L2S9G2",
+    "result": []
+  },
+  {
+    "postal": "L2S7Y8",
+    "result": []
+  },
+  {
+    "postal": "L2S9V2",
+    "result": []
+  },
+  {
+    "postal": "L2S3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3T7",
+        "streetName": "FOX TRAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FOX TRAIL DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1H0",
+    "result": []
+  },
+  {
+    "postal": "L2S1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1M7",
+        "streetName": "ST PAUL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8V4",
+    "result": []
+  },
+  {
+    "postal": "L2S4M2",
+    "result": []
+  },
+  {
+    "postal": "L2S0X2",
+    "result": []
+  },
+  {
+    "postal": "L2S5Z4",
+    "result": []
+  },
+  {
+    "postal": "L2S6V4",
+    "result": []
+  },
+  {
+    "postal": "L2S8J3",
+    "result": []
+  },
+  {
+    "postal": "L2S8E5",
+    "result": []
+  },
+  {
+    "postal": "L2S2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2V5",
+        "streetName": "FAWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FAWELL AVE, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7S1",
+    "result": []
+  },
+  {
+    "postal": "L2S6V3",
+    "result": []
+  },
+  {
+    "postal": "L2S2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2L8",
+        "streetName": "DEXTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "DEXTER ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9V0",
+    "result": []
+  },
+  {
+    "postal": "L2S3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3M4",
+        "streetName": "CARMINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CARMINE CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5B2",
+    "result": []
+  },
+  {
+    "postal": "L2S3X5",
+    "result": []
+  },
+  {
+    "postal": "L2S9R7",
+    "result": []
+  },
+  {
+    "postal": "L2S2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2X2",
+        "streetName": "VIOLET",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VIOLET ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8Z6",
+    "result": []
+  },
+  {
+    "postal": "L2S4R4",
+    "result": []
+  },
+  {
+    "postal": "L2S2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2R1",
+        "streetName": "EDITH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "EDITH ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3R8",
+        "streetName": "HUNTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HUNTINGTON LANE, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3R8",
+        "streetName": "STONEY BROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STONEY BROOK CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9A1",
+    "result": []
+  },
+  {
+    "postal": "L2S8L3",
+    "result": []
+  },
+  {
+    "postal": "L2S9K4",
+    "result": []
+  },
+  {
+    "postal": "L2S9S3",
+    "result": []
+  },
+  {
+    "postal": "L2S8N7",
+    "result": []
+  },
+  {
+    "postal": "L2S1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1C6",
+        "streetName": "PARKER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PARKER ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3Z8",
+        "streetName": "BROWN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BROWN DR, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3Z8",
+        "streetName": "MCBRIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MCBRIDE DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8G5",
+    "result": []
+  },
+  {
+    "postal": "L2S5R6",
+    "result": []
+  },
+  {
+    "postal": "L2S2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2W3",
+        "streetName": "GRAPEVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "GRAPEVIEW DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S0A0",
+    "result": []
+  },
+  {
+    "postal": "L2S6P8",
+    "result": []
+  },
+  {
+    "postal": "L2S8N9",
+    "result": []
+  },
+  {
+    "postal": "L2S0S9",
+    "result": []
+  },
+  {
+    "postal": "L2S8G0",
+    "result": []
+  },
+  {
+    "postal": "L2S8C7",
+    "result": []
+  },
+  {
+    "postal": "L2S5X8",
+    "result": []
+  },
+  {
+    "postal": "L2S7E8",
+    "result": []
+  },
+  {
+    "postal": "L2S6X2",
+    "result": []
+  },
+  {
+    "postal": "L2S4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S4C6",
+        "streetName": "NICHOLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "NICHOLAS DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7H2",
+    "result": []
+  },
+  {
+    "postal": "L2S4R0",
+    "result": []
+  },
+  {
+    "postal": "L2S6J3",
+    "result": []
+  },
+  {
+    "postal": "L2S4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S4B8",
+        "streetName": "LOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LOUTH ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6H6",
+    "result": []
+  },
+  {
+    "postal": "L2S0S1",
+    "result": []
+  },
+  {
+    "postal": "L2S4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S4E3",
+        "streetName": "MCBRIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MCBRIDE DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7K2",
+    "result": []
+  },
+  {
+    "postal": "L2S7T8",
+    "result": []
+  },
+  {
+    "postal": "L2S0J9",
+    "result": []
+  },
+  {
+    "postal": "L2S5J9",
+    "result": []
+  },
+  {
+    "postal": "L2S5S7",
+    "result": []
+  },
+  {
+    "postal": "L2S0G9",
+    "result": []
+  },
+  {
+    "postal": "L2S3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S3J9",
+        "streetName": "WALTERS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WALTERS CRT, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2Y0",
+    "result": []
+  },
+  {
+    "postal": "L2S8X5",
+    "result": []
+  },
+  {
+    "postal": "L2S2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356,
+          10141339
+        ],
+        "postalCode": "L2S2M7",
+        "streetName": "HENRIETTA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HENRIETTA ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9Z3",
+    "result": []
+  },
+  {
+    "postal": "L2S7W2",
+    "result": []
+  },
+  {
+    "postal": "L2S3W0",
+    "result": []
+  },
+  {
+    "postal": "L2S3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3M1",
+        "streetName": "CARMINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CARMINE CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6A5",
+    "result": []
+  },
+  {
+    "postal": "L2S2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2M9",
+        "streetName": "LEEPER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LEEPER ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5C3",
+    "result": []
+  },
+  {
+    "postal": "L2S0Y6",
+    "result": []
+  },
+  {
+    "postal": "L2S9H7",
+    "result": []
+  },
+  {
+    "postal": "L2S3L0",
+    "result": []
+  },
+  {
+    "postal": "L2S5N9",
+    "result": []
+  },
+  {
+    "postal": "L2S5E3",
+    "result": []
+  },
+  {
+    "postal": "L2S7M9",
+    "result": []
+  },
+  {
+    "postal": "L2S8N2",
+    "result": []
+  },
+  {
+    "postal": "L2S9H3",
+    "result": []
+  },
+  {
+    "postal": "L2S2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2K8",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VICTORIA ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9L0",
+    "result": []
+  },
+  {
+    "postal": "L2S6L9",
+    "result": []
+  },
+  {
+    "postal": "L2S6A8",
+    "result": []
+  },
+  {
+    "postal": "L2S2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2K6",
+        "streetName": "AMBROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "AMBROSE ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2M0",
+    "result": []
+  },
+  {
+    "postal": "L2S5X7",
+    "result": []
+  },
+  {
+    "postal": "L2S0M7",
+    "result": []
+  },
+  {
+    "postal": "L2S7A6",
+    "result": []
+  },
+  {
+    "postal": "L2S3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S3C5",
+        "streetName": "CORNWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CORNWELL CIR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2P2",
+        "streetName": "CHURCHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CHURCHILL ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9N4",
+    "result": []
+  },
+  {
+    "postal": "L2S3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3M9",
+        "streetName": "FAIRHAVEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FAIRHAVEN DR, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141349
+        ],
+        "postalCode": "L2S3M9",
+        "streetName": "INGLIS",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "INGLIS CIR, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3M9",
+        "streetName": "STONEBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STONEBRIDGE GATE, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8K6",
+    "result": []
+  },
+  {
+    "postal": "L2S1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1L2",
+        "streetName": "GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "GLEN AVE, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2Z9",
+        "streetName": "VANSICKLE",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VANSICKLE RD N, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2S2",
+        "streetName": "FREDERICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FREDERICK ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2W2",
+        "streetName": "BARTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BARTON ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2C3",
+        "streetName": "ST. PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6L7",
+    "result": []
+  },
+  {
+    "postal": "L2S3K0",
+    "result": []
+  },
+  {
+    "postal": "L2S3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S3C1",
+        "streetName": "VINTAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VINTAGE CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6M9",
+    "result": []
+  },
+  {
+    "postal": "L2S4N9",
+    "result": []
+  },
+  {
+    "postal": "L2S3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3Y7",
+        "streetName": "GOODMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "GOODMAN CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3Y7",
+        "streetName": "GRAVES",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "GRAVES CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3Y7",
+        "streetName": "MCCAFFERY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MCCAFFERY CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2A9",
+        "streetName": "CHETWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CHETWOOD ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6H5",
+    "result": []
+  },
+  {
+    "postal": "L2S8B4",
+    "result": []
+  },
+  {
+    "postal": "L2S4Z2",
+    "result": []
+  },
+  {
+    "postal": "L2S9J0",
+    "result": []
+  },
+  {
+    "postal": "L2S7V7",
+    "result": []
+  },
+  {
+    "postal": "L2S5T5",
+    "result": []
+  },
+  {
+    "postal": "L2S4W5",
+    "result": []
+  },
+  {
+    "postal": "L2S1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1T8",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9G6",
+    "result": []
+  },
+  {
+    "postal": "L2S1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1H3",
+        "streetName": "KENT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "KENT ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5R5",
+    "result": []
+  },
+  {
+    "postal": "L2S8A4",
+    "result": []
+  },
+  {
+    "postal": "L2S3T6",
+    "result": []
+  },
+  {
+    "postal": "L2S9W8",
+    "result": []
+  },
+  {
+    "postal": "L2S0N3",
+    "result": []
+  },
+  {
+    "postal": "L2S7V0",
+    "result": []
+  },
+  {
+    "postal": "L2S8T5",
+    "result": []
+  },
+  {
+    "postal": "L2S5N3",
+    "result": []
+  },
+  {
+    "postal": "L2S5G9",
+    "result": []
+  },
+  {
+    "postal": "L2S3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3X8",
+        "streetName": "MARKS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MARKS CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S3X8",
+        "streetName": "WESTLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WESTLAND ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9R3",
+    "result": []
+  },
+  {
+    "postal": "L2S2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2S1",
+        "streetName": "WESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WESTDALE DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9J7",
+    "result": []
+  },
+  {
+    "postal": "L2S2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2J3",
+        "streetName": "CRESTCOMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CRESTCOMBE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3B6",
+    "result": []
+  },
+  {
+    "postal": "L2S8J0",
+    "result": []
+  },
+  {
+    "postal": "L2S7R4",
+    "result": []
+  },
+  {
+    "postal": "L2S8K8",
+    "result": []
+  },
+  {
+    "postal": "L2S4P3",
+    "result": []
+  },
+  {
+    "postal": "L2S0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S0A2",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2G2",
+        "streetName": "PERMILLA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PERMILLA ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5Y9",
+    "result": []
+  },
+  {
+    "postal": "L2S7X0",
+    "result": []
+  },
+  {
+    "postal": "L2S7W3",
+    "result": []
+  },
+  {
+    "postal": "L2S7X5",
+    "result": []
+  },
+  {
+    "postal": "L2S5K6",
+    "result": []
+  },
+  {
+    "postal": "L2S5B6",
+    "result": []
+  },
+  {
+    "postal": "L2S7Z0",
+    "result": []
+  },
+  {
+    "postal": "L2S9H6",
+    "result": []
+  },
+  {
+    "postal": "L2S1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1B4",
+        "streetName": "GREENOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "GREENOCK CIR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1A0",
+    "result": []
+  },
+  {
+    "postal": "L2S9A0",
+    "result": []
+  },
+  {
+    "postal": "L2S1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S1M6",
+        "streetName": "HAINER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HAINER ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5H0",
+    "result": []
+  },
+  {
+    "postal": "L2S1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1K6",
+        "streetName": "HAMILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HAMILTON ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S5E1",
+    "result": []
+  },
+  {
+    "postal": "L2S3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3T9",
+        "streetName": "FOXHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FOXHILL CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S3T9",
+        "streetName": "WESTBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WESTBURY DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2M6",
+        "streetName": "HENRIETTA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HENRIETTA ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S0G5",
+    "result": []
+  },
+  {
+    "postal": "L2S0Y2",
+    "result": []
+  },
+  {
+    "postal": "L2S2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2Y7",
+        "streetName": "MARTINDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MARTINDALE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2J7",
+        "streetName": "CLEMENT",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CLEMENT PL, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4K7",
+    "result": []
+  },
+  {
+    "postal": "L2S7P9",
+    "result": []
+  },
+  {
+    "postal": "L2S8X0",
+    "result": []
+  },
+  {
+    "postal": "L2S3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3X1",
+        "streetName": "TERRAMA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "TERRAMA CRT, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1R5",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6X6",
+    "result": []
+  },
+  {
+    "postal": "L2S0Y1",
+    "result": []
+  },
+  {
+    "postal": "L2S8G1",
+    "result": []
+  },
+  {
+    "postal": "L2S3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3J3",
+        "streetName": "CHESSINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CHESSINGTON ST, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3J3",
+        "streetName": "STONEY BROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "STONEY BROOK CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3J3",
+        "streetName": "WOODBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "WOODBRIDGE DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8C2",
+    "result": []
+  },
+  {
+    "postal": "L2S4X9",
+    "result": []
+  },
+  {
+    "postal": "L2S6G9",
+    "result": []
+  },
+  {
+    "postal": "L2S4M3",
+    "result": []
+  },
+  {
+    "postal": "L2S9P7",
+    "result": []
+  },
+  {
+    "postal": "L2S4E5",
+    "result": []
+  },
+  {
+    "postal": "L2S5K9",
+    "result": []
+  },
+  {
+    "postal": "L2S2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2V2",
+        "streetName": "CORONATION",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CORONATION BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2N9",
+        "streetName": "LLOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "LLOYD ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6L4",
+    "result": []
+  },
+  {
+    "postal": "L2S8E0",
+    "result": []
+  },
+  {
+    "postal": "L2S0N0",
+    "result": []
+  },
+  {
+    "postal": "L2S6R0",
+    "result": []
+  },
+  {
+    "postal": "L2S9C1",
+    "result": []
+  },
+  {
+    "postal": "L2S4H4",
+    "result": []
+  },
+  {
+    "postal": "L2S5W3",
+    "result": []
+  },
+  {
+    "postal": "L2S9N9",
+    "result": []
+  },
+  {
+    "postal": "L2S1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1V7",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8J1",
+    "result": []
+  },
+  {
+    "postal": "L2S5V9",
+    "result": []
+  },
+  {
+    "postal": "L2S2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          },
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906,
+          10141350
+        ],
+        "postalCode": "L2S2S8",
+        "streetName": "VANSICKLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VANSICKLE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6P0",
+    "result": []
+  },
+  {
+    "postal": "L2S4J8",
+    "result": []
+  },
+  {
+    "postal": "L2S0N1",
+    "result": []
+  },
+  {
+    "postal": "L2S1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1Y7",
+        "streetName": "VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VALLEY RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7W5",
+    "result": []
+  },
+  {
+    "postal": "L2S3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3Z1",
+        "streetName": "ERION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ERION RD, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3Z1",
+        "streetName": "FIRST ST LOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "FIRST ST LOUTH, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3Z1",
+        "streetName": "HARVEST GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HARVEST GROVE CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7M6",
+    "result": []
+  },
+  {
+    "postal": "L2S1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1W7",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1X1",
+        "streetName": "POWERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "POWERVIEW AVE, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          }
+        ],
+        "pollDivisionIds": [
+          10140066
+        ],
+        "postalCode": "L2S0C1",
+        "streetName": "THIRD LOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "THIRD LOUTH ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4N3",
+    "result": []
+  },
+  {
+    "postal": "L2S4S8",
+    "result": []
+  },
+  {
+    "postal": "L2S1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1H6",
+        "streetName": "CUMMING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CUMMING ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2Z4",
+        "streetName": "VANSICKLE",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "VANSICKLE RD N, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7K3",
+    "result": []
+  },
+  {
+    "postal": "L2S8A2",
+    "result": []
+  },
+  {
+    "postal": "L2S6J1",
+    "result": []
+  },
+  {
+    "postal": "L2S5Z6",
+    "result": []
+  },
+  {
+    "postal": "L2S3Z0",
+    "result": []
+  },
+  {
+    "postal": "L2S8M0",
+    "result": []
+  },
+  {
+    "postal": "L2S1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1Z6",
+        "streetName": "RYKERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "RYKERT ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8K7",
+    "result": []
+  },
+  {
+    "postal": "L2S1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S1N3",
+        "streetName": "ST PAUL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL CRES, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S1N3",
+        "streetName": "ST. PAUL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. PAUL CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9S2",
+    "result": []
+  },
+  {
+    "postal": "L2S2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2K1",
+        "streetName": "SPRINGBANK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "SPRINGBANK DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1E8",
+        "streetName": "MCKAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "MCKAY ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9B8",
+    "result": []
+  },
+  {
+    "postal": "L2S7X4",
+    "result": []
+  },
+  {
+    "postal": "L2S1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1Z4",
+        "streetName": "RYKERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "RYKERT ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2C7",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2C7",
+        "streetName": "ST. PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2E7",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2E7",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST. CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST. CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2E7",
+        "streetName": "ST. PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3R1",
+    "result": []
+  },
+  {
+    "postal": "L2S4K4",
+    "result": []
+  },
+  {
+    "postal": "L2S9G3",
+    "result": []
+  },
+  {
+    "postal": "L2S6C9",
+    "result": []
+  },
+  {
+    "postal": "L2S9H5",
+    "result": []
+  },
+  {
+    "postal": "L2S1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1P5",
+        "streetName": "BELLEVUE",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BELLEVUE TERR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2J5",
+        "streetName": "CRESTCOMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CRESTCOMBE RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4W6",
+    "result": []
+  },
+  {
+    "postal": "L2S8M8",
+    "result": []
+  },
+  {
+    "postal": "L2S6C5",
+    "result": []
+  },
+  {
+    "postal": "L2S9H0",
+    "result": []
+  },
+  {
+    "postal": "L2S1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1X8",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3H4",
+        "streetName": "HARVEST OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HARVEST OAK DR, ST CATHARINES"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141348
+        ],
+        "postalCode": "L2S3H4",
+        "streetName": "HUNTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HUNTINGTON LANE, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4E7",
+    "result": []
+  },
+  {
+    "postal": "L2S8A0",
+    "result": []
+  },
+  {
+    "postal": "L2S1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1Z7",
+        "streetName": "HILDA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HILDA ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7Z3",
+    "result": []
+  },
+  {
+    "postal": "L2S0L7",
+    "result": []
+  },
+  {
+    "postal": "L2S2C6",
+    "result": []
+  },
+  {
+    "postal": "L2S6M3",
+    "result": []
+  },
+  {
+    "postal": "L2S2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2J1",
+        "streetName": "RIDLEY HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "RIDLEY HEIGHTS DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S3E3",
+        "streetName": "BURDY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "BURDY DR, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6Z9",
+    "result": []
+  },
+  {
+    "postal": "L2S3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S3M3",
+        "streetName": "CARMINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CARMINE CRES, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S9B1",
+    "result": []
+  },
+  {
+    "postal": "L2S9J5",
+    "result": []
+  },
+  {
+    "postal": "L2S4V8",
+    "result": []
+  },
+  {
+    "postal": "L2S6W2",
+    "result": []
+  },
+  {
+    "postal": "L2S0V5",
+    "result": []
+  },
+  {
+    "postal": "L2S0Z8",
+    "result": []
+  },
+  {
+    "postal": "L2S5G2",
+    "result": []
+  },
+  {
+    "postal": "L2S4N4",
+    "result": []
+  },
+  {
+    "postal": "L2S8G7",
+    "result": []
+  },
+  {
+    "postal": "L2S8W1",
+    "result": []
+  },
+  {
+    "postal": "L2S1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1S6",
+        "streetName": "HILLVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "HILLVIEW RD N, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4E0",
+    "result": []
+  },
+  {
+    "postal": "L2S4L9",
+    "result": []
+  },
+  {
+    "postal": "L2S5Z9",
+    "result": []
+  },
+  {
+    "postal": "L2S5V3",
+    "result": []
+  },
+  {
+    "postal": "L2S4V2",
+    "result": []
+  },
+  {
+    "postal": "L2S7C0",
+    "result": []
+  },
+  {
+    "postal": "L2S6L0",
+    "result": []
+  },
+  {
+    "postal": "L2S1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139950
+        ],
+        "postalCode": "L2S1S9",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "PELHAM RD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7R6",
+    "result": []
+  },
+  {
+    "postal": "L2S7J0",
+    "result": []
+  },
+  {
+    "postal": "L2S5M0",
+    "result": []
+  },
+  {
+    "postal": "L2S2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2E5",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7C7",
+    "result": []
+  },
+  {
+    "postal": "L2S5C0",
+    "result": []
+  },
+  {
+    "postal": "L2S8V9",
+    "result": []
+  },
+  {
+    "postal": "L2S7E0",
+    "result": []
+  },
+  {
+    "postal": "L2S6R4",
+    "result": []
+  },
+  {
+    "postal": "L2S3Z7",
+    "result": []
+  },
+  {
+    "postal": "L2S1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S1J9",
+        "streetName": "CHETWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CHETWOOD ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7K6",
+    "result": []
+  },
+  {
+    "postal": "L2S7Y5",
+    "result": []
+  },
+  {
+    "postal": "L2S1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1B7",
+        "streetName": "KIRK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "KIRK ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S4S9",
+    "result": []
+  },
+  {
+    "postal": "L2S9R9",
+    "result": []
+  },
+  {
+    "postal": "L2S5K7",
+    "result": []
+  },
+  {
+    "postal": "L2S6P2",
+    "result": []
+  },
+  {
+    "postal": "L2S2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S2C5",
+        "streetName": "ST. PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2N0",
+    "result": []
+  },
+  {
+    "postal": "L2S1G0",
+    "result": []
+  },
+  {
+    "postal": "L2S4K5",
+    "result": []
+  },
+  {
+    "postal": "L2S9B5",
+    "result": []
+  },
+  {
+    "postal": "L2S6T5",
+    "result": []
+  },
+  {
+    "postal": "L2S1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S1N8",
+        "streetName": "ST. JOSEPH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST. JOSEPH ST, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S0C0",
+    "result": []
+  },
+  {
+    "postal": "L2S0R9",
+    "result": []
+  },
+  {
+    "postal": "L2S7L1",
+    "result": []
+  },
+  {
+    "postal": "L2S3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141356
+        ],
+        "postalCode": "L2S3Y8",
+        "streetName": "RIDLEY",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "RIDLEY RD W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S7X9",
+    "result": []
+  },
+  {
+    "postal": "L2S1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139907
+        ],
+        "postalCode": "L2S1A7",
+        "streetName": "JILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "JILL CRT, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 90,
+            "name": "St. Catharines"
+          }
+        ],
+        "pollDivisionIds": [
+          10141355
+        ],
+        "postalCode": "L2S2T9",
+        "streetName": "CORONATION",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "CORONATION BLVD, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139906
+        ],
+        "postalCode": "L2S2E6",
+        "streetName": "ST PAUL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "ST PAUL ST W, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S8Y1",
+    "result": []
+  },
+  {
+    "postal": "L2S0J5",
+    "result": []
+  },
+  {
+    "postal": "L2S4J1",
+    "result": []
+  },
+  {
+    "postal": "L2S1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139910
+        ],
+        "postalCode": "L2S1A5",
+        "streetName": "JANET",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ST CATHARINES",
+        "streetNameDisplayText": "JANET CRT, ST CATHARINES"
+      }
+    ]
+  },
+  {
+    "postal": "L2S6Z6",
+    "result": []
+  },
+  {
+    "postal": "L2S5K4",
+    "result": []
+  },
+  {
+    "postal": "L2S7R9",
+    "result": []
+  },
+  {
+    "postal": "L2S6G4",
+    "result": []
   }
 ]

@@ -9427,5 +9427,6350 @@
   {
     "postal": "L3C0W6",
     "result": []
+  },
+  {
+    "postal": "L3C4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4C5",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PARKWAY, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C7E4",
+        "streetName": "JUSTINA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "JUSTINA CRT, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C7E4",
+        "streetName": "WINDSOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WINDSOR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C1R9",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "QUEEN ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2P0",
+    "result": []
+  },
+  {
+    "postal": "L3C5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C5S4",
+        "streetName": "AQUADOR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AQUADOR DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5K8",
+        "streetName": "STATION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "STATION ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8K4",
+    "result": []
+  },
+  {
+    "postal": "L3C7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C7C1",
+        "streetName": "RICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RICE RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C7K9",
+        "streetName": "ABBEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ABBEY RD, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C7K9",
+        "streetName": "GREEN POINTE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GREEN POINTE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933,
+          10139938
+        ],
+        "postalCode": "L3C5J1",
+        "streetName": "LINCOLN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LINCOLN ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C4P9",
+        "streetName": "HEATHER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "HEATHER CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0N2",
+    "result": []
+  },
+  {
+    "postal": "L3C2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2G6",
+        "streetName": "CARROL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CARROL ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C6P4",
+        "streetName": "DIXON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "DIXON CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3J0",
+    "result": []
+  },
+  {
+    "postal": "L3C8X4",
+    "result": []
+  },
+  {
+    "postal": "L3C1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1Y3",
+        "streetName": "FIRST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FIRST AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1A8",
+        "streetName": "GADSBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GADSBY AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C6Y5",
+        "streetName": "GREEN POINTE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GREEN POINTE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0J6",
+    "result": []
+  },
+  {
+    "postal": "L3C2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C2C9",
+        "streetName": "ELMWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELMWOOD AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8J6",
+    "result": []
+  },
+  {
+    "postal": "L3C8T4",
+    "result": []
+  },
+  {
+    "postal": "L3C1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1P7",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHARLOTTE CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9V9",
+    "result": []
+  },
+  {
+    "postal": "L3C0M1",
+    "result": []
+  },
+  {
+    "postal": "L3C6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C6K5",
+        "streetName": "ROLLING ACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROLLING ACRES DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C2T5",
+        "streetName": "WILLSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILLSON RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7E9",
+        "streetName": "GATE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GATE ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5K5",
+        "streetName": "WINDSOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WINDSOR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C3R5",
+        "streetName": "SHARPE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SHARPE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C5B1",
+        "streetName": "ENDICOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ENDICOTT TERR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2P1",
+        "streetName": "ARMOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ARMOUR DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7L0",
+    "result": []
+  },
+  {
+    "postal": "L3C3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C3L6",
+        "streetName": "MCCOLL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCOLL DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C2A4",
+        "streetName": "WILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILTON AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8S0",
+    "result": []
+  },
+  {
+    "postal": "L3C3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C3L5",
+        "streetName": "MCGILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCGILL ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2R5",
+    "result": []
+  },
+  {
+    "postal": "L3C9T6",
+    "result": []
+  },
+  {
+    "postal": "L3C8Z2",
+    "result": []
+  },
+  {
+    "postal": "L3C0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C0E9",
+        "streetName": "BIRCHMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BIRCHMOUNT AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8C0",
+    "result": []
+  },
+  {
+    "postal": "L3C3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3K7",
+        "streetName": "FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FOREST RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2H3",
+        "streetName": "ROSEMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROSEMOUNT DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2Y6",
+        "streetName": "KAREN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "KAREN CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7M2",
+        "streetName": "CARLISLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CARLISLE DR, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7M2",
+        "streetName": "HILLSDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "HILLSDALE RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6E2",
+        "streetName": "PAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PAGE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3R0",
+    "result": []
+  },
+  {
+    "postal": "L3C4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C4J7",
+        "streetName": "PLAZAWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PLAZAWAY, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6N8",
+    "result": []
+  },
+  {
+    "postal": "L3C0J7",
+    "result": []
+  },
+  {
+    "postal": "L3C7P2",
+    "result": []
+  },
+  {
+    "postal": "L3C3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C3T8",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C3S7",
+        "streetName": "LACY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LACY AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2S7",
+        "streetName": "CUTRESS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CUTRESS AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1S4",
+        "streetName": "EDGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "EDGAR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C1L8",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NIAGARA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8E9",
+    "result": []
+  },
+  {
+    "postal": "L3C0T0",
+    "result": []
+  },
+  {
+    "postal": "L3C3G4",
+    "result": []
+  },
+  {
+    "postal": "L3C0V6",
+    "result": []
+  },
+  {
+    "postal": "L3C4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C4W1",
+        "streetName": "FITCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FITCH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9G9",
+    "result": []
+  },
+  {
+    "postal": "L3C5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C5W4",
+        "streetName": "CABOT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CABOT ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7M8",
+        "streetName": "WELLBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WELLBROOK BLVD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C2C2",
+        "streetName": "OAKLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "OAKLAND AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C4Y2",
+        "streetName": "MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MILL ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9X9",
+    "result": []
+  },
+  {
+    "postal": "L3C3T0",
+    "result": []
+  },
+  {
+    "postal": "L3C4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4T8",
+        "streetName": "MERRITT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MERRITT ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9C4",
+    "result": []
+  },
+  {
+    "postal": "L3C8P2",
+    "result": []
+  },
+  {
+    "postal": "L3C0Y8",
+    "result": []
+  },
+  {
+    "postal": "L3C1G8",
+    "result": []
+  },
+  {
+    "postal": "L3C2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2T6",
+        "streetName": "WILLSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILLSON RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1N7",
+        "streetName": "SHOTWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SHOTWELL ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0L6",
+    "result": []
+  },
+  {
+    "postal": "L3C9V4",
+    "result": []
+  },
+  {
+    "postal": "L3C2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2V1",
+        "streetName": "GROSS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GROSS AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C3L8",
+        "streetName": "MCCOLL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCOLL DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C2R8",
+        "streetName": "FERNWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FERNWOOD TERR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C5C1",
+        "streetName": "BALD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BALD ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C4W3",
+        "streetName": "FITCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FITCH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C5X5",
+        "streetName": "NOTTINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NOTTINGHAM CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9W5",
+    "result": []
+  },
+  {
+    "postal": "L3C3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          }
+        ],
+        "pollDivisionIds": [
+          10140086
+        ],
+        "postalCode": "L3C3C4",
+        "streetName": "LINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LINE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1N6",
+        "streetName": "EDGEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "EDGEWOOD AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9S9",
+    "result": []
+  },
+  {
+    "postal": "L3C9M2",
+    "result": []
+  },
+  {
+    "postal": "L3C8Y4",
+    "result": []
+  },
+  {
+    "postal": "L3C7S4",
+    "result": []
+  },
+  {
+    "postal": "L3C0K6",
+    "result": []
+  },
+  {
+    "postal": "L3C1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C1W3",
+        "streetName": "TRELAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "TRELAWN PKY, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7R2",
+    "result": []
+  },
+  {
+    "postal": "L3C2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C2Y9",
+        "streetName": "ALAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ALAN AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7G4",
+        "streetName": "JACKSON",
+        "streetDirectionId": "E",
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "JACKSON CRT E, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7G4",
+        "streetName": "JEFFERSON COURT EAST",
+        "streetDirectionId": "E",
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "JEFFERSON COURT EAST CRT E, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7G4",
+        "streetName": "JEFFERSON",
+        "streetDirectionId": "E",
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "JEFFERSON CRT E, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139948
+        ],
+        "postalCode": "L3C7E5",
+        "streetName": "DENISTOUN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "DENISTOUN ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9G2",
+    "result": []
+  },
+  {
+    "postal": "L3C7Y8",
+    "result": []
+  },
+  {
+    "postal": "L3C9V2",
+    "result": []
+  },
+  {
+    "postal": "L3C3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C3T7",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1H0",
+    "result": []
+  },
+  {
+    "postal": "L3C1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1M7",
+        "streetName": "VALENCOURT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "VALENCOURT DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8V4",
+    "result": []
+  },
+  {
+    "postal": "L3C4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4M2",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELIZABETH ST E, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0X2",
+    "result": []
+  },
+  {
+    "postal": "L3C5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C5Z4",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NIAGARA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6V4",
+        "streetName": "NORTHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NORTHWOOD DR, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6V4",
+        "streetName": "PINOAK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PINOAK CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8J3",
+    "result": []
+  },
+  {
+    "postal": "L3C8E5",
+    "result": []
+  },
+  {
+    "postal": "L3C2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C2V5",
+        "streetName": "RICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RICE RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7S1",
+    "result": []
+  },
+  {
+    "postal": "L3C6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6V3",
+        "streetName": "NORTHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NORTHWOOD DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C2L8",
+        "streetName": "CHAMPLAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHAMPLAIN AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9V0",
+    "result": []
+  },
+  {
+    "postal": "L3C3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C3M4",
+        "streetName": "MCCRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCRAE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C5B2",
+        "streetName": "ENDICOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ENDICOTT TERR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C3X5",
+        "streetName": "MAPLE PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MAPLE PARK DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9R7",
+    "result": []
+  },
+  {
+    "postal": "L3C2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C2X2",
+        "streetName": "ROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROSE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8Z6",
+    "result": []
+  },
+  {
+    "postal": "L3C4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4R4",
+        "streetName": "HIGHLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "HIGHLAND GDNS, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2R1",
+        "streetName": "KILGOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "KILGOUR AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3R8",
+        "streetName": "ROGER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROGER DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9A1",
+    "result": []
+  },
+  {
+    "postal": "L3C8L3",
+    "result": []
+  },
+  {
+    "postal": "L3C9K4",
+    "result": []
+  },
+  {
+    "postal": "L3C9S3",
+    "result": []
+  },
+  {
+    "postal": "L3C8N7",
+    "result": []
+  },
+  {
+    "postal": "L3C1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1C6",
+        "streetName": "AQUEDUCT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AQUEDUCT ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C3Z8",
+        "streetName": "MARGARET",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MARGARET ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8G5",
+    "result": []
+  },
+  {
+    "postal": "L3C5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C5R6",
+        "streetName": "WILLSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILLSON RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2W3",
+        "streetName": "ROACH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROACH AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0A0",
+    "result": []
+  },
+  {
+    "postal": "L3C6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C6P8",
+        "streetName": "AMELIA",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AMELIA LANE, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933,
+          71256
+        ],
+        "postalCode": "L3C6P8",
+        "streetName": "NOVA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NOVA CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8N9",
+    "result": []
+  },
+  {
+    "postal": "L3C0S9",
+    "result": []
+  },
+  {
+    "postal": "L3C8G0",
+    "result": []
+  },
+  {
+    "postal": "L3C8C7",
+    "result": []
+  },
+  {
+    "postal": "L3C5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C5X8",
+        "streetName": "ROLLING ACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROLLING ACRES DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C7E8",
+        "streetName": "PRINCE CHARLES",
+        "streetDirectionId": "S",
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PRINCE CHARLES DR S, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C6X2",
+        "streetName": "GREEN MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GREEN MEADOW CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4C6",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PARKWAY, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C7H2",
+        "streetName": "BALSAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BALSAM ST, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C7H2",
+        "streetName": "CALISTA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CALISTA DR, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C7H2",
+        "streetName": "TRILLIUM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "TRILLIUM AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4R0",
+    "result": []
+  },
+  {
+    "postal": "L3C6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C6J3",
+        "streetName": "SURREY",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SURREY PL, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C4B8",
+        "streetName": "DEXTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "DEXTER DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6H6",
+        "streetName": "TRELAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "TRELAWN PKY, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0S1",
+    "result": []
+  },
+  {
+    "postal": "L3C4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4E3",
+        "streetName": "LAUGHLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LAUGHLIN AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7K2",
+        "streetName": "AUTUMN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AUTUMN CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7T8",
+    "result": []
+  },
+  {
+    "postal": "L3C0J9",
+    "result": []
+  },
+  {
+    "postal": "L3C5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5J9",
+        "streetName": "MARIGOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MARIGOLD ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C5S7",
+        "streetName": "CALLA",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CALLA TERR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C0G9",
+        "streetName": "JULIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "JULIA DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3J9",
+    "result": []
+  },
+  {
+    "postal": "L3C2Y0",
+    "result": []
+  },
+  {
+    "postal": "L3C8X5",
+    "result": []
+  },
+  {
+    "postal": "L3C2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2M7",
+        "streetName": "MCNAB",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCNAB DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9Z3",
+    "result": []
+  },
+  {
+    "postal": "L3C7W2",
+    "result": []
+  },
+  {
+    "postal": "L3C3W0",
+    "result": []
+  },
+  {
+    "postal": "L3C3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3M1",
+        "streetName": "ABBEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ABBEY RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C6A5",
+        "streetName": "LOYALIST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LOYALIST DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2M9",
+        "streetName": "MCNAB",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCNAB DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C5C3",
+        "streetName": "BALD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BALD ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0Y6",
+    "result": []
+  },
+  {
+    "postal": "L3C9H7",
+    "result": []
+  },
+  {
+    "postal": "L3C3L0",
+    "result": []
+  },
+  {
+    "postal": "L3C5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5N9",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ST GEORGE ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5E3",
+        "streetName": "RIVERSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RIVERSIDE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C7M9",
+        "streetName": "WELLBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WELLBROOK BLVD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8N2",
+    "result": []
+  },
+  {
+    "postal": "L3C9H3",
+    "result": []
+  },
+  {
+    "postal": "L3C2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2K8",
+        "streetName": "ST AUGUSTINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ST AUGUSTINE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9L0",
+    "result": []
+  },
+  {
+    "postal": "L3C6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C6L9",
+        "streetName": "TRELAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "TRELAWN PKY, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C6A8",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MEADOWVALE PL, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2K6",
+        "streetName": "BARRON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BARRON ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2M0",
+    "result": []
+  },
+  {
+    "postal": "L3C5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C5X7",
+        "streetName": "SHERWOOD FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SHERWOOD FOREST TRAIL, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0M7",
+    "result": []
+  },
+  {
+    "postal": "L3C7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7A6",
+        "streetName": "ADAH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ADAH CRT, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7A6",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7A6",
+        "streetName": "VIRGINIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "VIRGINIA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C3C5",
+        "streetName": "SOUTH PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SOUTH PELHAM RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C2P2",
+        "streetName": "BRIARFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BRIARFIELD CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9N4",
+    "result": []
+  },
+  {
+    "postal": "L3C3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3M9",
+        "streetName": "THOMSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOMSON RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8K6",
+    "result": []
+  },
+  {
+    "postal": "L3C1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1L2",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NIAGARA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2Z9",
+        "streetName": "OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "OAK ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2S2",
+        "streetName": "WESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WESTDALE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          },
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10140086,
+          10139922
+        ],
+        "postalCode": "L3C2W2",
+        "streetName": "RICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RICE RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C2C3",
+        "streetName": "OAKLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "OAKLAND AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C6L7",
+        "streetName": "AQUADOR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AQUADOR DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3K0",
+    "result": []
+  },
+  {
+    "postal": "L3C3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C3C1",
+        "streetName": "CLARE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CLARE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C6M9",
+        "streetName": "GADSBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GADSBY AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4N9",
+        "streetName": "CHURCH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHURCH ST W, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3Y7",
+        "streetName": "PRICE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PRICE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2A9",
+        "streetName": "LINWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LINWOOD DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C6H5",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8B4",
+    "result": []
+  },
+  {
+    "postal": "L3C4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C4Z2",
+        "streetName": "GLENDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GLENDALE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9J0",
+    "result": []
+  },
+  {
+    "postal": "L3C7V7",
+    "result": []
+  },
+  {
+    "postal": "L3C5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C5T5",
+        "streetName": "WELLBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WELLBROOK BLVD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926,
+          10139929
+        ],
+        "postalCode": "L3C4W5",
+        "streetName": "FITCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FITCH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1T8",
+        "streetName": "FELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FELL ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9G6",
+    "result": []
+  },
+  {
+    "postal": "L3C1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1H3",
+        "streetName": "GRAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GRAM AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C5R5",
+        "streetName": "WILLSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILLSON RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8A4",
+    "result": []
+  },
+  {
+    "postal": "L3C3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C3T6",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9W8",
+    "result": []
+  },
+  {
+    "postal": "L3C0N3",
+    "result": []
+  },
+  {
+    "postal": "L3C7V0",
+    "result": []
+  },
+  {
+    "postal": "L3C8T5",
+    "result": []
+  },
+  {
+    "postal": "L3C5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5N3",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ST GEORGE ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C5G9",
+        "streetName": "HOOKER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "HOOKER ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C3X8",
+        "streetName": "MAPLE PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MAPLE PARK DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9R3",
+    "result": []
+  },
+  {
+    "postal": "L3C2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2S1",
+        "streetName": "WESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WESTDALE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9J7",
+    "result": []
+  },
+  {
+    "postal": "L3C2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2J3",
+        "streetName": "SANTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SANTONE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C3B6",
+        "streetName": "CLARE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CLARE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8J0",
+    "result": []
+  },
+  {
+    "postal": "L3C7R4",
+    "result": []
+  },
+  {
+    "postal": "L3C8K8",
+    "result": []
+  },
+  {
+    "postal": "L3C4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4P3",
+        "streetName": "CHURCH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHURCH ST W, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C0A2",
+        "streetName": "MICHELLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MICHELLE CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2G2",
+        "streetName": "CLIFFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CLIFFORD AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C5Y9",
+        "streetName": "FIRST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FIRST AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7X0",
+    "result": []
+  },
+  {
+    "postal": "L3C7W3",
+    "result": []
+  },
+  {
+    "postal": "L3C7X5",
+    "result": []
+  },
+  {
+    "postal": "L3C5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5K6",
+        "streetName": "WINDSOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WINDSOR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C5B6",
+        "streetName": "COLBECK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "COLBECK DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7Z0",
+    "result": []
+  },
+  {
+    "postal": "L3C9H6",
+    "result": []
+  },
+  {
+    "postal": "L3C1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C1B4",
+        "streetName": "GADSBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GADSBY AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1A0",
+    "result": []
+  },
+  {
+    "postal": "L3C9A0",
+    "result": []
+  },
+  {
+    "postal": "L3C1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C1M6",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NIAGARA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5H0",
+    "result": []
+  },
+  {
+    "postal": "L3C1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1K6",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NIAGARA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933,
+          10139938
+        ],
+        "postalCode": "L3C5E1",
+        "streetName": "RIVERSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RIVERSIDE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C3T9",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C2M6",
+        "streetName": "CENTENNIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CENTENNIAL DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C0G5",
+        "streetName": "HOME",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "HOME ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0Y2",
+    "result": []
+  },
+  {
+    "postal": "L3C2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2Y7",
+        "streetName": "KAREN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "KAREN CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2J7",
+        "streetName": "SANTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SANTONE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4K7",
+        "streetName": "ELMVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELMVIEW ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7P9",
+    "result": []
+  },
+  {
+    "postal": "L3C8X0",
+    "result": []
+  },
+  {
+    "postal": "L3C3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C3X1",
+        "streetName": "THOROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "THOROLD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1R5",
+        "streetName": "CARLTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CARLTON AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C6X6",
+        "streetName": "STEFANIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "STEFANIE CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0Y1",
+    "result": []
+  },
+  {
+    "postal": "L3C8G1",
+    "result": []
+  },
+  {
+    "postal": "L3C3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C3J3",
+        "streetName": "PINEHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PINEHURST DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8C2",
+    "result": []
+  },
+  {
+    "postal": "L3C4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C4X9",
+        "streetName": "OAKMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "OAKMOUNT RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C6G9",
+        "streetName": "CHAPEL HILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHAPEL HILL CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4M3",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELIZABETH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9P7",
+    "result": []
+  },
+  {
+    "postal": "L3C4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4E5",
+        "streetName": "LAUGHLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LAUGHLIN AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5K9",
+        "streetName": "ARTHUR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ARTHUR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2V2",
+        "streetName": "GROSS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GROSS AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C2N9",
+        "streetName": "ARMOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ARMOUR DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C6L4",
+        "streetName": "ACADIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ACADIA DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8E0",
+    "result": []
+  },
+  {
+    "postal": "L3C0N0",
+    "result": []
+  },
+  {
+    "postal": "L3C6R0",
+    "result": []
+  },
+  {
+    "postal": "L3C9C1",
+    "result": []
+  },
+  {
+    "postal": "L3C4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4H4",
+        "streetName": "SMITH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SMITH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C5W3",
+        "streetName": "ROYAL OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROYAL OAK DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9N9",
+    "result": []
+  },
+  {
+    "postal": "L3C1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C1V7",
+        "streetName": "DENISTOUN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "DENISTOUN ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8J1",
+    "result": []
+  },
+  {
+    "postal": "L3C5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C5V9",
+        "streetName": "ROYAL OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ROYAL OAK DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2S8",
+        "streetName": "CUTRESS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CUTRESS AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6P0",
+    "result": []
+  },
+  {
+    "postal": "L3C4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C4J8",
+        "streetName": "MAPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MAPLEWOOD CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0N1",
+    "result": []
+  },
+  {
+    "postal": "L3C1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1Y7",
+        "streetName": "FIRST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FIRST AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7W5",
+    "result": []
+  },
+  {
+    "postal": "L3C3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3Z1",
+        "streetName": "PRICE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PRICE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7M6",
+        "streetName": "BRIDGEWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BRIDGEWATER CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1W7",
+        "streetName": "LILLIAS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LILLIAS ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1X1",
+        "streetName": "NORTHHAVEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NORTHHAVEN RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C0C1",
+        "streetName": "ELMWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELMWOOD AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C4N3",
+        "streetName": "MARTHA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MARTHA CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4S8",
+        "streetName": "MERRITT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MERRITT ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1H6",
+        "streetName": "GRAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GRAM AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139926
+        ],
+        "postalCode": "L3C2Z4",
+        "streetName": "LLOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LLOYD AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7K3",
+        "streetName": "AUTUMN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AUTUMN CRES, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C7K3",
+        "streetName": "OAKCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "OAKCREST AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8A2",
+    "result": []
+  },
+  {
+    "postal": "L3C6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C6J1",
+        "streetName": "ARGYLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ARGYLE CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C5Z6",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILTSHIRE BLVD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3Z0",
+    "result": []
+  },
+  {
+    "postal": "L3C8M0",
+    "result": []
+  },
+  {
+    "postal": "L3C1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C1Z6",
+        "streetName": "VERNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "VERNE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8K7",
+    "result": []
+  },
+  {
+    "postal": "L3C1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C1N3",
+        "streetName": "FRAZER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FRAZER ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9S2",
+    "result": []
+  },
+  {
+    "postal": "L3C2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2K1",
+        "streetName": "DIFFIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "DIFFIN DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C1E8",
+        "streetName": "PATRICIA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PATRICIA AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9B8",
+    "result": []
+  },
+  {
+    "postal": "L3C7X4",
+    "result": []
+  },
+  {
+    "postal": "L3C1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C1Z4",
+        "streetName": "PIETZ",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PIETZ AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C2C7",
+        "streetName": "ELMWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELMWOOD AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2E7",
+        "streetName": "RIVERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RIVERVIEW DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3R1",
+        "streetName": "FARNHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FARNHAM AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4K4",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "DUFFERIN ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9G3",
+    "result": []
+  },
+  {
+    "postal": "L3C6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C6C9",
+        "streetName": "MCCRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCRAE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9H5",
+    "result": []
+  },
+  {
+    "postal": "L3C1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1P5",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHARLOTTE CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2J5",
+        "streetName": "SANTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SANTONE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4W6",
+    "result": []
+  },
+  {
+    "postal": "L3C8M8",
+    "result": []
+  },
+  {
+    "postal": "L3C6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C6C5",
+        "streetName": "MCCRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCRAE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9H0",
+    "result": []
+  },
+  {
+    "postal": "L3C1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C1X8",
+        "streetName": "FIRST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FIRST AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          }
+        ],
+        "pollDivisionIds": [
+          10140086
+        ],
+        "postalCode": "L3C3H4",
+        "streetName": "QUAKER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "QUAKER RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C4E7",
+        "streetName": "LAUGHLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LAUGHLIN AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8A0",
+    "result": []
+  },
+  {
+    "postal": "L3C1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C1Z7",
+        "streetName": "KLINE'S",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "KLINE'S AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7Z3",
+    "result": []
+  },
+  {
+    "postal": "L3C0L7",
+    "result": []
+  },
+  {
+    "postal": "L3C2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2C6",
+        "streetName": "PERENACK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PERENACK AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C6M3",
+        "streetName": "WILKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WILKES DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C2J1",
+        "streetName": "WOODINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WOODINGTON PL, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          }
+        ],
+        "pollDivisionIds": [
+          10140085
+        ],
+        "postalCode": "L3C3E3",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PELHAM ST, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          }
+        ],
+        "pollDivisionIds": [
+          10140085
+        ],
+        "postalCode": "L3C3E3",
+        "streetName": "SOUTH PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SOUTH PELHAM RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 70,
+            "name": "Niagara West"
+          }
+        ],
+        "pollDivisionIds": [
+          10140086
+        ],
+        "postalCode": "L3C6Z9",
+        "streetName": "PELHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PELHAM ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139924
+        ],
+        "postalCode": "L3C3M3",
+        "streetName": "MCCRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCRAE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9B1",
+    "result": []
+  },
+  {
+    "postal": "L3C9J5",
+    "result": []
+  },
+  {
+    "postal": "L3C4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C4V8",
+        "streetName": "FITCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FITCH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6W2",
+        "streetName": "EASTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "EASTWOOD DR, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6W2",
+        "streetName": "POPLAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "POPLAR CRES, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0V5",
+    "result": []
+  },
+  {
+    "postal": "L3C0Z8",
+    "result": []
+  },
+  {
+    "postal": "L3C5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139933
+        ],
+        "postalCode": "L3C5G2",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MAPLE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4N4",
+        "streetName": "CHURCH",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "CHURCH ST E, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8G7",
+    "result": []
+  },
+  {
+    "postal": "L3C8W1",
+    "result": []
+  },
+  {
+    "postal": "L3C1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1S6",
+        "streetName": "EDGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "EDGAR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4E0",
+    "result": []
+  },
+  {
+    "postal": "L3C4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4L9",
+        "streetName": "MCCORMICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MCCORMICK ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C5Z9",
+        "streetName": "BARRINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "BARRINGTON DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C5V3",
+        "streetName": "WYCHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WYCHWOOD RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4V2",
+        "streetName": "FITCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "FITCH ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7C0",
+    "result": []
+  },
+  {
+    "postal": "L3C6L0",
+    "result": []
+  },
+  {
+    "postal": "L3C1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1S9",
+        "streetName": "EDGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "EDGAR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7R6",
+    "result": []
+  },
+  {
+    "postal": "L3C7J0",
+    "result": []
+  },
+  {
+    "postal": "L3C5M0",
+    "result": []
+  },
+  {
+    "postal": "L3C2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2E5",
+        "streetName": "RIVERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RIVERVIEW DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7C7",
+        "streetName": "MIRANDA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MIRANDA CRT, WELLAND"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7C7",
+        "streetName": "WELLANDVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WELLANDVALE DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5C0",
+    "result": []
+  },
+  {
+    "postal": "L3C8V9",
+    "result": []
+  },
+  {
+    "postal": "L3C7E0",
+    "result": []
+  },
+  {
+    "postal": "L3C6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C6R4",
+        "streetName": "RAINBOW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RAINBOW CRT, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C3Z7",
+        "streetName": "MARGARET",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MARGARET ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1J9",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NIAGARA ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139921
+        ],
+        "postalCode": "L3C7K6",
+        "streetName": "QUAKER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "QUAKER RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7Y5",
+    "result": []
+  },
+  {
+    "postal": "L3C1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1B7",
+        "streetName": "AQUEDUCT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "AQUEDUCT ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4S9",
+        "streetName": "MERRITT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "MERRITT ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9R9",
+    "result": []
+  },
+  {
+    "postal": "L3C5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5K7",
+        "streetName": "STATION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "STATION ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6P2",
+    "result": []
+  },
+  {
+    "postal": "L3C2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C2C5",
+        "streetName": "TERRACE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "TERRACE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2N0",
+    "result": []
+  },
+  {
+    "postal": "L3C1G0",
+    "result": []
+  },
+  {
+    "postal": "L3C4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4K5",
+        "streetName": "ELMVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ELMVIEW ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C9B5",
+    "result": []
+  },
+  {
+    "postal": "L3C6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C6T5",
+        "streetName": "ACADIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ACADIA DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1N8",
+        "streetName": "SHOTWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "SHOTWELL ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C0C0",
+    "result": []
+  },
+  {
+    "postal": "L3C0R9",
+    "result": []
+  },
+  {
+    "postal": "L3C7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C7L1",
+        "streetName": "ABBEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "ABBEY RD, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139925
+        ],
+        "postalCode": "L3C3Y8",
+        "streetName": "PRICE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "PRICE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7X9",
+    "result": []
+  },
+  {
+    "postal": "L3C1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1A7",
+        "streetName": "GADSBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "GADSBY AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C2T9",
+    "result": []
+  },
+  {
+    "postal": "L3C2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139929
+        ],
+        "postalCode": "L3C2E6",
+        "streetName": "RIVERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "RIVERVIEW DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C8Y1",
+    "result": []
+  },
+  {
+    "postal": "L3C0J5",
+    "result": []
+  },
+  {
+    "postal": "L3C4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C4J1",
+        "streetName": "LOCUST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "LOCUST ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139927
+        ],
+        "postalCode": "L3C1A5",
+        "streetName": "NYE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "NYE AVE, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139922
+        ],
+        "postalCode": "L3C6Z6",
+        "streetName": "COLLEGE PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "COLLEGE PARK DR, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139938
+        ],
+        "postalCode": "L3C5K4",
+        "streetName": "WINDSOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WINDSOR ST, WELLAND"
+      }
+    ]
+  },
+  {
+    "postal": "L3C7R9",
+    "result": []
+  },
+  {
+    "postal": "L3C6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 68,
+            "name": "Niagara Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10139934
+        ],
+        "postalCode": "L3C6G4",
+        "streetName": "WALTS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WELLAND",
+        "streetNameDisplayText": "WALTS ST, WELLAND"
+      }
+    ]
   }
 ]

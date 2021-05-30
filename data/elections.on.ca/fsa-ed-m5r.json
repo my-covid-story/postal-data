@@ -5040,5 +5040,3584 @@
   {
     "postal": "M5R0W6",
     "result": []
+  },
+  {
+    "postal": "M5R4C5",
+    "result": []
+  },
+  {
+    "postal": "M5R7E4",
+    "result": []
+  },
+  {
+    "postal": "M5R1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R1R9",
+        "streetName": "BERNARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BERNARD AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2P0",
+    "result": []
+  },
+  {
+    "postal": "M5R5S4",
+    "result": []
+  },
+  {
+    "postal": "M5R5K8",
+    "result": []
+  },
+  {
+    "postal": "M5R8K4",
+    "result": []
+  },
+  {
+    "postal": "M5R7C1",
+    "result": []
+  },
+  {
+    "postal": "M5R7K9",
+    "result": []
+  },
+  {
+    "postal": "M5R5J1",
+    "result": []
+  },
+  {
+    "postal": "M5R4P9",
+    "result": []
+  },
+  {
+    "postal": "M5R0N2",
+    "result": []
+  },
+  {
+    "postal": "M5R2G6",
+    "result": []
+  },
+  {
+    "postal": "M5R6P4",
+    "result": []
+  },
+  {
+    "postal": "M5R3J0",
+    "result": []
+  },
+  {
+    "postal": "M5R8X4",
+    "result": []
+  },
+  {
+    "postal": "M5R1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R1Y3",
+        "streetName": "AUSTIN",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AUSTIN TERR, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1A8",
+        "streetName": "CUMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "CUMBERLAND ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6Y5",
+    "result": []
+  },
+  {
+    "postal": "M5R0J6",
+    "result": []
+  },
+  {
+    "postal": "M5R2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R2C9",
+        "streetName": "NORTH VIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "NORTH VIEW TERR, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R2C9",
+        "streetName": "NORTHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "NORTHVIEW TERR, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8J6",
+    "result": []
+  },
+  {
+    "postal": "M5R8T4",
+    "result": []
+  },
+  {
+    "postal": "M5R1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1P7",
+        "streetName": "NEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "NEW ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9V9",
+    "result": []
+  },
+  {
+    "postal": "M5R0M1",
+    "result": []
+  },
+  {
+    "postal": "M5R6K5",
+    "result": []
+  },
+  {
+    "postal": "M5R2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2T5",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7E9",
+    "result": []
+  },
+  {
+    "postal": "M5R5K5",
+    "result": []
+  },
+  {
+    "postal": "M5R3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          },
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060,
+          10136393
+        ],
+        "postalCode": "M5R3R5",
+        "streetName": "DAVENPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DAVENPORT RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5B1",
+    "result": []
+  },
+  {
+    "postal": "M5R2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2P1",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7L0",
+    "result": []
+  },
+  {
+    "postal": "M5R3L6",
+    "result": []
+  },
+  {
+    "postal": "M5R2A4",
+    "result": []
+  },
+  {
+    "postal": "M5R8S0",
+    "result": []
+  },
+  {
+    "postal": "M5R3L5",
+    "result": []
+  },
+  {
+    "postal": "M5R2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2R5",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "HURON ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9T6",
+    "result": []
+  },
+  {
+    "postal": "M5R8Z2",
+    "result": []
+  },
+  {
+    "postal": "M5R0E9",
+    "result": []
+  },
+  {
+    "postal": "M5R8C0",
+    "result": []
+  },
+  {
+    "postal": "M5R3K7",
+    "result": []
+  },
+  {
+    "postal": "M5R2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2H3",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AVENUE RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2Y6",
+    "result": []
+  },
+  {
+    "postal": "M5R7M2",
+    "result": []
+  },
+  {
+    "postal": "M5R6E2",
+    "result": []
+  },
+  {
+    "postal": "M5R3R0",
+    "result": []
+  },
+  {
+    "postal": "M5R4J7",
+    "result": []
+  },
+  {
+    "postal": "M5R6N8",
+    "result": []
+  },
+  {
+    "postal": "M5R0J7",
+    "result": []
+  },
+  {
+    "postal": "M5R7P2",
+    "result": []
+  },
+  {
+    "postal": "M5R3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R3T8",
+        "streetName": "BELLAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BELLAIR ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R3S7",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 101,
+            "name": "Spadina—Fort York"
+          }
+        ],
+        "pollDivisionIds": [
+          10141952
+        ],
+        "postalCode": "M5R2S7",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA AVE, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2S7",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R1S4",
+        "streetName": "BERNARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BERNARD AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R1L8",
+        "streetName": "KENDAL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "KENDAL AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8E9",
+    "result": []
+  },
+  {
+    "postal": "M5R0T0",
+    "result": []
+  },
+  {
+    "postal": "M5R3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383,
+          10136438,
+          10136379,
+          10136384
+        ],
+        "postalCode": "M5R3G4",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BATHURST ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R0V6",
+    "result": []
+  },
+  {
+    "postal": "M5R4W1",
+    "result": []
+  },
+  {
+    "postal": "M5R9G9",
+    "result": []
+  },
+  {
+    "postal": "M5R5W4",
+    "result": []
+  },
+  {
+    "postal": "M5R7M8",
+    "result": []
+  },
+  {
+    "postal": "M5R2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2C2",
+        "streetName": "YORKVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "YORKVILLE AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R4Y2",
+    "result": []
+  },
+  {
+    "postal": "M5R9X9",
+    "result": []
+  },
+  {
+    "postal": "M5R3T0",
+    "result": []
+  },
+  {
+    "postal": "M5R4T8",
+    "result": []
+  },
+  {
+    "postal": "M5R9C4",
+    "result": []
+  },
+  {
+    "postal": "M5R8P2",
+    "result": []
+  },
+  {
+    "postal": "M5R0Y8",
+    "result": []
+  },
+  {
+    "postal": "M5R1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R1G8",
+        "streetName": "BARTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BARTON AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R2T6",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ORONTO",
+        "streetNameDisplayText": "SPADINA RD, ORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2T6",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1N7",
+        "streetName": "WEBSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "WEBSTER AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R0L6",
+    "result": []
+  },
+  {
+    "postal": "M5R9V4",
+    "result": []
+  },
+  {
+    "postal": "M5R2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R2V1",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R3L8",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R3L8",
+        "streetName": "ST. GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST. GEORGE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387,
+          10136389
+        ],
+        "postalCode": "M5R2R8",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "HURON ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5C1",
+    "result": []
+  },
+  {
+    "postal": "M5R4W3",
+    "result": []
+  },
+  {
+    "postal": "M5R5X5",
+    "result": []
+  },
+  {
+    "postal": "M5R9W5",
+    "result": []
+  },
+  {
+    "postal": "M5R3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R3C4",
+        "streetName": "ALBANY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ALBANY AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1N6",
+        "streetName": "WEBSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "WEBSTER AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9S9",
+    "result": []
+  },
+  {
+    "postal": "M5R9M2",
+    "result": []
+  },
+  {
+    "postal": "M5R8Y4",
+    "result": []
+  },
+  {
+    "postal": "M5R7S4",
+    "result": []
+  },
+  {
+    "postal": "M5R0K6",
+    "result": []
+  },
+  {
+    "postal": "M5R1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136378
+        ],
+        "postalCode": "M5R1W3",
+        "streetName": "DUPONT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DUPONT ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7R2",
+    "result": []
+  },
+  {
+    "postal": "M5R2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383,
+          10143705
+        ],
+        "postalCode": "M5R2Y9",
+        "streetName": "BRUNSWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BRUNSWICK AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7G4",
+    "result": []
+  },
+  {
+    "postal": "M5R7E5",
+    "result": []
+  },
+  {
+    "postal": "M5R9G2",
+    "result": []
+  },
+  {
+    "postal": "M5R7Y8",
+    "result": []
+  },
+  {
+    "postal": "M5R9V2",
+    "result": []
+  },
+  {
+    "postal": "M5R3T7",
+    "result": []
+  },
+  {
+    "postal": "M5R1H0",
+    "result": []
+  },
+  {
+    "postal": "M5R1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1M7",
+        "streetName": "BERRYMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BERRYMAN ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8V4",
+    "result": []
+  },
+  {
+    "postal": "M5R4M2",
+    "result": []
+  },
+  {
+    "postal": "M5R0X2",
+    "result": []
+  },
+  {
+    "postal": "M5R5Z4",
+    "result": []
+  },
+  {
+    "postal": "M5R6V4",
+    "result": []
+  },
+  {
+    "postal": "M5R8J3",
+    "result": []
+  },
+  {
+    "postal": "M5R8E5",
+    "result": []
+  },
+  {
+    "postal": "M5R2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          },
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060,
+          10136387
+        ],
+        "postalCode": "M5R2V5",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7S1",
+    "result": []
+  },
+  {
+    "postal": "M5R6V3",
+    "result": []
+  },
+  {
+    "postal": "M5R2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2L8",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9V0",
+    "result": []
+  },
+  {
+    "postal": "M5R3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R3M4",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5B2",
+    "result": []
+  },
+  {
+    "postal": "M5R3X5",
+    "result": []
+  },
+  {
+    "postal": "M5R9R7",
+    "result": []
+  },
+  {
+    "postal": "M5R2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705,
+          10136383
+        ],
+        "postalCode": "M5R2X2",
+        "streetName": "WALMER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "WALMER RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8Z6",
+    "result": []
+  },
+  {
+    "postal": "M5R4R4",
+    "result": []
+  },
+  {
+    "postal": "M5R2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2R1",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R3R8",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AVENUE RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9A1",
+    "result": []
+  },
+  {
+    "postal": "M5R8L3",
+    "result": []
+  },
+  {
+    "postal": "M5R9K4",
+    "result": []
+  },
+  {
+    "postal": "M5R9S3",
+    "result": []
+  },
+  {
+    "postal": "M5R8N7",
+    "result": []
+  },
+  {
+    "postal": "M5R1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1C6",
+        "streetName": "LOWTHER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "LOWTHER AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3Z8",
+    "result": []
+  },
+  {
+    "postal": "M5R8G5",
+    "result": []
+  },
+  {
+    "postal": "M5R5R6",
+    "result": []
+  },
+  {
+    "postal": "M5R2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2W3",
+        "streetName": "WALMER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "WALMER RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R0A0",
+    "result": []
+  },
+  {
+    "postal": "M5R6P8",
+    "result": []
+  },
+  {
+    "postal": "M5R8N9",
+    "result": []
+  },
+  {
+    "postal": "M5R0S9",
+    "result": []
+  },
+  {
+    "postal": "M5R8G0",
+    "result": []
+  },
+  {
+    "postal": "M5R8C7",
+    "result": []
+  },
+  {
+    "postal": "M5R5X8",
+    "result": []
+  },
+  {
+    "postal": "M5R7E8",
+    "result": []
+  },
+  {
+    "postal": "M5R6X2",
+    "result": []
+  },
+  {
+    "postal": "M5R4C6",
+    "result": []
+  },
+  {
+    "postal": "M5R7H2",
+    "result": []
+  },
+  {
+    "postal": "M5R4R0",
+    "result": []
+  },
+  {
+    "postal": "M5R6J3",
+    "result": []
+  },
+  {
+    "postal": "M5R4B8",
+    "result": []
+  },
+  {
+    "postal": "M5R6H6",
+    "result": []
+  },
+  {
+    "postal": "M5R0S1",
+    "result": []
+  },
+  {
+    "postal": "M5R4E3",
+    "result": []
+  },
+  {
+    "postal": "M5R7K2",
+    "result": []
+  },
+  {
+    "postal": "M5R7T8",
+    "result": []
+  },
+  {
+    "postal": "M5R0J9",
+    "result": []
+  },
+  {
+    "postal": "M5R5J9",
+    "result": []
+  },
+  {
+    "postal": "M5R5S7",
+    "result": []
+  },
+  {
+    "postal": "M5R0G9",
+    "result": []
+  },
+  {
+    "postal": "M5R3J9",
+    "result": []
+  },
+  {
+    "postal": "M5R2Y0",
+    "result": []
+  },
+  {
+    "postal": "M5R8X5",
+    "result": []
+  },
+  {
+    "postal": "M5R2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2M7",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9Z3",
+    "result": []
+  },
+  {
+    "postal": "M5R7W2",
+    "result": []
+  },
+  {
+    "postal": "M5R3W0",
+    "result": []
+  },
+  {
+    "postal": "M5R3M1",
+    "result": []
+  },
+  {
+    "postal": "M5R6A5",
+    "result": []
+  },
+  {
+    "postal": "M5R2M9",
+    "result": []
+  },
+  {
+    "postal": "M5R5C3",
+    "result": []
+  },
+  {
+    "postal": "M5R0Y6",
+    "result": []
+  },
+  {
+    "postal": "M5R9H7",
+    "result": []
+  },
+  {
+    "postal": "M5R3L0",
+    "result": []
+  },
+  {
+    "postal": "M5R5N9",
+    "result": []
+  },
+  {
+    "postal": "M5R5E3",
+    "result": []
+  },
+  {
+    "postal": "M5R7M9",
+    "result": []
+  },
+  {
+    "postal": "M5R8N2",
+    "result": []
+  },
+  {
+    "postal": "M5R9H3",
+    "result": []
+  },
+  {
+    "postal": "M5R2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2K8",
+        "streetName": "BEDFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BEDFORD RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9L0",
+    "result": []
+  },
+  {
+    "postal": "M5R6L9",
+    "result": []
+  },
+  {
+    "postal": "M5R6A8",
+    "result": []
+  },
+  {
+    "postal": "M5R2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2K6",
+        "streetName": "BEDFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BEDFORD RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2M0",
+    "result": []
+  },
+  {
+    "postal": "M5R5X7",
+    "result": []
+  },
+  {
+    "postal": "M5R0M7",
+    "result": []
+  },
+  {
+    "postal": "M5R7A6",
+    "result": []
+  },
+  {
+    "postal": "M5R3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R3C5",
+        "streetName": "ALBANY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ALBANY AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2P2",
+    "result": []
+  },
+  {
+    "postal": "M5R9N4",
+    "result": []
+  },
+  {
+    "postal": "M5R3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136408
+        ],
+        "postalCode": "M5R3M9",
+        "streetName": "CUMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "CUMBERLAND ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8K6",
+    "result": []
+  },
+  {
+    "postal": "M5R1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R1L2",
+        "streetName": "DAVENPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DAVENPORT RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R2Z9",
+        "streetName": "LYNDHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "LYNDHURST AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2S2",
+        "streetName": "MADISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "MADISON AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R2W2",
+        "streetName": "ARDWOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ARDWOLD GATE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2C3",
+        "streetName": "BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BAY ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2C3",
+        "streetName": "YORKVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "YORKVILLE AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6L7",
+    "result": []
+  },
+  {
+    "postal": "M5R3K0",
+    "result": []
+  },
+  {
+    "postal": "M5R3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R3C1",
+        "streetName": "HOWLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "HOWLAND AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6M9",
+    "result": []
+  },
+  {
+    "postal": "M5R4N9",
+    "result": []
+  },
+  {
+    "postal": "M5R3Y7",
+    "result": []
+  },
+  {
+    "postal": "M5R2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2A9",
+        "streetName": "BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BAY ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6H5",
+    "result": []
+  },
+  {
+    "postal": "M5R8B4",
+    "result": []
+  },
+  {
+    "postal": "M5R4Z2",
+    "result": []
+  },
+  {
+    "postal": "M5R9J0",
+    "result": []
+  },
+  {
+    "postal": "M5R7V7",
+    "result": []
+  },
+  {
+    "postal": "M5R5T5",
+    "result": []
+  },
+  {
+    "postal": "M5R4W5",
+    "result": []
+  },
+  {
+    "postal": "M5R1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R1T8",
+        "streetName": "ROXBOROUGH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ROXBOROUGH ST W, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9G6",
+    "result": []
+  },
+  {
+    "postal": "M5R1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R1H3",
+        "streetName": "DAVENPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DAVENPORT RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5R5",
+    "result": []
+  },
+  {
+    "postal": "M5R8A4",
+    "result": []
+  },
+  {
+    "postal": "M5R3T6",
+    "result": []
+  },
+  {
+    "postal": "M5R9W8",
+    "result": []
+  },
+  {
+    "postal": "M5R0N3",
+    "result": []
+  },
+  {
+    "postal": "M5R7V0",
+    "result": []
+  },
+  {
+    "postal": "M5R8T5",
+    "result": []
+  },
+  {
+    "postal": "M5R5N3",
+    "result": []
+  },
+  {
+    "postal": "M5R5G9",
+    "result": []
+  },
+  {
+    "postal": "M5R3X8",
+    "result": []
+  },
+  {
+    "postal": "M5R9R3",
+    "result": []
+  },
+  {
+    "postal": "M5R2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2S1",
+        "streetName": "MADISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "MADISON AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9J7",
+    "result": []
+  },
+  {
+    "postal": "M5R2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R2J3",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AVENUE RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136378
+        ],
+        "postalCode": "M5R3B6",
+        "streetName": "HOWLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "HOWLAND AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8J0",
+    "result": []
+  },
+  {
+    "postal": "M5R7R4",
+    "result": []
+  },
+  {
+    "postal": "M5R8K8",
+    "result": []
+  },
+  {
+    "postal": "M5R4P3",
+    "result": []
+  },
+  {
+    "postal": "M5R0A2",
+    "result": []
+  },
+  {
+    "postal": "M5R2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2G2",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AVENUE RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5Y9",
+    "result": []
+  },
+  {
+    "postal": "M5R7X0",
+    "result": []
+  },
+  {
+    "postal": "M5R7W3",
+    "result": []
+  },
+  {
+    "postal": "M5R7X5",
+    "result": []
+  },
+  {
+    "postal": "M5R5K6",
+    "result": []
+  },
+  {
+    "postal": "M5R5B6",
+    "result": []
+  },
+  {
+    "postal": "M5R7Z0",
+    "result": []
+  },
+  {
+    "postal": "M5R9H6",
+    "result": []
+  },
+  {
+    "postal": "M5R1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1B4",
+        "streetName": "PRINCE ARTHUR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "PRINCE ARTHUR AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1A0",
+    "result": []
+  },
+  {
+    "postal": "M5R9A0",
+    "result": []
+  },
+  {
+    "postal": "M5R1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1M6",
+        "streetName": "BERRYMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BERRYMAN ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5H0",
+    "result": []
+  },
+  {
+    "postal": "M5R1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R1K6",
+        "streetName": "DAVENPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DAVENPORT RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R5E1",
+    "result": []
+  },
+  {
+    "postal": "M5R3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R3T9",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136390
+        ],
+        "postalCode": "M5R2M6",
+        "streetName": "SAINT GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SAINT GEORGE ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2M6",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383,
+          10136374
+        ],
+        "postalCode": "M5R2M6",
+        "streetName": "ST. GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST. GEORGE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R0G5",
+    "result": []
+  },
+  {
+    "postal": "M5R0Y2",
+    "result": []
+  },
+  {
+    "postal": "M5R2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705
+        ],
+        "postalCode": "M5R2Y7",
+        "streetName": "DALTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DALTON RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2J7",
+        "streetName": "BEDFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BEDFORD RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R4K7",
+    "result": []
+  },
+  {
+    "postal": "M5R7P9",
+    "result": []
+  },
+  {
+    "postal": "M5R8X0",
+    "result": []
+  },
+  {
+    "postal": "M5R3X1",
+    "result": []
+  },
+  {
+    "postal": "M5R1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R1R5",
+        "streetName": "BERNARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BERNARD AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6X6",
+    "result": []
+  },
+  {
+    "postal": "M5R0Y1",
+    "result": []
+  },
+  {
+    "postal": "M5R8G1",
+    "result": []
+  },
+  {
+    "postal": "M5R3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136064
+        ],
+        "postalCode": "M5R3J3",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BATHURST ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8C2",
+    "result": []
+  },
+  {
+    "postal": "M5R4X9",
+    "result": []
+  },
+  {
+    "postal": "M5R6G9",
+    "result": []
+  },
+  {
+    "postal": "M5R4M3",
+    "result": []
+  },
+  {
+    "postal": "M5R9P7",
+    "result": []
+  },
+  {
+    "postal": "M5R4E5",
+    "result": []
+  },
+  {
+    "postal": "M5R5K9",
+    "result": []
+  },
+  {
+    "postal": "M5R2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2V2",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2N9",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST GEORGE ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2N9",
+        "streetName": "ST. GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST. GEORGE ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2N9",
+        "streetName": "ST.GEORGE.STREET.",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "ST.GEORGE.STREET. ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6L4",
+    "result": []
+  },
+  {
+    "postal": "M5R8E0",
+    "result": []
+  },
+  {
+    "postal": "M5R0N0",
+    "result": []
+  },
+  {
+    "postal": "M5R6R0",
+    "result": []
+  },
+  {
+    "postal": "M5R9C1",
+    "result": []
+  },
+  {
+    "postal": "M5R4H4",
+    "result": []
+  },
+  {
+    "postal": "M5R5W3",
+    "result": []
+  },
+  {
+    "postal": "M5R9N9",
+    "result": []
+  },
+  {
+    "postal": "M5R1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R1V7",
+        "streetName": "DUPONT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DUPONT ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8J1",
+    "result": []
+  },
+  {
+    "postal": "M5R5V9",
+    "result": []
+  },
+  {
+    "postal": "M5R2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          },
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10143705,
+          10136383,
+          10136124
+        ],
+        "postalCode": "M5R2S8",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6P0",
+    "result": []
+  },
+  {
+    "postal": "M5R4J8",
+    "result": []
+  },
+  {
+    "postal": "M5R0N1",
+    "result": []
+  },
+  {
+    "postal": "M5R1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R1Y7",
+        "streetName": "AUSTIN",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AUSTIN TERR, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7W5",
+    "result": []
+  },
+  {
+    "postal": "M5R3Z1",
+    "result": []
+  },
+  {
+    "postal": "M5R7M6",
+    "result": []
+  },
+  {
+    "postal": "M5R1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R1W7",
+        "streetName": "MACPHERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "MACPHERSON AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1X1",
+    "result": []
+  },
+  {
+    "postal": "M5R0C1",
+    "result": []
+  },
+  {
+    "postal": "M5R4N3",
+    "result": []
+  },
+  {
+    "postal": "M5R4S8",
+    "result": []
+  },
+  {
+    "postal": "M5R1H6",
+    "result": []
+  },
+  {
+    "postal": "M5R2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R2Z4",
+        "streetName": "BRUNSWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BRUNSWICK AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7K3",
+    "result": []
+  },
+  {
+    "postal": "M5R8A2",
+    "result": []
+  },
+  {
+    "postal": "M5R6J1",
+    "result": []
+  },
+  {
+    "postal": "M5R5Z6",
+    "result": []
+  },
+  {
+    "postal": "M5R3Z0",
+    "result": []
+  },
+  {
+    "postal": "M5R8M0",
+    "result": []
+  },
+  {
+    "postal": "M5R1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R1Z6",
+        "streetName": "NINA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "NINA ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8K7",
+    "result": []
+  },
+  {
+    "postal": "M5R1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1N3",
+        "streetName": "BISHOP",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BISHOP ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9S2",
+    "result": []
+  },
+  {
+    "postal": "M5R2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2K1",
+        "streetName": "BEDFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BEDFORD RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R1E8",
+        "streetName": "LOWTHER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "LOWTHER AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9B8",
+    "result": []
+  },
+  {
+    "postal": "M5R7X4",
+    "result": []
+  },
+  {
+    "postal": "M5R1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R1Z4",
+        "streetName": "NINA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "NINA ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2C7",
+        "streetName": "BELLAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BELLAIR ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2E7",
+    "result": []
+  },
+  {
+    "postal": "M5R3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R3R1",
+        "streetName": "BRUNSWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BRUNSWICK AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R4K4",
+    "result": []
+  },
+  {
+    "postal": "M5R9G3",
+    "result": []
+  },
+  {
+    "postal": "M5R6C9",
+    "result": []
+  },
+  {
+    "postal": "M5R9H5",
+    "result": []
+  },
+  {
+    "postal": "M5R1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R1P5",
+        "streetName": "RODEN",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "RODEN PL, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2J5",
+    "result": []
+  },
+  {
+    "postal": "M5R4W6",
+    "result": []
+  },
+  {
+    "postal": "M5R8M8",
+    "result": []
+  },
+  {
+    "postal": "M5R6C5",
+    "result": []
+  },
+  {
+    "postal": "M5R9H0",
+    "result": []
+  },
+  {
+    "postal": "M5R1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R1X8",
+        "streetName": "AUSTIN",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AUSTIN TERR, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136060
+        ],
+        "postalCode": "M5R3H4",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BATHURST ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R4E7",
+    "result": []
+  },
+  {
+    "postal": "M5R8A0",
+    "result": []
+  },
+  {
+    "postal": "M5R1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R1Z7",
+        "streetName": "CONNABLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "CONNABLE DR, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7Z3",
+    "result": []
+  },
+  {
+    "postal": "M5R0L7",
+    "result": []
+  },
+  {
+    "postal": "M5R2C6",
+    "result": []
+  },
+  {
+    "postal": "M5R6M3",
+    "result": []
+  },
+  {
+    "postal": "M5R2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2J1",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AVENUE RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 111,
+            "name": "Toronto—St. Paul's"
+          }
+        ],
+        "pollDivisionIds": [
+          10136061
+        ],
+        "postalCode": "M5R3E3",
+        "streetName": "AUSTIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "AUSTIN CRES, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R6Z9",
+    "result": []
+  },
+  {
+    "postal": "M5R3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R3M3",
+        "streetName": "DAVENPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DAVENPORT RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R9B1",
+    "result": []
+  },
+  {
+    "postal": "M5R9J5",
+    "result": []
+  },
+  {
+    "postal": "M5R4V8",
+    "result": []
+  },
+  {
+    "postal": "M5R6W2",
+    "result": []
+  },
+  {
+    "postal": "M5R0V5",
+    "result": []
+  },
+  {
+    "postal": "M5R0Z8",
+    "result": []
+  },
+  {
+    "postal": "M5R5G2",
+    "result": []
+  },
+  {
+    "postal": "M5R4N4",
+    "result": []
+  },
+  {
+    "postal": "M5R8G7",
+    "result": []
+  },
+  {
+    "postal": "M5R8W1",
+    "result": []
+  },
+  {
+    "postal": "M5R1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R1S6",
+        "streetName": "HILLSBORO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "HILLSBORO AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R4E0",
+    "result": []
+  },
+  {
+    "postal": "M5R4L9",
+    "result": []
+  },
+  {
+    "postal": "M5R5Z9",
+    "result": []
+  },
+  {
+    "postal": "M5R5V3",
+    "result": []
+  },
+  {
+    "postal": "M5R4V2",
+    "result": []
+  },
+  {
+    "postal": "M5R7C0",
+    "result": []
+  },
+  {
+    "postal": "M5R6L0",
+    "result": []
+  },
+  {
+    "postal": "M5R1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136393
+        ],
+        "postalCode": "M5R1S9",
+        "streetName": "PEARS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "PEARS AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7R6",
+    "result": []
+  },
+  {
+    "postal": "M5R7J0",
+    "result": []
+  },
+  {
+    "postal": "M5R5M0",
+    "result": []
+  },
+  {
+    "postal": "M5R2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R2E5",
+        "streetName": "HAZELTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "HAZELTON AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7C7",
+    "result": []
+  },
+  {
+    "postal": "M5R5C0",
+    "result": []
+  },
+  {
+    "postal": "M5R8V9",
+    "result": []
+  },
+  {
+    "postal": "M5R7E0",
+    "result": []
+  },
+  {
+    "postal": "M5R6R4",
+    "result": []
+  },
+  {
+    "postal": "M5R3Z7",
+    "result": []
+  },
+  {
+    "postal": "M5R1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R1J9",
+        "streetName": "DAVENPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DAVENPORT RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R7K6",
+    "result": []
+  },
+  {
+    "postal": "M5R7Y5",
+    "result": []
+  },
+  {
+    "postal": "M5R1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1B7",
+        "streetName": "YORKVILLE AVE 1252-1260",
+        "streetDirectionId": null,
+        "streetTypeId": "BAY",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "YORKVILLE AVE 1252-1260 BAY, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757
+        ],
+        "postalCode": "M5R1B7",
+        "streetName": "YORKVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "YORKVILLE AVE, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R4S9",
+    "result": []
+  },
+  {
+    "postal": "M5R9R9",
+    "result": []
+  },
+  {
+    "postal": "M5R5K7",
+    "result": []
+  },
+  {
+    "postal": "M5R6P2",
+    "result": []
+  },
+  {
+    "postal": "M5R2C5",
+    "result": []
+  },
+  {
+    "postal": "M5R2N0",
+    "result": []
+  },
+  {
+    "postal": "M5R1G0",
+    "result": []
+  },
+  {
+    "postal": "M5R4K5",
+    "result": []
+  },
+  {
+    "postal": "M5R9B5",
+    "result": []
+  },
+  {
+    "postal": "M5R6T5",
+    "result": []
+  },
+  {
+    "postal": "M5R1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136383
+        ],
+        "postalCode": "M5R1N8",
+        "streetName": "WELLS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "WELLS ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R0C0",
+    "result": []
+  },
+  {
+    "postal": "M5R0R9",
+    "result": []
+  },
+  {
+    "postal": "M5R7L1",
+    "result": []
+  },
+  {
+    "postal": "M5R3Y8",
+    "result": []
+  },
+  {
+    "postal": "M5R7X9",
+    "result": []
+  },
+  {
+    "postal": "M5R1A7",
+    "result": []
+  },
+  {
+    "postal": "M5R2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          },
+          {
+            "election": null,
+            "id": 101,
+            "name": "Spadina—Fort York"
+          }
+        ],
+        "pollDivisionIds": [
+          10143757,
+          10141945
+        ],
+        "postalCode": "M5R2T9",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA AVE, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387,
+          10143757
+        ],
+        "postalCode": "M5R2T9",
+        "streetName": "SPADINA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "SPADINA RD, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10136387
+        ],
+        "postalCode": "M5R2E6",
+        "streetName": "DUPONT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "DUPONT ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M5R8Y1",
+    "result": []
+  },
+  {
+    "postal": "M5R0J5",
+    "result": []
+  },
+  {
+    "postal": "M5R4J1",
+    "result": []
+  },
+  {
+    "postal": "M5R1A5",
+    "result": []
+  },
+  {
+    "postal": "M5R6Z6",
+    "result": []
+  },
+  {
+    "postal": "M5R5K4",
+    "result": []
+  },
+  {
+    "postal": "M5R7R9",
+    "result": []
+  },
+  {
+    "postal": "M5R6G4",
+    "result": []
   }
 ]

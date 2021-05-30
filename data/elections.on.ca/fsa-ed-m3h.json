@@ -7734,5 +7734,5312 @@
   {
     "postal": "M3H0W6",
     "result": []
+  },
+  {
+    "postal": "M3H4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H4C5",
+        "streetName": "SEARLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SEARLE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7E4",
+    "result": []
+  },
+  {
+    "postal": "M3H1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H1R9",
+        "streetName": "CADILLAC",
+        "streetDirectionId": null,
+        "streetTypeId": "AV",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "CADILLAC AV, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1R9",
+        "streetName": "CADILLAC",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CADILLAC AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2P0",
+    "result": []
+  },
+  {
+    "postal": "M3H5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847,
+          10142843
+        ],
+        "postalCode": "M3H5S4",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5K8",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8K4",
+    "result": []
+  },
+  {
+    "postal": "M3H7C1",
+    "result": []
+  },
+  {
+    "postal": "M3H7K9",
+    "result": []
+  },
+  {
+    "postal": "M3H5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H5J1",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4P9",
+        "streetName": "OVERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "OVERBROOK PL, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4P9",
+        "streetName": "OVERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "PLACE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "OVERBROOK PLACE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0N2",
+    "result": []
+  },
+  {
+    "postal": "M3H2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2G6",
+        "streetName": "YORK DOWNS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "YORK DOWNS DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6P4",
+    "result": []
+  },
+  {
+    "postal": "M3H3J0",
+    "result": []
+  },
+  {
+    "postal": "M3H8X4",
+    "result": []
+  },
+  {
+    "postal": "M3H1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1Y3",
+        "streetName": "ROBBIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ROBBIE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1A8",
+        "streetName": "DELHI",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DELHI AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6Y5",
+    "result": []
+  },
+  {
+    "postal": "M3H0J6",
+    "result": []
+  },
+  {
+    "postal": "M3H2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2C9",
+        "streetName": "CLANTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON CRT, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2C9",
+        "streetName": "CLANTON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON PARK RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8J6",
+    "result": []
+  },
+  {
+    "postal": "M3H8T4",
+    "result": []
+  },
+  {
+    "postal": "M3H1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1P7",
+        "streetName": "WESTGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTGATE CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9V9",
+    "result": []
+  },
+  {
+    "postal": "M3H0M1",
+    "result": []
+  },
+  {
+    "postal": "M3H6K5",
+    "result": []
+  },
+  {
+    "postal": "M3H2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142903,
+          10142850
+        ],
+        "postalCode": "M3H2T5",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7E9",
+    "result": []
+  },
+  {
+    "postal": "M3H5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5K5",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3R5",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H5B1",
+        "streetName": "MAXWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAXWELL ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2P1",
+        "streetName": "MCALLISTER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MCALLISTER RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7L0",
+    "result": []
+  },
+  {
+    "postal": "M3H3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3L6",
+        "streetName": "DEHAVILAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DEHAVILAND ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2A4",
+        "streetName": "LAURELCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LAURELCREST AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8S0",
+    "result": []
+  },
+  {
+    "postal": "M3H3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3L5",
+        "streetName": "HARLOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "HARLOCK BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2R5",
+    "result": []
+  },
+  {
+    "postal": "M3H9T6",
+    "result": []
+  },
+  {
+    "postal": "M3H8Z2",
+    "result": []
+  },
+  {
+    "postal": "M3H0E9",
+    "result": []
+  },
+  {
+    "postal": "M3H8C0",
+    "result": []
+  },
+  {
+    "postal": "M3H3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3K7",
+        "streetName": "GORMAN PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GORMAN PARK RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2H3",
+        "streetName": "ALMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ALMORE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2Y6",
+        "streetName": "VINCI",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "VINCI CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7M2",
+    "result": []
+  },
+  {
+    "postal": "M3H6E2",
+    "result": []
+  },
+  {
+    "postal": "M3H3R0",
+    "result": []
+  },
+  {
+    "postal": "M3H4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4J7",
+        "streetName": "COMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COMBE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6N8",
+    "result": []
+  },
+  {
+    "postal": "M3H0J7",
+    "result": []
+  },
+  {
+    "postal": "M3H7P2",
+    "result": []
+  },
+  {
+    "postal": "M3H3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3T8",
+        "streetName": "COCKSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COCKSFIELD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H3S7",
+        "streetName": "COCKSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COCKSFIELD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852,
+          10142904
+        ],
+        "postalCode": "M3H2S7",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1S4",
+        "streetName": "CADILLAC",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CADILLAC AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1L8",
+        "streetName": "ARMOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARMOUR BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8E9",
+    "result": []
+  },
+  {
+    "postal": "M3H0T0",
+    "result": []
+  },
+  {
+    "postal": "M3H3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3G4",
+        "streetName": "JOSEPHINE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JOSEPHINE RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0V6",
+    "result": []
+  },
+  {
+    "postal": "M3H4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4W1",
+        "streetName": "ARLSTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARLSTAN DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9G9",
+    "result": []
+  },
+  {
+    "postal": "M3H5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5W4",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7M8",
+    "result": []
+  },
+  {
+    "postal": "M3H2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2C2",
+        "streetName": "PALM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PALM DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10143855
+        ],
+        "postalCode": "M3H4Y2",
+        "streetName": "CANYON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CANYON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9X9",
+    "result": []
+  },
+  {
+    "postal": "M3H3T0",
+    "result": []
+  },
+  {
+    "postal": "M3H4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4T8",
+        "streetName": "ARTREEVA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARTREEVA DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9C4",
+    "result": []
+  },
+  {
+    "postal": "M3H8P2",
+    "result": []
+  },
+  {
+    "postal": "M3H0Y8",
+    "result": []
+  },
+  {
+    "postal": "M3H1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1G8",
+        "streetName": "RAEBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "RAEBURN AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852,
+          10142850
+        ],
+        "postalCode": "M3H2T6",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1N7",
+        "streetName": "WESTGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTGATE BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0L6",
+    "result": []
+  },
+  {
+    "postal": "M3H9V4",
+    "result": []
+  },
+  {
+    "postal": "M3H2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2V1",
+        "streetName": "TIPPETT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "TIPPETT RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3L8",
+        "streetName": "FINDLAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "FINDLAY BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849,
+          10142886
+        ],
+        "postalCode": "M3H2R8",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5C1",
+        "streetName": "MAXWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAXWELL ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4W3",
+        "streetName": "BLUE FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BLUE FOREST DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5X5",
+        "streetName": "GLADIOLA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GLADIOLA CRT, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9W5",
+    "result": []
+  },
+  {
+    "postal": "M3H3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3C4",
+        "streetName": "COLLINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COLLINSON BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1N6",
+        "streetName": "WESTGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTGATE BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9S9",
+    "result": []
+  },
+  {
+    "postal": "M3H9M2",
+    "result": []
+  },
+  {
+    "postal": "M3H8Y4",
+    "result": []
+  },
+  {
+    "postal": "M3H7S4",
+    "result": []
+  },
+  {
+    "postal": "M3H0K6",
+    "result": []
+  },
+  {
+    "postal": "M3H1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H1W3",
+        "streetName": "FAITH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "FAITH AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7R2",
+    "result": []
+  },
+  {
+    "postal": "M3H2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2Y9",
+        "streetName": "VINCI",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "VINCI CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7G4",
+    "result": []
+  },
+  {
+    "postal": "M3H7E5",
+    "result": []
+  },
+  {
+    "postal": "M3H9G2",
+    "result": []
+  },
+  {
+    "postal": "M3H7Y8",
+    "result": []
+  },
+  {
+    "postal": "M3H9V2",
+    "result": []
+  },
+  {
+    "postal": "M3H3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3T7",
+        "streetName": "COCKSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COCKSFIELD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1H0",
+    "result": []
+  },
+  {
+    "postal": "M3H1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1M7",
+        "streetName": "ARMOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARMOUR BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8V4",
+    "result": []
+  },
+  {
+    "postal": "M3H4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4M2",
+        "streetName": "KENNARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "KENNARD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0X2",
+    "result": []
+  },
+  {
+    "postal": "M3H5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z4",
+        "streetName": "FAYWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "FAYWOOD BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6V4",
+    "result": []
+  },
+  {
+    "postal": "M3H8J3",
+    "result": []
+  },
+  {
+    "postal": "M3H8E5",
+    "result": []
+  },
+  {
+    "postal": "M3H2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2V5",
+        "streetName": "WILSON HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILSON HEIGHTS BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7S1",
+    "result": []
+  },
+  {
+    "postal": "M3H6V3",
+    "result": []
+  },
+  {
+    "postal": "M3H2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2L8",
+        "streetName": "REINER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "REINER RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9V0",
+    "result": []
+  },
+  {
+    "postal": "M3H3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3M4",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H5B2",
+        "streetName": "MAXWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAXWELL ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H3X5",
+        "streetName": "BAINTREE EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BAINTREE EAST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9R7",
+    "result": []
+  },
+  {
+    "postal": "M3H2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2X2",
+        "streetName": "FAYWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "FAYWOOD BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8Z6",
+    "result": []
+  },
+  {
+    "postal": "M3H4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4R4",
+        "streetName": "OVERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "OVERBROOK PL, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4R4",
+        "streetName": "OVERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "PLACE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "OVERBROOK PLACE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2R1",
+        "streetName": "ALEXIS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ALEXIS BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3R8",
+    "result": []
+  },
+  {
+    "postal": "M3H9A1",
+    "result": []
+  },
+  {
+    "postal": "M3H8L3",
+    "result": []
+  },
+  {
+    "postal": "M3H9K4",
+    "result": []
+  },
+  {
+    "postal": "M3H9S3",
+    "result": []
+  },
+  {
+    "postal": "M3H8N7",
+    "result": []
+  },
+  {
+    "postal": "M3H1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1C6",
+        "streetName": "BOMBAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BOMBAY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3Z8",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WATERLOO AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8G5",
+    "result": []
+  },
+  {
+    "postal": "M3H5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H5R6",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2W3",
+        "streetName": "CLANTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON CRT, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0A0",
+    "result": []
+  },
+  {
+    "postal": "M3H6P8",
+    "result": []
+  },
+  {
+    "postal": "M3H8N9",
+    "result": []
+  },
+  {
+    "postal": "M3H0S9",
+    "result": []
+  },
+  {
+    "postal": "M3H8G0",
+    "result": []
+  },
+  {
+    "postal": "M3H8C7",
+    "result": []
+  },
+  {
+    "postal": "M3H5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H5X8",
+        "streetName": "ELDERBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ELDERBERRY CRT, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7E8",
+    "result": []
+  },
+  {
+    "postal": "M3H6X2",
+    "result": []
+  },
+  {
+    "postal": "M3H4C6",
+    "result": []
+  },
+  {
+    "postal": "M3H7H2",
+    "result": []
+  },
+  {
+    "postal": "M3H4R0",
+    "result": []
+  },
+  {
+    "postal": "M3H6J3",
+    "result": []
+  },
+  {
+    "postal": "M3H4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H4B8",
+        "streetName": "SEARLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SEARLE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6H6",
+    "result": []
+  },
+  {
+    "postal": "M3H0S1",
+    "result": []
+  },
+  {
+    "postal": "M3H4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4E3",
+        "streetName": "BRIGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BRIGHTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7K2",
+    "result": []
+  },
+  {
+    "postal": "M3H7T8",
+    "result": []
+  },
+  {
+    "postal": "M3H0J9",
+    "result": []
+  },
+  {
+    "postal": "M3H5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5J9",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142843
+        ],
+        "postalCode": "M3H5S7",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0G9",
+    "result": []
+  },
+  {
+    "postal": "M3H3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3J9",
+        "streetName": "YEOMANS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "YEOMANS RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2Y0",
+    "result": []
+  },
+  {
+    "postal": "M3H8X5",
+    "result": []
+  },
+  {
+    "postal": "M3H2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2M7",
+        "streetName": "EMBRO",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "EMBRO DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9Z3",
+    "result": []
+  },
+  {
+    "postal": "M3H7W2",
+    "result": []
+  },
+  {
+    "postal": "M3H3W0",
+    "result": []
+  },
+  {
+    "postal": "M3H3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3M1",
+        "streetName": "DUNSMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUNSMORE GDNS, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H6A5",
+        "streetName": "HOVE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "HOVE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2M9",
+        "streetName": "MCALLISTER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MCALLISTER RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5C3",
+        "streetName": "MAXWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAXWELL ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0Y6",
+    "result": []
+  },
+  {
+    "postal": "M3H9H7",
+    "result": []
+  },
+  {
+    "postal": "M3H3L0",
+    "result": []
+  },
+  {
+    "postal": "M3H5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5N9",
+        "streetName": "EVANSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "EVANSTON DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H5E3",
+        "streetName": "GODDARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GODDARD ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7M9",
+    "result": []
+  },
+  {
+    "postal": "M3H8N2",
+    "result": []
+  },
+  {
+    "postal": "M3H9H3",
+    "result": []
+  },
+  {
+    "postal": "M3H2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2K8",
+        "streetName": "VERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "VERWOOD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9L0",
+    "result": []
+  },
+  {
+    "postal": "M3H6L9",
+    "result": []
+  },
+  {
+    "postal": "M3H6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H6A8",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2K6",
+        "streetName": "VERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "VERWOOD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2M0",
+    "result": []
+  },
+  {
+    "postal": "M3H5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142882
+        ],
+        "postalCode": "M3H5X7",
+        "streetName": "BATHURST ST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST ST, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142882
+        ],
+        "postalCode": "M3H5X7",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0M7",
+    "result": []
+  },
+  {
+    "postal": "M3H7A6",
+    "result": []
+  },
+  {
+    "postal": "M3H3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3C5",
+        "streetName": "COLLINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COLLINSON BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2P2",
+        "streetName": "ALEXIS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ALEXIS BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9N4",
+    "result": []
+  },
+  {
+    "postal": "M3H3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3M9",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8K6",
+    "result": []
+  },
+  {
+    "postal": "M3H1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1L2",
+        "streetName": "RIDLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "RIDLEY BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2Z9",
+        "streetName": "STADACONA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "STADACONA DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2S2",
+    "result": []
+  },
+  {
+    "postal": "M3H2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H2W2",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2C3",
+        "streetName": "PALM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PALM DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6L7",
+    "result": []
+  },
+  {
+    "postal": "M3H3K0",
+    "result": []
+  },
+  {
+    "postal": "M3H3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3C1",
+        "streetName": "COLLINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COLLINSON BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6M9",
+    "result": []
+  },
+  {
+    "postal": "M3H4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4N9",
+        "streetName": "PANNAHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PANNAHILL RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H3Y7",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WATERLOO AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2A9",
+        "streetName": "LAURELCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LAURELCREST AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6H5",
+    "result": []
+  },
+  {
+    "postal": "M3H8B4",
+    "result": []
+  },
+  {
+    "postal": "M3H4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H4Z2",
+        "streetName": "HOVE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "HOVE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9J0",
+    "result": []
+  },
+  {
+    "postal": "M3H7V7",
+    "result": []
+  },
+  {
+    "postal": "M3H5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142843
+        ],
+        "postalCode": "M3H5T5",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847,
+          10142848
+        ],
+        "postalCode": "M3H4W5",
+        "streetName": "BLUE FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BLUE FOREST DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H1T8",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILSON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9G6",
+    "result": []
+  },
+  {
+    "postal": "M3H1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1H3",
+        "streetName": "ROMNEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ROMNEY RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5R5",
+    "result": []
+  },
+  {
+    "postal": "M3H8A4",
+    "result": []
+  },
+  {
+    "postal": "M3H3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3T6",
+        "streetName": "COCKSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COCKSFIELD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9W8",
+    "result": []
+  },
+  {
+    "postal": "M3H0N3",
+    "result": []
+  },
+  {
+    "postal": "M3H7V0",
+    "result": []
+  },
+  {
+    "postal": "M3H8T5",
+    "result": []
+  },
+  {
+    "postal": "M3H5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H5N3",
+        "streetName": "HONITON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "HONITON ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H5G9",
+        "streetName": "ELDER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ELDER ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H3X8",
+        "streetName": "AMOS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "AMOS CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9R3",
+    "result": []
+  },
+  {
+    "postal": "M3H2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 21,
+            "name": "Don Valley North"
+          },
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10137683,
+          10142849
+        ],
+        "postalCode": "M3H2S1",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9J7",
+    "result": []
+  },
+  {
+    "postal": "M3H2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2J3",
+        "streetName": "DANBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DANBY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3B6",
+        "streetName": "GRAYMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GRAYMAR AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8J0",
+    "result": []
+  },
+  {
+    "postal": "M3H7R4",
+    "result": []
+  },
+  {
+    "postal": "M3H8K8",
+    "result": []
+  },
+  {
+    "postal": "M3H4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4P3",
+        "streetName": "OVERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "OVERBROOK PL, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850,
+          10142852
+        ],
+        "postalCode": "M3H0A2",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2G2",
+        "streetName": "CLANTON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON PARK RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Y9",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILSON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7X0",
+    "result": []
+  },
+  {
+    "postal": "M3H7W3",
+    "result": []
+  },
+  {
+    "postal": "M3H7X5",
+    "result": []
+  },
+  {
+    "postal": "M3H5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5K6",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H5B6",
+        "streetName": "MAXWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAXWELL ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7Z0",
+    "result": []
+  },
+  {
+    "postal": "M3H9H6",
+    "result": []
+  },
+  {
+    "postal": "M3H1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1B4",
+        "streetName": "EDINBURGH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "EDINBURGH DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1A0",
+    "result": []
+  },
+  {
+    "postal": "M3H9A0",
+    "result": []
+  },
+  {
+    "postal": "M3H1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1M6",
+        "streetName": "ARMOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARMOUR BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5H0",
+    "result": []
+  },
+  {
+    "postal": "M3H1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1K6",
+        "streetName": "KIRKTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "KIRKTON RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H5E1",
+        "streetName": "GODDARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GODDARD ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3T9",
+        "streetName": "COCKSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COCKSFIELD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2M6",
+        "streetName": "REINER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "REINER RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0G5",
+    "result": []
+  },
+  {
+    "postal": "M3H0Y2",
+    "result": []
+  },
+  {
+    "postal": "M3H2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2Y7",
+        "streetName": "VINCI",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "VINCI CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2J7",
+        "streetName": "BAINBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BAINBRIDGE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4K7",
+        "streetName": "COMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COMBE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7P9",
+    "result": []
+  },
+  {
+    "postal": "M3H8X0",
+    "result": []
+  },
+  {
+    "postal": "M3H3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3X1",
+        "streetName": "CODSELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CODSELL AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1R5",
+        "streetName": "LUVERNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LUVERNE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6X6",
+    "result": []
+  },
+  {
+    "postal": "M3H0Y1",
+    "result": []
+  },
+  {
+    "postal": "M3H8G1",
+    "result": []
+  },
+  {
+    "postal": "M3H3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3J3",
+        "streetName": "YEOMANS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "YEOMANS RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8C2",
+    "result": []
+  },
+  {
+    "postal": "M3H4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142884
+        ],
+        "postalCode": "M3H4X9",
+        "streetName": "CANYON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CANYON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6G9",
+    "result": []
+  },
+  {
+    "postal": "M3H4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4M3",
+        "streetName": "KENNARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "KENNARD AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9P7",
+    "result": []
+  },
+  {
+    "postal": "M3H4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4E5",
+        "streetName": "BRIGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BRIGHTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5K9",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2V2",
+        "streetName": "TIPPETT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "TIPPETT RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2N9",
+        "streetName": "MCALLISTER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MCALLISTER RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6L4",
+    "result": []
+  },
+  {
+    "postal": "M3H8E0",
+    "result": []
+  },
+  {
+    "postal": "M3H0N0",
+    "result": []
+  },
+  {
+    "postal": "M3H6R0",
+    "result": []
+  },
+  {
+    "postal": "M3H9C1",
+    "result": []
+  },
+  {
+    "postal": "M3H4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4H4",
+        "streetName": "ACTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ACTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5W3",
+    "result": []
+  },
+  {
+    "postal": "M3H9N9",
+    "result": []
+  },
+  {
+    "postal": "M3H1V7",
+    "result": []
+  },
+  {
+    "postal": "M3H8J1",
+    "result": []
+  },
+  {
+    "postal": "M3H5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142843
+        ],
+        "postalCode": "M3H5V9",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUFFERIN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H2S8",
+        "streetName": "MAXWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAXWELL ST, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H2S8",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE E, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H2S8",
+        "streetName": "SHEPPARD",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SHEPPARD AVE W, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6P0",
+    "result": []
+  },
+  {
+    "postal": "M3H4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4J8",
+        "streetName": "COMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COMBE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0N1",
+    "result": []
+  },
+  {
+    "postal": "M3H1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1Y7",
+        "streetName": "DE QUINCY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DE QUINCY BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7W5",
+    "result": []
+  },
+  {
+    "postal": "M3H3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H3Z1",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WATERLOO AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7M6",
+    "result": []
+  },
+  {
+    "postal": "M3H1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H1W7",
+        "streetName": "SUNBEAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SUNBEAM AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1X1",
+    "result": []
+  },
+  {
+    "postal": "M3H0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H0C1",
+        "streetName": "WINGSTEM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WINGSTEM CRT, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4N3",
+        "streetName": "PANNAHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PANNAHILL RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4S8",
+        "streetName": "BARKSDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BARKSDALE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1H6",
+        "streetName": "NEWBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "NEWBURY LANE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2Z4",
+        "streetName": "LAURENTIA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LAURENTIA CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7K3",
+    "result": []
+  },
+  {
+    "postal": "M3H8A2",
+    "result": []
+  },
+  {
+    "postal": "M3H6J1",
+    "result": []
+  },
+  {
+    "postal": "M3H5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z6",
+        "streetName": "BOWRING",
+        "streetDirectionId": null,
+        "streetTypeId": "WALK",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BOWRING WALK, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z6",
+        "streetName": "JOEL SWIRSKY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JOEL SWIRSKY BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3Z0",
+    "result": []
+  },
+  {
+    "postal": "M3H8M0",
+    "result": []
+  },
+  {
+    "postal": "M3H1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1Z6",
+        "streetName": "INVERMAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "INVERMAY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8K7",
+    "result": []
+  },
+  {
+    "postal": "M3H1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1N3",
+        "streetName": "ARMOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARMOUR BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9S2",
+    "result": []
+  },
+  {
+    "postal": "M3H2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2K1",
+        "streetName": "BAINBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BAINBRIDGE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1E8",
+        "streetName": "SANDRINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SANDRINGHAM DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9B8",
+    "result": []
+  },
+  {
+    "postal": "M3H7X4",
+    "result": []
+  },
+  {
+    "postal": "M3H1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1Z4",
+        "streetName": "INVERMAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "INVERMAY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2C7",
+        "streetName": "PALM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PALM DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2E7",
+        "streetName": "CLANTON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON PARK RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3R1",
+    "result": []
+  },
+  {
+    "postal": "M3H4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4K4",
+        "streetName": "COMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COMBE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9G3",
+    "result": []
+  },
+  {
+    "postal": "M3H6C9",
+    "result": []
+  },
+  {
+    "postal": "M3H9H5",
+    "result": []
+  },
+  {
+    "postal": "M3H1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1P5",
+        "streetName": "WESTGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTGATE BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2J5",
+        "streetName": "DANBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DANBY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4W6",
+        "streetName": "BLUE FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BLUE FOREST DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8M8",
+    "result": []
+  },
+  {
+    "postal": "M3H6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H6C5",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9H0",
+    "result": []
+  },
+  {
+    "postal": "M3H1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1X8",
+        "streetName": "ALLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ALLINGHAM GDNS, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3H4",
+        "streetName": "KAINONA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "KAINONA AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H4E7",
+        "streetName": "BRIGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BRIGHTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8A0",
+    "result": []
+  },
+  {
+    "postal": "M3H1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H1Z7",
+        "streetName": "INVERMAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "INVERMAY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7Z3",
+    "result": []
+  },
+  {
+    "postal": "M3H0L7",
+    "result": []
+  },
+  {
+    "postal": "M3H2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2C6",
+        "streetName": "PALM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PALM DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6M3",
+    "result": []
+  },
+  {
+    "postal": "M3H2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2J1",
+        "streetName": "ALMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ALMORE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H3E3",
+        "streetName": "ALMONT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ALMONT RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6Z9",
+    "result": []
+  },
+  {
+    "postal": "M3H3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H3M3",
+        "streetName": "DUNSMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DUNSMORE GDNS, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9B1",
+    "result": []
+  },
+  {
+    "postal": "M3H9J5",
+    "result": []
+  },
+  {
+    "postal": "M3H4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4V8",
+        "streetName": "ARLSTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ARLSTAN DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6W2",
+    "result": []
+  },
+  {
+    "postal": "M3H0V5",
+    "result": []
+  },
+  {
+    "postal": "M3H0Z8",
+    "result": []
+  },
+  {
+    "postal": "M3H5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5G2",
+        "streetName": "CANDIS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CANDIS DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4N4",
+        "streetName": "PANNAHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PANNAHILL RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8G7",
+    "result": []
+  },
+  {
+    "postal": "M3H8W1",
+    "result": []
+  },
+  {
+    "postal": "M3H1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1S6",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILSON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4E0",
+    "result": []
+  },
+  {
+    "postal": "M3H4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4L9",
+        "streetName": "CLIFTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLIFTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z9",
+        "streetName": "AMBASSADOR",
+        "streetDirectionId": null,
+        "streetTypeId": "PLACE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "AMBASSADOR PLACE, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z9",
+        "streetName": "BOWRING",
+        "streetDirectionId": null,
+        "streetTypeId": "WALK",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BOWRING WALK, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z9",
+        "streetName": "JOEL SWIRSKY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JOEL SWIRSKY BLVD, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H5Z9",
+        "streetName": "THAMESFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "THAMESFORD CRT, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H5V3",
+        "streetName": "BATHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BATHURST ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H4V2",
+        "streetName": "CAVOTTI",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CAVOTTI CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7C0",
+    "result": []
+  },
+  {
+    "postal": "M3H6L0",
+    "result": []
+  },
+  {
+    "postal": "M3H1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H1S9",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILSON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7R6",
+    "result": []
+  },
+  {
+    "postal": "M3H7J0",
+    "result": []
+  },
+  {
+    "postal": "M3H5M0",
+    "result": []
+  },
+  {
+    "postal": "M3H2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142855
+        ],
+        "postalCode": "M3H2E5",
+        "streetName": "CLANTON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON PARK RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7C7",
+    "result": []
+  },
+  {
+    "postal": "M3H5C0",
+    "result": []
+  },
+  {
+    "postal": "M3H8V9",
+    "result": []
+  },
+  {
+    "postal": "M3H7E0",
+    "result": []
+  },
+  {
+    "postal": "M3H6R4",
+    "result": []
+  },
+  {
+    "postal": "M3H3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H3Z7",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WATERLOO AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1J9",
+        "streetName": "BIDEWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BIDEWELL AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7K6",
+    "result": []
+  },
+  {
+    "postal": "M3H7Y5",
+    "result": []
+  },
+  {
+    "postal": "M3H1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1B7",
+        "streetName": "BOMBAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BOMBAY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4S9",
+        "streetName": "BROCKINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BROCKINGTON CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9R9",
+    "result": []
+  },
+  {
+    "postal": "M3H5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5K7",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6P2",
+    "result": []
+  },
+  {
+    "postal": "M3H2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2C5",
+        "streetName": "PALM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PALM DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2N0",
+    "result": []
+  },
+  {
+    "postal": "M3H1G0",
+    "result": []
+  },
+  {
+    "postal": "M3H4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142848
+        ],
+        "postalCode": "M3H4K5",
+        "streetName": "COMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "COMBE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H9B5",
+    "result": []
+  },
+  {
+    "postal": "M3H6T5",
+    "result": []
+  },
+  {
+    "postal": "M3H1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1N8",
+        "streetName": "WESTGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTGATE BLVD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H0C0",
+    "result": []
+  },
+  {
+    "postal": "M3H0R9",
+    "result": []
+  },
+  {
+    "postal": "M3H7L1",
+    "result": []
+  },
+  {
+    "postal": "M3H3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142849
+        ],
+        "postalCode": "M3H3Y8",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WATERLOO AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7X9",
+    "result": []
+  },
+  {
+    "postal": "M3H1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1A7",
+        "streetName": "DELHI",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DELHI AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H2T9",
+    "result": []
+  },
+  {
+    "postal": "M3H2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142852
+        ],
+        "postalCode": "M3H2E6",
+        "streetName": "CLANTON PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CLANTON PARK RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H8Y1",
+    "result": []
+  },
+  {
+    "postal": "M3H0J5",
+    "result": []
+  },
+  {
+    "postal": "M3H4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142850
+        ],
+        "postalCode": "M3H4J1",
+        "streetName": "ACTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ACTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142853
+        ],
+        "postalCode": "M3H1A5",
+        "streetName": "SOUTHBOURNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SOUTHBOURNE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H6Z6",
+    "result": []
+  },
+  {
+    "postal": "M3H5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 120,
+            "name": "York Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142847
+        ],
+        "postalCode": "M3H5K4",
+        "streetName": "WILMINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WILMINGTON AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M3H7R9",
+    "result": []
+  },
+  {
+    "postal": "M3H6G4",
+    "result": []
   }
 ]

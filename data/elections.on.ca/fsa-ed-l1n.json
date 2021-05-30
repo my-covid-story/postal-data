@@ -11775,5 +11775,8191 @@
   {
     "postal": "L1N0W6",
     "result": []
+  },
+  {
+    "postal": "L1N4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N4C5",
+        "streetName": "PERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PERRY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N7E4",
+        "streetName": "KILBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KILBERRY DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1R9",
+        "streetName": "GILBERT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GILBERT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2P0",
+    "result": []
+  },
+  {
+    "postal": "L1N5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N5S4",
+        "streetName": "GORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GORDON ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5K8",
+        "streetName": "HALLETT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HALLETT AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8K4",
+        "streetName": "GOODWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GOODWOOD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N7C1",
+        "streetName": "WENTWORTH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WENTWORTH ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10136157
+        ],
+        "postalCode": "L1N7K9",
+        "streetName": "REGENCY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REGENCY CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5J1",
+        "streetName": "COCHRANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "COCHRANE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4P9",
+        "streetName": "BYRON",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BYRON ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0N2",
+    "result": []
+  },
+  {
+    "postal": "L1N2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2G6",
+        "streetName": "BROADVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROADVIEW AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N6P4",
+        "streetName": "REGAL BRIAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REGAL BRIAR ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3J0",
+    "result": []
+  },
+  {
+    "postal": "L1N8X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143506
+        ],
+        "postalCode": "L1N8X4",
+        "streetName": "DAVIES",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DAVIES CRES, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511,
+          10143506
+        ],
+        "postalCode": "L1N8X4",
+        "streetName": "WOODWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WOODWARD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1Y3",
+        "streetName": "LUPIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LUPIN DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1A8",
+        "streetName": "GRAND TRUNK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GRAND TRUNK ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N6Y5",
+        "streetName": "EVENSONG",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "EVENSONG DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N0J6",
+        "streetName": "ADANAC",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ADANAC DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N0J6",
+        "streetName": "DEVLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DEVLIN CRES, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N0J6",
+        "streetName": "GALLIMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GALLIMERE CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2C9",
+    "result": []
+  },
+  {
+    "postal": "L1N8J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8J6",
+        "streetName": "INGLEBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "INGLEBOROUGH DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8T4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8T4",
+        "streetName": "STAFFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "STAFFORD CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1P7",
+        "streetName": "ONTARIO",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ONTARIO ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9V9",
+        "streetName": "SOUTH BLAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SOUTH BLAIR ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708,
+          10143517
+        ],
+        "postalCode": "L1N0M1",
+        "streetName": "LONGSHORE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LONGSHORE WAY, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N6K5",
+        "streetName": "PRINGLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PRINGLE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2T5",
+    "result": []
+  },
+  {
+    "postal": "L1N7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N7E9",
+        "streetName": "PINE HILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PINE HILLS RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5K5",
+        "streetName": "ANNES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ANNES ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N3R5",
+        "streetName": "CRAWFORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CRAWFORTH ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5B1",
+        "streetName": "EUCLID",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "EUCLID ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2P1",
+        "streetName": "CEDAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CEDAR ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7L0",
+    "result": []
+  },
+  {
+    "postal": "L1N3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N3L6",
+        "streetName": "HAZELWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HAZELWOOD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N2A4",
+        "streetName": "HUTCHISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HUTCHISON AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8S0",
+    "result": []
+  },
+  {
+    "postal": "L1N3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N3L5",
+        "streetName": "HAZELWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HAZELWOOD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2R5",
+        "streetName": "MARY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARY ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9T6",
+        "streetName": "WENTWORTH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WENTWORTH ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8Z2",
+        "streetName": "ERICKSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ERICKSON DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N0E9",
+        "streetName": "BARKDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BARKDALE WAY, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8C0",
+    "result": []
+  },
+  {
+    "postal": "L1N3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N3K7",
+        "streetName": "GARRARD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GARRARD RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N2H3",
+        "streetName": "POWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "POWELL RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2Y6",
+        "streetName": "CHESTNUT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CHESTNUT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7M2",
+    "result": []
+  },
+  {
+    "postal": "L1N6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N6E2",
+        "streetName": "HARRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARRISON CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3R0",
+    "result": []
+  },
+  {
+    "postal": "L1N4J7",
+    "result": []
+  },
+  {
+    "postal": "L1N6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N6N8",
+        "streetName": "GRATH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GRATH CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N0J7",
+        "streetName": "HARBOURSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARBOURSIDE DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N0J7",
+        "streetName": "JAMES GOVAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JAMES GOVAN DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7P2",
+    "result": []
+  },
+  {
+    "postal": "L1N3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N3T8",
+        "streetName": "BOWMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BOWMAN AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N3S7",
+        "streetName": "ALLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ALLAN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2S7",
+        "streetName": "GIFFARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GIFFARD ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1S4",
+        "streetName": "DUNLOP",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNLOP ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1L8",
+        "streetName": "TRENT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "TRENT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8E9",
+        "streetName": "HORSESHOE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HORSESHOE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0T0",
+    "result": []
+  },
+  {
+    "postal": "L1N3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N3G4",
+        "streetName": "DONOVAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DONOVAN CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0V6",
+    "result": []
+  },
+  {
+    "postal": "L1N4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4W1",
+        "streetName": "CENTRE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N9G9",
+        "streetName": "WALLACE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WALLACE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5W4",
+        "streetName": "MICHAEL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MICHAEL BLVD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7M8",
+    "result": []
+  },
+  {
+    "postal": "L1N2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518,
+          10143517
+        ],
+        "postalCode": "L1N2C2",
+        "streetName": "HOPKINS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HOPKINS ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4Y2",
+        "streetName": "KENT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KENT ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N9X9",
+        "streetName": "ANDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ANDERSON ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3T0",
+    "result": []
+  },
+  {
+    "postal": "L1N4T8",
+    "result": []
+  },
+  {
+    "postal": "L1N9C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N9C4",
+        "streetName": "BASSETT",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BASSETT BLVD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8P2",
+        "streetName": "GARDEN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GARDEN ST N, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8P2",
+        "streetName": "LIMESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LIMESTONE CRES, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8P2",
+        "streetName": "WAYWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WAYWELL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0Y8",
+    "result": []
+  },
+  {
+    "postal": "L1N1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1G8",
+        "streetName": "ST LAWRENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ST LAWRENCE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2T6",
+        "streetName": "JOHN",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JOHN ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1N7",
+        "streetName": "SAINT JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SAINT JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0L6",
+    "result": []
+  },
+  {
+    "postal": "L1N9V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9V4",
+        "streetName": "TALLSHIPS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "TALLSHIPS DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2V1",
+        "streetName": "JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512,
+          10143513
+        ],
+        "postalCode": "L1N3L8",
+        "streetName": "HAZELWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HAZELWOOD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2R8",
+        "streetName": "MARY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARY ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5C1",
+        "streetName": "EUCLID",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "EUCLID ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4W3",
+        "streetName": "CENTRE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5X5",
+        "streetName": "LAUREN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LAUREN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9W5",
+        "streetName": "BAYSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BAYSIDE GATE, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9W5",
+        "streetName": "REGATTA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REGATTA CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N3C4",
+        "streetName": "HILLCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HILLCREST DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1N6",
+        "streetName": "SAINT JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SAINT JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N9S9",
+        "streetName": "STOKELY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "STOKELY CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10136170,
+          10143510
+        ],
+        "postalCode": "L1N9M2",
+        "streetName": "MANNING",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MANNING RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8Y4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8Y4",
+        "streetName": "MURKAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MURKAR CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7S4",
+    "result": []
+  },
+  {
+    "postal": "L1N0K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510,
+          10143517
+        ],
+        "postalCode": "L1N0K6",
+        "streetName": "MARY",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARY ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1W3",
+        "streetName": "COLBORNE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "COLBORNE ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7R2",
+    "result": []
+  },
+  {
+    "postal": "L1N2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2Y9",
+        "streetName": "CHESTNUT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CHESTNUT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N7G4",
+        "streetName": "BOUNDARY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BOUNDARY RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N7E5",
+        "streetName": "KILBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KILBERRY DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10136164
+        ],
+        "postalCode": "L1N9G2",
+        "streetName": "WATSON",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WATSON ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7Y8",
+        "streetName": "CARROLL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CARROLL ST, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7Y8",
+        "streetName": "HENDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HENDERSON DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9V2",
+        "streetName": "REGATTA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REGATTA CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N3T7",
+        "streetName": "BOWMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BOWMAN AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1H0",
+    "result": []
+  },
+  {
+    "postal": "L1N1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N1M7",
+        "streetName": "NEWMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "NEWMAN CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8V4",
+        "streetName": "WILLIAM STEPHENSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WILLIAM STEPHENSON DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N4M2",
+        "streetName": "BROCK",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0X2",
+    "result": []
+  },
+  {
+    "postal": "L1N5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5Z4",
+        "streetName": "MARBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARBURY CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N6V4",
+        "streetName": "JANSEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JANSEN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8J3",
+        "streetName": "GLENAYR",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GLENAYR GATE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8E5",
+        "streetName": "LONG",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LONG DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2V5",
+        "streetName": "JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7S1",
+    "result": []
+  },
+  {
+    "postal": "L1N6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N6V3",
+        "streetName": "HARLOWE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARLOWE CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2L8",
+    "result": []
+  },
+  {
+    "postal": "L1N9V0",
+    "result": []
+  },
+  {
+    "postal": "L1N3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N3M4",
+        "streetName": "MANNING",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MANNING RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5B2",
+        "streetName": "MICHAEL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MICHAEL BLVD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N3X5",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PINE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9R7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R7",
+        "streetName": "BREAKWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BREAKWATER DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R7",
+        "streetName": "FORECASTLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FORECASTLE RD, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R7",
+        "streetName": "FOUR WINDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FOUR WINDS DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R7",
+        "streetName": "PORTAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PORTAGE TRAIL, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2X2",
+        "streetName": "WALNUT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WALNUT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8Z6",
+        "streetName": "HOUGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HOUGHTON CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4R4",
+        "streetName": "BYRON",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BYRON ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2R1",
+        "streetName": "MARY",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARY ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N3R8",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": "S",
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ELIZABETH CRES S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9A1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N9A1",
+        "streetName": "HOLDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HOLDEN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8L3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8L3",
+        "streetName": "WYNDFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WYNDFIELD CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143506
+        ],
+        "postalCode": "L1N9K4",
+        "streetName": "HEAVER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HEAVER DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9S3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9S3",
+        "streetName": "CONSUMERS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CONSUMERS DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8N7",
+        "streetName": "LIMESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LIMESTONE CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N1C6",
+        "streetName": "MCCULLOUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MCCULLOUGH DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N3Z8",
+        "streetName": "ATHOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ATHOL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8G5",
+        "streetName": "MELISSA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MELISSA CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5R6",
+    "result": []
+  },
+  {
+    "postal": "L1N2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2W3",
+        "streetName": "WALNUT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WALNUT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0A0",
+    "result": []
+  },
+  {
+    "postal": "L1N6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10136158
+        ],
+        "postalCode": "L1N6P8",
+        "streetName": "KATHLEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KATHLEEN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8N9",
+        "streetName": "LIMESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LIMESTONE CRES, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N8N9",
+        "streetName": "WAYWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WAYWELL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0S9",
+    "result": []
+  },
+  {
+    "postal": "L1N8G0",
+    "result": []
+  },
+  {
+    "postal": "L1N8C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8C7",
+        "streetName": "DORVIS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DORVIS DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5X8",
+        "streetName": "HARPER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARPER CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N7E8",
+        "streetName": "SANDPIPER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SANDPIPER CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N6X2",
+        "streetName": "CITATION",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CITATION CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N4C6",
+        "streetName": "PERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PERRY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7H2",
+        "streetName": "LESLIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LESLIE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4R0",
+    "result": []
+  },
+  {
+    "postal": "L1N6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N6J3",
+        "streetName": "THICKSON",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "THICKSON RD S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4B8",
+    "result": []
+  },
+  {
+    "postal": "L1N6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N6H6",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REYNOLDS ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0S1",
+    "result": []
+  },
+  {
+    "postal": "L1N4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4E3",
+        "streetName": "GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GREEN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7K2",
+        "streetName": "RIBBLESDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "RIBBLESDALE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N7T8",
+        "streetName": "BEECH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BEECH ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N0J9",
+        "streetName": "JAMES GOVAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JAMES GOVAN DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N5J9",
+        "streetName": "COCHRANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "COCHRANE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5S7",
+    "result": []
+  },
+  {
+    "postal": "L1N0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N0G9",
+        "streetName": "WATER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WATER ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N3J9",
+        "streetName": "MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MEADOW RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2Y0",
+    "result": []
+  },
+  {
+    "postal": "L1N8X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143506,
+          10143511
+        ],
+        "postalCode": "L1N8X5",
+        "streetName": "BASSETT",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BASSETT BLVD, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143506
+        ],
+        "postalCode": "L1N8X5",
+        "streetName": "DAVIES",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DAVIES CRES, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8X5",
+        "streetName": "WOODWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WOODWARD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2M7",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2M7",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9Z3",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "VICTORIA ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7W2",
+        "streetName": "SUGAR MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SUGAR MAPLE CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3W0",
+    "result": []
+  },
+  {
+    "postal": "L1N3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N3M1",
+        "streetName": "LLOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LLOYD ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N6A5",
+        "streetName": "GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GREEN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2M9",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5C3",
+        "streetName": "HENRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HENRY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0Y6",
+    "result": []
+  },
+  {
+    "postal": "L1N9H7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9H7",
+        "streetName": "IRWIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "IRWIN DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9H7",
+        "streetName": "MILNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MILNE ST, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9H7",
+        "streetName": "PRENTICE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PRENTICE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3L0",
+    "result": []
+  },
+  {
+    "postal": "L1N5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5N9",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CARDIFF CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5E3",
+        "streetName": "HENRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HENRY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7M9",
+    "result": []
+  },
+  {
+    "postal": "L1N8N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8N2",
+        "streetName": "EVALEIGH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "EVALEIGH CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143503
+        ],
+        "postalCode": "L1N9H3",
+        "streetName": "ROSSLAND",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ROSSLAND RD W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N2K8",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143507
+        ],
+        "postalCode": "L1N2K8",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9L0",
+    "result": []
+  },
+  {
+    "postal": "L1N6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N6L9",
+        "streetName": "RIBBLESDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "RIBBLESDALE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6A8",
+    "result": []
+  },
+  {
+    "postal": "L1N2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2K6",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2M0",
+    "result": []
+  },
+  {
+    "postal": "L1N5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5X7",
+        "streetName": "KENTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KENTON CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0M7",
+    "result": []
+  },
+  {
+    "postal": "L1N7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7A6",
+        "streetName": "MAPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MAPLEWOOD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N3C5",
+        "streetName": "HARRIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARRIS ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2P2",
+        "streetName": "MARY",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARY ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9N4",
+        "streetName": "PORTAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PORTAGE TRAIL, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9N4",
+        "streetName": "WHITBY SHORES GREENWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WHITBY SHORES GREENWAY, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N3M9",
+        "streetName": "DYMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DYMOND DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8K6",
+        "streetName": "CYNTHIA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CYNTHIA CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1L2",
+        "streetName": "PITT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PITT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2Z9",
+        "streetName": "MAPLE",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MAPLE ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2S2",
+        "streetName": "GIFFARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GIFFARD ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2W2",
+        "streetName": "WALNUT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WALNUT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N2C3",
+        "streetName": "HOPKINS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HOPKINS ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N6L7",
+        "streetName": "ATHOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ATHOL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3K0",
+    "result": []
+  },
+  {
+    "postal": "L1N3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N3C1",
+        "streetName": "BEECH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BEECH ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N6M9",
+        "streetName": "PRINCE OF WALES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PRINCE OF WALES DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N4N9",
+        "streetName": "BYRON",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BYRON ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N3Y7",
+        "streetName": "PEEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PEEL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N2A9",
+        "streetName": "CROCUS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CROCUS CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N6H5",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REYNOLDS ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8B4",
+        "streetName": "FIELDVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FIELDVIEW CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4Z2",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KING ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9J0",
+    "result": []
+  },
+  {
+    "postal": "L1N7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7V7",
+        "streetName": "RED MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "RED MAPLE CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5T5",
+        "streetName": "MICHAEL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MICHAEL BLVD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4W5",
+        "streetName": "CENTRE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1T8",
+    "result": []
+  },
+  {
+    "postal": "L1N9G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9G6",
+        "streetName": "HARBOUR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARBOUR ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1H3",
+        "streetName": "ST LAWRENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ST LAWRENCE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143500
+        ],
+        "postalCode": "L1N5R5",
+        "streetName": "TAUNTON",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "TAUNTON RD E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8A4",
+        "streetName": "ELMEROY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ELMEROY CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N3T6",
+        "streetName": "BOWMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BOWMAN AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9W8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N9W8",
+        "streetName": "HICKORY",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HICKORY ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0N3",
+    "result": []
+  },
+  {
+    "postal": "L1N7V0",
+    "result": []
+  },
+  {
+    "postal": "L1N8T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8T5",
+        "streetName": "GILES",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GILES CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5N3",
+        "streetName": "NORDIC",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "NORDIC CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5G9",
+        "streetName": "FRANCES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FRANCES ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N3X8",
+        "streetName": "HICKORY",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HICKORY ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9R3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R3",
+        "streetName": "CHANNEL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CHANNEL DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R3",
+        "streetName": "PORTAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PORTAGE TRAIL, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2S1",
+        "streetName": "MARY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARY ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9J7",
+    "result": []
+  },
+  {
+    "postal": "L1N2J3",
+    "result": []
+  },
+  {
+    "postal": "L1N3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N3B6",
+        "streetName": "BEECH",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BEECH ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8J0",
+    "result": []
+  },
+  {
+    "postal": "L1N7R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7R4",
+        "streetName": "WHITE ASH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WHITE ASH DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8K8",
+        "streetName": "BRADLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BRADLEY DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8K8",
+        "streetName": "MARTINET",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MARTINET ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N4P3",
+        "streetName": "BYRON",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BYRON ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N0A2",
+        "streetName": "MCEWEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MCEWEN DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2G2",
+        "streetName": "KENDALWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KENDALWOOD RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5Y9",
+        "streetName": "HEDA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HEDA CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7X0",
+    "result": []
+  },
+  {
+    "postal": "L1N7W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7W3",
+        "streetName": "SUGAR MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SUGAR MAPLE CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7X5",
+        "streetName": "STARGELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "STARGELL DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5K6",
+        "streetName": "ANNES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ANNES ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5B6",
+        "streetName": "EUCLID",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "EUCLID ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7Z0",
+    "result": []
+  },
+  {
+    "postal": "L1N9H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N9H6",
+        "streetName": "PERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PERRY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1B4",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUFFERIN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1A0",
+    "result": []
+  },
+  {
+    "postal": "L1N9A0",
+    "result": []
+  },
+  {
+    "postal": "L1N1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N1M6",
+        "streetName": "NEWMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "NEWMAN CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5H0",
+    "result": []
+  },
+  {
+    "postal": "L1N1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N1K6",
+        "streetName": "BURNS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BURNS ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N5E1",
+        "streetName": "HENRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HENRY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N3T9",
+        "streetName": "BOWMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BOWMAN AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N2M6",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N0G5",
+        "streetName": "WATER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WATER ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0Y2",
+    "result": []
+  },
+  {
+    "postal": "L1N2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2Y7",
+        "streetName": "CHESTNUT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CHESTNUT ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N2J7",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4K7",
+        "streetName": "BROCK",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7P9",
+        "streetName": "MAPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MAPLEWOOD DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8X0",
+    "result": []
+  },
+  {
+    "postal": "L1N3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N3X1",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PINE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1R5",
+        "streetName": "GILBERT",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GILBERT ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N6X6",
+        "streetName": "HAWLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HAWLEY CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0Y1",
+    "result": []
+  },
+  {
+    "postal": "L1N8G1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8G1",
+        "streetName": "HORSESHOE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HORSESHOE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N3J3",
+        "streetName": "MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MEADOW CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8C2",
+        "streetName": "LOWDER",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LOWDER PL, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8C2",
+        "streetName": "SAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SAWDON DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4X9",
+        "streetName": "KENT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KENT ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N6G9",
+        "streetName": "EVA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "EVA CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4M3",
+    "result": []
+  },
+  {
+    "postal": "L1N9P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9P7",
+        "streetName": "SEABOARD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SEABOARD GATE, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9P7",
+        "streetName": "WHITBY SHORES GREENWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WHITBY SHORES GREENWAY, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4E5",
+        "streetName": "GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GREEN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5K9",
+        "streetName": "HALLETT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HALLETT AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2V2",
+        "streetName": "JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2N9",
+        "streetName": "CEDAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CEDAR ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N6L4",
+        "streetName": "GADSBY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GADSBY DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8E0",
+    "result": []
+  },
+  {
+    "postal": "L1N0N0",
+    "result": []
+  },
+  {
+    "postal": "L1N6R0",
+    "result": []
+  },
+  {
+    "postal": "L1N9C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9C1",
+        "streetName": "BILLINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BILLINGS ST, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9C1",
+        "streetName": "GLENMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GLENMORE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4H4",
+        "streetName": "BROCK",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5W3",
+        "streetName": "MICHAEL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MICHAEL BLVD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9N9",
+        "streetName": "ANCHORAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ANCHORAGE AVE, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9N9",
+        "streetName": "WHITBY SHORES GREENWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WHITBY SHORES GREENWAY, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N1V7",
+        "streetName": "REEDAIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "REEDAIRE CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8J1",
+        "streetName": "GREENVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GREENVIEW CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5V9",
+        "streetName": "MICHAEL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MICHAEL BLVD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2S8",
+        "streetName": "RAGLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "RAGLAN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6P0",
+    "result": []
+  },
+  {
+    "postal": "L1N4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4J8",
+        "streetName": "BROCK",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0N1",
+    "result": []
+  },
+  {
+    "postal": "L1N1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1Y7",
+        "streetName": "HARDING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HARDING ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7W5",
+        "streetName": "HONEY TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HONEY TREE CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N3Z1",
+        "streetName": "ATHOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ATHOL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7M6",
+    "result": []
+  },
+  {
+    "postal": "L1N1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1W7",
+        "streetName": "COLBORNE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "COLBORNE ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1X1",
+        "streetName": "COLBORNE",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "COLBORNE ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N0C1",
+        "streetName": "GORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GORDON ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4N3",
+        "streetName": "BYRON",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BYRON ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4S8",
+        "streetName": "CENTRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1H6",
+        "streetName": "KEITH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KEITH ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2Z4",
+        "streetName": "MAPLE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MAPLE ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7K3",
+        "streetName": "WHITE ASH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WHITE ASH DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N8A2",
+        "streetName": "ARDWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ARDWICK ST, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8A2",
+        "streetName": "BURNAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BURNAGE LANE, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8A2",
+        "streetName": "SPRINGSYDE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SPRINGSYDE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N6J1",
+        "streetName": "TERESA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "TERESA DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5Z6",
+        "streetName": "DUNLOP",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNLOP ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3Z0",
+    "result": []
+  },
+  {
+    "postal": "L1N8M0",
+    "result": []
+  },
+  {
+    "postal": "L1N1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1Z6",
+        "streetName": "DOVEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DOVEDALE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8K7",
+        "streetName": "CYNTHIA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CYNTHIA CRT, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8K7",
+        "streetName": "WILLIAM STEPHENSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WILLIAM STEPHENSON DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1N3",
+        "streetName": "SAINT JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SAINT JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N9S2",
+        "streetName": "CONSUMERS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CONSUMERS DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N2K1",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1E8",
+        "streetName": "CLEMENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CLEMENCE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9B8",
+        "streetName": "IRWIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "IRWIN DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7X4",
+        "streetName": "STARGELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "STARGELL DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1Z4",
+        "streetName": "ROSEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ROSEDALE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2C7",
+        "streetName": "THICKSON",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "THICKSON RD S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2E7",
+        "streetName": "APPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "APPLEWOOD CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N3R1",
+        "streetName": "THICKSON",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "THICKSON RD N, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N3R1",
+        "streetName": "THICKSON",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "THICKSON RD S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4K4",
+        "streetName": "BROCK",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9G3",
+    "result": []
+  },
+  {
+    "postal": "L1N6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N6C9",
+        "streetName": "GERSHWIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GERSHWIN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N9H5",
+        "streetName": "ARDWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ARDWICK ST, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N9H5",
+        "streetName": "SPRINGSYDE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SPRINGSYDE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1P5",
+        "streetName": "ONTARIO",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ONTARIO ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N2J5",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4W6",
+        "streetName": "CENTRE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8M8",
+        "streetName": "DREWBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DREWBROOK CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N6C5",
+        "streetName": "CHOPIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CHOPIN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9H0",
+    "result": []
+  },
+  {
+    "postal": "L1N1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1X8",
+        "streetName": "LUPIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LUPIN DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N3H4",
+        "streetName": "VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "VALLEY CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4E7",
+        "streetName": "GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GREEN ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8A0",
+    "result": []
+  },
+  {
+    "postal": "L1N1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1Z7",
+        "streetName": "DOVEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DOVEDALE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7Z3",
+        "streetName": "RICE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "RICE DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509,
+          10143510
+        ],
+        "postalCode": "L1N0L7",
+        "streetName": "JERSEYVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JERSEYVILLE WAY, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2C6",
+        "streetName": "THICKSON",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "THICKSON RD S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N6M3",
+        "streetName": "CALDER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CALDER CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N2J1",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNDAS ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N3E3",
+        "streetName": "STARR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "STARR AVE, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N6Z9",
+        "streetName": "GLEN HILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GLEN HILL DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143513
+        ],
+        "postalCode": "L1N3M3",
+        "streetName": "MANNING",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MANNING RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N9B1",
+        "streetName": "CRAWFORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CRAWFORTH ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N9J5",
+        "streetName": "WILLIAM SMITH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WILLIAM SMITH DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4V8",
+        "streetName": "CENTRE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N6W2",
+        "streetName": "PREAKNESS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PREAKNESS CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0V5",
+    "result": []
+  },
+  {
+    "postal": "L1N0Z8",
+    "result": []
+  },
+  {
+    "postal": "L1N5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N5G2",
+        "streetName": "PALACE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PALACE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4N4",
+        "streetName": "BYRON",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BYRON ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8G7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N8G7",
+        "streetName": "MELISSA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "MELISSA CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8W1",
+        "streetName": "FAIRMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FAIRMEADOW PL, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1S6",
+        "streetName": "DUNLOP",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNLOP ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4E0",
+    "result": []
+  },
+  {
+    "postal": "L1N4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708,
+          10143517
+        ],
+        "postalCode": "L1N4L9",
+        "streetName": "BROCK",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N5Z9",
+        "streetName": "INDUSTRIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "INDUSTRIAL DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5V3",
+    "result": []
+  },
+  {
+    "postal": "L1N4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N4V2",
+        "streetName": "CENTRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7C0",
+    "result": []
+  },
+  {
+    "postal": "L1N6L0",
+    "result": []
+  },
+  {
+    "postal": "L1N1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1S9",
+        "streetName": "DUNLOP",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "DUNLOP ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N7R6",
+        "streetName": "GLEN HILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GLEN HILL DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7J0",
+    "result": []
+  },
+  {
+    "postal": "L1N5M0",
+    "result": []
+  },
+  {
+    "postal": "L1N2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2E5",
+        "streetName": "APPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "APPLEWOOD CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N7C7",
+        "streetName": "KIRBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KIRBY CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5C0",
+    "result": []
+  },
+  {
+    "postal": "L1N8V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N8V9",
+        "streetName": "FAIRMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FAIRMEADOW PL, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7E0",
+    "result": []
+  },
+  {
+    "postal": "L1N6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N6R4",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WOODLAWN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N3Z7",
+        "streetName": "ATHOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ATHOL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1J9",
+        "streetName": "BURNS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BURNS ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143508
+        ],
+        "postalCode": "L1N7K6",
+        "streetName": "LINDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LINDEN CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7Y5",
+        "streetName": "CARROLL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CARROLL ST, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7Y5",
+        "streetName": "HENDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HENDERSON DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N1B7",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "VICTORIA ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N4S9",
+        "streetName": "CENTRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "CENTRE ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R9",
+        "streetName": "FOUR WINDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "FOUR WINDS DR, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143708
+        ],
+        "postalCode": "L1N9R9",
+        "streetName": "LIGHTHOUSE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "LIGHTHOUSE ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5K7",
+        "streetName": "ANNES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ANNES ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N6P2",
+        "streetName": "PRINCE OF WALES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PRINCE OF WALES DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2C5",
+    "result": []
+  },
+  {
+    "postal": "L1N2N0",
+    "result": []
+  },
+  {
+    "postal": "L1N1G0",
+    "result": []
+  },
+  {
+    "postal": "L1N4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N4K5",
+        "streetName": "BROCK",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST S, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N9B5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N9B5",
+        "streetName": "SUNRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SUNRAY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N6T5",
+        "streetName": "POWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "POWELL RD, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N1N8",
+        "streetName": "SAINT JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "SAINT JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0C0",
+    "result": []
+  },
+  {
+    "postal": "L1N0R9",
+    "result": []
+  },
+  {
+    "postal": "L1N7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10136156
+        ],
+        "postalCode": "L1N7L1",
+        "streetName": "HICKORY",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HICKORY ST N, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10136156
+        ],
+        "postalCode": "L1N7L1",
+        "streetName": "HICKORY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HICKORY ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143515
+        ],
+        "postalCode": "L1N3Y8",
+        "streetName": "PEEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PEEL ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7X9",
+        "streetName": "PRITCHARD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "PRITCHARD CRT, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143511
+        ],
+        "postalCode": "L1N7X9",
+        "streetName": "STARGELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "STARGELL DR, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1A7",
+        "streetName": "WATSON",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WATSON ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143509
+        ],
+        "postalCode": "L1N2T9",
+        "streetName": "JOHN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "JOHN ST W, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N2E6",
+        "streetName": "APPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "APPLEWOOD CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N8Y1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8Y1",
+        "streetName": "HAWKINS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "HAWKINS CRT, WHITBY"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143512
+        ],
+        "postalCode": "L1N8Y1",
+        "streetName": "WINTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WINTER CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N0J5",
+        "streetName": "GALLIMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "GALLIMERE CRT, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143510
+        ],
+        "postalCode": "L1N4J1",
+        "streetName": "BROCK",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "BROCK ST N, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143517
+        ],
+        "postalCode": "L1N1A5",
+        "streetName": "WATSON",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "WATSON ST E, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N6Z6",
+        "streetName": "KIRBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "KIRBY CRES, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143514
+        ],
+        "postalCode": "L1N5K4",
+        "streetName": "ANNES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "ANNES ST, WHITBY"
+      }
+    ]
+  },
+  {
+    "postal": "L1N7R9",
+    "result": []
+  },
+  {
+    "postal": "L1N6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 116,
+            "name": "Whitby"
+          }
+        ],
+        "pollDivisionIds": [
+          10143518
+        ],
+        "postalCode": "L1N6G4",
+        "streetName": "POWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "WHITBY",
+        "streetNameDisplayText": "POWELL RD, WHITBY"
+      }
+    ]
   }
 ]

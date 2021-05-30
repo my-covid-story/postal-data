@@ -8237,5 +8237,5819 @@
   {
     "postal": "N7S0W6",
     "result": []
+  },
+  {
+    "postal": "N7S4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4C5",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARDIFF DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7E4",
+    "result": []
+  },
+  {
+    "postal": "N7S1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1R9",
+        "streetName": "RYAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "RYAN ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2P0",
+    "result": []
+  },
+  {
+    "postal": "N7S5S4",
+    "result": []
+  },
+  {
+    "postal": "N7S5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5K8",
+        "streetName": "COPPERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "COPPERFIELD CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8K4",
+    "result": []
+  },
+  {
+    "postal": "N7S7C1",
+    "result": []
+  },
+  {
+    "postal": "N7S7K9",
+    "result": []
+  },
+  {
+    "postal": "N7S5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S5J1",
+        "streetName": "ESSER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ESSER CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4P9",
+        "streetName": "WINCHESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WINCHESTER CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0N2",
+    "result": []
+  },
+  {
+    "postal": "N7S2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2G6",
+        "streetName": "GURD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "GURD ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6P4",
+    "result": []
+  },
+  {
+    "postal": "N7S3J0",
+    "result": []
+  },
+  {
+    "postal": "N7S8X4",
+    "result": []
+  },
+  {
+    "postal": "N7S1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S1Y3",
+        "streetName": "JORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "JORDON DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1A8",
+        "streetName": "MEIGHEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MEIGHEN CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6Y5",
+    "result": []
+  },
+  {
+    "postal": "N7S0J6",
+    "result": []
+  },
+  {
+    "postal": "N7S2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2C9",
+        "streetName": "SENATE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SENATE CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8J6",
+    "result": []
+  },
+  {
+    "postal": "N7S8T4",
+    "result": []
+  },
+  {
+    "postal": "N7S1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1P7",
+        "streetName": "LONDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LONDON RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9V9",
+    "result": []
+  },
+  {
+    "postal": "N7S0M1",
+    "result": []
+  },
+  {
+    "postal": "N7S6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141439
+        ],
+        "postalCode": "N7S6K5",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2T5",
+        "streetName": "KEMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "KEMBER AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7E9",
+    "result": []
+  },
+  {
+    "postal": "N7S5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5K5",
+        "streetName": "HASTINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HASTINGS CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S3R5",
+        "streetName": "DELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "DELL AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5B1",
+        "streetName": "NOTTINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "NOTTINGHAM DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2P1",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": "N",
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LANSDOWNE AVE N, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7L0",
+    "result": []
+  },
+  {
+    "postal": "N7S3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3L6",
+        "streetName": "LEE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LEE CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S2A4",
+        "streetName": "HAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HAY ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8S0",
+    "result": []
+  },
+  {
+    "postal": "N7S3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3L5",
+        "streetName": "LEE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LEE CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2R5",
+        "streetName": "MINTO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MINTO ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9T6",
+    "result": []
+  },
+  {
+    "postal": "N7S8Z2",
+    "result": []
+  },
+  {
+    "postal": "N7S0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S0E9",
+        "streetName": "BASQUIAT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BASQUIAT CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8C0",
+    "result": []
+  },
+  {
+    "postal": "N7S3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3K7",
+        "streetName": "GIFFEL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "GIFFEL RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141388
+        ],
+        "postalCode": "N7S2H3",
+        "streetName": "CATHCART",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CATHCART BLVD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141440
+        ],
+        "postalCode": "N7S2Y6",
+        "streetName": "MURPHY BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY BAY RD, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2Y6",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7M2",
+    "result": []
+  },
+  {
+    "postal": "N7S6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6E2",
+        "streetName": "FANSHAWE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FANSHAWE DR, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6E2",
+        "streetName": "ST LAWRENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ST LAWRENCE CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3R0",
+    "result": []
+  },
+  {
+    "postal": "N7S4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4J7",
+        "streetName": "PRESTWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "PRESTWICK CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6N8",
+    "result": []
+  },
+  {
+    "postal": "N7S0J7",
+    "result": []
+  },
+  {
+    "postal": "N7S7P2",
+    "result": []
+  },
+  {
+    "postal": "N7S3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3T8",
+        "streetName": "ARLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ARLINGTON AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S3S7",
+        "streetName": "NOTRE DAME",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "NOTRE DAME PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2S7",
+        "streetName": "LEOPOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LEOPOLD DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1S4",
+        "streetName": "ISABELLA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ISABELLA ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1L8",
+        "streetName": "GERMAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "GERMAIN ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8E9",
+    "result": []
+  },
+  {
+    "postal": "N7S0T0",
+    "result": []
+  },
+  {
+    "postal": "N7S3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3G4",
+        "streetName": "ASH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ASH CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0V6",
+    "result": []
+  },
+  {
+    "postal": "N7S4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S4W1",
+        "streetName": "TWIN LAKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TWIN LAKES DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9G9",
+    "result": []
+  },
+  {
+    "postal": "N7S5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S5W4",
+        "streetName": "ASSUMPTION",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ASSUMPTION CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7M8",
+    "result": []
+  },
+  {
+    "postal": "N7S2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2C2",
+        "streetName": "SEVERIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SEVERIN DR N, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S4Y2",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARDIFF DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9X9",
+    "result": []
+  },
+  {
+    "postal": "N7S3T0",
+    "result": []
+  },
+  {
+    "postal": "N7S4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4T8",
+        "streetName": "FINCH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FINCH DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9C4",
+    "result": []
+  },
+  {
+    "postal": "N7S8P2",
+    "result": []
+  },
+  {
+    "postal": "N7S0Y8",
+    "result": []
+  },
+  {
+    "postal": "N7S1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1G8",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": "S",
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LANSDOWNE AVE S, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141402
+        ],
+        "postalCode": "N7S2T6",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ELIZABETH AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141402
+        ],
+        "postalCode": "N7S1N7",
+        "streetName": "LONDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LONDON RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0L6",
+    "result": []
+  },
+  {
+    "postal": "N7S9V4",
+    "result": []
+  },
+  {
+    "postal": "N7S2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2V1",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ELIZABETH AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3L8",
+        "streetName": "BEVERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BEVERLEY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2R8",
+        "streetName": "TWEEDSMUIR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TWEEDSMUIR AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S5C1",
+        "streetName": "BLUAIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BLUAIRE GATE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4W3",
+        "streetName": "MICHENER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MICHENER RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S5X5",
+        "streetName": "DALEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "DALEY AVE, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S5X5",
+        "streetName": "MCMASTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MCMASTER CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9W5",
+    "result": []
+  },
+  {
+    "postal": "N7S3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3C4",
+        "streetName": "BOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BOND ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1N6",
+        "streetName": "LONDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LONDON RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9S9",
+    "result": []
+  },
+  {
+    "postal": "N7S9M2",
+    "result": []
+  },
+  {
+    "postal": "N7S8Y4",
+    "result": []
+  },
+  {
+    "postal": "N7S7S4",
+    "result": []
+  },
+  {
+    "postal": "N7S0K6",
+    "result": []
+  },
+  {
+    "postal": "N7S1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1W3",
+        "streetName": "EXMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "EXMOUTH ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7R2",
+    "result": []
+  },
+  {
+    "postal": "N7S2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S2Y9",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7G4",
+    "result": []
+  },
+  {
+    "postal": "N7S7E5",
+    "result": []
+  },
+  {
+    "postal": "N7S9G2",
+    "result": []
+  },
+  {
+    "postal": "N7S7Y8",
+    "result": []
+  },
+  {
+    "postal": "N7S9V2",
+    "result": []
+  },
+  {
+    "postal": "N7S3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S3T7",
+        "streetName": "OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "OAK AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1H0",
+    "result": []
+  },
+  {
+    "postal": "N7S1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1M7",
+        "streetName": "TUNIS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TUNIS AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8V4",
+    "result": []
+  },
+  {
+    "postal": "N7S4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4M2",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0X2",
+    "result": []
+  },
+  {
+    "postal": "N7S5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5Z4",
+        "streetName": "PLYMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "PLYMOUTH ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6V4",
+    "result": []
+  },
+  {
+    "postal": "N7S8J3",
+    "result": []
+  },
+  {
+    "postal": "N7S8E5",
+    "result": []
+  },
+  {
+    "postal": "N7S2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2V5",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ELIZABETH AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7S1",
+    "result": []
+  },
+  {
+    "postal": "N7S6V3",
+    "result": []
+  },
+  {
+    "postal": "N7S2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2L8",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LAKESHORE RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9V0",
+    "result": []
+  },
+  {
+    "postal": "N7S3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3M4",
+        "streetName": "MCCRIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MCCRIE ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5B2",
+        "streetName": "TREEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TREEWOOD CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S3X5",
+        "streetName": "AMSTERDAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "AMSTERDAM CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9R7",
+    "result": []
+  },
+  {
+    "postal": "N7S2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2X2",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8Z6",
+    "result": []
+  },
+  {
+    "postal": "N7S4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4R4",
+        "streetName": "HULL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HULL CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2R1",
+        "streetName": "MONTCALM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MONTCALM AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S3R8",
+        "streetName": "WILLARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILLARD AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9A1",
+    "result": []
+  },
+  {
+    "postal": "N7S8L3",
+    "result": []
+  },
+  {
+    "postal": "N7S9K4",
+    "result": []
+  },
+  {
+    "postal": "N7S9S3",
+    "result": []
+  },
+  {
+    "postal": "N7S8N7",
+    "result": []
+  },
+  {
+    "postal": "N7S1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1C6",
+        "streetName": "CONNAUGHT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CONNAUGHT CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3Z8",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8G5",
+    "result": []
+  },
+  {
+    "postal": "N7S5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S5R6",
+        "streetName": "LAMBTON MALL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LAMBTON MALL RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2W3",
+        "streetName": "SYLVIA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SYLVIA AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0A0",
+    "result": []
+  },
+  {
+    "postal": "N7S6P8",
+    "result": []
+  },
+  {
+    "postal": "N7S8N9",
+    "result": []
+  },
+  {
+    "postal": "N7S0S9",
+    "result": []
+  },
+  {
+    "postal": "N7S8G0",
+    "result": []
+  },
+  {
+    "postal": "N7S8C7",
+    "result": []
+  },
+  {
+    "postal": "N7S5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S5X8",
+        "streetName": "WILLOW GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILLOW GLEN CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7E8",
+    "result": []
+  },
+  {
+    "postal": "N7S6X2",
+    "result": []
+  },
+  {
+    "postal": "N7S4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4C6",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARDIFF DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7H2",
+    "result": []
+  },
+  {
+    "postal": "N7S4R0",
+    "result": []
+  },
+  {
+    "postal": "N7S6J3",
+    "result": []
+  },
+  {
+    "postal": "N7S4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4B8",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARDIFF DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S6H6",
+        "streetName": "TRUDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TRUDEAU DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0S1",
+    "result": []
+  },
+  {
+    "postal": "N7S4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4E3",
+        "streetName": "LANARK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LANARK CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7K2",
+    "result": []
+  },
+  {
+    "postal": "N7S7T8",
+    "result": []
+  },
+  {
+    "postal": "N7S0J9",
+    "result": []
+  },
+  {
+    "postal": "N7S5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S5J9",
+        "streetName": "TAWNY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TAWNY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5S7",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BRISTOL ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0G9",
+    "result": []
+  },
+  {
+    "postal": "N7S3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3J9",
+        "streetName": "FAIRLANE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FAIRLANE AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2Y0",
+    "result": []
+  },
+  {
+    "postal": "N7S8X5",
+    "result": []
+  },
+  {
+    "postal": "N7S2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2M7",
+        "streetName": "GREEN ACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "GREEN ACRES RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9Z3",
+    "result": []
+  },
+  {
+    "postal": "N7S7W2",
+    "result": []
+  },
+  {
+    "postal": "N7S3W0",
+    "result": []
+  },
+  {
+    "postal": "N7S3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3M1",
+        "streetName": "WINDEMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WINDEMERE CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6A5",
+    "result": []
+  },
+  {
+    "postal": "N7S2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2M9",
+        "streetName": "CHUDLEIGH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CHUDLEIGH RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5C3",
+    "result": []
+  },
+  {
+    "postal": "N7S0Y6",
+    "result": []
+  },
+  {
+    "postal": "N7S9H7",
+    "result": []
+  },
+  {
+    "postal": "N7S3L0",
+    "result": []
+  },
+  {
+    "postal": "N7S5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S5N9",
+        "streetName": "CONFEDERATION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CONFEDERATION ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S5E3",
+        "streetName": "TWIN LAKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TWIN LAKES DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7M9",
+    "result": []
+  },
+  {
+    "postal": "N7S8N2",
+    "result": []
+  },
+  {
+    "postal": "N7S9H3",
+    "result": []
+  },
+  {
+    "postal": "N7S2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2K8",
+        "streetName": "SYLVAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SYLVAN CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9L0",
+    "result": []
+  },
+  {
+    "postal": "N7S6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141404
+        ],
+        "postalCode": "N7S6L9",
+        "streetName": "MADISON D'ANDREA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MADISON D'ANDREA AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6A8",
+        "streetName": "CONESTOGA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CONESTOGA DR, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6A8",
+        "streetName": "FINCH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FINCH DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S2K6",
+        "streetName": "NORTHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "NORTHWOOD DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2M0",
+    "result": []
+  },
+  {
+    "postal": "N7S5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S5X7",
+        "streetName": "WILLOW GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILLOW GLEN CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0M7",
+    "result": []
+  },
+  {
+    "postal": "N7S7A6",
+    "result": []
+  },
+  {
+    "postal": "N7S3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3C5",
+        "streetName": "BOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BOND ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2P2",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": "N",
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LANSDOWNE AVE N, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9N4",
+    "result": []
+  },
+  {
+    "postal": "N7S3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3M9",
+        "streetName": "LEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LEN AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8K6",
+    "result": []
+  },
+  {
+    "postal": "N7S1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1L2",
+        "streetName": "MAYFAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MAYFAIR DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2Z9",
+        "streetName": "CARR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARR ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2S2",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "GREY CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2W2",
+        "streetName": "SYLVIA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SYLVIA AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2C3",
+        "streetName": "SEVERIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SEVERIN DR N, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6L7",
+    "result": []
+  },
+  {
+    "postal": "N7S3K0",
+    "result": []
+  },
+  {
+    "postal": "N7S3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3C1",
+        "streetName": "HOLLANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HOLLANDS AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S6M9",
+        "streetName": "CASSANDRA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CASSANDRA BLVD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4N9",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S3Y7",
+        "streetName": "VANIER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "VANIER RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S2A9",
+        "streetName": "MICHIGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MICHIGAN AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6H5",
+    "result": []
+  },
+  {
+    "postal": "N7S8B4",
+    "result": []
+  },
+  {
+    "postal": "N7S4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4Z2",
+        "streetName": "HAMPTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HAMPTON AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9J0",
+    "result": []
+  },
+  {
+    "postal": "N7S7V7",
+    "result": []
+  },
+  {
+    "postal": "N7S5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S5T5",
+        "streetName": "STATHIS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "STATHIS BLVD, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S5T5",
+        "streetName": "WANNER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WANNER AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S4W5",
+        "streetName": "LAURENTIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LAURENTIAN CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1T8",
+        "streetName": "EARLSCOURT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "EARLSCOURT DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9G6",
+    "result": []
+  },
+  {
+    "postal": "N7S1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1H3",
+        "streetName": "LAURIER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LAURIER CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5R5",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WELLINGTON ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8A4",
+    "result": []
+  },
+  {
+    "postal": "N7S3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3T6",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9W8",
+    "result": []
+  },
+  {
+    "postal": "N7S0N3",
+    "result": []
+  },
+  {
+    "postal": "N7S7V0",
+    "result": []
+  },
+  {
+    "postal": "N7S8T5",
+    "result": []
+  },
+  {
+    "postal": "N7S5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S5N3",
+        "streetName": "EVETT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "EVETT ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5G9",
+        "streetName": "FINCH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FINCH DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S3X8",
+        "streetName": "COVENTRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "COVENTRY CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9R3",
+    "result": []
+  },
+  {
+    "postal": "N7S2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2S1",
+        "streetName": "TWEEDSMUIR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TWEEDSMUIR AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9J7",
+    "result": []
+  },
+  {
+    "postal": "N7S2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2J3",
+        "streetName": "MCGEE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MCGEE ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3B6",
+        "streetName": "WESTMINSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WESTMINSTER DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8J0",
+    "result": []
+  },
+  {
+    "postal": "N7S7R4",
+    "result": []
+  },
+  {
+    "postal": "N7S8K8",
+    "result": []
+  },
+  {
+    "postal": "N7S4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4P3",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S0A2",
+        "streetName": "CASSANDRA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CASSANDRA BLVD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2G2",
+        "streetName": "ERROL",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ERROL RD E, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5Y9",
+        "streetName": "OAKLEA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "OAKLEA CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7X0",
+    "result": []
+  },
+  {
+    "postal": "N7S7W3",
+    "result": []
+  },
+  {
+    "postal": "N7S7X5",
+    "result": []
+  },
+  {
+    "postal": "N7S5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5K6",
+        "streetName": "FINCH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FINCH DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S5B6",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7Z0",
+    "result": []
+  },
+  {
+    "postal": "N7S9H6",
+    "result": []
+  },
+  {
+    "postal": "N7S1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1B4",
+        "streetName": "ST. LAURENT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ST. LAURENT DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1A0",
+    "result": []
+  },
+  {
+    "postal": "N7S9A0",
+    "result": []
+  },
+  {
+    "postal": "N7S1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1M6",
+        "streetName": "TUNIS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TUNIS AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5H0",
+    "result": []
+  },
+  {
+    "postal": "N7S1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1K6",
+        "streetName": "ATHLONE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ATHLONE ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5E1",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BRISTOL ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3T9",
+        "streetName": "ARLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ARLINGTON AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2M6",
+        "streetName": "HAIGHT",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HAIGHT LANE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0G5",
+    "result": []
+  },
+  {
+    "postal": "N7S0Y2",
+    "result": []
+  },
+  {
+    "postal": "N7S2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2Y7",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2J7",
+        "streetName": "WEBSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WEBSTER DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4K7",
+        "streetName": "TRUDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TRUDEAU DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7P9",
+    "result": []
+  },
+  {
+    "postal": "N7S8X0",
+    "result": []
+  },
+  {
+    "postal": "N7S3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3X1",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CAMBRIDGE PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403,
+          10141402
+        ],
+        "postalCode": "N7S1R5",
+        "streetName": "BRENCHLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BRENCHLEY ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6X6",
+    "result": []
+  },
+  {
+    "postal": "N7S0Y1",
+    "result": []
+  },
+  {
+    "postal": "N7S8G1",
+    "result": []
+  },
+  {
+    "postal": "N7S3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3J3",
+        "streetName": "SOLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SOLE ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8C2",
+    "result": []
+  },
+  {
+    "postal": "N7S4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S4X9",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARDIFF DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S6G9",
+        "streetName": "HOGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HOGAN DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4M3",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9P7",
+    "result": []
+  },
+  {
+    "postal": "N7S4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4E5",
+        "streetName": "LANARK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LANARK PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5K9",
+        "streetName": "COBBLESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "COBBLESTONE CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S2V2",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ELIZABETH AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S2N9",
+        "streetName": "ABERDEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ABERDEEN AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S6L4",
+        "streetName": "MARIANNA",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MARIANNA PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8E0",
+    "result": []
+  },
+  {
+    "postal": "N7S0N0",
+    "result": []
+  },
+  {
+    "postal": "N7S6R0",
+    "result": []
+  },
+  {
+    "postal": "N7S9C1",
+    "result": []
+  },
+  {
+    "postal": "N7S4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4H4",
+        "streetName": "HANNA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HANNA CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S5W3",
+        "streetName": "FINCH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FINCH DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9N9",
+    "result": []
+  },
+  {
+    "postal": "N7S1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1V7",
+        "streetName": "LOGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LOGAN ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8J1",
+    "result": []
+  },
+  {
+    "postal": "N7S5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5V9",
+        "streetName": "CONESTOGA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CONESTOGA DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141402,
+          10141403
+        ],
+        "postalCode": "N7S2S8",
+        "streetName": "ROGER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ROGER ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6P0",
+    "result": []
+  },
+  {
+    "postal": "N7S4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4J8",
+        "streetName": "PRESTWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "PRESTWICK CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0N1",
+    "result": []
+  },
+  {
+    "postal": "N7S1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S1Y7",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "DEVON AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7W5",
+    "result": []
+  },
+  {
+    "postal": "N7S3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3Z1",
+        "streetName": "STAFFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "STAFFORD PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7M6",
+    "result": []
+  },
+  {
+    "postal": "N7S1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1W7",
+        "streetName": "EXMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "EXMOUTH ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1X1",
+        "streetName": "EASTLAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "EASTLAWN AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396,
+          10141399
+        ],
+        "postalCode": "N7S0C1",
+        "streetName": "ROCCO",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ROCCO DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4N3",
+        "streetName": "DURCO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "DURCO AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S4S8",
+        "streetName": "WILLA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILLA DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1H6",
+        "streetName": "PATTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "PATTON PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2Z4",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7K3",
+    "result": []
+  },
+  {
+    "postal": "N7S8A2",
+    "result": []
+  },
+  {
+    "postal": "N7S6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S6J1",
+        "streetName": "YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "YORK CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5Z6",
+        "streetName": "HENLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HENLEY CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3Z0",
+    "result": []
+  },
+  {
+    "postal": "N7S8M0",
+    "result": []
+  },
+  {
+    "postal": "N7S1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S1Z6",
+        "streetName": "ROSEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ROSEDALE AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8K7",
+    "result": []
+  },
+  {
+    "postal": "N7S1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1N3",
+        "streetName": "KENSINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "KENSINGTON BLVD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9S2",
+    "result": []
+  },
+  {
+    "postal": "N7S2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2K1",
+        "streetName": "WEBSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WEBSTER DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1E8",
+        "streetName": "BORDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BORDEN ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9B8",
+    "result": []
+  },
+  {
+    "postal": "N7S7X4",
+    "result": []
+  },
+  {
+    "postal": "N7S1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S1Z4",
+        "streetName": "ROSEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ROSEDALE AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2C7",
+        "streetName": "LINDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LINDEN WAY, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2E7",
+        "streetName": "ERROL",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ERROL RD E, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S3R1",
+        "streetName": "CARL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CARL ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4K4",
+        "streetName": "TRUDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TRUDEAU DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9G3",
+    "result": []
+  },
+  {
+    "postal": "N7S6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6C9",
+        "streetName": "ALTHOUSE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ALTHOUSE CRT, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6C9",
+        "streetName": "FANSHAWE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FANSHAWE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9H5",
+    "result": []
+  },
+  {
+    "postal": "N7S1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1P5",
+        "streetName": "LONDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LONDON RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2J5",
+        "streetName": "MC GEE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MC GEE ST, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141389
+        ],
+        "postalCode": "N7S2J5",
+        "streetName": "MCGEE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MCGEE ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S4W6",
+        "streetName": "TWIN LAKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TWIN LAKES DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8M8",
+    "result": []
+  },
+  {
+    "postal": "N7S6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S6C5",
+        "streetName": "ERINDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ERINDALE CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9H0",
+    "result": []
+  },
+  {
+    "postal": "N7S1X8",
+    "result": []
+  },
+  {
+    "postal": "N7S3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3H4",
+        "streetName": "BEL AIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BEL AIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S4E7",
+        "streetName": "OVERLEA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "OVERLEA CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8A0",
+    "result": []
+  },
+  {
+    "postal": "N7S1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S1Z7",
+        "streetName": "CAPRI",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CAPRI ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7Z3",
+    "result": []
+  },
+  {
+    "postal": "N7S0L7",
+    "result": []
+  },
+  {
+    "postal": "N7S2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2C6",
+        "streetName": "LINDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LINDEN WAY, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S6M3",
+        "streetName": "FOXWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FOXWOOD CRT, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S6M3",
+        "streetName": "GRAYCLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "GRAYCLIFF DR, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S6M3",
+        "streetName": "NEWCASTLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "NEWCASTLE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S2J1",
+        "streetName": "CATHCART",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "CATHCART BLVD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141399
+        ],
+        "postalCode": "N7S3E3",
+        "streetName": "ALLANDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ALLANDALE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6Z9",
+    "result": []
+  },
+  {
+    "postal": "N7S3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S3M3",
+        "streetName": "MCCRIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MCCRIE ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9B1",
+    "result": []
+  },
+  {
+    "postal": "N7S9J5",
+    "result": []
+  },
+  {
+    "postal": "N7S4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396
+        ],
+        "postalCode": "N7S4V8",
+        "streetName": "MAYNARD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MAYNARD RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6W2",
+    "result": []
+  },
+  {
+    "postal": "N7S0V5",
+    "result": []
+  },
+  {
+    "postal": "N7S0Z8",
+    "result": []
+  },
+  {
+    "postal": "N7S5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141396,
+          10141395
+        ],
+        "postalCode": "N7S5G2",
+        "streetName": "TWIN LAKES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TWIN LAKES DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4N4",
+        "streetName": "DURCO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "DURCO AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8G7",
+    "result": []
+  },
+  {
+    "postal": "N7S8W1",
+    "result": []
+  },
+  {
+    "postal": "N7S1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1S6",
+        "streetName": "ISABELLA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ISABELLA ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4E0",
+    "result": []
+  },
+  {
+    "postal": "N7S4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S4L9",
+        "streetName": "SHEFFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "SHEFFIELD ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S5Z9",
+    "result": []
+  },
+  {
+    "postal": "N7S5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5V3",
+        "streetName": "MURPHY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MURPHY RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S4V2",
+        "streetName": "FRASER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "FRASER AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7C0",
+    "result": []
+  },
+  {
+    "postal": "N7S6L0",
+    "result": []
+  },
+  {
+    "postal": "N7S1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S1S9",
+        "streetName": "WILLA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILLA DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7R6",
+    "result": []
+  },
+  {
+    "postal": "N7S7J0",
+    "result": []
+  },
+  {
+    "postal": "N7S5M0",
+    "result": []
+  },
+  {
+    "postal": "N7S2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2E5",
+        "streetName": "LOCKHART",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LOCKHART CIR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7C7",
+    "result": []
+  },
+  {
+    "postal": "N7S5C0",
+    "result": []
+  },
+  {
+    "postal": "N7S8V9",
+    "result": []
+  },
+  {
+    "postal": "N7S7E0",
+    "result": []
+  },
+  {
+    "postal": "N7S6R4",
+    "result": []
+  },
+  {
+    "postal": "N7S3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3Z7",
+        "streetName": "WILTSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILTSHIRE DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1J9",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "DUFFERIN PL, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7K6",
+    "result": []
+  },
+  {
+    "postal": "N7S7Y5",
+    "result": []
+  },
+  {
+    "postal": "N7S1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1B7",
+        "streetName": "TALFOURD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TALFOURD ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141403
+        ],
+        "postalCode": "N7S4S9",
+        "streetName": "WILLA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "WILLA CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9R9",
+    "result": []
+  },
+  {
+    "postal": "N7S5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5K7",
+        "streetName": "BRADFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "BRADFORD DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6P2",
+    "result": []
+  },
+  {
+    "postal": "N7S2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2C5",
+        "streetName": "LINDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LINDEN WAY, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2N0",
+    "result": []
+  },
+  {
+    "postal": "N7S1G0",
+    "result": []
+  },
+  {
+    "postal": "N7S4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4K5",
+        "streetName": "TRUDEAU",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "TRUDEAU DR, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S9B5",
+    "result": []
+  },
+  {
+    "postal": "N7S6T5",
+    "result": []
+  },
+  {
+    "postal": "N7S1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141410
+        ],
+        "postalCode": "N7S1N8",
+        "streetName": "LONDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "LONDON RD, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S0C0",
+    "result": []
+  },
+  {
+    "postal": "N7S0R9",
+    "result": []
+  },
+  {
+    "postal": "N7S7L1",
+    "result": []
+  },
+  {
+    "postal": "N7S3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141400
+        ],
+        "postalCode": "N7S3Y8",
+        "streetName": "NEWTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "NEWTON CRT, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7X9",
+    "result": []
+  },
+  {
+    "postal": "N7S1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1A7",
+        "streetName": "MEIGHEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MEIGHEN CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141402
+        ],
+        "postalCode": "N7S2T9",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ELIZABETH AVE, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141395
+        ],
+        "postalCode": "N7S2E6",
+        "streetName": "ERROL",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "ERROL RD E, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S8Y1",
+    "result": []
+  },
+  {
+    "postal": "N7S0J5",
+    "result": []
+  },
+  {
+    "postal": "N7S4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141412
+        ],
+        "postalCode": "N7S4J1",
+        "streetName": "NIAGARA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "NIAGARA CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141415
+        ],
+        "postalCode": "N7S1A5",
+        "streetName": "THOMPSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "THOMPSON ST, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S6Z6",
+    "result": []
+  },
+  {
+    "postal": "N7S5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141411
+        ],
+        "postalCode": "N7S5K4",
+        "streetName": "HASTINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HASTINGS CRES, SARNIA"
+      }
+    ]
+  },
+  {
+    "postal": "N7S7R9",
+    "result": []
+  },
+  {
+    "postal": "N7S6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S6G4",
+        "streetName": "HOLDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "HOLDEN DR, SARNIA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 91,
+            "setId": 0,
+            "name": "Sarnia—Lambton"
+          }
+        ],
+        "pollDivisionIds": [
+          10141390
+        ],
+        "postalCode": "N7S6G4",
+        "streetName": "MALCOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SARNIA",
+        "streetNameDisplayText": "MALCOLM CRES, SARNIA"
+      }
+    ]
   }
 ]

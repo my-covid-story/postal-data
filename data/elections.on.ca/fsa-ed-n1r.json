@@ -10405,5 +10405,7512 @@
   {
     "postal": "N1R0W6",
     "result": []
+  },
+  {
+    "postal": "N1R4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R4C5",
+        "streetName": "PORTLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PORTLAND ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7E4",
+    "result": []
+  },
+  {
+    "postal": "N1R1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1R9",
+        "streetName": "VARDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "VARDON AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2P0",
+    "result": []
+  },
+  {
+    "postal": "N1R5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137436
+        ],
+        "postalCode": "N1R5S4",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "AVENUE RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137436
+        ],
+        "postalCode": "N1R5S4",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137450
+        ],
+        "postalCode": "N1R5S4",
+        "streetName": "RIVER",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "RIVER RD W, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5K8",
+        "streetName": "FLORA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FLORA ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R8K4",
+        "streetName": "KOVAC",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "KOVAC RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137434
+        ],
+        "postalCode": "N1R7C1",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R7K9",
+        "streetName": "SHELDON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SHELDON DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137433
+        ],
+        "postalCode": "N1R5J1",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R4P9",
+        "streetName": "FOSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FOSTER CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0N2",
+    "result": []
+  },
+  {
+    "postal": "N1R2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R2G6",
+        "streetName": "CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6P4",
+    "result": []
+  },
+  {
+    "postal": "N1R3J0",
+    "result": []
+  },
+  {
+    "postal": "N1R8X4",
+    "result": []
+  },
+  {
+    "postal": "N1R1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R1Y3",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R1A8",
+        "streetName": "WILMOT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WILMOT AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R6Y5",
+        "streetName": "GOLDSBORO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GOLDSBORO RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0J6",
+    "result": []
+  },
+  {
+    "postal": "N1R2C9",
+    "result": []
+  },
+  {
+    "postal": "N1R8J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R8J6",
+        "streetName": "HESPELER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPELER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8T4",
+    "result": []
+  },
+  {
+    "postal": "N1R1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R1P7",
+        "streetName": "PARK HILL",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PARK HILL RD E, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9V9",
+    "result": []
+  },
+  {
+    "postal": "N1R0M1",
+    "result": []
+  },
+  {
+    "postal": "N1R6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R6K5",
+        "streetName": "WINTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WINTER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2T5",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STEWART AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R7E9",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5K5",
+        "streetName": "ALEXANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALEXANDER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3R5",
+    "result": []
+  },
+  {
+    "postal": "N1R5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5B1",
+        "streetName": "CHALMERS",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHALMERS ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R2P1",
+        "streetName": "SOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SOUTH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7L0",
+    "result": []
+  },
+  {
+    "postal": "N1R3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3L6",
+        "streetName": "HIGHMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HIGHMAN AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R2A4",
+        "streetName": "RICH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "RICH AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8S0",
+    "result": []
+  },
+  {
+    "postal": "N1R3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3L5",
+        "streetName": "STATE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STATE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R2R5",
+        "streetName": "CLOSE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CLOSE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9T6",
+    "result": []
+  },
+  {
+    "postal": "N1R8Z2",
+    "result": []
+  },
+  {
+    "postal": "N1R0E9",
+    "result": []
+  },
+  {
+    "postal": "N1R8C0",
+    "result": []
+  },
+  {
+    "postal": "N1R3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3K7",
+        "streetName": "VETERANS",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "VETERANS WAY, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3K7",
+        "streetName": "VETERAN'S",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "VETERAN'S WAY, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R2H3",
+        "streetName": "CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R2Y6",
+        "streetName": "GREENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GREENWOOD AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7M2",
+    "result": []
+  },
+  {
+    "postal": "N1R6E2",
+    "result": []
+  },
+  {
+    "postal": "N1R3R0",
+    "result": []
+  },
+  {
+    "postal": "N1R4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4J7",
+        "streetName": "SHADE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SHADE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R6N8",
+        "streetName": "HILLMER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HILLMER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0J7",
+    "result": []
+  },
+  {
+    "postal": "N1R7P2",
+    "result": []
+  },
+  {
+    "postal": "N1R3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3T8",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORFOLK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R3S7",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CAMBRIDGE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2S7",
+        "streetName": "BALLANTYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BALLANTYNE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1S4",
+    "result": []
+  },
+  {
+    "postal": "N1R1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R1L8",
+        "streetName": "MALCOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MALCOLM ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8E9",
+    "result": []
+  },
+  {
+    "postal": "N1R0T0",
+    "result": []
+  },
+  {
+    "postal": "N1R3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3G4",
+        "streetName": "CORONATION",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CORONATION BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0V6",
+    "result": []
+  },
+  {
+    "postal": "N1R4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R4W1",
+        "streetName": "SCRIMGER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SCRIMGER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9G9",
+    "result": []
+  },
+  {
+    "postal": "N1R5W4",
+    "result": []
+  },
+  {
+    "postal": "N1R7M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R7M8",
+        "streetName": "MACATEE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MACATEE PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2C2",
+        "streetName": "POLLOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "POLLOCK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R4Y2",
+        "streetName": "ELMWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELMWOOD AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9X9",
+    "result": []
+  },
+  {
+    "postal": "N1R3T0",
+    "result": []
+  },
+  {
+    "postal": "N1R4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137459,
+          10137458
+        ],
+        "postalCode": "N1R4T8",
+        "streetName": "DUDHOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUDHOPE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9C4",
+    "result": []
+  },
+  {
+    "postal": "N1R8P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R8P2",
+        "streetName": "SIMCOE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SIMCOE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0Y8",
+    "result": []
+  },
+  {
+    "postal": "N1R1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R1G8",
+        "streetName": "JARVIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "JARVIS ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2T6",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STEWART AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R1N7",
+        "streetName": "SIMCOE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SIMCOE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0L6",
+    "result": []
+  },
+  {
+    "postal": "N1R9V4",
+    "result": []
+  },
+  {
+    "postal": "N1R2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2V1",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STEWART AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3L8",
+        "streetName": "HIGHMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HIGHMAN AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2R8",
+        "streetName": "BALLANTYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BALLANTYNE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R5C1",
+        "streetName": "CHALMERS",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHALMERS ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137459
+        ],
+        "postalCode": "N1R4W3",
+        "streetName": "SCRIMGER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SCRIMGER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R5X5",
+        "streetName": "SHELDON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SHELDON DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9W5",
+    "result": []
+  },
+  {
+    "postal": "N1R3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R3C4",
+        "streetName": "WATER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1N6",
+        "streetName": "ALISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALISON AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9S9",
+    "result": []
+  },
+  {
+    "postal": "N1R9M2",
+    "result": []
+  },
+  {
+    "postal": "N1R8Y4",
+    "result": []
+  },
+  {
+    "postal": "N1R7S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R7S4",
+        "streetName": "PARKER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PARKER DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0K6",
+    "result": []
+  },
+  {
+    "postal": "N1R1W3",
+    "result": []
+  },
+  {
+    "postal": "N1R7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R7R2",
+        "streetName": "CUMMING",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CUMMING AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 42,
+            "setId": 0,
+            "name": "Huron—Bruce"
+          },
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10138844,
+          10137453
+        ],
+        "postalCode": "N1R2Y9",
+        "streetName": "PINECREST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PINECREST AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137434,
+          10137435
+        ],
+        "postalCode": "N1R7G4",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R7E5",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9G2",
+    "result": []
+  },
+  {
+    "postal": "N1R7Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7Y8",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9V2",
+    "result": []
+  },
+  {
+    "postal": "N1R3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3T7",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORFOLK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1H0",
+    "result": []
+  },
+  {
+    "postal": "N1R1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R1M7",
+        "streetName": "OXFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "OXFORD ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8V4",
+    "result": []
+  },
+  {
+    "postal": "N1R4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R4M2",
+        "streetName": "GAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GAIL ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0X2",
+    "result": []
+  },
+  {
+    "postal": "N1R5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R5Z4",
+        "streetName": "REGAL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "REGAL CRT, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R6V4",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R6V4",
+        "streetName": "ELGIN ST",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST RD N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R8J3",
+        "streetName": "CASSIDY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CASSIDY CRT, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R8E5",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R2V5",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STEWART AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R7S1",
+        "streetName": "PARKER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PARKER DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R6V3",
+        "streetName": "DUNBAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUNBAR RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R2L8",
+        "streetName": "SHORT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SHORT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9V0",
+    "result": []
+  },
+  {
+    "postal": "N1R3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R3M4",
+        "streetName": "ALBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALBERT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5B2",
+        "streetName": "CHALMERS",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHALMERS ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3X5",
+        "streetName": "DALGLEISH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DALGLEISH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9R7",
+    "result": []
+  },
+  {
+    "postal": "N1R2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2X2",
+        "streetName": "DORSET",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DORSET RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8Z6",
+    "result": []
+  },
+  {
+    "postal": "N1R4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137456
+        ],
+        "postalCode": "N1R4R4",
+        "streetName": "CHRISTOPHER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHRISTOPHER DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2R1",
+        "streetName": "ALBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALBERT ST, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2R1",
+        "streetName": "SUMMIT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SUMMIT AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3R8",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CAMBRIDGE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9A1",
+    "result": []
+  },
+  {
+    "postal": "N1R8L3",
+    "result": []
+  },
+  {
+    "postal": "N1R9K4",
+    "result": []
+  },
+  {
+    "postal": "N1R9S3",
+    "result": []
+  },
+  {
+    "postal": "N1R8N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137416
+        ],
+        "postalCode": "N1R8N7",
+        "streetName": "HESPELER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPELER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R1C6",
+        "streetName": "BROOKLYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BROOKLYNE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R3Z8",
+        "streetName": "BEVERLY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BEVERLY ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R8G5",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R5R6",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUNDAS ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2W3",
+        "streetName": "GLENVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GLENVIEW AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0A0",
+    "result": []
+  },
+  {
+    "postal": "N1R6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137432
+        ],
+        "postalCode": "N1R6P8",
+        "streetName": "BLUEBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BLUEBIRD CRT, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137462
+        ],
+        "postalCode": "N1R8N9",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUNDAS ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0S9",
+    "result": []
+  },
+  {
+    "postal": "N1R8G0",
+    "result": []
+  },
+  {
+    "postal": "N1R8C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R8C7",
+        "streetName": "LISBON PINES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LISBON PINES DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5X8",
+    "result": []
+  },
+  {
+    "postal": "N1R7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R7E8",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R6X2",
+        "streetName": "CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R4C6",
+        "streetName": "PORTLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PORTLAND ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R7H2",
+        "streetName": "MYERS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MYERS RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4R0",
+    "result": []
+  },
+  {
+    "postal": "N1R6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R6J3",
+        "streetName": "HESPELER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPELER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R4B8",
+        "streetName": "BROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BROOK ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6H6",
+    "result": []
+  },
+  {
+    "postal": "N1R0S1",
+    "result": []
+  },
+  {
+    "postal": "N1R4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4E3",
+        "streetName": "CHISHOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHISHOLM ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R7K2",
+        "streetName": "BRIERDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BRIERDALE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R7T8",
+        "streetName": "HAZELWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HAZELWOOD CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0J9",
+    "result": []
+  },
+  {
+    "postal": "N1R5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5J9",
+        "streetName": "AMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "AMBER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "10",
+        "streetDirectionId": "W",
+        "streetTypeId": "CONC",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "10 CONC W, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "10TH CONCESSION",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "10TH CONCESSION RD W, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "ANGUS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ANGUS CRT, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137435,
+          10137446,
+          10137436
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "CLYDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CLYDE RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "CLYDEBANK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CLYDEBANK DR, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "CONCESSION 10",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION 10 RD W, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243,
+          10138240
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "CONCESSION 10",
+        "streetDirectionId": "W",
+        "streetTypeId": null,
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION 10 W, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "COOPER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "COOPER RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "FOREMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FOREMAN RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "GORE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GORE RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "HWY 52",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HWY 52 N, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "KIRKWALL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "KIRKWALL RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "LANGFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LANGFORD DR, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137462
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "MAIN",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST E, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137462,
+          10137446,
+          10137445,
+          10137447
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137447,
+          10137414,
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "OLD BEVERLY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "OLD BEVERLY RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          },
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243,
+          10142574
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "PIONEER",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PIONEER WAY, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "REGIONAL 97",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SHEFFIELD",
+        "streetNameDisplayText": "REGIONAL 97 RD, SHEFFIELD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "REGIONAL RD 97",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "REGIONAL RD 97, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "ROBINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ROBINSON RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137447,
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "SHELLARD",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SHELLARD SIDERD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138240
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "VALENS",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "VALENS RD N, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 31,
+            "setId": 0,
+            "name": "Flamborough—Glanbrook"
+          }
+        ],
+        "pollDivisionIds": [
+          10138243,
+          10138240
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "VALENS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "VALENS RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137446
+        ],
+        "postalCode": "N1R5S7",
+        "streetName": "VILLAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "VILLAGE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0G9",
+    "result": []
+  },
+  {
+    "postal": "N1R3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3J9",
+        "streetName": "AINSLIE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "AINSLIE ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2Y0",
+    "result": []
+  },
+  {
+    "postal": "N1R8X5",
+    "result": []
+  },
+  {
+    "postal": "N1R2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R2M7",
+        "streetName": "BIRCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BIRCH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9Z3",
+    "result": []
+  },
+  {
+    "postal": "N1R7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7W2",
+        "streetName": "HEATHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HEATHWOOD CRT, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7W2",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3W0",
+    "result": []
+  },
+  {
+    "postal": "N1R3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3M1",
+        "streetName": "HIGHMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HIGHMAN AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137460
+        ],
+        "postalCode": "N1R6A5",
+        "streetName": "CHALMERS",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHALMERS ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R2M9",
+        "streetName": "PROSPECT",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PROSPECT PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137433
+        ],
+        "postalCode": "N1R5C3",
+        "streetName": "PRETORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PRETORIA RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0Y6",
+    "result": []
+  },
+  {
+    "postal": "N1R9H7",
+    "result": []
+  },
+  {
+    "postal": "N1R3L0",
+    "result": []
+  },
+  {
+    "postal": "N1R5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R5N9",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUNDAS ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5E3",
+        "streetName": "LOWELL",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LOWELL ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R7M9",
+        "streetName": "MACATEE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MACATEE PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R8N2",
+        "streetName": "GROSVENOR",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GROSVENOR LANE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9H3",
+    "result": []
+  },
+  {
+    "postal": "N1R2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2K8",
+        "streetName": "ELLIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELLIOTT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9L0",
+    "result": []
+  },
+  {
+    "postal": "N1R6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R6L9",
+        "streetName": "THE GREENWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "THE GREENWAY, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R6A8",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2K6",
+        "streetName": "ELLIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELLIOTT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2M0",
+    "result": []
+  },
+  {
+    "postal": "N1R5X7",
+    "result": []
+  },
+  {
+    "postal": "N1R0M7",
+    "result": []
+  },
+  {
+    "postal": "N1R7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R7A6",
+        "streetName": "DICKSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DICKSON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3C5",
+        "streetName": "WATER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST N, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3C5",
+        "streetName": "WATER",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST S, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3C5",
+        "streetName": "WATER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137456
+        ],
+        "postalCode": "N1R2P2",
+        "streetName": "SOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SOUTH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9N4",
+    "result": []
+  },
+  {
+    "postal": "N1R3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3M9",
+        "streetName": "ALBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALBERT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R8K6",
+        "streetName": "CASTLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CASTLEWOOD PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137434
+        ],
+        "postalCode": "N1R1L2",
+        "streetName": "CLYDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CLYDE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R2Z9",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "AVENUE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2S2",
+        "streetName": "BALLANTYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BALLANTYNE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2W2",
+        "streetName": "GLENVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GLENVIEW AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2C3",
+        "streetName": "POLLOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "POLLOCK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R6L7",
+        "streetName": "THE GREENWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "THE GREENWAY, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3K0",
+    "result": []
+  },
+  {
+    "postal": "N1R3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R3C1",
+        "streetName": "WATER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R6M9",
+        "streetName": "GREENBRIER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GREENBRIER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R4N9",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "EAST ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3Y7",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WELLINGTON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2A9",
+        "streetName": "POLLOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "POLLOCK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423,
+          10137422
+        ],
+        "postalCode": "N1R6H5",
+        "streetName": "THUNDERBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "THUNDERBIRD DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R8B4",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R4Z2",
+        "streetName": "LOWREY",
+        "streetDirectionId": "S",
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LOWREY AVE S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9J0",
+    "result": []
+  },
+  {
+    "postal": "N1R7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R7V7",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5T5",
+    "result": []
+  },
+  {
+    "postal": "N1R4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R4W5",
+        "streetName": "LINCOLN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LINCOLN AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R1T8",
+        "streetName": "DICKSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DICKSON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9G6",
+    "result": []
+  },
+  {
+    "postal": "N1R1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R1H3",
+        "streetName": "WINTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WINTER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R5R5",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUNDAS ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R8A4",
+        "streetName": "COPPERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "COPPERFIELD DR, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R8A4",
+        "streetName": "HAZELWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HAZELWOOD CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3T6",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORFOLK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9W8",
+    "result": []
+  },
+  {
+    "postal": "N1R0N3",
+    "result": []
+  },
+  {
+    "postal": "N1R7V0",
+    "result": []
+  },
+  {
+    "postal": "N1R8T5",
+    "result": []
+  },
+  {
+    "postal": "N1R5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R5N3",
+        "streetName": "LUMSDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LUMSDEN CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5G9",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R3X8",
+        "streetName": "ELM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELM ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9R3",
+    "result": []
+  },
+  {
+    "postal": "N1R2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2S1",
+        "streetName": "BALLANTYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BALLANTYNE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9J7",
+    "result": []
+  },
+  {
+    "postal": "N1R2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R2J3",
+        "streetName": "ELLIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELLIOTT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R3B6",
+        "streetName": "WATER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8J0",
+    "result": []
+  },
+  {
+    "postal": "N1R7R4",
+    "result": []
+  },
+  {
+    "postal": "N1R8K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R8K8",
+        "streetName": "COULSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "COULSON RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R4P3",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "EAST ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137420
+        ],
+        "postalCode": "N1R0A2",
+        "streetName": "LENA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LENA CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R2G2",
+        "streetName": "MAPLE RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAPLE RIDGE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R5Y9",
+        "streetName": "WARREN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WARREN RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7X0",
+    "result": []
+  },
+  {
+    "postal": "N1R7W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7W3",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R7X5",
+        "streetName": "STONYBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STONYBURN CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5K6",
+        "streetName": "ALEXANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALEXANDER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5B6",
+        "streetName": "CHALMERS",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHALMERS ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7Z0",
+    "result": []
+  },
+  {
+    "postal": "N1R9H6",
+    "result": []
+  },
+  {
+    "postal": "N1R1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R1B4",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "HTS",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PAISLEY HTS, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1A0",
+    "result": []
+  },
+  {
+    "postal": "N1R9A0",
+    "result": []
+  },
+  {
+    "postal": "N1R1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R1M6",
+        "streetName": "OXFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "OXFORD ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5H0",
+    "result": []
+  },
+  {
+    "postal": "N1R1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137433
+        ],
+        "postalCode": "N1R1K6",
+        "streetName": "SAMUELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SAMUELSON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5E1",
+        "streetName": "LOWELL",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LOWELL ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3T9",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORFOLK AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R2M6",
+        "streetName": "BIRCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BIRCH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0G5",
+    "result": []
+  },
+  {
+    "postal": "N1R0Y2",
+    "result": []
+  },
+  {
+    "postal": "N1R2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R2Y7",
+        "streetName": "GREENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GREENWOOD AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R2J7",
+        "streetName": "ELLIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELLIOTT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R4K7",
+        "streetName": "OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "OAK ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7P9",
+    "result": []
+  },
+  {
+    "postal": "N1R8X0",
+    "result": []
+  },
+  {
+    "postal": "N1R3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R3X1",
+        "streetName": "HENRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HENRY ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1R5",
+        "streetName": "MANCHESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MANCHESTER ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R6X6",
+        "streetName": "BAKERSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BAKERSFIELD DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0Y1",
+    "result": []
+  },
+  {
+    "postal": "N1R8G1",
+    "result": []
+  },
+  {
+    "postal": "N1R3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3J3",
+        "streetName": "AINSLIE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "AINSLIE ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R8C2",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137433
+        ],
+        "postalCode": "N1R4X9",
+        "streetName": "ELMWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELMWOOD AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R6G9",
+        "streetName": "WINTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WINTER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R4M3",
+        "streetName": "GAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GAIL ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9P7",
+    "result": []
+  },
+  {
+    "postal": "N1R4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R4E5",
+        "streetName": "CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CENTRE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5K9",
+        "streetName": "FLORA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FLORA ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2V2",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STEWART AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2N9",
+        "streetName": "SOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SOUTH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R6L4",
+        "streetName": "THE GREENWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "THE GREENWAY, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8E0",
+    "result": []
+  },
+  {
+    "postal": "N1R0N0",
+    "result": []
+  },
+  {
+    "postal": "N1R6R0",
+    "result": []
+  },
+  {
+    "postal": "N1R9C1",
+    "result": []
+  },
+  {
+    "postal": "N1R4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R4H4",
+        "streetName": "MURDOCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MURDOCH ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5W3",
+    "result": []
+  },
+  {
+    "postal": "N1R9N9",
+    "result": []
+  },
+  {
+    "postal": "N1R1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R1V7",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R8J1",
+        "streetName": "NORTHVIEW HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORTHVIEW HEIGHTS CRT, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R8J1",
+        "streetName": "NORTHVIEW HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORTHVIEW HEIGHTS PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5V9",
+    "result": []
+  },
+  {
+    "postal": "N1R2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2S8",
+        "streetName": "BALLANTYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BALLANTYNE AVE, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 49,
+            "setId": 0,
+            "name": "Kitchener South—Hespeler"
+          }
+        ],
+        "pollDivisionIds": [
+          10139298
+        ],
+        "postalCode": "N1R2S8",
+        "streetName": "OLD CARRIAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KITCHENER",
+        "streetNameDisplayText": "OLD CARRIAGE DR, KITCHENER"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6P0",
+    "result": []
+  },
+  {
+    "postal": "N1R4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4J8",
+        "streetName": "SHADE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SHADE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0N1",
+    "result": []
+  },
+  {
+    "postal": "N1R1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R1Y7",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7W5",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R3Z1",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WELLINGTON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7M6",
+    "result": []
+  },
+  {
+    "postal": "N1R1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R1W7",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R1X1",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0C1",
+    "result": []
+  },
+  {
+    "postal": "N1R4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4N3",
+        "streetName": "ARTHUR WHITE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ARTHUR WHITE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R4S8",
+        "streetName": "TUTTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "TUTTON PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R1H6",
+        "streetName": "DANDO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DANDO AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R2Z4",
+        "streetName": "RIDGEHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "RIDGEHILL AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R7K3",
+        "streetName": "MOFFAT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MOFFAT DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R8A2",
+        "streetName": "SANTA MARIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SANTA MARIA DR, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R8A2",
+        "streetName": "SANTO CRISTO",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SANTO CRISTO PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R6J1",
+        "streetName": "HESPELER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPELER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R5Z6",
+        "streetName": "CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3Z0",
+    "result": []
+  },
+  {
+    "postal": "N1R8M0",
+    "result": []
+  },
+  {
+    "postal": "N1R1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1Z6",
+        "streetName": "MCNAUGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MCNAUGHTON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R8K7",
+        "streetName": "CASTLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CASTLEWOOD PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1N3",
+        "streetName": "ALISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALISON AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9S2",
+    "result": []
+  },
+  {
+    "postal": "N1R2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R2K1",
+        "streetName": "ELLIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELLIOTT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R1E8",
+        "streetName": "WATERSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATERSIDE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9B8",
+    "result": []
+  },
+  {
+    "postal": "N1R7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R7X4",
+        "streetName": "STONYBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STONYBURN CRES, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1Z4",
+        "streetName": "MCNAUGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MCNAUGHTON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R2C7",
+        "streetName": "BRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R2E7",
+        "streetName": "WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WALNUT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421,
+          10137422
+        ],
+        "postalCode": "N1R3R1",
+        "streetName": "SEKURA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SEKURA ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4K4",
+        "streetName": "SPRUCE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SPRUCE ST N, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4K4",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SPRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9G3",
+    "result": []
+  },
+  {
+    "postal": "N1R6C9",
+    "result": []
+  },
+  {
+    "postal": "N1R9H5",
+    "result": []
+  },
+  {
+    "postal": "N1R1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R1P5",
+        "streetName": "PARK HILL",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "PARK HILL RD E, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R2J5",
+        "streetName": "ELLIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELLIOTT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R4W6",
+        "streetName": "LINCOLN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LINCOLN AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R8M8",
+        "streetName": "BRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R6C5",
+        "streetName": "MCBEAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MCBEAN CRT, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9H0",
+    "result": []
+  },
+  {
+    "postal": "N1R1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R1X8",
+        "streetName": "MAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MAIN ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3H4",
+        "streetName": "HESPELER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPELER RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R3H4",
+        "streetName": "HESPERLER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPERLER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137455
+        ],
+        "postalCode": "N1R4E7",
+        "streetName": "CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CENTRE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8A0",
+    "result": []
+  },
+  {
+    "postal": "N1R1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R1Z7",
+        "streetName": "MCNAUGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MCNAUGHTON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7Z3",
+        "streetName": "ELGIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST N, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7Z3",
+        "streetName": "GLENBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "GLENBROOK CRES, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R7Z3",
+        "streetName": "STONERIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STONERIDGE PL, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0L7",
+    "result": []
+  },
+  {
+    "postal": "N1R2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2C6",
+        "streetName": "MONROE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MONROE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R6M3",
+        "streetName": "BRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137456
+        ],
+        "postalCode": "N1R2J1",
+        "streetName": "CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CONCESSION ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R3E3",
+        "streetName": "WATER",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WATER ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137424
+        ],
+        "postalCode": "N1R6Z9",
+        "streetName": "NORTHVIEW HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "NORTHVIEW HEIGHTS DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137454
+        ],
+        "postalCode": "N1R3M3",
+        "streetName": "ALBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALBERT ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9B1",
+    "result": []
+  },
+  {
+    "postal": "N1R9J5",
+    "result": []
+  },
+  {
+    "postal": "N1R4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137456
+        ],
+        "postalCode": "N1R4V8",
+        "streetName": "SCRIMGER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SCRIMGER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137458
+        ],
+        "postalCode": "N1R6W2",
+        "streetName": "CHAMPLAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CHAMPLAIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R0V5",
+    "result": []
+  },
+  {
+    "postal": "N1R0Z8",
+    "result": []
+  },
+  {
+    "postal": "N1R5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5G2",
+        "streetName": "ELGIN",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R4N4",
+        "streetName": "ARTHUR WHITE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ARTHUR WHITE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8G7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R8G7",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8W1",
+    "result": []
+  },
+  {
+    "postal": "N1R1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R1S6",
+        "streetName": "THORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "THORNE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4E0",
+    "result": []
+  },
+  {
+    "postal": "N1R4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R4L9",
+        "streetName": "ROSEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ROSEDALE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137422
+        ],
+        "postalCode": "N1R5Z9",
+        "streetName": "MUNCH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MUNCH AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5V3",
+    "result": []
+  },
+  {
+    "postal": "N1R4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R4V2",
+        "streetName": "CATHAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "CATHAY ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7C0",
+    "result": []
+  },
+  {
+    "postal": "N1R6L0",
+    "result": []
+  },
+  {
+    "postal": "N1R1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137445
+        ],
+        "postalCode": "N1R1S9",
+        "streetName": "HILLTOP",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HILLTOP DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7R6",
+    "result": []
+  },
+  {
+    "postal": "N1R7J0",
+    "result": []
+  },
+  {
+    "postal": "N1R5M0",
+    "result": []
+  },
+  {
+    "postal": "N1R2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R2E5",
+        "streetName": "BRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137465
+        ],
+        "postalCode": "N1R7C7",
+        "streetName": "ELGIN",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ELGIN ST S, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R5C0",
+    "result": []
+  },
+  {
+    "postal": "N1R8V9",
+    "result": []
+  },
+  {
+    "postal": "N1R7E0",
+    "result": []
+  },
+  {
+    "postal": "N1R6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R6R4",
+        "streetName": "MEYERS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MEYERS RD, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R6R4",
+        "streetName": "MYERS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MYERS RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R3Z7",
+        "streetName": "BEVERLY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BEVERLY ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137431
+        ],
+        "postalCode": "N1R1J9",
+        "streetName": "SAMUELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SAMUELSON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R7K6",
+        "streetName": "LINDSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LINDSAY RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R7Y5",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R1B7",
+        "streetName": "AVENUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "AVENUE RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137456
+        ],
+        "postalCode": "N1R4S9",
+        "streetName": "DUDHOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "DUDHOPE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9R9",
+    "result": []
+  },
+  {
+    "postal": "N1R5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5K7",
+        "streetName": "ALEXANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALEXANDER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137453
+        ],
+        "postalCode": "N1R6P2",
+        "streetName": "LORRAINE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "LORRAINE DR, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R2C5",
+        "streetName": "MONROE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MONROE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2N0",
+    "result": []
+  },
+  {
+    "postal": "N1R1G0",
+    "result": []
+  },
+  {
+    "postal": "N1R4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R4K5",
+        "streetName": "OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "OAK ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R9B5",
+    "result": []
+  },
+  {
+    "postal": "N1R6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R6T5",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1N8",
+    "result": []
+  },
+  {
+    "postal": "N1R0C0",
+    "result": []
+  },
+  {
+    "postal": "N1R0R9",
+    "result": []
+  },
+  {
+    "postal": "N1R7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R7L1",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "SPRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444,
+          10137443
+        ],
+        "postalCode": "N1R3Y8",
+        "streetName": "WELLINGTON SOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WELLINGTON SOUTH ST, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R3Y8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WELLINGTON ST S, CAMBRIDGE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137443
+        ],
+        "postalCode": "N1R3Y8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WELLINGTON ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137464
+        ],
+        "postalCode": "N1R7X9",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "FRANKLIN BLVD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R1A7",
+        "streetName": "WILMOT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WILMOT AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R2T9",
+        "streetName": "STEWART",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "STEWART AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137444
+        ],
+        "postalCode": "N1R2E6",
+        "streetName": "BRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "BRUCE ST, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R8Y1",
+    "result": []
+  },
+  {
+    "postal": "N1R0J5",
+    "result": []
+  },
+  {
+    "postal": "N1R4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137457
+        ],
+        "postalCode": "N1R4J1",
+        "streetName": "MCDONALD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "MCDONALD AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137421
+        ],
+        "postalCode": "N1R1A5",
+        "streetName": "WAUCHOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "WAUCHOPE AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6Z6",
+    "result": []
+  },
+  {
+    "postal": "N1R5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137461
+        ],
+        "postalCode": "N1R5K4",
+        "streetName": "ALEXANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "ALEXANDER AVE, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137419
+        ],
+        "postalCode": "N1R7R9",
+        "streetName": "HESPELER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HESPELER RD, CAMBRIDGE"
+      }
+    ]
+  },
+  {
+    "postal": "N1R6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 16,
+            "setId": 0,
+            "name": "Cambridge"
+          }
+        ],
+        "pollDivisionIds": [
+          10137423
+        ],
+        "postalCode": "N1R6G4",
+        "streetName": "HUSSON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "CAMBRIDGE",
+        "streetNameDisplayText": "HUSSON PL, CAMBRIDGE"
+      }
+    ]
   }
 ]

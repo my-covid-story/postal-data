@@ -11956,5 +11956,8294 @@
   {
     "postal": "N1H0W6",
     "result": []
+  },
+  {
+    "postal": "N1H4C5",
+    "result": []
+  },
+  {
+    "postal": "N1H7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H7E4",
+        "streetName": "GOMBAS",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GOMBAS PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1R9",
+        "streetName": "AVONDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "AVONDALE AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2P0",
+    "result": []
+  },
+  {
+    "postal": "N1H5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138396
+        ],
+        "postalCode": "N1H5S4",
+        "streetName": "MEADOWVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MEADOWVIEW AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H5K8",
+        "streetName": "FERGUS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FERGUS ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377
+        ],
+        "postalCode": "N1H8K4",
+        "streetName": "MCLACHLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MCLACHLAN PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138392
+        ],
+        "postalCode": "N1H7C1",
+        "streetName": "WEST ACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WEST ACRES DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7K9",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H5J1",
+        "streetName": "WESTMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTMOUNT RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4P9",
+        "streetName": "EXHIBITION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EXHIBITION ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0N2",
+    "result": []
+  },
+  {
+    "postal": "N1H2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H2G6",
+        "streetName": "NORWICH",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NORWICH ST E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6P4",
+    "result": []
+  },
+  {
+    "postal": "N1H3J0",
+    "result": []
+  },
+  {
+    "postal": "N1H8X4",
+    "result": []
+  },
+  {
+    "postal": "N1H1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1Y3",
+        "streetName": "TIFFANY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "TIFFANY ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1A8",
+        "streetName": "DAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DAWSON RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H6Y5",
+        "streetName": "GREGORY",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GREGORY PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0J6",
+    "result": []
+  },
+  {
+    "postal": "N1H2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H2C9",
+        "streetName": "EDWIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EDWIN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H8J6",
+        "streetName": "WESTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTWOOD RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8T4",
+    "result": []
+  },
+  {
+    "postal": "N1H1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H1P7",
+        "streetName": "CLARENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CLARENCE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9V9",
+    "result": []
+  },
+  {
+    "postal": "N1H0M1",
+    "result": []
+  },
+  {
+    "postal": "N1H6K5",
+    "result": []
+  },
+  {
+    "postal": "N1H2T5",
+    "result": []
+  },
+  {
+    "postal": "N1H7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H7E9",
+        "streetName": "SILVERCREEK",
+        "streetDirectionId": "N",
+        "streetTypeId": "PKY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SILVERCREEK PKY N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5K5",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GREY ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3R5",
+        "streetName": "SURREY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SURREY ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5B1",
+        "streetName": "YORKSHIRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "YORKSHIRE ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2P1",
+        "streetName": "PAISEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISEY RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2P1",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7L0",
+    "result": []
+  },
+  {
+    "postal": "N1H3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3L6",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BRISTOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H2A4",
+        "streetName": "MONT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MONT ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8S0",
+    "result": []
+  },
+  {
+    "postal": "N1H3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3L5",
+        "streetName": "ESSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ESSEX ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H2R5",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9T6",
+    "result": []
+  },
+  {
+    "postal": "N1H8Z2",
+    "result": []
+  },
+  {
+    "postal": "N1H0E9",
+    "result": []
+  },
+  {
+    "postal": "N1H8C0",
+    "result": []
+  },
+  {
+    "postal": "N1H3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3K7",
+        "streetName": "EMSLIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EMSLIE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2H3",
+        "streetName": "GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GREEN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138396
+        ],
+        "postalCode": "N1H2Y6",
+        "streetName": "CRIMEA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CRIMEA ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7M2",
+        "streetName": "IMPERIAL",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "IMPERIAL RD N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H6E2",
+        "streetName": "VALLEYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "VALLEYVIEW DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3R0",
+    "result": []
+  },
+  {
+    "postal": "N1H4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401,
+          10138377
+        ],
+        "postalCode": "N1H4J7",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NORFOLK ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6N8",
+        "streetName": "WELLINGTON RD 51",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 51, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0J7",
+    "result": []
+  },
+  {
+    "postal": "N1H7P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H7P2",
+        "streetName": "DEERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DEERFIELD PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3T8",
+    "result": []
+  },
+  {
+    "postal": "N1H3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H3S7",
+        "streetName": "SILVERCREEK",
+        "streetDirectionId": "S",
+        "streetTypeId": "PKY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SILVERCREEK PKY S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H2S7",
+        "streetName": "DOUGLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DOUGLAS ST, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H2S7",
+        "streetName": "ST GEORGE'S",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ST GEORGE'S SQ, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H1S4",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GEORGE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H1L8",
+        "streetName": "ANN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ANN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H8E9",
+        "streetName": "MARILYN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MARILYN DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0T0",
+    "result": []
+  },
+  {
+    "postal": "N1H3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3G4",
+        "streetName": "GALT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GALT ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0V6",
+    "result": []
+  },
+  {
+    "postal": "N1H4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4W1",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9G9",
+    "result": []
+  },
+  {
+    "postal": "N1H5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H5W4",
+        "streetName": "ALMA",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ALMA ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H7M8",
+        "streetName": "FERMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FERMAN DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H2C2",
+        "streetName": "LONDON",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LONDON RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4Y2",
+        "streetName": "KATHLEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KATHLEEN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9X9",
+    "result": []
+  },
+  {
+    "postal": "N1H3T0",
+    "result": []
+  },
+  {
+    "postal": "N1H4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4T8",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9C4",
+    "result": []
+  },
+  {
+    "postal": "N1H8P2",
+    "result": []
+  },
+  {
+    "postal": "N1H0Y8",
+    "result": []
+  },
+  {
+    "postal": "N1H1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H1G8",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD E, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H1G8",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2T6",
+    "result": []
+  },
+  {
+    "postal": "N1H1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H1N7",
+        "streetName": "EARL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EARL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0L6",
+    "result": []
+  },
+  {
+    "postal": "N1H9V4",
+    "result": []
+  },
+  {
+    "postal": "N1H2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2V1",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CAMBRIDGE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3L8",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BRISTOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H2R8",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5C1",
+        "streetName": "YORKSHIRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "YORKSHIRE ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4W3",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5X5",
+        "streetName": "ALMA",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ALMA ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9W5",
+    "result": []
+  },
+  {
+    "postal": "N1H3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3C4",
+        "streetName": "PRESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PRESTON ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H1N6",
+        "streetName": "EARL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EARL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9S9",
+    "result": []
+  },
+  {
+    "postal": "N1H9M2",
+    "result": []
+  },
+  {
+    "postal": "N1H8Y4",
+    "result": []
+  },
+  {
+    "postal": "N1H7S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H7S4",
+        "streetName": "FAIRMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FAIRMEADOW DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0K6",
+    "result": []
+  },
+  {
+    "postal": "N1H1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1W3",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7R2",
+        "streetName": "STEPHEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "STEPHEN DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2Y9",
+        "streetName": "ROBINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ROBINSON AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H7G4",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7E5",
+        "streetName": "SANDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SANDERSON DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9G2",
+    "result": []
+  },
+  {
+    "postal": "N1H7Y8",
+    "result": []
+  },
+  {
+    "postal": "N1H9V2",
+    "result": []
+  },
+  {
+    "postal": "N1H3T7",
+    "result": []
+  },
+  {
+    "postal": "N1H1H0",
+    "result": []
+  },
+  {
+    "postal": "N1H1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1M7",
+        "streetName": "HIGHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "HIGHVIEW PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8V4",
+    "result": []
+  },
+  {
+    "postal": "N1H4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4M2",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0X2",
+    "result": []
+  },
+  {
+    "postal": "N1H5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H5Z4",
+        "streetName": "ROLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ROLAND ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H6V4",
+        "streetName": "CHAD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CHAD PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H8J3",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BRISTOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H8E5",
+        "streetName": "FERMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FERMAN DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138396
+        ],
+        "postalCode": "N1H2V5",
+        "streetName": "OMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "OMAR ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H7S1",
+        "streetName": "WESTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTWOOD RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H6V3",
+        "streetName": "MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MEADOW CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H2L8",
+        "streetName": "MERION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MERION ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9V0",
+    "result": []
+  },
+  {
+    "postal": "N1H3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H3M4",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BRISTOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5B2",
+        "streetName": "YORKSHIRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "YORKSHIRE ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H3X5",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9R7",
+    "result": []
+  },
+  {
+    "postal": "N1H2X2",
+    "result": []
+  },
+  {
+    "postal": "N1H8Z6",
+    "result": []
+  },
+  {
+    "postal": "N1H4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4R4",
+        "streetName": "EXHIBITION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EXHIBITION ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138394
+        ],
+        "postalCode": "N1H2R1",
+        "streetName": "PAISEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISEY RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H2R1",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H3R8",
+        "streetName": "WELLINGTON 22",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON 22 RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H3R8",
+        "streetName": "WELLINGTON RD 22",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 22, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H3R8",
+        "streetName": "WELLINGTON RD 30",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 30, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142576
+        ],
+        "postalCode": "N1H3R8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD S, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3R8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON ST E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9A1",
+    "result": []
+  },
+  {
+    "postal": "N1H8L3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H8L3",
+        "streetName": "FIFE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FIFE RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9K4",
+    "result": []
+  },
+  {
+    "postal": "N1H9S3",
+    "result": []
+  },
+  {
+    "postal": "N1H8N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H8N7",
+        "streetName": "BOND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BOND CRT, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H8N7",
+        "streetName": "WESTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTWOOD RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H1C6",
+        "streetName": "SPEEDVALE",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SPEEDVALE AVE W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H3Z8",
+        "streetName": "CARDIGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CARDIGAN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H8G5",
+        "streetName": "MARKSAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MARKSAM RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5R6",
+        "streetName": "EDINBURGH",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EDINBURGH RD N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2W3",
+        "streetName": "SYDENHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SYDENHAM ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0A0",
+    "result": []
+  },
+  {
+    "postal": "N1H6P8",
+    "result": []
+  },
+  {
+    "postal": "N1H8N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H8N9",
+        "streetName": "WYNDHAM",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WYNDHAM ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0S9",
+    "result": []
+  },
+  {
+    "postal": "N1H8G0",
+    "result": []
+  },
+  {
+    "postal": "N1H8C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377,
+          10138379
+        ],
+        "postalCode": "N1H8C7",
+        "streetName": "THORNHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "THORNHILL DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5X8",
+        "streetName": "ALMA",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ALMA ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H7E8",
+        "streetName": "WESTHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTHILL RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138392,
+          10138393
+        ],
+        "postalCode": "N1H6X2",
+        "streetName": "FAIRMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FAIRMEADOW DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4C6",
+        "streetName": "WYNDHAM",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WYNDHAM ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7H2",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4R0",
+    "result": []
+  },
+  {
+    "postal": "N1H6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "10",
+        "streetDirectionId": "N",
+        "streetTypeId": "SIDERD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "10 SIDERD N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "10",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "10 SIDERD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "12",
+        "streetDirectionId": "N",
+        "streetTypeId": "SIDERD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "12 SIDERD N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "20",
+        "streetDirectionId": "N",
+        "streetTypeId": "SIDERD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "20 SIDERD N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "20",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "20 SIDERD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "20TH SIDEROADN",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "20TH SIDEROADN, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "35 WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "35 WELLINGTON RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "4",
+        "streetDirectionId": null,
+        "streetTypeId": "CONC",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "4 CONC, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "BEECH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BEECH ST, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "CONCESSION 4",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CONCESSION 4 RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "CONCESSION 4",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CONCESSION 4, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "DOWNEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DOWNEY RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "FORESTELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FORESTELL RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "LAIRD",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LAIRD RD W, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          },
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10138416,
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "NISKA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NISKA RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "PIONEER",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PIONEER TRAIL, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "RANDELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "RANDELL DR, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "ROSZELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ROSZELL RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SHADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SHADOW DR, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDE RD 10",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDE RD 10 N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDE RD 20",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDE RD 20 N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDE ROAD 20",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDE ROAD 20 N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142576,
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 10",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 10 N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574,
+          10142559
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 10 N",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 10 N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 10",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 10, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 12",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 12, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142559,
+          10142576,
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 20",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 20 N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142559,
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 20",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 20, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "SIDEROAD 20N",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SIDEROAD 20N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELINGTON RD 32",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELINGTON RD 32, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142566
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON 22",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ROCKWOOD",
+        "streetNameDisplayText": "WELLINGTON 22 RD, ROCKWOOD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574,
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON 32",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON 32 RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          },
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393,
+          10142565,
+          10142597,
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 124",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 124, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 22",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 22, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142565
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 29",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ROCKWOOD",
+        "streetNameDisplayText": "WELLINGTON RD 29, ROCKWOOD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 30",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 30, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 31",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 31, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574,
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 32",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 32, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 34",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 34, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142574
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 35",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 35, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 39",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ARISS",
+        "streetNameDisplayText": "WELLINGTON RD 39, ARISS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142561,
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON RD 7",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 7, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ARISS",
+        "streetNameDisplayText": "WELLINGTON RD, ARISS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142576,
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRESLAU",
+        "streetNameDisplayText": "WELLINGTON RD, BRESLAU"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142565,
+          10142566
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ROCKWOOD",
+        "streetNameDisplayText": "WELLINGTON RD, ROCKWOOD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON ROAD 124",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON ROAD 124, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          },
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562,
+          10138393
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON ST W, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J3",
+        "streetName": "WHITELAW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WHITELAW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4B8",
+        "streetName": "NEEVE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NEEVE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H6H6",
+        "streetName": "GREGORY",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GREGORY PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0S1",
+    "result": []
+  },
+  {
+    "postal": "N1H4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4E3",
+        "streetName": "WYNDHAM",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WYNDHAM ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H7K2",
+        "streetName": "CAREY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CAREY CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H7T8",
+        "streetName": "WYNDHAM",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WYNDHAM ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0J9",
+    "result": []
+  },
+  {
+    "postal": "N1H5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5J9",
+        "streetName": "HARRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "HARRISON AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H5S7",
+        "streetName": "MEADOWVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MEADOWVIEW AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0G9",
+    "result": []
+  },
+  {
+    "postal": "N1H3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H3J9",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATERLOO AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2Y0",
+    "result": []
+  },
+  {
+    "postal": "N1H8X5",
+    "result": []
+  },
+  {
+    "postal": "N1H2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2M7",
+        "streetName": "OXFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "OXFORD ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9Z3",
+    "result": []
+  },
+  {
+    "postal": "N1H7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H7W2",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CARDIFF WAY, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3W0",
+    "result": []
+  },
+  {
+    "postal": "N1H3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3M1",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BRISTOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H6A5",
+        "streetName": "WESTERN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTERN AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2M9",
+        "streetName": "ABERDEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ABERDEEN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5C3",
+        "streetName": "YORKSHIRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "YORKSHIRE ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0Y6",
+    "result": []
+  },
+  {
+    "postal": "N1H9H7",
+    "result": []
+  },
+  {
+    "postal": "N1H3L0",
+    "result": []
+  },
+  {
+    "postal": "N1H5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H5N9",
+        "streetName": "EDINBURGH",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EDINBURGH RD S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383,
+          10138442
+        ],
+        "postalCode": "N1H5E3",
+        "streetName": "EDGEHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EDGEHILL DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H7M9",
+        "streetName": "CAREY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CAREY CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H8N2",
+        "streetName": "BEATTIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BEATTIE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9H3",
+    "result": []
+  },
+  {
+    "postal": "N1H2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H2K8",
+        "streetName": "LIVERPOOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LIVERPOOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9L0",
+    "result": []
+  },
+  {
+    "postal": "N1H6L9",
+    "result": []
+  },
+  {
+    "postal": "N1H6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          },
+          {
+            "election": null,
+            "id": 42,
+            "setId": 0,
+            "name": "Huron—Bruce"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381,
+          10138851
+        ],
+        "postalCode": "N1H6A8",
+        "streetName": "WESTERN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTERN AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H2K6",
+        "streetName": "GOWDY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GOWDY AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2M0",
+    "result": []
+  },
+  {
+    "postal": "N1H5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5X7",
+        "streetName": "ALMA",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ALMA ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0M7",
+    "result": []
+  },
+  {
+    "postal": "N1H7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138392
+        ],
+        "postalCode": "N1H7A6",
+        "streetName": "BELCOURT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BELCOURT CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138396
+        ],
+        "postalCode": "N1H3C5",
+        "streetName": "INKERMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "INKERMAN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399,
+          10138379
+        ],
+        "postalCode": "N1H2P2",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9N4",
+    "result": []
+  },
+  {
+    "postal": "N1H3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3M9",
+        "streetName": "NOTTINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NOTTINGHAM ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377
+        ],
+        "postalCode": "N1H8K6",
+        "streetName": "FLAHERTY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FLAHERTY DR, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377
+        ],
+        "postalCode": "N1H8K6",
+        "streetName": "PEARTREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PEARTREE CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1L2",
+        "streetName": "KIMBERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KIMBERLEY DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H2Z9",
+        "streetName": "CARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CARDEN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H2S2",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2W2",
+        "streetName": "SYDENHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SYDENHAM ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2C3",
+        "streetName": "LONDON",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LONDON RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6L7",
+    "result": []
+  },
+  {
+    "postal": "N1H3K0",
+    "result": []
+  },
+  {
+    "postal": "N1H3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3C1",
+        "streetName": "PRESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PRESTON ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6M9",
+    "result": []
+  },
+  {
+    "postal": "N1H4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4N9",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H3Y7",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H2A9",
+        "streetName": "AJAX",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "AJAX ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H6H5",
+        "streetName": "RHONDA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "RHONDA RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H8B4",
+        "streetName": "IMPERIAL",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "IMPERIAL RD N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4Z2",
+        "streetName": "KATHLEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KATHLEEN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9J0",
+    "result": []
+  },
+  {
+    "postal": "N1H7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7V7",
+        "streetName": "WIMBLEDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WIMBLEDON RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5T5",
+        "streetName": "BAGOT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BAGOT ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4W5",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401,
+          10138384
+        ],
+        "postalCode": "N1H1T8",
+        "streetName": "POWELL",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "POWELL ST E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9G6",
+    "result": []
+  },
+  {
+    "postal": "N1H1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H1H3",
+        "streetName": "BAILEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BAILEY AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5R5",
+        "streetName": "EDINBURGH",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EDINBURGH RD N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H8A4",
+        "streetName": "DUNHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUNHILL CRES, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H8A4",
+        "streetName": "IMPERIAL",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "IMPERIAL RD N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3T6",
+    "result": []
+  },
+  {
+    "postal": "N1H9W8",
+    "result": []
+  },
+  {
+    "postal": "N1H0N3",
+    "result": []
+  },
+  {
+    "postal": "N1H7V0",
+    "result": []
+  },
+  {
+    "postal": "N1H8T5",
+    "result": []
+  },
+  {
+    "postal": "N1H5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5N3",
+        "streetName": "SOUTHAMPTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SOUTHAMPTON ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5G9",
+        "streetName": "ARNOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ARNOLD ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H3X8",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9R3",
+    "result": []
+  },
+  {
+    "postal": "N1H2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H2S1",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9J7",
+    "result": []
+  },
+  {
+    "postal": "N1H2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2J3",
+        "streetName": "SUFFOLK",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SUFFOLK ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3B6",
+        "streetName": "KENT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KENT ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8J0",
+    "result": []
+  },
+  {
+    "postal": "N1H7R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H7R4",
+        "streetName": "YARMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "YARMOUTH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8K8",
+    "result": []
+  },
+  {
+    "postal": "N1H4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4P3",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H0A2",
+        "streetName": "WRIGHT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WRIGHT CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2G2",
+        "streetName": "GARTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GARTH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5Y9",
+        "streetName": "GUELPH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GUELPH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7X0",
+    "result": []
+  },
+  {
+    "postal": "N1H7W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H7W3",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CARDIFF WAY, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H7X5",
+        "streetName": "SILVERCREEK",
+        "streetDirectionId": "N",
+        "streetTypeId": "PKY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SILVERCREEK PKY N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H5K6",
+        "streetName": "FERGUS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FERGUS ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5B6",
+        "streetName": "YORKSHIRE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "YORKSHIRE ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7Z0",
+    "result": []
+  },
+  {
+    "postal": "N1H9H6",
+    "result": []
+  },
+  {
+    "postal": "N1H1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H1B4",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1A0",
+    "result": []
+  },
+  {
+    "postal": "N1H9A0",
+    "result": []
+  },
+  {
+    "postal": "N1H1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1M6",
+        "streetName": "HIGHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "HIGHVIEW PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5H0",
+    "result": []
+  },
+  {
+    "postal": "N1H1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1K6",
+        "streetName": "CHESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CHESTER ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H5E1",
+        "streetName": "EDGEHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EDGEHILL DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3T9",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2M6",
+        "streetName": "OXFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "OXFORD ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0G5",
+    "result": []
+  },
+  {
+    "postal": "N1H0Y2",
+    "result": []
+  },
+  {
+    "postal": "N1H2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2Y7",
+        "streetName": "ROBINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ROBINSON AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2J7",
+        "streetName": "SUFFOLK",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SUFFOLK ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4K7",
+        "streetName": "CENTRAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CENTRAL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H7P9",
+        "streetName": "WESTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WESTWOOD RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8X0",
+    "result": []
+  },
+  {
+    "postal": "N1H3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H3X1",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1R5",
+        "streetName": "DIVISION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DIVISION ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H6X6",
+        "streetName": "ALLISON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ALLISON PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0Y1",
+    "result": []
+  },
+  {
+    "postal": "N1H8G1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H8G1",
+        "streetName": "GRANDRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GRANDRIDGE CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3J3",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATERLOO AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377
+        ],
+        "postalCode": "N1H8C2",
+        "streetName": "KIPLING",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KIPLING AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4X9",
+        "streetName": "KIRKLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KIRKLAND ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H6G9",
+        "streetName": "HEATH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "HEATH RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4M3",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9P7",
+    "result": []
+  },
+  {
+    "postal": "N1H4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4E5",
+        "streetName": "WYNDHAM",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WYNDHAM ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H5K9",
+        "streetName": "MCGEE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MCGEE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2V2",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CAMBRIDGE ST E, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2V2",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CAMBRIDGE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2N9",
+        "streetName": "PAISLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PAISLEY ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6L4",
+    "result": []
+  },
+  {
+    "postal": "N1H8E0",
+    "result": []
+  },
+  {
+    "postal": "N1H0N0",
+    "result": []
+  },
+  {
+    "postal": "N1H6R0",
+    "result": []
+  },
+  {
+    "postal": "N1H9C1",
+    "result": []
+  },
+  {
+    "postal": "N1H4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4H4",
+        "streetName": "GORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GORDON ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H5W3",
+        "streetName": "PLYMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PLYMOUTH CRT, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9N9",
+    "result": []
+  },
+  {
+    "postal": "N1H1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1V7",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GEULPH",
+        "streetNameDisplayText": "WILLOW RD, GEULPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1V7",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H8J1",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5V9",
+        "streetName": "JULIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "JULIA DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H2S8",
+        "streetName": "DOUGLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DOUGLAS ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6P0",
+    "result": []
+  },
+  {
+    "postal": "N1H4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401,
+          10138445
+        ],
+        "postalCode": "N1H4J8",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NORFOLK ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0N1",
+    "result": []
+  },
+  {
+    "postal": "N1H1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H1Y7",
+        "streetName": "MARCON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MARCON ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138393
+        ],
+        "postalCode": "N1H7W5",
+        "streetName": "FAIRMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FAIRMEADOW DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H3Z1",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7M6",
+        "streetName": "MASSEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MASSEY RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1W7",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H1X1",
+        "streetName": "MARKSAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MARKSAM RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0C1",
+    "result": []
+  },
+  {
+    "postal": "N1H4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4N3",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4S8",
+        "streetName": "ROBERTSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ROBERTSON DR, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H1H6",
+        "streetName": "JUNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "JUNE AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H2Z4",
+        "streetName": "MACDONELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MACDONELL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7K3",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377
+        ],
+        "postalCode": "N1H8A2",
+        "streetName": "BURTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BURTON RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H8A2",
+        "streetName": "IMPERIAL",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "IMPERIAL RD N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138377
+        ],
+        "postalCode": "N1H8A2",
+        "streetName": "KIPLING",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "KIPLING AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142567
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "10",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "10 SIDERD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "CONSERVATION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CONSERVATION RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          },
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10142564,
+          10138381
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "EASTVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "EASTVIEW RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142565
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "FOURTH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FOURTH LINE, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "GEORGE WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GEORGE WELLINGTON PL, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          },
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563,
+          10138377
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "JESSICA",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "JESSICA LANE, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142564,
+          10142567
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "JONES BASELINE",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "JONES BASELINE RD S, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563,
+          10142564,
+          10142565
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "JONES BASELINE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "JONES BASELINE RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142569
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "JONES BASELINE",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "JONES BASELINE, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MILL RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142564
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "SPEEDVALE",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SPEEDVALE AVE E, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142564,
+          10142563
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "WATSON",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATSON RD N, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142576
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "WATSON",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATSON RD S, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142564
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "WATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATSON RD, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142562
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "WELLINGTON RD 22",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 22, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "WELLINGTON RD 38",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD 38, GUELPH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 115,
+            "setId": 0,
+            "name": "Wellington—Halton Hills"
+          }
+        ],
+        "pollDivisionIds": [
+          10142563,
+          10142562
+        ],
+        "postalCode": "N1H6J1",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WELLINGTON RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H5Z6",
+        "streetName": "BEECHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BEECHWOOD AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3Z0",
+    "result": []
+  },
+  {
+    "postal": "N1H8M0",
+    "result": []
+  },
+  {
+    "postal": "N1H1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H1Z6",
+        "streetName": "DREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DREW ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H8K7",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATERLOO AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138384
+        ],
+        "postalCode": "N1H1N3",
+        "streetName": "STULL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "STULL AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9S2",
+    "result": []
+  },
+  {
+    "postal": "N1H2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2K1",
+        "streetName": "SUFFOLK",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SUFFOLK ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H1E8",
+        "streetName": "SILVERCREEK",
+        "streetDirectionId": "N",
+        "streetTypeId": "PKY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SILVERCREEK PKY N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9B8",
+    "result": []
+  },
+  {
+    "postal": "N1H7X4",
+    "result": []
+  },
+  {
+    "postal": "N1H1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1Z4",
+        "streetName": "DREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DREW ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H2C7",
+        "streetName": "LONDON",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LONDON RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H2E7",
+        "streetName": "MERCER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MERCER ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3R1",
+        "streetName": "SURREY",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SURREY ST E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4K4",
+        "streetName": "CENTRAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CENTRAL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9G3",
+    "result": []
+  },
+  {
+    "postal": "N1H6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138395
+        ],
+        "postalCode": "N1H6C9",
+        "streetName": "MERRITT",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MERRITT BLVD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9H5",
+    "result": []
+  },
+  {
+    "postal": "N1H1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H1P5",
+        "streetName": "PARKWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "PARKWOOD RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2J5",
+        "streetName": "SUFFOLK",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SUFFOLK ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4W6",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138439
+        ],
+        "postalCode": "N1H8M8",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380,
+          10138398
+        ],
+        "postalCode": "N1H6C5",
+        "streetName": "RIDGEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "RIDGEWOOD AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9H0",
+    "result": []
+  },
+  {
+    "postal": "N1H1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H1X8",
+        "streetName": "TIFFANY",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "TIFFANY ST E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H3H4",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WATERLOO AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4E7",
+        "streetName": "WYNDHAM",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WYNDHAM ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8A0",
+    "result": []
+  },
+  {
+    "postal": "N1H1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H1Z7",
+        "streetName": "DREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DREW ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7Z3",
+        "streetName": "SUGARBUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SUGARBUSH PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0L7",
+    "result": []
+  },
+  {
+    "postal": "N1H2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H2C6",
+        "streetName": "LONDON",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LONDON RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6M3",
+    "result": []
+  },
+  {
+    "postal": "N1H2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2J1",
+        "streetName": "SUFFOLK",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SUFFOLK ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138396
+        ],
+        "postalCode": "N1H3E3",
+        "streetName": "CHADWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CHADWICK AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6Z9",
+    "result": []
+  },
+  {
+    "postal": "N1H3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138397
+        ],
+        "postalCode": "N1H3M3",
+        "streetName": "BRISTOL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "BRISTOL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9B1",
+    "result": []
+  },
+  {
+    "postal": "N1H9J5",
+    "result": []
+  },
+  {
+    "postal": "N1H4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4V8",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H6W2",
+        "streetName": "STIRLING",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "STIRLING PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0V5",
+    "result": []
+  },
+  {
+    "postal": "N1H0Z8",
+    "result": []
+  },
+  {
+    "postal": "N1H5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H5G2",
+        "streetName": "NICKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NICKLIN CRES, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H4N4",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8G7",
+    "result": []
+  },
+  {
+    "postal": "N1H8W1",
+    "result": []
+  },
+  {
+    "postal": "N1H1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401,
+          10138384
+        ],
+        "postalCode": "N1H1S6",
+        "streetName": "CLARKE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CLARKE ST E, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4E0",
+    "result": []
+  },
+  {
+    "postal": "N1H4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4L9",
+        "streetName": "DUBLIN",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DUBLIN ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H5Z9",
+        "streetName": "ROSEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ROSEWOOD AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138381
+        ],
+        "postalCode": "N1H5V3",
+        "streetName": "DAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "DAWSON RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4V2",
+        "streetName": "GLASGOW",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "GLASGOW ST S, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7C0",
+    "result": []
+  },
+  {
+    "postal": "N1H6L0",
+    "result": []
+  },
+  {
+    "postal": "N1H1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1S9",
+        "streetName": "CLARKE",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CLARKE ST W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138379
+        ],
+        "postalCode": "N1H7R6",
+        "streetName": "WIMBLEDON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WIMBLEDON RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7J0",
+    "result": []
+  },
+  {
+    "postal": "N1H5M0",
+    "result": []
+  },
+  {
+    "postal": "N1H2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2E5",
+        "streetName": "HOME",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "HOME ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7C7",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5C0",
+    "result": []
+  },
+  {
+    "postal": "N1H8V9",
+    "result": []
+  },
+  {
+    "postal": "N1H7E0",
+    "result": []
+  },
+  {
+    "postal": "N1H6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H6R4",
+        "streetName": "RHONDA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "RHONDA RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138401
+        ],
+        "postalCode": "N1H3Z7",
+        "streetName": "CARDIGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CARDIGAN ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1J9",
+        "streetName": "SPEEDVALE",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SPEEDVALE AVE W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7K6",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOODLAWN RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H7Y5",
+        "streetName": "SILVERCREEK",
+        "streetDirectionId": "N",
+        "streetTypeId": "PKY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SILVERCREEK PKY N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1B7",
+    "result": []
+  },
+  {
+    "postal": "N1H4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H4S9",
+        "streetName": "FREEMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FREEMAN AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9R9",
+    "result": []
+  },
+  {
+    "postal": "N1H5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H5K7",
+        "streetName": "FERGUS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "FERGUS ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6P2",
+    "result": []
+  },
+  {
+    "postal": "N1H2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H2C5",
+        "streetName": "LONDON",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "LONDON RD W, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2N0",
+    "result": []
+  },
+  {
+    "postal": "N1H1G0",
+    "result": []
+  },
+  {
+    "postal": "N1H4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H4K5",
+        "streetName": "CENTRAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CENTRAL ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H9B5",
+    "result": []
+  },
+  {
+    "postal": "N1H6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H6T5",
+        "streetName": "MARKSAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MARKSAM RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138383
+        ],
+        "postalCode": "N1H1N8",
+        "streetName": "ST ANDREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "ST ANDREW ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H0C0",
+    "result": []
+  },
+  {
+    "postal": "N1H0R9",
+    "result": []
+  },
+  {
+    "postal": "N1H7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H7L1",
+        "streetName": "MARKSAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MARKSAM RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138382
+        ],
+        "postalCode": "N1H3Y8",
+        "streetName": "WOOLWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WOOLWICH ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138391
+        ],
+        "postalCode": "N1H7X9",
+        "streetName": "WILDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILDWOOD PL, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1A7",
+    "result": []
+  },
+  {
+    "postal": "N1H2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H2T9",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "CAMBRIDGE ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H2E6",
+        "streetName": "MERCER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "MERCER ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H8Y1",
+    "result": []
+  },
+  {
+    "postal": "N1H0J5",
+    "result": []
+  },
+  {
+    "postal": "N1H4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138400
+        ],
+        "postalCode": "N1H4J1",
+        "streetName": "NORFOLK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "NORFOLK ST, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H1A5",
+    "result": []
+  },
+  {
+    "postal": "N1H6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138378
+        ],
+        "postalCode": "N1H6Z6",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "WILLOW RD, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138399
+        ],
+        "postalCode": "N1H5K4",
+        "streetName": "HARRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "HARRISON AVE, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138398
+        ],
+        "postalCode": "N1H7R9",
+        "streetName": "SILVERCREEK",
+        "streetDirectionId": "N",
+        "streetTypeId": "PKY",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SILVERCREEK PKY N, GUELPH"
+      }
+    ]
+  },
+  {
+    "postal": "N1H6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 33,
+            "setId": 0,
+            "name": "Guelph"
+          }
+        ],
+        "pollDivisionIds": [
+          10138380
+        ],
+        "postalCode": "N1H6G4",
+        "streetName": "SLEEMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "GUELPH",
+        "streetNameDisplayText": "SLEEMAN AVE, GUELPH"
+      }
+    ]
   }
 ]

@@ -5459,5 +5459,3810 @@
   {
     "postal": "L4T0W6",
     "result": []
+  },
+  {
+    "postal": "L4T4C5",
+    "result": []
+  },
+  {
+    "postal": "L4T7E4",
+    "result": []
+  },
+  {
+    "postal": "L4T1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1R9",
+        "streetName": "NEWBOUND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NEWBOUND CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2P0",
+    "result": []
+  },
+  {
+    "postal": "L4T5S4",
+    "result": []
+  },
+  {
+    "postal": "L4T5K8",
+    "result": []
+  },
+  {
+    "postal": "L4T8K4",
+    "result": []
+  },
+  {
+    "postal": "L4T7C1",
+    "result": []
+  },
+  {
+    "postal": "L4T7K9",
+    "result": []
+  },
+  {
+    "postal": "L4T5J1",
+    "result": []
+  },
+  {
+    "postal": "L4T4P9",
+    "result": []
+  },
+  {
+    "postal": "L4T0N2",
+    "result": []
+  },
+  {
+    "postal": "L4T2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139802
+        ],
+        "postalCode": "L4T2G6",
+        "streetName": "BAYSWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BAYSWATER CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6P4",
+    "result": []
+  },
+  {
+    "postal": "L4T3J0",
+    "result": []
+  },
+  {
+    "postal": "L4T8X4",
+    "result": []
+  },
+  {
+    "postal": "L4T1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T1Y3",
+        "streetName": "MORNING STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MORNING STAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809,
+          10139808
+        ],
+        "postalCode": "L4T1A8",
+        "streetName": "DERRY",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DERRY RD E, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6Y5",
+    "result": []
+  },
+  {
+    "postal": "L4T0J6",
+    "result": []
+  },
+  {
+    "postal": "L4T2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2C9",
+        "streetName": "DARLA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARLA DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8J6",
+    "result": []
+  },
+  {
+    "postal": "L4T8T4",
+    "result": []
+  },
+  {
+    "postal": "L4T1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1P7",
+        "streetName": "MICHAUD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MICHAUD AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9V9",
+    "result": []
+  },
+  {
+    "postal": "L4T0M1",
+    "result": []
+  },
+  {
+    "postal": "L4T6K5",
+    "result": []
+  },
+  {
+    "postal": "L4T2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808,
+          10139804
+        ],
+        "postalCode": "L4T2T5",
+        "streetName": "GOREWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOREWAY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7E9",
+    "result": []
+  },
+  {
+    "postal": "L4T5K5",
+    "result": []
+  },
+  {
+    "postal": "L4T3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T3R5",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5B1",
+    "result": []
+  },
+  {
+    "postal": "L4T2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2P1",
+        "streetName": "NETHERBRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NETHERBRAE RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2P1",
+        "streetName": "NETHERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NETHERWOOD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7L0",
+    "result": []
+  },
+  {
+    "postal": "L4T3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T3L6",
+        "streetName": "SIGSBEE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SIGSBEE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2A4",
+        "streetName": "TEESWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TEESWATER RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8S0",
+    "result": []
+  },
+  {
+    "postal": "L4T3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T3L5",
+        "streetName": "BRANDON GATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRANDON GATE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T2R5",
+        "streetName": "CAMBRETT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CAMBRETT DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9T6",
+    "result": []
+  },
+  {
+    "postal": "L4T8Z2",
+    "result": []
+  },
+  {
+    "postal": "L4T0E9",
+    "result": []
+  },
+  {
+    "postal": "L4T8C0",
+    "result": []
+  },
+  {
+    "postal": "L4T3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T3K7",
+        "streetName": "CUSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CUSTER CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2H3",
+        "streetName": "AIRPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AIRPORT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T2Y6",
+        "streetName": "TOPPING",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TOPPING RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7M2",
+    "result": []
+  },
+  {
+    "postal": "L4T6E2",
+    "result": []
+  },
+  {
+    "postal": "L4T3R0",
+    "result": []
+  },
+  {
+    "postal": "L4T4J7",
+    "result": []
+  },
+  {
+    "postal": "L4T6N8",
+    "result": []
+  },
+  {
+    "postal": "L4T0J7",
+    "result": []
+  },
+  {
+    "postal": "L4T7P2",
+    "result": []
+  },
+  {
+    "postal": "L4T3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T3T8",
+        "streetName": "ETUDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ETUDE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T3S7",
+        "streetName": "TEESWATER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TEESWATER RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T2S7",
+        "streetName": "DOOLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DOOLEY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1S4",
+        "streetName": "CAPRICORN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CAPRICORN CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1L8",
+        "streetName": "VICTORY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "VICTORY CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8E9",
+    "result": []
+  },
+  {
+    "postal": "L4T0T0",
+    "result": []
+  },
+  {
+    "postal": "L4T3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T3G4",
+        "streetName": "BENAVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BENAVON RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T0V6",
+    "result": []
+  },
+  {
+    "postal": "L4T4W1",
+    "result": []
+  },
+  {
+    "postal": "L4T9G9",
+    "result": []
+  },
+  {
+    "postal": "L4T5W4",
+    "result": []
+  },
+  {
+    "postal": "L4T7M8",
+    "result": []
+  },
+  {
+    "postal": "L4T2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2C2",
+        "streetName": "REDSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "REDSTONE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T4Y2",
+    "result": []
+  },
+  {
+    "postal": "L4T9X9",
+    "result": []
+  },
+  {
+    "postal": "L4T3T0",
+    "result": []
+  },
+  {
+    "postal": "L4T4T8",
+    "result": []
+  },
+  {
+    "postal": "L4T9C4",
+    "result": []
+  },
+  {
+    "postal": "L4T8P2",
+    "result": []
+  },
+  {
+    "postal": "L4T0Y8",
+    "result": []
+  },
+  {
+    "postal": "L4T1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1G8",
+        "streetName": "TORBRAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TORBRAM RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T2T6",
+        "streetName": "GOREWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOREWAY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1N7",
+        "streetName": "IRESON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "IRESON CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T0L6",
+    "result": []
+  },
+  {
+    "postal": "L4T9V4",
+    "result": []
+  },
+  {
+    "postal": "L4T2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T2V1",
+        "streetName": "GOREWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOREWAY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T3L8",
+        "streetName": "TORBRAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TORBRAM RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2R8",
+        "streetName": "LANGWORTHY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LANGWORTHY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5C1",
+    "result": []
+  },
+  {
+    "postal": "L4T4W3",
+    "result": []
+  },
+  {
+    "postal": "L4T5X5",
+    "result": []
+  },
+  {
+    "postal": "L4T9W5",
+    "result": []
+  },
+  {
+    "postal": "L4T3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T3C4",
+        "streetName": "DREW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DREW RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T1N6",
+        "streetName": "CHIGWEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHIGWEL CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9S9",
+    "result": []
+  },
+  {
+    "postal": "L4T9M2",
+    "result": []
+  },
+  {
+    "postal": "L4T8Y4",
+    "result": []
+  },
+  {
+    "postal": "L4T7S4",
+    "result": []
+  },
+  {
+    "postal": "L4T0K6",
+    "result": []
+  },
+  {
+    "postal": "L4T1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T1W3",
+        "streetName": "DUNRANKIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DUNRANKIN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7R2",
+    "result": []
+  },
+  {
+    "postal": "L4T2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T2Y9",
+        "streetName": "WAINBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WAINBROOK RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7G4",
+    "result": []
+  },
+  {
+    "postal": "L4T7E5",
+    "result": []
+  },
+  {
+    "postal": "L4T9G2",
+    "result": []
+  },
+  {
+    "postal": "L4T7Y8",
+    "result": []
+  },
+  {
+    "postal": "L4T9V2",
+    "result": []
+  },
+  {
+    "postal": "L4T3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T3T7",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1H0",
+    "result": []
+  },
+  {
+    "postal": "L4T1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1M7",
+        "streetName": "JUSTINE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JUSTINE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8V4",
+    "result": []
+  },
+  {
+    "postal": "L4T4M2",
+    "result": []
+  },
+  {
+    "postal": "L4T0X2",
+    "result": []
+  },
+  {
+    "postal": "L4T5Z4",
+    "result": []
+  },
+  {
+    "postal": "L4T6V4",
+    "result": []
+  },
+  {
+    "postal": "L4T8J3",
+    "result": []
+  },
+  {
+    "postal": "L4T8E5",
+    "result": []
+  },
+  {
+    "postal": "L4T2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2V5",
+        "streetName": "LOCKINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LOCKINGTON CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7S1",
+    "result": []
+  },
+  {
+    "postal": "L4T6V3",
+    "result": []
+  },
+  {
+    "postal": "L4T2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2L8",
+        "streetName": "REDFOX",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "REDFOX RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9V0",
+    "result": []
+  },
+  {
+    "postal": "L4T3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T3M4",
+        "streetName": "YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "YORK ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5B2",
+    "result": []
+  },
+  {
+    "postal": "L4T3X5",
+    "result": []
+  },
+  {
+    "postal": "L4T9R7",
+    "result": []
+  },
+  {
+    "postal": "L4T2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T2X2",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8Z6",
+    "result": []
+  },
+  {
+    "postal": "L4T4R4",
+    "result": []
+  },
+  {
+    "postal": "L4T2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T2R1",
+        "streetName": "HONEYSUCKLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HONEYSUCKLE AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T3R8",
+        "streetName": "LEESBURG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LEESBURG ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9A1",
+    "result": []
+  },
+  {
+    "postal": "L4T8L3",
+    "result": []
+  },
+  {
+    "postal": "L4T9K4",
+    "result": []
+  },
+  {
+    "postal": "L4T9S3",
+    "result": []
+  },
+  {
+    "postal": "L4T8N7",
+    "result": []
+  },
+  {
+    "postal": "L4T1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1C6",
+        "streetName": "HULL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HULL ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3Z8",
+    "result": []
+  },
+  {
+    "postal": "L4T8G5",
+    "result": []
+  },
+  {
+    "postal": "L4T5R6",
+    "result": []
+  },
+  {
+    "postal": "L4T2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T2W3",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T0A0",
+    "result": []
+  },
+  {
+    "postal": "L4T6P8",
+    "result": []
+  },
+  {
+    "postal": "L4T8N9",
+    "result": []
+  },
+  {
+    "postal": "L4T0S9",
+    "result": []
+  },
+  {
+    "postal": "L4T8G0",
+    "result": []
+  },
+  {
+    "postal": "L4T8C7",
+    "result": []
+  },
+  {
+    "postal": "L4T5X8",
+    "result": []
+  },
+  {
+    "postal": "L4T7E8",
+    "result": []
+  },
+  {
+    "postal": "L4T6X2",
+    "result": []
+  },
+  {
+    "postal": "L4T4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T4C6",
+        "streetName": "LONGO",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LONGO CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7H2",
+    "result": []
+  },
+  {
+    "postal": "L4T4R0",
+    "result": []
+  },
+  {
+    "postal": "L4T6J3",
+    "result": []
+  },
+  {
+    "postal": "L4T4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139805
+        ],
+        "postalCode": "L4T4B8",
+        "streetName": "PENNY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PENNY LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6H6",
+    "result": []
+  },
+  {
+    "postal": "L4T0S1",
+    "result": []
+  },
+  {
+    "postal": "L4T4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T4E3",
+        "streetName": "DERRY",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DERRY RD E, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7K2",
+    "result": []
+  },
+  {
+    "postal": "L4T7T8",
+    "result": []
+  },
+  {
+    "postal": "L4T0J9",
+    "result": []
+  },
+  {
+    "postal": "L4T5J9",
+    "result": []
+  },
+  {
+    "postal": "L4T5S7",
+    "result": []
+  },
+  {
+    "postal": "L4T0G9",
+    "result": []
+  },
+  {
+    "postal": "L4T3J9",
+    "result": []
+  },
+  {
+    "postal": "L4T2Y0",
+    "result": []
+  },
+  {
+    "postal": "L4T8X5",
+    "result": []
+  },
+  {
+    "postal": "L4T2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2M7",
+        "streetName": "REINDEER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "REINDEER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9Z3",
+    "result": []
+  },
+  {
+    "postal": "L4T7W2",
+    "result": []
+  },
+  {
+    "postal": "L4T3W0",
+    "result": []
+  },
+  {
+    "postal": "L4T3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139802
+        ],
+        "postalCode": "L4T3M1",
+        "streetName": "KEENAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KEENAN CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6A5",
+    "result": []
+  },
+  {
+    "postal": "L4T2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2M9",
+        "streetName": "PICKFAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PICKFAIR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5C3",
+    "result": []
+  },
+  {
+    "postal": "L4T0Y6",
+    "result": []
+  },
+  {
+    "postal": "L4T9H7",
+    "result": []
+  },
+  {
+    "postal": "L4T3L0",
+    "result": []
+  },
+  {
+    "postal": "L4T5N9",
+    "result": []
+  },
+  {
+    "postal": "L4T5E3",
+    "result": []
+  },
+  {
+    "postal": "L4T7M9",
+    "result": []
+  },
+  {
+    "postal": "L4T8N2",
+    "result": []
+  },
+  {
+    "postal": "L4T9H3",
+    "result": []
+  },
+  {
+    "postal": "L4T2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2K8",
+        "streetName": "MANION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MANION RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9L0",
+    "result": []
+  },
+  {
+    "postal": "L4T6L9",
+    "result": []
+  },
+  {
+    "postal": "L4T6A8",
+    "result": []
+  },
+  {
+    "postal": "L4T2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2K6",
+        "streetName": "MANION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MANION RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2M0",
+    "result": []
+  },
+  {
+    "postal": "L4T5X7",
+    "result": []
+  },
+  {
+    "postal": "L4T0M7",
+    "result": []
+  },
+  {
+    "postal": "L4T7A6",
+    "result": []
+  },
+  {
+    "postal": "L4T3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T3C5",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2P2",
+        "streetName": "LULLY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LULLY CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9N4",
+    "result": []
+  },
+  {
+    "postal": "L4T3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T3M9",
+        "streetName": "GOREWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOREWAY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8K6",
+    "result": []
+  },
+  {
+    "postal": "L4T1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1L2",
+        "streetName": "BATH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BATH RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139802
+        ],
+        "postalCode": "L4T2Z9",
+        "streetName": "ROCKHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ROCKHILL RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2S2",
+        "streetName": "MCKECHNIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MCKECHNIE CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T2W2",
+        "streetName": "NETHERBRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NETHERBRAE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2C3",
+        "streetName": "CHINOOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHINOOK DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6L7",
+    "result": []
+  },
+  {
+    "postal": "L4T3K0",
+    "result": []
+  },
+  {
+    "postal": "L4T3C1",
+    "result": []
+  },
+  {
+    "postal": "L4T6M9",
+    "result": []
+  },
+  {
+    "postal": "L4T4N9",
+    "result": []
+  },
+  {
+    "postal": "L4T3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T3Y7",
+        "streetName": "TORBRAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TORBRAM RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2A9",
+        "streetName": "REDSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "REDSTONE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6H5",
+    "result": []
+  },
+  {
+    "postal": "L4T8B4",
+    "result": []
+  },
+  {
+    "postal": "L4T4Z2",
+    "result": []
+  },
+  {
+    "postal": "L4T9J0",
+    "result": []
+  },
+  {
+    "postal": "L4T7V7",
+    "result": []
+  },
+  {
+    "postal": "L4T5T5",
+    "result": []
+  },
+  {
+    "postal": "L4T4W5",
+    "result": []
+  },
+  {
+    "postal": "L4T1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T1T8",
+        "streetName": "WOODRUFF",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WOODRUFF CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9G6",
+    "result": []
+  },
+  {
+    "postal": "L4T1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1H3",
+        "streetName": "BREN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BREN RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5R5",
+    "result": []
+  },
+  {
+    "postal": "L4T8A4",
+    "result": []
+  },
+  {
+    "postal": "L4T3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T3T6",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9W8",
+    "result": []
+  },
+  {
+    "postal": "L4T0N3",
+    "result": []
+  },
+  {
+    "postal": "L4T7V0",
+    "result": []
+  },
+  {
+    "postal": "L4T8T5",
+    "result": []
+  },
+  {
+    "postal": "L4T5N3",
+    "result": []
+  },
+  {
+    "postal": "L4T5G9",
+    "result": []
+  },
+  {
+    "postal": "L4T3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139802
+        ],
+        "postalCode": "L4T3X8",
+        "streetName": "DARCEL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DARCEL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9R3",
+    "result": []
+  },
+  {
+    "postal": "L4T2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2S1",
+        "streetName": "MCKECHNIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MCKECHNIE CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9J7",
+    "result": []
+  },
+  {
+    "postal": "L4T2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2J3",
+        "streetName": "BONAVENTURE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BONAVENTURE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3B6",
+    "result": []
+  },
+  {
+    "postal": "L4T8J0",
+    "result": []
+  },
+  {
+    "postal": "L4T7R4",
+    "result": []
+  },
+  {
+    "postal": "L4T8K8",
+    "result": []
+  },
+  {
+    "postal": "L4T4P3",
+    "result": []
+  },
+  {
+    "postal": "L4T0A2",
+    "result": []
+  },
+  {
+    "postal": "L4T2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2G2",
+        "streetName": "BRANDON GATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRANDON GATE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5Y9",
+    "result": []
+  },
+  {
+    "postal": "L4T7X0",
+    "result": []
+  },
+  {
+    "postal": "L4T7W3",
+    "result": []
+  },
+  {
+    "postal": "L4T7X5",
+    "result": []
+  },
+  {
+    "postal": "L4T5K6",
+    "result": []
+  },
+  {
+    "postal": "L4T5B6",
+    "result": []
+  },
+  {
+    "postal": "L4T7Z0",
+    "result": []
+  },
+  {
+    "postal": "L4T9H6",
+    "result": []
+  },
+  {
+    "postal": "L4T1B4",
+    "result": []
+  },
+  {
+    "postal": "L4T1A0",
+    "result": []
+  },
+  {
+    "postal": "L4T9A0",
+    "result": []
+  },
+  {
+    "postal": "L4T1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1M6",
+        "streetName": "JUSTINE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JUSTINE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5H0",
+    "result": []
+  },
+  {
+    "postal": "L4T1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1K6",
+        "streetName": "SLEDMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SLEDMAN ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5E1",
+    "result": []
+  },
+  {
+    "postal": "L4T3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T3T9",
+        "streetName": "MORNING STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MORNING STAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2M6",
+        "streetName": "REINDEER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "REINDEER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T0G5",
+    "result": []
+  },
+  {
+    "postal": "L4T0Y2",
+    "result": []
+  },
+  {
+    "postal": "L4T2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T2Y7",
+        "streetName": "WAINBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WAINBROOK RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2J7",
+        "streetName": "PURNELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PURNELL CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T4K7",
+    "result": []
+  },
+  {
+    "postal": "L4T7P9",
+    "result": []
+  },
+  {
+    "postal": "L4T8X0",
+    "result": []
+  },
+  {
+    "postal": "L4T3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T3X1",
+        "streetName": "DREW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DREW RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1R5",
+        "streetName": "CHURCHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHURCHILL AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6X6",
+    "result": []
+  },
+  {
+    "postal": "L4T0Y1",
+    "result": []
+  },
+  {
+    "postal": "L4T8G1",
+    "result": []
+  },
+  {
+    "postal": "L4T3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T3J3",
+        "streetName": "DWIGGIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DWIGGIN AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8C2",
+    "result": []
+  },
+  {
+    "postal": "L4T4X9",
+    "result": []
+  },
+  {
+    "postal": "L4T6G9",
+    "result": []
+  },
+  {
+    "postal": "L4T4M3",
+    "result": []
+  },
+  {
+    "postal": "L4T9P7",
+    "result": []
+  },
+  {
+    "postal": "L4T4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T4E5",
+        "streetName": "AIRPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AIRPORT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5K9",
+    "result": []
+  },
+  {
+    "postal": "L4T2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2V2",
+        "streetName": "GOREWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOREWAY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2N9",
+        "streetName": "NETHERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NETHERWOOD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6L4",
+    "result": []
+  },
+  {
+    "postal": "L4T8E0",
+    "result": []
+  },
+  {
+    "postal": "L4T0N0",
+    "result": []
+  },
+  {
+    "postal": "L4T6R0",
+    "result": []
+  },
+  {
+    "postal": "L4T9C1",
+    "result": []
+  },
+  {
+    "postal": "L4T4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T4H4",
+        "streetName": "AIRPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AIRPORT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T5W3",
+    "result": []
+  },
+  {
+    "postal": "L4T9N9",
+    "result": []
+  },
+  {
+    "postal": "L4T1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1V7",
+        "streetName": "JOLLIFFE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JOLLIFFE AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8J1",
+    "result": []
+  },
+  {
+    "postal": "L4T5V9",
+    "result": []
+  },
+  {
+    "postal": "L4T2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T2S8",
+        "streetName": "MINOTOLA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MINOTOLA AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6P0",
+    "result": []
+  },
+  {
+    "postal": "L4T4J8",
+    "result": []
+  },
+  {
+    "postal": "L4T0N1",
+    "result": []
+  },
+  {
+    "postal": "L4T1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T1Y7",
+        "streetName": "MORNING STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISAUGA",
+        "streetNameDisplayText": "MORNING STAR DR, MISSISAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T1Y7",
+        "streetName": "MORNING STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MORNING STAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7W5",
+    "result": []
+  },
+  {
+    "postal": "L4T3Z1",
+    "result": []
+  },
+  {
+    "postal": "L4T7M6",
+    "result": []
+  },
+  {
+    "postal": "L4T1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1W7",
+        "streetName": "DRIFTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DRIFTON CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1X1",
+        "streetName": "MORNING STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MORNING STAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T0C1",
+    "result": []
+  },
+  {
+    "postal": "L4T4N3",
+    "result": []
+  },
+  {
+    "postal": "L4T4S8",
+    "result": []
+  },
+  {
+    "postal": "L4T1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1H6",
+        "streetName": "CATTRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CATTRICK ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2Z4",
+        "streetName": "CORLISS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CORLISS CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7K3",
+    "result": []
+  },
+  {
+    "postal": "L4T8A2",
+    "result": []
+  },
+  {
+    "postal": "L4T6J1",
+    "result": []
+  },
+  {
+    "postal": "L4T5Z6",
+    "result": []
+  },
+  {
+    "postal": "L4T3Z0",
+    "result": []
+  },
+  {
+    "postal": "L4T8M0",
+    "result": []
+  },
+  {
+    "postal": "L4T1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T1Z6",
+        "streetName": "BALLAD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BALLAD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8K7",
+    "result": []
+  },
+  {
+    "postal": "L4T1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T1N3",
+        "streetName": "CHIGWEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHIGWEL CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9S2",
+    "result": []
+  },
+  {
+    "postal": "L4T2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2K1",
+        "streetName": "SILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SILLS RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1E8",
+        "streetName": "BEVERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BEVERLEY ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9B8",
+    "result": []
+  },
+  {
+    "postal": "L4T7X4",
+    "result": []
+  },
+  {
+    "postal": "L4T1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T1Z4",
+        "streetName": "LAFONTAINE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LAFONTAINE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T2C7",
+        "streetName": "CLARA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CLARA DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2E7",
+        "streetName": "MONICA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONICA DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3R1",
+    "result": []
+  },
+  {
+    "postal": "L4T4K4",
+    "result": []
+  },
+  {
+    "postal": "L4T9G3",
+    "result": []
+  },
+  {
+    "postal": "L4T6C9",
+    "result": []
+  },
+  {
+    "postal": "L4T9H5",
+    "result": []
+  },
+  {
+    "postal": "L4T1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1P5",
+        "streetName": "MERRITT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MERRITT AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2J5",
+        "streetName": "BONAVENTURE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BONAVENTURE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T4W6",
+    "result": []
+  },
+  {
+    "postal": "L4T8M8",
+    "result": []
+  },
+  {
+    "postal": "L4T6C5",
+    "result": []
+  },
+  {
+    "postal": "L4T9H0",
+    "result": []
+  },
+  {
+    "postal": "L4T1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808
+        ],
+        "postalCode": "L4T1X8",
+        "streetName": "MORNING STAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MORNING STAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139801
+        ],
+        "postalCode": "L4T3H4",
+        "streetName": "PRIORY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PRIORY CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T4E7",
+    "result": []
+  },
+  {
+    "postal": "L4T8A0",
+    "result": []
+  },
+  {
+    "postal": "L4T1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T1Z7",
+        "streetName": "BALLAD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BALLAD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7Z3",
+    "result": []
+  },
+  {
+    "postal": "L4T0L7",
+    "result": []
+  },
+  {
+    "postal": "L4T2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2C6",
+        "streetName": "MALLBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MALLBRIDGE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6M3",
+    "result": []
+  },
+  {
+    "postal": "L4T2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T2J1",
+        "streetName": "LANDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LANDEN CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139802
+        ],
+        "postalCode": "L4T3E3",
+        "streetName": "BRANDON GATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRANDON GATE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6Z9",
+    "result": []
+  },
+  {
+    "postal": "L4T3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139802
+        ],
+        "postalCode": "L4T3M3",
+        "streetName": "BRANDON GATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRANDON GATE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T9B1",
+    "result": []
+  },
+  {
+    "postal": "L4T9J5",
+    "result": []
+  },
+  {
+    "postal": "L4T4V8",
+    "result": []
+  },
+  {
+    "postal": "L4T6W2",
+    "result": []
+  },
+  {
+    "postal": "L4T0V5",
+    "result": []
+  },
+  {
+    "postal": "L4T0Z8",
+    "result": []
+  },
+  {
+    "postal": "L4T5G2",
+    "result": []
+  },
+  {
+    "postal": "L4T4N4",
+    "result": []
+  },
+  {
+    "postal": "L4T8G7",
+    "result": []
+  },
+  {
+    "postal": "L4T8W1",
+    "result": []
+  },
+  {
+    "postal": "L4T1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139806
+        ],
+        "postalCode": "L4T1S6",
+        "streetName": "CRABTREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CRABTREE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T4E0",
+    "result": []
+  },
+  {
+    "postal": "L4T4L9",
+    "result": []
+  },
+  {
+    "postal": "L4T5Z9",
+    "result": []
+  },
+  {
+    "postal": "L4T5V3",
+    "result": []
+  },
+  {
+    "postal": "L4T4V2",
+    "result": []
+  },
+  {
+    "postal": "L4T7C0",
+    "result": []
+  },
+  {
+    "postal": "L4T6L0",
+    "result": []
+  },
+  {
+    "postal": "L4T1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139808,
+          10139809
+        ],
+        "postalCode": "L4T1S9",
+        "streetName": "ETUDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ETUDE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7R6",
+    "result": []
+  },
+  {
+    "postal": "L4T7J0",
+    "result": []
+  },
+  {
+    "postal": "L4T5M0",
+    "result": []
+  },
+  {
+    "postal": "L4T2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2E5",
+        "streetName": "MONICA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONICA DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7C7",
+    "result": []
+  },
+  {
+    "postal": "L4T5C0",
+    "result": []
+  },
+  {
+    "postal": "L4T8V9",
+    "result": []
+  },
+  {
+    "postal": "L4T7E0",
+    "result": []
+  },
+  {
+    "postal": "L4T6R4",
+    "result": []
+  },
+  {
+    "postal": "L4T3Z7",
+    "result": []
+  },
+  {
+    "postal": "L4T1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1J9",
+        "streetName": "NORTH ALARTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NORTH ALARTON ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T7K6",
+    "result": []
+  },
+  {
+    "postal": "L4T7Y5",
+    "result": []
+  },
+  {
+    "postal": "L4T1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1B7",
+        "streetName": "BURLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BURLINGTON ST, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T4S9",
+    "result": []
+  },
+  {
+    "postal": "L4T9R9",
+    "result": []
+  },
+  {
+    "postal": "L4T5K7",
+    "result": []
+  },
+  {
+    "postal": "L4T6P2",
+    "result": []
+  },
+  {
+    "postal": "L4T2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139807
+        ],
+        "postalCode": "L4T2C5",
+        "streetName": "MALLBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MALLBRIDGE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2N0",
+    "result": []
+  },
+  {
+    "postal": "L4T1G0",
+    "result": []
+  },
+  {
+    "postal": "L4T4K5",
+    "result": []
+  },
+  {
+    "postal": "L4T9B5",
+    "result": []
+  },
+  {
+    "postal": "L4T6T5",
+    "result": []
+  },
+  {
+    "postal": "L4T1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1N8",
+        "streetName": "IRESON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "IRESON CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T0C0",
+    "result": []
+  },
+  {
+    "postal": "L4T0R9",
+    "result": []
+  },
+  {
+    "postal": "L4T7L1",
+    "result": []
+  },
+  {
+    "postal": "L4T3Y8",
+    "result": []
+  },
+  {
+    "postal": "L4T7X9",
+    "result": []
+  },
+  {
+    "postal": "L4T1A7",
+    "result": []
+  },
+  {
+    "postal": "L4T2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139804
+        ],
+        "postalCode": "L4T2T9",
+        "streetName": "GOREWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOREWAY DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139803
+        ],
+        "postalCode": "L4T2E6",
+        "streetName": "MONICA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONICA DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T8Y1",
+    "result": []
+  },
+  {
+    "postal": "L4T0J5",
+    "result": []
+  },
+  {
+    "postal": "L4T4J1",
+    "result": []
+  },
+  {
+    "postal": "L4T1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139809
+        ],
+        "postalCode": "L4T1A5",
+        "streetName": "DERRY",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DERRY RD E, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L4T6Z6",
+    "result": []
+  },
+  {
+    "postal": "L4T5K4",
+    "result": []
+  },
+  {
+    "postal": "L4T7R9",
+    "result": []
+  },
+  {
+    "postal": "L4T6G4",
+    "result": []
   }
 ]

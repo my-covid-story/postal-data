@@ -6630,5 +6630,4060 @@
   {
     "postal": "L9R0W6",
     "result": []
+  },
+  {
+    "postal": "L9R4C5",
+    "result": []
+  },
+  {
+    "postal": "L9R7E4",
+    "result": []
+  },
+  {
+    "postal": "L9R1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141831,
+          10141854
+        ],
+        "postalCode": "L9R1R9",
+        "streetName": "RIVERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "RIVERVIEW RD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2P0",
+    "result": []
+  },
+  {
+    "postal": "L9R5S4",
+    "result": []
+  },
+  {
+    "postal": "L9R5K8",
+    "result": []
+  },
+  {
+    "postal": "L9R8K4",
+    "result": []
+  },
+  {
+    "postal": "L9R7C1",
+    "result": []
+  },
+  {
+    "postal": "L9R7K9",
+    "result": []
+  },
+  {
+    "postal": "L9R5J1",
+    "result": []
+  },
+  {
+    "postal": "L9R4P9",
+    "result": []
+  },
+  {
+    "postal": "L9R0N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0N2",
+        "streetName": "HOLT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HOLT DR, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0N2",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WALKER BLVD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R2G6",
+        "streetName": "WALLACE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WALLACE ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6P4",
+    "result": []
+  },
+  {
+    "postal": "L9R3J0",
+    "result": []
+  },
+  {
+    "postal": "L9R8X4",
+    "result": []
+  },
+  {
+    "postal": "L9R1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1Y3",
+        "streetName": "HENDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HENDERSON CRES, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1A8",
+        "streetName": "STOREY",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "STOREY GATE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1A8",
+        "streetName": "TUPPER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "TUPPER BLVD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6Y5",
+    "result": []
+  },
+  {
+    "postal": "L9R0J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852,
+          10143666
+        ],
+        "postalCode": "L9R0J6",
+        "streetName": "CHURCH",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CHURCH ST N, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R0J6",
+        "streetName": "CHURCH",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CHURCH ST S, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0J6",
+        "streetName": "SHEPHARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "SHEPHARD AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0J6",
+        "streetName": "SWENSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "SWENSON ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R2C9",
+        "streetName": "CHANTLER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CHANTLER RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R2C9",
+        "streetName": "STONEHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "STONEHAM ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8J6",
+    "result": []
+  },
+  {
+    "postal": "L9R8T4",
+    "result": []
+  },
+  {
+    "postal": "L9R1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1P7",
+        "streetName": "DARLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "DARLING CRES, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R9V9",
+    "result": []
+  },
+  {
+    "postal": "L9R0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0M1",
+        "streetName": "CHERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NEW TECUMSETH",
+        "streetNameDisplayText": "CHERRY LANE, NEW TECUMSETH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0M1",
+        "streetName": "MASON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW TECUMSETH",
+        "streetNameDisplayText": "MASON DR, NEW TECUMSETH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0M1",
+        "streetName": "TREETOPS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NEW TECUMSETH",
+        "streetNameDisplayText": "TREETOPS BLVD, NEW TECUMSETH"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6K5",
+    "result": []
+  },
+  {
+    "postal": "L9R2T5",
+    "result": []
+  },
+  {
+    "postal": "L9R7E9",
+    "result": []
+  },
+  {
+    "postal": "L9R5K5",
+    "result": []
+  },
+  {
+    "postal": "L9R3R5",
+    "result": []
+  },
+  {
+    "postal": "L9R5B1",
+    "result": []
+  },
+  {
+    "postal": "L9R2P1",
+    "result": []
+  },
+  {
+    "postal": "L9R7L0",
+    "result": []
+  },
+  {
+    "postal": "L9R3L6",
+    "result": []
+  },
+  {
+    "postal": "L9R2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2A4",
+        "streetName": "BRIAR GATE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BRIAR GATE WAY, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8S0",
+    "result": []
+  },
+  {
+    "postal": "L9R3L5",
+    "result": []
+  },
+  {
+    "postal": "L9R2R5",
+    "result": []
+  },
+  {
+    "postal": "L9R9T6",
+    "result": []
+  },
+  {
+    "postal": "L9R8Z2",
+    "result": []
+  },
+  {
+    "postal": "L9R0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0E9",
+        "streetName": "YOUNG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "YOUNG ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8C0",
+    "result": []
+  },
+  {
+    "postal": "L9R3K7",
+    "result": []
+  },
+  {
+    "postal": "L9R2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2H3",
+        "streetName": "MONTEBELLO",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "MONTEBELLO TERR, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2Y6",
+    "result": []
+  },
+  {
+    "postal": "L9R7M2",
+    "result": []
+  },
+  {
+    "postal": "L9R6E2",
+    "result": []
+  },
+  {
+    "postal": "L9R3R0",
+    "result": []
+  },
+  {
+    "postal": "L9R4J7",
+    "result": []
+  },
+  {
+    "postal": "L9R6N8",
+    "result": []
+  },
+  {
+    "postal": "L9R0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R0J7",
+        "streetName": "CHURCH",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CHURCH ST N, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7P2",
+    "result": []
+  },
+  {
+    "postal": "L9R3T8",
+    "result": []
+  },
+  {
+    "postal": "L9R3S7",
+    "result": []
+  },
+  {
+    "postal": "L9R2S7",
+    "result": []
+  },
+  {
+    "postal": "L9R1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1S4",
+        "streetName": "PARKETTE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "PARKETTE DR, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1S4",
+        "streetName": "RIVERVIEW RD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "RIVERVIEW RD RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1S4",
+        "streetName": "RIVERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "RIVERVIEW RD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1L8",
+        "streetName": "ELIZABETH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "ELIZABETH ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8E9",
+    "result": []
+  },
+  {
+    "postal": "L9R0T0",
+    "result": []
+  },
+  {
+    "postal": "L9R3G4",
+    "result": []
+  },
+  {
+    "postal": "L9R0V6",
+    "result": []
+  },
+  {
+    "postal": "L9R4W1",
+    "result": []
+  },
+  {
+    "postal": "L9R9G9",
+    "result": []
+  },
+  {
+    "postal": "L9R5W4",
+    "result": []
+  },
+  {
+    "postal": "L9R7M8",
+    "result": []
+  },
+  {
+    "postal": "L9R2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2C2",
+        "streetName": "VIA AMICI",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VIA AMICI, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R4Y2",
+    "result": []
+  },
+  {
+    "postal": "L9R9X9",
+    "result": []
+  },
+  {
+    "postal": "L9R3T0",
+    "result": []
+  },
+  {
+    "postal": "L9R4T8",
+    "result": []
+  },
+  {
+    "postal": "L9R9C4",
+    "result": []
+  },
+  {
+    "postal": "L9R8P2",
+    "result": []
+  },
+  {
+    "postal": "L9R0Y8",
+    "result": []
+  },
+  {
+    "postal": "L9R1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1G8",
+        "streetName": "CENTRE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CENTRE ST S, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1G8",
+        "streetName": "CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CENTRE ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1G8",
+        "streetName": "NELSON",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "NELSON ST E, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1G8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WELLINGTON ST E, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2T6",
+    "result": []
+  },
+  {
+    "postal": "L9R1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N7",
+        "streetName": "BOWERMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BOWERMAN BLVD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N7",
+        "streetName": "HEYDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HEYDON AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141849,
+          10143666
+        ],
+        "postalCode": "L9R1N7",
+        "streetName": "KING",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "KING ST N, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R0L6",
+    "result": []
+  },
+  {
+    "postal": "L9R9V4",
+    "result": []
+  },
+  {
+    "postal": "L9R2V1",
+    "result": []
+  },
+  {
+    "postal": "L9R3L8",
+    "result": []
+  },
+  {
+    "postal": "L9R2R8",
+    "result": []
+  },
+  {
+    "postal": "L9R5C1",
+    "result": []
+  },
+  {
+    "postal": "L9R4W3",
+    "result": []
+  },
+  {
+    "postal": "L9R5X5",
+    "result": []
+  },
+  {
+    "postal": "L9R9W5",
+    "result": []
+  },
+  {
+    "postal": "L9R3C4",
+    "result": []
+  },
+  {
+    "postal": "L9R1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N6",
+        "streetName": "COWAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "COWAN AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N6",
+        "streetName": "ESSA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "ESSA RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N6",
+        "streetName": "HEYDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HEYDON AVE, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R9S9",
+    "result": []
+  },
+  {
+    "postal": "L9R9M2",
+    "result": []
+  },
+  {
+    "postal": "L9R8Y4",
+    "result": []
+  },
+  {
+    "postal": "L9R7S4",
+    "result": []
+  },
+  {
+    "postal": "L9R0K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666,
+          10141831
+        ],
+        "postalCode": "L9R0K6",
+        "streetName": "KINGSMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "KINGSMERE CRES, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R1W3",
+    "result": []
+  },
+  {
+    "postal": "L9R7R2",
+    "result": []
+  },
+  {
+    "postal": "L9R2Y9",
+    "result": []
+  },
+  {
+    "postal": "L9R7G4",
+    "result": []
+  },
+  {
+    "postal": "L9R7E5",
+    "result": []
+  },
+  {
+    "postal": "L9R9G2",
+    "result": []
+  },
+  {
+    "postal": "L9R7Y8",
+    "result": []
+  },
+  {
+    "postal": "L9R9V2",
+    "result": []
+  },
+  {
+    "postal": "L9R3T7",
+    "result": []
+  },
+  {
+    "postal": "L9R1H0",
+    "result": []
+  },
+  {
+    "postal": "L9R1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M7",
+        "streetName": "BANTING",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BANTING DR, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M7",
+        "streetName": "DONER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "DONER ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M7",
+        "streetName": "ELM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "ELM ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M7",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GEORGE ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M7",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WILLIAM ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8V4",
+    "result": []
+  },
+  {
+    "postal": "L9R4M2",
+    "result": []
+  },
+  {
+    "postal": "L9R0X2",
+    "result": []
+  },
+  {
+    "postal": "L9R5Z4",
+    "result": []
+  },
+  {
+    "postal": "L9R6V4",
+    "result": []
+  },
+  {
+    "postal": "L9R8J3",
+    "result": []
+  },
+  {
+    "postal": "L9R8E5",
+    "result": []
+  },
+  {
+    "postal": "L9R2V5",
+    "result": []
+  },
+  {
+    "postal": "L9R7S1",
+    "result": []
+  },
+  {
+    "postal": "L9R6V3",
+    "result": []
+  },
+  {
+    "postal": "L9R2L8",
+    "result": []
+  },
+  {
+    "postal": "L9R9V0",
+    "result": []
+  },
+  {
+    "postal": "L9R3M4",
+    "result": []
+  },
+  {
+    "postal": "L9R5B2",
+    "result": []
+  },
+  {
+    "postal": "L9R3X5",
+    "result": []
+  },
+  {
+    "postal": "L9R9R7",
+    "result": []
+  },
+  {
+    "postal": "L9R2X2",
+    "result": []
+  },
+  {
+    "postal": "L9R8Z6",
+    "result": []
+  },
+  {
+    "postal": "L9R4R4",
+    "result": []
+  },
+  {
+    "postal": "L9R2R1",
+    "result": []
+  },
+  {
+    "postal": "L9R3R8",
+    "result": []
+  },
+  {
+    "postal": "L9R9A1",
+    "result": []
+  },
+  {
+    "postal": "L9R8L3",
+    "result": []
+  },
+  {
+    "postal": "L9R9K4",
+    "result": []
+  },
+  {
+    "postal": "L9R9S3",
+    "result": []
+  },
+  {
+    "postal": "L9R8N7",
+    "result": []
+  },
+  {
+    "postal": "L9R1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1C6",
+        "streetName": "CUNNINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "CUNNINGHAM DR, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1C6",
+        "streetName": "KERR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "KERR BLVD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R3Z8",
+    "result": []
+  },
+  {
+    "postal": "L9R8G5",
+    "result": []
+  },
+  {
+    "postal": "L9R5R6",
+    "result": []
+  },
+  {
+    "postal": "L9R2W3",
+    "result": []
+  },
+  {
+    "postal": "L9R0A0",
+    "result": []
+  },
+  {
+    "postal": "L9R6P8",
+    "result": []
+  },
+  {
+    "postal": "L9R8N9",
+    "result": []
+  },
+  {
+    "postal": "L9R0S9",
+    "result": []
+  },
+  {
+    "postal": "L9R8G0",
+    "result": []
+  },
+  {
+    "postal": "L9R8C7",
+    "result": []
+  },
+  {
+    "postal": "L9R5X8",
+    "result": []
+  },
+  {
+    "postal": "L9R7E8",
+    "result": []
+  },
+  {
+    "postal": "L9R6X2",
+    "result": []
+  },
+  {
+    "postal": "L9R4C6",
+    "result": []
+  },
+  {
+    "postal": "L9R7H2",
+    "result": []
+  },
+  {
+    "postal": "L9R4R0",
+    "result": []
+  },
+  {
+    "postal": "L9R6J3",
+    "result": []
+  },
+  {
+    "postal": "L9R4B8",
+    "result": []
+  },
+  {
+    "postal": "L9R6H6",
+    "result": []
+  },
+  {
+    "postal": "L9R0S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0S1",
+        "streetName": "RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "RIDGE WAY, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R4E3",
+    "result": []
+  },
+  {
+    "postal": "L9R7K2",
+    "result": []
+  },
+  {
+    "postal": "L9R7T8",
+    "result": []
+  },
+  {
+    "postal": "L9R0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0J9",
+        "streetName": "JAMES A MCCAGUE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "JAMES A MCCAGUE AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0J9",
+        "streetName": "SHEPHARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "SHEPHARD AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0J9",
+        "streetName": "SWENSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "SWENSON ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R5J9",
+    "result": []
+  },
+  {
+    "postal": "L9R5S7",
+    "result": []
+  },
+  {
+    "postal": "L9R0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0G9",
+        "streetName": "GRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GRAY AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0G9",
+        "streetName": "HACKETT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HACKETT ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R3J9",
+    "result": []
+  },
+  {
+    "postal": "L9R2Y0",
+    "result": []
+  },
+  {
+    "postal": "L9R8X5",
+    "result": []
+  },
+  {
+    "postal": "L9R2M7",
+    "result": []
+  },
+  {
+    "postal": "L9R9Z3",
+    "result": []
+  },
+  {
+    "postal": "L9R7W2",
+    "result": []
+  },
+  {
+    "postal": "L9R3W0",
+    "result": []
+  },
+  {
+    "postal": "L9R3M1",
+    "result": []
+  },
+  {
+    "postal": "L9R6A5",
+    "result": []
+  },
+  {
+    "postal": "L9R2M9",
+    "result": []
+  },
+  {
+    "postal": "L9R5C3",
+    "result": []
+  },
+  {
+    "postal": "L9R0Y6",
+    "result": []
+  },
+  {
+    "postal": "L9R9H7",
+    "result": []
+  },
+  {
+    "postal": "L9R3L0",
+    "result": []
+  },
+  {
+    "postal": "L9R5N9",
+    "result": []
+  },
+  {
+    "postal": "L9R5E3",
+    "result": []
+  },
+  {
+    "postal": "L9R7M9",
+    "result": []
+  },
+  {
+    "postal": "L9R8N2",
+    "result": []
+  },
+  {
+    "postal": "L9R9H3",
+    "result": []
+  },
+  {
+    "postal": "L9R2K8",
+    "result": []
+  },
+  {
+    "postal": "L9R9L0",
+    "result": []
+  },
+  {
+    "postal": "L9R6L9",
+    "result": []
+  },
+  {
+    "postal": "L9R6A8",
+    "result": []
+  },
+  {
+    "postal": "L9R2K6",
+    "result": []
+  },
+  {
+    "postal": "L9R2M0",
+    "result": []
+  },
+  {
+    "postal": "L9R5X7",
+    "result": []
+  },
+  {
+    "postal": "L9R0M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0M7",
+        "streetName": "HOARD",
+        "streetDirectionId": "N",
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HOARD AVE N, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0M7",
+        "streetName": "WILLOUGHBY",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WILLOUGHBY WAY, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7A6",
+    "result": []
+  },
+  {
+    "postal": "L9R3C5",
+    "result": []
+  },
+  {
+    "postal": "L9R2P2",
+    "result": []
+  },
+  {
+    "postal": "L9R9N4",
+    "result": []
+  },
+  {
+    "postal": "L9R3M9",
+    "result": []
+  },
+  {
+    "postal": "L9R8K6",
+    "result": []
+  },
+  {
+    "postal": "L9R1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141847
+        ],
+        "postalCode": "L9R1L2",
+        "streetName": "6TH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "6TH LINE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852,
+          10141853
+        ],
+        "postalCode": "L9R1L2",
+        "streetName": "BOYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BOYNE ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1L2",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "MAPLE LANE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1L2",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "QUEEN ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1L2",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST E, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2Z9",
+    "result": []
+  },
+  {
+    "postal": "L9R2S2",
+    "result": []
+  },
+  {
+    "postal": "L9R2W2",
+    "result": []
+  },
+  {
+    "postal": "L9R2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2C3",
+        "streetName": "SANTORINI GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "SANTORINI GARDEN, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6L7",
+    "result": []
+  },
+  {
+    "postal": "L9R3K0",
+    "result": []
+  },
+  {
+    "postal": "L9R3C1",
+    "result": []
+  },
+  {
+    "postal": "L9R6M9",
+    "result": []
+  },
+  {
+    "postal": "L9R4N9",
+    "result": []
+  },
+  {
+    "postal": "L9R3Y7",
+    "result": []
+  },
+  {
+    "postal": "L9R2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141849
+        ],
+        "postalCode": "L9R2A9",
+        "streetName": "YOUNG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "YOUNG ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6H5",
+    "result": []
+  },
+  {
+    "postal": "L9R8B4",
+    "result": []
+  },
+  {
+    "postal": "L9R4Z2",
+    "result": []
+  },
+  {
+    "postal": "L9R9J0",
+    "result": []
+  },
+  {
+    "postal": "L9R7V7",
+    "result": []
+  },
+  {
+    "postal": "L9R5T5",
+    "result": []
+  },
+  {
+    "postal": "L9R4W5",
+    "result": []
+  },
+  {
+    "postal": "L9R1T8",
+    "result": []
+  },
+  {
+    "postal": "L9R9G6",
+    "result": []
+  },
+  {
+    "postal": "L9R1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1H3",
+        "streetName": "NELSON",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "NELSON ST W, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R5R5",
+    "result": []
+  },
+  {
+    "postal": "L9R8A4",
+    "result": []
+  },
+  {
+    "postal": "L9R3T6",
+    "result": []
+  },
+  {
+    "postal": "L9R9W8",
+    "result": []
+  },
+  {
+    "postal": "L9R0N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0N3",
+        "streetName": "8TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "8TH AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0N3",
+        "streetName": "EIGHTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "EIGHTH AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0N3",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WALKER BLVD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7V0",
+    "result": []
+  },
+  {
+    "postal": "L9R8T5",
+    "result": []
+  },
+  {
+    "postal": "L9R5N3",
+    "result": []
+  },
+  {
+    "postal": "L9R5G9",
+    "result": []
+  },
+  {
+    "postal": "L9R3X8",
+    "result": []
+  },
+  {
+    "postal": "L9R9R3",
+    "result": []
+  },
+  {
+    "postal": "L9R2S1",
+    "result": []
+  },
+  {
+    "postal": "L9R9J7",
+    "result": []
+  },
+  {
+    "postal": "L9R2J3",
+    "result": []
+  },
+  {
+    "postal": "L9R3B6",
+    "result": []
+  },
+  {
+    "postal": "L9R8J0",
+    "result": []
+  },
+  {
+    "postal": "L9R7R4",
+    "result": []
+  },
+  {
+    "postal": "L9R8K8",
+    "result": []
+  },
+  {
+    "postal": "L9R4P3",
+    "result": []
+  },
+  {
+    "postal": "L9R0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0A2",
+        "streetName": "BUCHANAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BUCHANAN DR, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2G2",
+        "streetName": "89",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "89 HWY, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2G2",
+        "streetName": "89",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "89, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2G2",
+        "streetName": "HIGHWAY 89",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HIGHWAY 89, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R5Y9",
+    "result": []
+  },
+  {
+    "postal": "L9R7X0",
+    "result": []
+  },
+  {
+    "postal": "L9R7W3",
+    "result": []
+  },
+  {
+    "postal": "L9R7X5",
+    "result": []
+  },
+  {
+    "postal": "L9R5K6",
+    "result": []
+  },
+  {
+    "postal": "L9R5B6",
+    "result": []
+  },
+  {
+    "postal": "L9R7Z0",
+    "result": []
+  },
+  {
+    "postal": "L9R9H6",
+    "result": []
+  },
+  {
+    "postal": "L9R1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1B4",
+        "streetName": "YOUNG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "YOUNG ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R1A0",
+    "result": []
+  },
+  {
+    "postal": "L9R9A0",
+    "result": []
+  },
+  {
+    "postal": "L9R1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M6",
+        "streetName": "DONER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "DONER ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1M6",
+        "streetName": "MORROW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "MORROW DR, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R5H0",
+    "result": []
+  },
+  {
+    "postal": "L9R1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852,
+          10141853
+        ],
+        "postalCode": "L9R1K6",
+        "streetName": "BOYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BOYNE ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1K6",
+        "streetName": "GERRARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GERRARD ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853,
+          10141852
+        ],
+        "postalCode": "L9R1K6",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "QUEEN ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853,
+          10141852
+        ],
+        "postalCode": "L9R1K6",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST E, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R5E1",
+    "result": []
+  },
+  {
+    "postal": "L9R3T9",
+    "result": []
+  },
+  {
+    "postal": "L9R2M6",
+    "result": []
+  },
+  {
+    "postal": "L9R0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0G5",
+        "streetName": "GRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GRAY AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R0G5",
+        "streetName": "JAMES A MCCAGUE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "JAMES A MCCAGUE AVE, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R0Y2",
+    "result": []
+  },
+  {
+    "postal": "L9R2Y7",
+    "result": []
+  },
+  {
+    "postal": "L9R2J7",
+    "result": []
+  },
+  {
+    "postal": "L9R4K7",
+    "result": []
+  },
+  {
+    "postal": "L9R7P9",
+    "result": []
+  },
+  {
+    "postal": "L9R8X0",
+    "result": []
+  },
+  {
+    "postal": "L9R3X1",
+    "result": []
+  },
+  {
+    "postal": "L9R1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1R5",
+        "streetName": "GREEN BRIAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GREEN BRIAR RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1R5",
+        "streetName": "GREENBRIAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GREENBRIAR RD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6X6",
+    "result": []
+  },
+  {
+    "postal": "L9R0Y1",
+    "result": []
+  },
+  {
+    "postal": "L9R8G1",
+    "result": []
+  },
+  {
+    "postal": "L9R3J3",
+    "result": []
+  },
+  {
+    "postal": "L9R8C2",
+    "result": []
+  },
+  {
+    "postal": "L9R4X9",
+    "result": []
+  },
+  {
+    "postal": "L9R6G9",
+    "result": []
+  },
+  {
+    "postal": "L9R4M3",
+    "result": []
+  },
+  {
+    "postal": "L9R9P7",
+    "result": []
+  },
+  {
+    "postal": "L9R4E5",
+    "result": []
+  },
+  {
+    "postal": "L9R5K9",
+    "result": []
+  },
+  {
+    "postal": "L9R2V2",
+    "result": []
+  },
+  {
+    "postal": "L9R2N9",
+    "result": []
+  },
+  {
+    "postal": "L9R6L4",
+    "result": []
+  },
+  {
+    "postal": "L9R8E0",
+    "result": []
+  },
+  {
+    "postal": "L9R0N0",
+    "result": []
+  },
+  {
+    "postal": "L9R6R0",
+    "result": []
+  },
+  {
+    "postal": "L9R9C1",
+    "result": []
+  },
+  {
+    "postal": "L9R4H4",
+    "result": []
+  },
+  {
+    "postal": "L9R5W3",
+    "result": []
+  },
+  {
+    "postal": "L9R9N9",
+    "result": []
+  },
+  {
+    "postal": "L9R1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141855
+        ],
+        "postalCode": "L9R1V7",
+        "streetName": "10",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "BEETON",
+        "streetNameDisplayText": "10 SIDERD, BEETON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1V7",
+        "streetName": "10TH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "10TH LINE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852,
+          10141854
+        ],
+        "postalCode": "L9R1V7",
+        "streetName": "89",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "89 HWY, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1V7",
+        "streetName": "COUNTY ROAD 10",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "COUNTY ROAD 10, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141848
+        ],
+        "postalCode": "L9R1V7",
+        "streetName": "MULMUR-TOSORONTIO",
+        "streetDirectionId": null,
+        "streetTypeId": "TLINE",
+        "placeName": "EVERETT",
+        "streetNameDisplayText": "MULMUR-TOSORONTIO TLINE, EVERETT"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1V7",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST E, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8J1",
+    "result": []
+  },
+  {
+    "postal": "L9R5V9",
+    "result": []
+  },
+  {
+    "postal": "L9R2S8",
+    "result": []
+  },
+  {
+    "postal": "L9R6P0",
+    "result": []
+  },
+  {
+    "postal": "L9R4J8",
+    "result": []
+  },
+  {
+    "postal": "L9R0N1",
+    "result": []
+  },
+  {
+    "postal": "L9R1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1Y7",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST W, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7W5",
+    "result": []
+  },
+  {
+    "postal": "L9R3Z1",
+    "result": []
+  },
+  {
+    "postal": "L9R7M6",
+    "result": []
+  },
+  {
+    "postal": "L9R1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1W7",
+        "streetName": "DUFFERIN",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "DUFFERIN ST S, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1W7",
+        "streetName": "INDUSTRIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "INDUSTRIAL PKY, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1X1",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST E, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R0C1",
+        "streetName": "FALKNER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "FALKNER RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R0C1",
+        "streetName": "JONES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "JONES ST, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850,
+          10143666
+        ],
+        "postalCode": "L9R0C1",
+        "streetName": "WARMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WARMAN ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R4N3",
+    "result": []
+  },
+  {
+    "postal": "L9R4S8",
+    "result": []
+  },
+  {
+    "postal": "L9R1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141849,
+          10143666
+        ],
+        "postalCode": "L9R1H6",
+        "streetName": "KING",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "KING ST S, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666,
+          10141849
+        ],
+        "postalCode": "L9R1H6",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST W, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1H6",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "WELLINGTON ST W, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2Z4",
+    "result": []
+  },
+  {
+    "postal": "L9R7K3",
+    "result": []
+  },
+  {
+    "postal": "L9R8A2",
+    "result": []
+  },
+  {
+    "postal": "L9R6J1",
+    "result": []
+  },
+  {
+    "postal": "L9R5Z6",
+    "result": []
+  },
+  {
+    "postal": "L9R3Z0",
+    "result": []
+  },
+  {
+    "postal": "L9R8M0",
+    "result": []
+  },
+  {
+    "postal": "L9R1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1Z6",
+        "streetName": "8TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "8TH AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1Z6",
+        "streetName": "BROOKS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BROOKS CRT, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1Z6",
+        "streetName": "TUPPER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "TUPPER BLVD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8K7",
+    "result": []
+  },
+  {
+    "postal": "L9R1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N3",
+        "streetName": "ESSA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "ESSA RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N3",
+        "streetName": "HEYDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "HEYDON AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N3",
+        "streetName": "KING",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "KING ST N, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R9S2",
+    "result": []
+  },
+  {
+    "postal": "L9R2K1",
+    "result": []
+  },
+  {
+    "postal": "L9R1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1E8",
+        "streetName": "PARSONS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "PARSONS RD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R9B8",
+    "result": []
+  },
+  {
+    "postal": "L9R7X4",
+    "result": []
+  },
+  {
+    "postal": "L9R1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1Z4",
+        "streetName": "LA COSTA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "LA COSTA CRT, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2C7",
+        "streetName": "BELLA VISTA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BELLA VISTA TRAIL, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2E7",
+    "result": []
+  },
+  {
+    "postal": "L9R3R1",
+    "result": []
+  },
+  {
+    "postal": "L9R4K4",
+    "result": []
+  },
+  {
+    "postal": "L9R9G3",
+    "result": []
+  },
+  {
+    "postal": "L9R6C9",
+    "result": []
+  },
+  {
+    "postal": "L9R9H5",
+    "result": []
+  },
+  {
+    "postal": "L9R1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1P5",
+        "streetName": "DARLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "DARLING CRES, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1P5",
+        "streetName": "GRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "GRAY AVE, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2J5",
+    "result": []
+  },
+  {
+    "postal": "L9R4W6",
+    "result": []
+  },
+  {
+    "postal": "L9R8M8",
+    "result": []
+  },
+  {
+    "postal": "L9R6C5",
+    "result": []
+  },
+  {
+    "postal": "L9R9H0",
+    "result": []
+  },
+  {
+    "postal": "L9R1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1X8",
+        "streetName": "RIVERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "RIVERLEY LANE, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R3H4",
+    "result": []
+  },
+  {
+    "postal": "L9R4E7",
+    "result": []
+  },
+  {
+    "postal": "L9R8A0",
+    "result": []
+  },
+  {
+    "postal": "L9R1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R1Z7",
+        "streetName": "BRIAR HILL",
+        "streetDirectionId": null,
+        "streetTypeId": "HTS",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BRIAR HILL HTS, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7Z3",
+    "result": []
+  },
+  {
+    "postal": "L9R0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0L7",
+        "streetName": "KENNEDY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "KENNEDY BLVD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0L7",
+        "streetName": "MASON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "MASON DR, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R0L7",
+        "streetName": "TREETOPS",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "TREETOPS BLVD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2C6",
+        "streetName": "BELLA VISTA",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BELLA VISTA TRAIL, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6M3",
+    "result": []
+  },
+  {
+    "postal": "L9R2J1",
+    "result": []
+  },
+  {
+    "postal": "L9R3E3",
+    "result": []
+  },
+  {
+    "postal": "L9R6Z9",
+    "result": []
+  },
+  {
+    "postal": "L9R3M3",
+    "result": []
+  },
+  {
+    "postal": "L9R9B1",
+    "result": []
+  },
+  {
+    "postal": "L9R9J5",
+    "result": []
+  },
+  {
+    "postal": "L9R4V8",
+    "result": []
+  },
+  {
+    "postal": "L9R6W2",
+    "result": []
+  },
+  {
+    "postal": "L9R0V5",
+    "result": []
+  },
+  {
+    "postal": "L9R0Z8",
+    "result": []
+  },
+  {
+    "postal": "L9R5G2",
+    "result": []
+  },
+  {
+    "postal": "L9R4N4",
+    "result": []
+  },
+  {
+    "postal": "L9R8G7",
+    "result": []
+  },
+  {
+    "postal": "L9R8W1",
+    "result": []
+  },
+  {
+    "postal": "L9R1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141852
+        ],
+        "postalCode": "L9R1S6",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST E, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1S6",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST W, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R4E0",
+    "result": []
+  },
+  {
+    "postal": "L9R4L9",
+    "result": []
+  },
+  {
+    "postal": "L9R5Z9",
+    "result": []
+  },
+  {
+    "postal": "L9R5V3",
+    "result": []
+  },
+  {
+    "postal": "L9R4V2",
+    "result": []
+  },
+  {
+    "postal": "L9R7C0",
+    "result": []
+  },
+  {
+    "postal": "L9R6L0",
+    "result": []
+  },
+  {
+    "postal": "L9R1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1S9",
+        "streetName": "VICTORIA",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VICTORIA ST W, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7R6",
+    "result": []
+  },
+  {
+    "postal": "L9R7J0",
+    "result": []
+  },
+  {
+    "postal": "L9R5M0",
+    "result": []
+  },
+  {
+    "postal": "L9R2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2E5",
+        "streetName": "NAPA",
+        "streetDirectionId": null,
+        "streetTypeId": "RIDGE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "NAPA RIDGE, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7C7",
+    "result": []
+  },
+  {
+    "postal": "L9R5C0",
+    "result": []
+  },
+  {
+    "postal": "L9R8V9",
+    "result": []
+  },
+  {
+    "postal": "L9R7E0",
+    "result": []
+  },
+  {
+    "postal": "L9R6R4",
+    "result": []
+  },
+  {
+    "postal": "L9R3Z7",
+    "result": []
+  },
+  {
+    "postal": "L9R1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1J9",
+        "streetName": "ALBERT",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "ALBERT ST E, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1J9",
+        "streetName": "DOUGLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "DOUGLAS DR, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1J9",
+        "streetName": "MACKENZIE PIONEER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "MACKENZIE PIONEER RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1J9",
+        "streetName": "ROGERS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "ROGERS RD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R1J9",
+        "streetName": "TOTTENHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "TOTTENHAM RD, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7K6",
+    "result": []
+  },
+  {
+    "postal": "L9R7Y5",
+    "result": []
+  },
+  {
+    "postal": "L9R1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1B7",
+        "streetName": "COLBECK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "COLBECK CRES, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R4S9",
+    "result": []
+  },
+  {
+    "postal": "L9R9R9",
+    "result": []
+  },
+  {
+    "postal": "L9R5K7",
+    "result": []
+  },
+  {
+    "postal": "L9R6P2",
+    "result": []
+  },
+  {
+    "postal": "L9R2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141854
+        ],
+        "postalCode": "L9R2C5",
+        "streetName": "VIA AMICI",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "VIA AMICI, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2N0",
+    "result": []
+  },
+  {
+    "postal": "L9R1G0",
+    "result": []
+  },
+  {
+    "postal": "L9R4K5",
+    "result": []
+  },
+  {
+    "postal": "L9R9B5",
+    "result": []
+  },
+  {
+    "postal": "L9R6T5",
+    "result": []
+  },
+  {
+    "postal": "L9R1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666,
+          10141854
+        ],
+        "postalCode": "L9R1N8",
+        "streetName": "BOWERMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "BOWERMAN BLVD, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R1N8",
+        "streetName": "PREVIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "PREVIN CRT, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R0C0",
+    "result": []
+  },
+  {
+    "postal": "L9R0R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R0R9",
+        "streetName": "YOUNG",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "YOUNG ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R7L1",
+    "result": []
+  },
+  {
+    "postal": "L9R3Y8",
+    "result": []
+  },
+  {
+    "postal": "L9R7X9",
+    "result": []
+  },
+  {
+    "postal": "L9R1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1A7",
+        "streetName": "MCCAGUE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "MCCAGUE CRES, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R2T9",
+    "result": []
+  },
+  {
+    "postal": "L9R2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R2E6",
+        "streetName": "SHEPHARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "SHEPHARD AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10143666
+        ],
+        "postalCode": "L9R2E6",
+        "streetName": "STONEHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "STONEHAM ST, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R8Y1",
+    "result": []
+  },
+  {
+    "postal": "L9R0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R0J5",
+        "streetName": "JOHN W TAYLOR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "JOHN W TAYLOR AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141853
+        ],
+        "postalCode": "L9R0J5",
+        "streetName": "PADDISON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "PADDISON PL, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R4J1",
+    "result": []
+  },
+  {
+    "postal": "L9R1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1A5",
+        "streetName": "8TH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "8TH AVE, ALLISTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 99,
+            "name": "Simcoe—Grey"
+          }
+        ],
+        "pollDivisionIds": [
+          10141850
+        ],
+        "postalCode": "L9R1A5",
+        "streetName": "STOREY",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "ALLISTON",
+        "streetNameDisplayText": "STOREY GATE, ALLISTON"
+      }
+    ]
+  },
+  {
+    "postal": "L9R6Z6",
+    "result": []
+  },
+  {
+    "postal": "L9R5K4",
+    "result": []
+  },
+  {
+    "postal": "L9R7R9",
+    "result": []
+  },
+  {
+    "postal": "L9R6G4",
+    "result": []
   }
 ]

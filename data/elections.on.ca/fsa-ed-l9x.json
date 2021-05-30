@@ -5302,5 +5302,3161 @@
         "streetNameDisplayText": "PEACHER ST, MINESING"
       }
     ]
+  },
+  {
+    "postal": "L9X4C5",
+    "result": []
+  },
+  {
+    "postal": "L9X7E4",
+    "result": []
+  },
+  {
+    "postal": "L9X1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1R9",
+        "streetName": "STORY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "STORY RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2P0",
+    "result": []
+  },
+  {
+    "postal": "L9X5S4",
+    "result": []
+  },
+  {
+    "postal": "L9X5K8",
+    "result": []
+  },
+  {
+    "postal": "L9X8K4",
+    "result": []
+  },
+  {
+    "postal": "L9X7C1",
+    "result": []
+  },
+  {
+    "postal": "L9X7K9",
+    "result": []
+  },
+  {
+    "postal": "L9X5J1",
+    "result": []
+  },
+  {
+    "postal": "L9X4P9",
+    "result": []
+  },
+  {
+    "postal": "L9X0N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0N2",
+        "streetName": "BAYFIELD",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "BAYFIELD ST N, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2G6",
+    "result": []
+  },
+  {
+    "postal": "L9X6P4",
+    "result": []
+  },
+  {
+    "postal": "L9X3J0",
+    "result": []
+  },
+  {
+    "postal": "L9X8X4",
+    "result": []
+  },
+  {
+    "postal": "L9X1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136922
+        ],
+        "postalCode": "L9X1Y3",
+        "streetName": "OLD SECOND",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "OLD SECOND N, SPRINGWATER"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1Y3",
+        "streetName": "OLD SECOND",
+        "streetDirectionId": "S",
+        "streetTypeId": null,
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "OLD SECOND S, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1A8",
+        "streetName": "NURSERY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "NURSERY RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X6Y5",
+    "result": []
+  },
+  {
+    "postal": "L9X0J6",
+    "result": []
+  },
+  {
+    "postal": "L9X2C9",
+    "result": []
+  },
+  {
+    "postal": "L9X8J6",
+    "result": []
+  },
+  {
+    "postal": "L9X8T4",
+    "result": []
+  },
+  {
+    "postal": "L9X1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136927,
+          10136925
+        ],
+        "postalCode": "L9X1P7",
+        "streetName": "OLD SECOND",
+        "streetDirectionId": "S",
+        "streetTypeId": null,
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "OLD SECOND S, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9V9",
+    "result": []
+  },
+  {
+    "postal": "L9X0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0M1",
+        "streetName": "BEAVER",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "BEAVER LANE, MIDHURST"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0M1",
+        "streetName": "COUNTY 27",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "COUNTY 27 RD, MIDHURST"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0M1",
+        "streetName": "COUNTY ROAD 27",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "COUNTY ROAD 27 N, MIDHURST"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136894,
+          10136923
+        ],
+        "postalCode": "L9X0M1",
+        "streetName": "SIMCOE COUNTY RD 27",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "SIMCOE COUNTY RD 27, MIDHURST"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0M1",
+        "streetName": "SIMCOE COUNTY ROAD 27",
+        "streetDirectionId": "N",
+        "streetTypeId": null,
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "SIMCOE COUNTY ROAD 27 N, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X6K5",
+    "result": []
+  },
+  {
+    "postal": "L9X2T5",
+    "result": []
+  },
+  {
+    "postal": "L9X7E9",
+    "result": []
+  },
+  {
+    "postal": "L9X5K5",
+    "result": []
+  },
+  {
+    "postal": "L9X3R5",
+    "result": []
+  },
+  {
+    "postal": "L9X5B1",
+    "result": []
+  },
+  {
+    "postal": "L9X2P1",
+    "result": []
+  },
+  {
+    "postal": "L9X7L0",
+    "result": []
+  },
+  {
+    "postal": "L9X3L6",
+    "result": []
+  },
+  {
+    "postal": "L9X2A4",
+    "result": []
+  },
+  {
+    "postal": "L9X8S0",
+    "result": []
+  },
+  {
+    "postal": "L9X3L5",
+    "result": []
+  },
+  {
+    "postal": "L9X2R5",
+    "result": []
+  },
+  {
+    "postal": "L9X9T6",
+    "result": []
+  },
+  {
+    "postal": "L9X8Z2",
+    "result": []
+  },
+  {
+    "postal": "L9X0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0E9",
+        "streetName": "ANNE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "ANNE ST N, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8C0",
+    "result": []
+  },
+  {
+    "postal": "L9X3K7",
+    "result": []
+  },
+  {
+    "postal": "L9X2H3",
+    "result": []
+  },
+  {
+    "postal": "L9X2Y6",
+    "result": []
+  },
+  {
+    "postal": "L9X7M2",
+    "result": []
+  },
+  {
+    "postal": "L9X6E2",
+    "result": []
+  },
+  {
+    "postal": "L9X3R0",
+    "result": []
+  },
+  {
+    "postal": "L9X4J7",
+    "result": []
+  },
+  {
+    "postal": "L9X6N8",
+    "result": []
+  },
+  {
+    "postal": "L9X0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0J7",
+        "streetName": "MILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "MILLS CIR, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7P2",
+    "result": []
+  },
+  {
+    "postal": "L9X3T8",
+    "result": []
+  },
+  {
+    "postal": "L9X3S7",
+    "result": []
+  },
+  {
+    "postal": "L9X2S7",
+    "result": []
+  },
+  {
+    "postal": "L9X1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1S4",
+        "streetName": "WALT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "WALT RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1L8",
+        "streetName": "FORBES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "FORBES RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8E9",
+    "result": []
+  },
+  {
+    "postal": "L9X0T0",
+    "result": []
+  },
+  {
+    "postal": "L9X3G4",
+    "result": []
+  },
+  {
+    "postal": "L9X0V6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0V6",
+        "streetName": "ANNE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "ANNE ST N, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X4W1",
+    "result": []
+  },
+  {
+    "postal": "L9X9G9",
+    "result": []
+  },
+  {
+    "postal": "L9X5W4",
+    "result": []
+  },
+  {
+    "postal": "L9X7M8",
+    "result": []
+  },
+  {
+    "postal": "L9X2C2",
+    "result": []
+  },
+  {
+    "postal": "L9X4Y2",
+    "result": []
+  },
+  {
+    "postal": "L9X9X9",
+    "result": []
+  },
+  {
+    "postal": "L9X3T0",
+    "result": []
+  },
+  {
+    "postal": "L9X4T8",
+    "result": []
+  },
+  {
+    "postal": "L9X9C4",
+    "result": []
+  },
+  {
+    "postal": "L9X8P2",
+    "result": []
+  },
+  {
+    "postal": "L9X0Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0Y8",
+        "streetName": "GOLF COURSE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "GOLF COURSE RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136922
+        ],
+        "postalCode": "L9X1G8",
+        "streetName": "RAINBOW VALLEY",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "RAINBOW VALLEY RD W, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2T6",
+    "result": []
+  },
+  {
+    "postal": "L9X1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136927
+        ],
+        "postalCode": "L9X1N7",
+        "streetName": "LITTLE LAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "LITTLE LAKE LANE, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X0L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136926,
+          10136927
+        ],
+        "postalCode": "L9X0L6",
+        "streetName": "FINLAY MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "FINLAY MILL RD, MIDHURST"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136926
+        ],
+        "postalCode": "L9X0L6",
+        "streetName": "VERNAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "VERNAR DR, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9V4",
+    "result": []
+  },
+  {
+    "postal": "L9X2V1",
+    "result": []
+  },
+  {
+    "postal": "L9X3L8",
+    "result": []
+  },
+  {
+    "postal": "L9X2R8",
+    "result": []
+  },
+  {
+    "postal": "L9X5C1",
+    "result": []
+  },
+  {
+    "postal": "L9X4W3",
+    "result": []
+  },
+  {
+    "postal": "L9X5X5",
+    "result": []
+  },
+  {
+    "postal": "L9X9W5",
+    "result": []
+  },
+  {
+    "postal": "L9X3C4",
+    "result": []
+  },
+  {
+    "postal": "L9X1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1N6",
+        "streetName": "26",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "26 HWY, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9S9",
+    "result": []
+  },
+  {
+    "postal": "L9X9M2",
+    "result": []
+  },
+  {
+    "postal": "L9X8Y4",
+    "result": []
+  },
+  {
+    "postal": "L9X7S4",
+    "result": []
+  },
+  {
+    "postal": "L9X0K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0K6",
+        "streetName": "GILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "GILL RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1W3",
+        "streetName": "SUNNIDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "SUNNIDALE RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7R2",
+    "result": []
+  },
+  {
+    "postal": "L9X2Y9",
+    "result": []
+  },
+  {
+    "postal": "L9X7G4",
+    "result": []
+  },
+  {
+    "postal": "L9X7E5",
+    "result": []
+  },
+  {
+    "postal": "L9X9G2",
+    "result": []
+  },
+  {
+    "postal": "L9X7Y8",
+    "result": []
+  },
+  {
+    "postal": "L9X9V2",
+    "result": []
+  },
+  {
+    "postal": "L9X3T7",
+    "result": []
+  },
+  {
+    "postal": "L9X1H0",
+    "result": []
+  },
+  {
+    "postal": "L9X1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1M7",
+        "streetName": "GILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "GILL RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8V4",
+    "result": []
+  },
+  {
+    "postal": "L9X4M2",
+    "result": []
+  },
+  {
+    "postal": "L9X0X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0X2",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "WILSON DR, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X5Z4",
+    "result": []
+  },
+  {
+    "postal": "L9X6V4",
+    "result": []
+  },
+  {
+    "postal": "L9X8J3",
+    "result": []
+  },
+  {
+    "postal": "L9X8E5",
+    "result": []
+  },
+  {
+    "postal": "L9X2V5",
+    "result": []
+  },
+  {
+    "postal": "L9X7S1",
+    "result": []
+  },
+  {
+    "postal": "L9X6V3",
+    "result": []
+  },
+  {
+    "postal": "L9X2L8",
+    "result": []
+  },
+  {
+    "postal": "L9X9V0",
+    "result": []
+  },
+  {
+    "postal": "L9X3M4",
+    "result": []
+  },
+  {
+    "postal": "L9X5B2",
+    "result": []
+  },
+  {
+    "postal": "L9X3X5",
+    "result": []
+  },
+  {
+    "postal": "L9X9R7",
+    "result": []
+  },
+  {
+    "postal": "L9X2X2",
+    "result": []
+  },
+  {
+    "postal": "L9X8Z6",
+    "result": []
+  },
+  {
+    "postal": "L9X4R4",
+    "result": []
+  },
+  {
+    "postal": "L9X2R1",
+    "result": []
+  },
+  {
+    "postal": "L9X3R8",
+    "result": []
+  },
+  {
+    "postal": "L9X9A1",
+    "result": []
+  },
+  {
+    "postal": "L9X8L3",
+    "result": []
+  },
+  {
+    "postal": "L9X9K4",
+    "result": []
+  },
+  {
+    "postal": "L9X9S3",
+    "result": []
+  },
+  {
+    "postal": "L9X8N7",
+    "result": []
+  },
+  {
+    "postal": "L9X1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1C6",
+        "streetName": "GEORGE JOHNSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "GEORGE JOHNSTON RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X3Z8",
+    "result": []
+  },
+  {
+    "postal": "L9X8G5",
+    "result": []
+  },
+  {
+    "postal": "L9X5R6",
+    "result": []
+  },
+  {
+    "postal": "L9X2W3",
+    "result": []
+  },
+  {
+    "postal": "L9X0A0",
+    "result": []
+  },
+  {
+    "postal": "L9X6P8",
+    "result": []
+  },
+  {
+    "postal": "L9X8N9",
+    "result": []
+  },
+  {
+    "postal": "L9X0S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S9",
+        "streetName": "TRAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "TRAIL BLVD, SPRINGWATER"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S9",
+        "streetName": "TRAVERS",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "TRAVERS GATE, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S9",
+        "streetName": "TRAVERS",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "TRAVERS GATE, SPRINGWATER"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S9",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "WALKER LANE, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S9",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "WALKER LANE, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8G0",
+    "result": []
+  },
+  {
+    "postal": "L9X8C7",
+    "result": []
+  },
+  {
+    "postal": "L9X5X8",
+    "result": []
+  },
+  {
+    "postal": "L9X7E8",
+    "result": []
+  },
+  {
+    "postal": "L9X6X2",
+    "result": []
+  },
+  {
+    "postal": "L9X4C6",
+    "result": []
+  },
+  {
+    "postal": "L9X7H2",
+    "result": []
+  },
+  {
+    "postal": "L9X4R0",
+    "result": []
+  },
+  {
+    "postal": "L9X6J3",
+    "result": []
+  },
+  {
+    "postal": "L9X4B8",
+    "result": []
+  },
+  {
+    "postal": "L9X6H6",
+    "result": []
+  },
+  {
+    "postal": "L9X0S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S1",
+        "streetName": "ALANA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "ALANA DR, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0S1",
+        "streetName": "ALANA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "ALANA DR, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X4E3",
+    "result": []
+  },
+  {
+    "postal": "L9X7K2",
+    "result": []
+  },
+  {
+    "postal": "L9X7T8",
+    "result": []
+  },
+  {
+    "postal": "L9X0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136926
+        ],
+        "postalCode": "L9X0J9",
+        "streetName": "BRIDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "BRIDLE TRAIL, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X5J9",
+    "result": []
+  },
+  {
+    "postal": "L9X5S7",
+    "result": []
+  },
+  {
+    "postal": "L9X0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0G9",
+        "streetName": "26",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "26 HWY, MINESING"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0G9",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "GEORGE PKY, MINESING"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0G9",
+        "streetName": "NICHOLSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "NICHOLSON CRES, MINESING"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0G9",
+        "streetName": "PENNY'S",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "PENNY'S GATE, MINESING"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0G9",
+        "streetName": "PRIEST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "PRIEST AVE, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X3J9",
+    "result": []
+  },
+  {
+    "postal": "L9X2Y0",
+    "result": []
+  },
+  {
+    "postal": "L9X8X5",
+    "result": []
+  },
+  {
+    "postal": "L9X2M7",
+    "result": []
+  },
+  {
+    "postal": "L9X9Z3",
+    "result": []
+  },
+  {
+    "postal": "L9X7W2",
+    "result": []
+  },
+  {
+    "postal": "L9X3W0",
+    "result": []
+  },
+  {
+    "postal": "L9X3M1",
+    "result": []
+  },
+  {
+    "postal": "L9X6A5",
+    "result": []
+  },
+  {
+    "postal": "L9X2M9",
+    "result": []
+  },
+  {
+    "postal": "L9X5C3",
+    "result": []
+  },
+  {
+    "postal": "L9X0Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0Y6",
+        "streetName": "GOLF COURSE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "GOLF COURSE RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9H7",
+    "result": []
+  },
+  {
+    "postal": "L9X3L0",
+    "result": []
+  },
+  {
+    "postal": "L9X5N9",
+    "result": []
+  },
+  {
+    "postal": "L9X5E3",
+    "result": []
+  },
+  {
+    "postal": "L9X7M9",
+    "result": []
+  },
+  {
+    "postal": "L9X8N2",
+    "result": []
+  },
+  {
+    "postal": "L9X9H3",
+    "result": []
+  },
+  {
+    "postal": "L9X2K8",
+    "result": []
+  },
+  {
+    "postal": "L9X9L0",
+    "result": []
+  },
+  {
+    "postal": "L9X6L9",
+    "result": []
+  },
+  {
+    "postal": "L9X6A8",
+    "result": []
+  },
+  {
+    "postal": "L9X2K6",
+    "result": []
+  },
+  {
+    "postal": "L9X2M0",
+    "result": []
+  },
+  {
+    "postal": "L9X5X7",
+    "result": []
+  },
+  {
+    "postal": "L9X0M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136926
+        ],
+        "postalCode": "L9X0M7",
+        "streetName": "HOLLOWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "HOLLOWAY LANE, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7A6",
+    "result": []
+  },
+  {
+    "postal": "L9X3C5",
+    "result": []
+  },
+  {
+    "postal": "L9X2P2",
+    "result": []
+  },
+  {
+    "postal": "L9X9N4",
+    "result": []
+  },
+  {
+    "postal": "L9X3M9",
+    "result": []
+  },
+  {
+    "postal": "L9X8K6",
+    "result": []
+  },
+  {
+    "postal": "L9X1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1L2",
+        "streetName": "BERTRAM INDUSTRIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "BERTRAM INDUSTRIAL PKY, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2Z9",
+    "result": []
+  },
+  {
+    "postal": "L9X2S2",
+    "result": []
+  },
+  {
+    "postal": "L9X2W2",
+    "result": []
+  },
+  {
+    "postal": "L9X2C3",
+    "result": []
+  },
+  {
+    "postal": "L9X6L7",
+    "result": []
+  },
+  {
+    "postal": "L9X3K0",
+    "result": []
+  },
+  {
+    "postal": "L9X3C1",
+    "result": []
+  },
+  {
+    "postal": "L9X6M9",
+    "result": []
+  },
+  {
+    "postal": "L9X4N9",
+    "result": []
+  },
+  {
+    "postal": "L9X3Y7",
+    "result": []
+  },
+  {
+    "postal": "L9X2A9",
+    "result": []
+  },
+  {
+    "postal": "L9X6H5",
+    "result": []
+  },
+  {
+    "postal": "L9X8B4",
+    "result": []
+  },
+  {
+    "postal": "L9X4Z2",
+    "result": []
+  },
+  {
+    "postal": "L9X9J0",
+    "result": []
+  },
+  {
+    "postal": "L9X7V7",
+    "result": []
+  },
+  {
+    "postal": "L9X5T5",
+    "result": []
+  },
+  {
+    "postal": "L9X4W5",
+    "result": []
+  },
+  {
+    "postal": "L9X1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1T8",
+        "streetName": "GEORGE JOHNSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "GEORGE JOHNSTON RD, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1T8",
+        "streetName": "GEORGE JOHNSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "GEORGE JOHNSTON RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9G6",
+    "result": []
+  },
+  {
+    "postal": "L9X1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1H3",
+        "streetName": "RICHARDSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "RICHARDSON RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X5R5",
+    "result": []
+  },
+  {
+    "postal": "L9X8A4",
+    "result": []
+  },
+  {
+    "postal": "L9X3T6",
+    "result": []
+  },
+  {
+    "postal": "L9X9W8",
+    "result": []
+  },
+  {
+    "postal": "L9X0N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0N3",
+        "streetName": "CURRIE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "CURRIE DR, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7V0",
+    "result": []
+  },
+  {
+    "postal": "L9X8T5",
+    "result": []
+  },
+  {
+    "postal": "L9X5N3",
+    "result": []
+  },
+  {
+    "postal": "L9X5G9",
+    "result": []
+  },
+  {
+    "postal": "L9X3X8",
+    "result": []
+  },
+  {
+    "postal": "L9X9R3",
+    "result": []
+  },
+  {
+    "postal": "L9X2S1",
+    "result": []
+  },
+  {
+    "postal": "L9X9J7",
+    "result": []
+  },
+  {
+    "postal": "L9X2J3",
+    "result": []
+  },
+  {
+    "postal": "L9X3B6",
+    "result": []
+  },
+  {
+    "postal": "L9X8J0",
+    "result": []
+  },
+  {
+    "postal": "L9X7R4",
+    "result": []
+  },
+  {
+    "postal": "L9X8K8",
+    "result": []
+  },
+  {
+    "postal": "L9X4P3",
+    "result": []
+  },
+  {
+    "postal": "L9X0A2",
+    "result": []
+  },
+  {
+    "postal": "L9X2G2",
+    "result": []
+  },
+  {
+    "postal": "L9X5Y9",
+    "result": []
+  },
+  {
+    "postal": "L9X7X0",
+    "result": []
+  },
+  {
+    "postal": "L9X7W3",
+    "result": []
+  },
+  {
+    "postal": "L9X7X5",
+    "result": []
+  },
+  {
+    "postal": "L9X5K6",
+    "result": []
+  },
+  {
+    "postal": "L9X5B6",
+    "result": []
+  },
+  {
+    "postal": "L9X7Z0",
+    "result": []
+  },
+  {
+    "postal": "L9X9H6",
+    "result": []
+  },
+  {
+    "postal": "L9X1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136922
+        ],
+        "postalCode": "L9X1B4",
+        "streetName": "CROSSLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "CROSSLAND RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X1A0",
+    "result": []
+  },
+  {
+    "postal": "L9X9A0",
+    "result": []
+  },
+  {
+    "postal": "L9X1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1M6",
+        "streetName": "GILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "GILL RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X5H0",
+    "result": []
+  },
+  {
+    "postal": "L9X1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1K6",
+        "streetName": "SNOW VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "SNOW VALLEY RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X5E1",
+    "result": []
+  },
+  {
+    "postal": "L9X3T9",
+    "result": []
+  },
+  {
+    "postal": "L9X2M6",
+    "result": []
+  },
+  {
+    "postal": "L9X0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0G5",
+        "streetName": "26",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "26 HWY, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X0Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0Y2",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "WILSON DR, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2Y7",
+    "result": []
+  },
+  {
+    "postal": "L9X2J7",
+    "result": []
+  },
+  {
+    "postal": "L9X4K7",
+    "result": []
+  },
+  {
+    "postal": "L9X7P9",
+    "result": []
+  },
+  {
+    "postal": "L9X8X0",
+    "result": []
+  },
+  {
+    "postal": "L9X3X1",
+    "result": []
+  },
+  {
+    "postal": "L9X1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1R5",
+        "streetName": "RUSSELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "RUSSELL RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X6X6",
+    "result": []
+  },
+  {
+    "postal": "L9X0Y1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0Y1",
+        "streetName": "WILSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "WILSON DR, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8G1",
+    "result": []
+  },
+  {
+    "postal": "L9X3J3",
+    "result": []
+  },
+  {
+    "postal": "L9X8C2",
+    "result": []
+  },
+  {
+    "postal": "L9X4X9",
+    "result": []
+  },
+  {
+    "postal": "L9X6G9",
+    "result": []
+  },
+  {
+    "postal": "L9X4M3",
+    "result": []
+  },
+  {
+    "postal": "L9X9P7",
+    "result": []
+  },
+  {
+    "postal": "L9X4E5",
+    "result": []
+  },
+  {
+    "postal": "L9X5K9",
+    "result": []
+  },
+  {
+    "postal": "L9X2V2",
+    "result": []
+  },
+  {
+    "postal": "L9X2N9",
+    "result": []
+  },
+  {
+    "postal": "L9X6L4",
+    "result": []
+  },
+  {
+    "postal": "L9X8E0",
+    "result": []
+  },
+  {
+    "postal": "L9X0N0",
+    "result": []
+  },
+  {
+    "postal": "L9X6R0",
+    "result": []
+  },
+  {
+    "postal": "L9X9C1",
+    "result": []
+  },
+  {
+    "postal": "L9X4H4",
+    "result": []
+  },
+  {
+    "postal": "L9X5W3",
+    "result": []
+  },
+  {
+    "postal": "L9X9N9",
+    "result": []
+  },
+  {
+    "postal": "L9X1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1V7",
+        "streetName": "SEADON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "SEADON RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8J1",
+    "result": []
+  },
+  {
+    "postal": "L9X5V9",
+    "result": []
+  },
+  {
+    "postal": "L9X2S8",
+    "result": []
+  },
+  {
+    "postal": "L9X6P0",
+    "result": []
+  },
+  {
+    "postal": "L9X4J8",
+    "result": []
+  },
+  {
+    "postal": "L9X0N1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136926
+        ],
+        "postalCode": "L9X0N1",
+        "streetName": "BAYFIELD",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "BAYFIELD ST N, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X1Y7",
+    "result": []
+  },
+  {
+    "postal": "L9X7W5",
+    "result": []
+  },
+  {
+    "postal": "L9X3Z1",
+    "result": []
+  },
+  {
+    "postal": "L9X7M6",
+    "result": []
+  },
+  {
+    "postal": "L9X1W7",
+    "result": []
+  },
+  {
+    "postal": "L9X1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136927
+        ],
+        "postalCode": "L9X1X1",
+        "streetName": "ST VINCENT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "ST VINCENT ST, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136927
+        ],
+        "postalCode": "L9X1X1",
+        "streetName": "ST VINCENT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "ST VINCENT ST, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0C1",
+        "streetName": "RONALD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "RONALD RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X4N3",
+    "result": []
+  },
+  {
+    "postal": "L9X4S8",
+    "result": []
+  },
+  {
+    "postal": "L9X1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1H6",
+        "streetName": "VESPRA VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "VESPRA VALLEY RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2Z4",
+    "result": []
+  },
+  {
+    "postal": "L9X7K3",
+    "result": []
+  },
+  {
+    "postal": "L9X8A2",
+    "result": []
+  },
+  {
+    "postal": "L9X6J1",
+    "result": []
+  },
+  {
+    "postal": "L9X5Z6",
+    "result": []
+  },
+  {
+    "postal": "L9X3Z0",
+    "result": []
+  },
+  {
+    "postal": "L9X8M0",
+    "result": []
+  },
+  {
+    "postal": "L9X1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136894
+        ],
+        "postalCode": "L9X1Z6",
+        "streetName": "PENETANGGUISHENE ROAD",
+        "streetDirectionId": "NE",
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "PENETANGGUISHENE ROAD RD NE, SPRINGWATER"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136916
+        ],
+        "postalCode": "L9X1Z6",
+        "streetName": "PENETANGUISHENE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "PENETANGUISHENE RD, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136916
+        ],
+        "postalCode": "L9X1Z6",
+        "streetName": "PENETANGUISHENE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "PENETANGUISHENE RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X8K7",
+    "result": []
+  },
+  {
+    "postal": "L9X1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1N3",
+        "streetName": "HILLVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "HILLVIEW CRES, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9S2",
+    "result": []
+  },
+  {
+    "postal": "L9X2K1",
+    "result": []
+  },
+  {
+    "postal": "L9X1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1E8",
+        "streetName": "HORSESHOE VALLEY",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "HORSESHOE VALLEY RD W, MINESING"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1E8",
+        "streetName": "HORSESHOE VALLEY ROAD WEST",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "HORSESHOE VALLEY ROAD WEST RD W, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X9B8",
+    "result": []
+  },
+  {
+    "postal": "L9X7X4",
+    "result": []
+  },
+  {
+    "postal": "L9X1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136915
+        ],
+        "postalCode": "L9X1Z4",
+        "streetName": "PENETANGUISHENE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "PENETANGUISHENE RD, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136915
+        ],
+        "postalCode": "L9X1Z4",
+        "streetName": "PENETANGUISHENE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "PENETANGUISHENE RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2C7",
+    "result": []
+  },
+  {
+    "postal": "L9X2E7",
+    "result": []
+  },
+  {
+    "postal": "L9X3R1",
+    "result": []
+  },
+  {
+    "postal": "L9X4K4",
+    "result": []
+  },
+  {
+    "postal": "L9X9G3",
+    "result": []
+  },
+  {
+    "postal": "L9X6C9",
+    "result": []
+  },
+  {
+    "postal": "L9X9H5",
+    "result": []
+  },
+  {
+    "postal": "L9X1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136927
+        ],
+        "postalCode": "L9X1P5",
+        "streetName": "OLD SECOND",
+        "streetDirectionId": "S",
+        "streetTypeId": null,
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "OLD SECOND S, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2J5",
+    "result": []
+  },
+  {
+    "postal": "L9X4W6",
+    "result": []
+  },
+  {
+    "postal": "L9X8M8",
+    "result": []
+  },
+  {
+    "postal": "L9X6C5",
+    "result": []
+  },
+  {
+    "postal": "L9X9H0",
+    "result": []
+  },
+  {
+    "postal": "L9X1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X1X8",
+        "streetName": "FORBES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "FORBES RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X3H4",
+    "result": []
+  },
+  {
+    "postal": "L9X4E7",
+    "result": []
+  },
+  {
+    "postal": "L9X8A0",
+    "result": []
+  },
+  {
+    "postal": "L9X1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136916
+        ],
+        "postalCode": "L9X1Z7",
+        "streetName": "PENETANGUISHENE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "PENETANGUISHENE RD, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136916
+        ],
+        "postalCode": "L9X1Z7",
+        "streetName": "PENETANGUISHENE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "PENETANGUISHENE RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7Z3",
+    "result": []
+  },
+  {
+    "postal": "L9X0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136923
+        ],
+        "postalCode": "L9X0L7",
+        "streetName": "RUSSELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MIDHURST",
+        "streetNameDisplayText": "RUSSELL RD, MIDHURST"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2C6",
+    "result": []
+  },
+  {
+    "postal": "L9X6M3",
+    "result": []
+  },
+  {
+    "postal": "L9X2J1",
+    "result": []
+  },
+  {
+    "postal": "L9X3E3",
+    "result": []
+  },
+  {
+    "postal": "L9X6Z9",
+    "result": []
+  },
+  {
+    "postal": "L9X3M3",
+    "result": []
+  },
+  {
+    "postal": "L9X9B1",
+    "result": []
+  },
+  {
+    "postal": "L9X9J5",
+    "result": []
+  },
+  {
+    "postal": "L9X4V8",
+    "result": []
+  },
+  {
+    "postal": "L9X6W2",
+    "result": []
+  },
+  {
+    "postal": "L9X0V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0V5",
+        "streetName": "SNOW VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "SNOW VALLEY RD, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X0V5",
+        "streetName": "SNOW VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "SNOW VALLEY RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X0Z8",
+    "result": []
+  },
+  {
+    "postal": "L9X5G2",
+    "result": []
+  },
+  {
+    "postal": "L9X4N4",
+    "result": []
+  },
+  {
+    "postal": "L9X8G7",
+    "result": []
+  },
+  {
+    "postal": "L9X8W1",
+    "result": []
+  },
+  {
+    "postal": "L9X1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1S6",
+        "streetName": "ANNE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "BARRIE",
+        "streetNameDisplayText": "ANNE ST N, BARRIE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1S6",
+        "streetName": "ANNE",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "ANNE ST N, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X4E0",
+    "result": []
+  },
+  {
+    "postal": "L9X4L9",
+    "result": []
+  },
+  {
+    "postal": "L9X5Z9",
+    "result": []
+  },
+  {
+    "postal": "L9X5V3",
+    "result": []
+  },
+  {
+    "postal": "L9X4V2",
+    "result": []
+  },
+  {
+    "postal": "L9X7C0",
+    "result": []
+  },
+  {
+    "postal": "L9X6L0",
+    "result": []
+  },
+  {
+    "postal": "L9X1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1S9",
+        "streetName": "BARRIE HILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "BARRIE HILL RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7R6",
+    "result": []
+  },
+  {
+    "postal": "L9X7J0",
+    "result": []
+  },
+  {
+    "postal": "L9X5M0",
+    "result": []
+  },
+  {
+    "postal": "L9X2E5",
+    "result": []
+  },
+  {
+    "postal": "L9X7C7",
+    "result": []
+  },
+  {
+    "postal": "L9X5C0",
+    "result": []
+  },
+  {
+    "postal": "L9X8V9",
+    "result": []
+  },
+  {
+    "postal": "L9X7E0",
+    "result": []
+  },
+  {
+    "postal": "L9X6R4",
+    "result": []
+  },
+  {
+    "postal": "L9X3Z7",
+    "result": []
+  },
+  {
+    "postal": "L9X1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1J9",
+        "streetName": "SNOW VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "SNOW VALLEY RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7K6",
+    "result": []
+  },
+  {
+    "postal": "L9X7Y5",
+    "result": []
+  },
+  {
+    "postal": "L9X1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X1B7",
+        "streetName": "FRALICK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "FRALICK RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X4S9",
+    "result": []
+  },
+  {
+    "postal": "L9X9R9",
+    "result": []
+  },
+  {
+    "postal": "L9X5K7",
+    "result": []
+  },
+  {
+    "postal": "L9X6P2",
+    "result": []
+  },
+  {
+    "postal": "L9X2C5",
+    "result": []
+  },
+  {
+    "postal": "L9X2N0",
+    "result": []
+  },
+  {
+    "postal": "L9X1G0",
+    "result": []
+  },
+  {
+    "postal": "L9X4K5",
+    "result": []
+  },
+  {
+    "postal": "L9X9B5",
+    "result": []
+  },
+  {
+    "postal": "L9X6T5",
+    "result": []
+  },
+  {
+    "postal": "L9X1N8",
+    "result": []
+  },
+  {
+    "postal": "L9X0C0",
+    "result": []
+  },
+  {
+    "postal": "L9X0R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136924
+        ],
+        "postalCode": "L9X0R9",
+        "streetName": "SUNNIDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SPRINGWATER",
+        "streetNameDisplayText": "SUNNIDALE RD, SPRINGWATER"
+      }
+    ]
+  },
+  {
+    "postal": "L9X7L1",
+    "result": []
+  },
+  {
+    "postal": "L9X3Y8",
+    "result": []
+  },
+  {
+    "postal": "L9X7X9",
+    "result": []
+  },
+  {
+    "postal": "L9X1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1A7",
+        "streetName": "VESPRA VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "VESPRA VALLEY RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X2T9",
+    "result": []
+  },
+  {
+    "postal": "L9X2E6",
+    "result": []
+  },
+  {
+    "postal": "L9X8Y1",
+    "result": []
+  },
+  {
+    "postal": "L9X0J5",
+    "result": []
+  },
+  {
+    "postal": "L9X4J1",
+    "result": []
+  },
+  {
+    "postal": "L9X1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 5,
+            "name": "Barrie—Springwater—Oro-Medonte"
+          }
+        ],
+        "pollDivisionIds": [
+          10136925
+        ],
+        "postalCode": "L9X1A5",
+        "streetName": "VESPRA VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MINESING",
+        "streetNameDisplayText": "VESPRA VALLEY RD, MINESING"
+      }
+    ]
+  },
+  {
+    "postal": "L9X6Z6",
+    "result": []
+  },
+  {
+    "postal": "L9X5K4",
+    "result": []
+  },
+  {
+    "postal": "L9X7R9",
+    "result": []
+  },
+  {
+    "postal": "L9X6G4",
+    "result": []
   }
 ]

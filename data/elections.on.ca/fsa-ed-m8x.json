@@ -4137,5 +4137,3318 @@
   {
     "postal": "M8X0W6",
     "result": []
+  },
+  {
+    "postal": "M8X4C5",
+    "result": []
+  },
+  {
+    "postal": "M8X7E4",
+    "result": []
+  },
+  {
+    "postal": "M8X1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1R9",
+        "streetName": "STRATH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "STRATH AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2P0",
+    "result": []
+  },
+  {
+    "postal": "M8X5S4",
+    "result": []
+  },
+  {
+    "postal": "M8X5K8",
+    "result": []
+  },
+  {
+    "postal": "M8X8K4",
+    "result": []
+  },
+  {
+    "postal": "M8X7C1",
+    "result": []
+  },
+  {
+    "postal": "M8X7K9",
+    "result": []
+  },
+  {
+    "postal": "M8X5J1",
+    "result": []
+  },
+  {
+    "postal": "M8X4P9",
+    "result": []
+  },
+  {
+    "postal": "M8X0N2",
+    "result": []
+  },
+  {
+    "postal": "M8X2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2G6",
+        "streetName": "ROYAL YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "ROYAL YORK RD, ETOBICOKE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2G6",
+        "streetName": "ROYAL YORK RD.",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "ROYAL YORK RD. RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6P4",
+    "result": []
+  },
+  {
+    "postal": "M8X3J0",
+    "result": []
+  },
+  {
+    "postal": "M8X8X4",
+    "result": []
+  },
+  {
+    "postal": "M8X1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144,
+          10138140
+        ],
+        "postalCode": "M8X1Y3",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "DUNDAS ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X1A8",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6Y5",
+    "result": []
+  },
+  {
+    "postal": "M8X0J6",
+    "result": []
+  },
+  {
+    "postal": "M8X2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2C9",
+        "streetName": "BRENTWOOD",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BRENTWOOD RD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8J6",
+    "result": []
+  },
+  {
+    "postal": "M8X8T4",
+    "result": []
+  },
+  {
+    "postal": "M8X1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1P7",
+        "streetName": "HYLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "HYLAND AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9V9",
+    "result": []
+  },
+  {
+    "postal": "M8X0M1",
+    "result": []
+  },
+  {
+    "postal": "M8X6K5",
+    "result": []
+  },
+  {
+    "postal": "M8X2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X2T5",
+        "streetName": "THE KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THE KINGSWAY, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7E9",
+    "result": []
+  },
+  {
+    "postal": "M8X5K5",
+    "result": []
+  },
+  {
+    "postal": "M8X3R5",
+    "result": []
+  },
+  {
+    "postal": "M8X5B1",
+    "result": []
+  },
+  {
+    "postal": "M8X2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2P1",
+        "streetName": "WALFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "WALFORD RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7L0",
+    "result": []
+  },
+  {
+    "postal": "M8X3L6",
+    "result": []
+  },
+  {
+    "postal": "M8X2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2A4",
+        "streetName": "WESTROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "WESTROSE AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8S0",
+    "result": []
+  },
+  {
+    "postal": "M8X3L5",
+    "result": []
+  },
+  {
+    "postal": "M8X2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2R5",
+        "streetName": "KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSWAY CRES, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9T6",
+    "result": []
+  },
+  {
+    "postal": "M8X8Z2",
+    "result": []
+  },
+  {
+    "postal": "M8X0E9",
+    "result": []
+  },
+  {
+    "postal": "M8X8C0",
+    "result": []
+  },
+  {
+    "postal": "M8X3K7",
+    "result": []
+  },
+  {
+    "postal": "M8X2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2H3",
+        "streetName": "WILLINGDON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "WILLINGDON BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2Y6",
+    "result": []
+  },
+  {
+    "postal": "M8X7M2",
+    "result": []
+  },
+  {
+    "postal": "M8X6E2",
+    "result": []
+  },
+  {
+    "postal": "M8X3R0",
+    "result": []
+  },
+  {
+    "postal": "M8X4J7",
+    "result": []
+  },
+  {
+    "postal": "M8X6N8",
+    "result": []
+  },
+  {
+    "postal": "M8X0J7",
+    "result": []
+  },
+  {
+    "postal": "M8X7P2",
+    "result": []
+  },
+  {
+    "postal": "M8X3T8",
+    "result": []
+  },
+  {
+    "postal": "M8X3S7",
+    "result": []
+  },
+  {
+    "postal": "M8X2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2S7",
+        "streetName": "MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "COVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "MILL COVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1S4",
+        "streetName": "QUEEN MARY'S",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "QUEEN MARY'S DR, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1L8",
+        "streetName": "KING GEORGES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KING GEORGES RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8E9",
+    "result": []
+  },
+  {
+    "postal": "M8X0T0",
+    "result": []
+  },
+  {
+    "postal": "M8X3G4",
+    "result": []
+  },
+  {
+    "postal": "M8X0V6",
+    "result": []
+  },
+  {
+    "postal": "M8X4W1",
+    "result": []
+  },
+  {
+    "postal": "M8X9G9",
+    "result": []
+  },
+  {
+    "postal": "M8X5W4",
+    "result": []
+  },
+  {
+    "postal": "M8X7M8",
+    "result": []
+  },
+  {
+    "postal": "M8X2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2C2",
+        "streetName": "BRENTWOOD",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BRENTWOOD RD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X4Y2",
+    "result": []
+  },
+  {
+    "postal": "M8X9X9",
+    "result": []
+  },
+  {
+    "postal": "M8X3T0",
+    "result": []
+  },
+  {
+    "postal": "M8X4T8",
+    "result": []
+  },
+  {
+    "postal": "M8X9C4",
+    "result": []
+  },
+  {
+    "postal": "M8X8P2",
+    "result": []
+  },
+  {
+    "postal": "M8X0Y8",
+    "result": []
+  },
+  {
+    "postal": "M8X1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1G8",
+        "streetName": "OLD MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "OLD MILL RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X2T6",
+        "streetName": "THE KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THE KINGSWAY, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1N7",
+        "streetName": "KINGSGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSGROVE BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X0L6",
+    "result": []
+  },
+  {
+    "postal": "M8X9V4",
+    "result": []
+  },
+  {
+    "postal": "M8X2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2V1",
+        "streetName": "THE KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THE KINGSWAY, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3L8",
+    "result": []
+  },
+  {
+    "postal": "M8X2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 83,
+            "setId": 0,
+            "name": "Parkdale—High Park"
+          },
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10126438,
+          10138140
+        ],
+        "postalCode": "M8X2R8",
+        "streetName": "KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSWAY CRES, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X5C1",
+    "result": []
+  },
+  {
+    "postal": "M8X4W3",
+    "result": []
+  },
+  {
+    "postal": "M8X5X5",
+    "result": []
+  },
+  {
+    "postal": "M8X9W5",
+    "result": []
+  },
+  {
+    "postal": "M8X3C4",
+    "result": []
+  },
+  {
+    "postal": "M8X1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1N6",
+        "streetName": "KINGSGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSGROVE BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9S9",
+    "result": []
+  },
+  {
+    "postal": "M8X9M2",
+    "result": []
+  },
+  {
+    "postal": "M8X8Y4",
+    "result": []
+  },
+  {
+    "postal": "M8X7S4",
+    "result": []
+  },
+  {
+    "postal": "M8X0K6",
+    "result": []
+  },
+  {
+    "postal": "M8X1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1W3",
+        "streetName": "GOVERNMENT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "GOVERNMENT RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7R2",
+    "result": []
+  },
+  {
+    "postal": "M8X2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2Y9",
+        "streetName": "OLD MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "OLD MILL TRAIL, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7G4",
+    "result": []
+  },
+  {
+    "postal": "M8X7E5",
+    "result": []
+  },
+  {
+    "postal": "M8X9G2",
+    "result": []
+  },
+  {
+    "postal": "M8X7Y8",
+    "result": []
+  },
+  {
+    "postal": "M8X9V2",
+    "result": []
+  },
+  {
+    "postal": "M8X3T7",
+    "result": []
+  },
+  {
+    "postal": "M8X1H0",
+    "result": []
+  },
+  {
+    "postal": "M8X1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1M7",
+        "streetName": "LYNNGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "LYNNGROVE AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8V4",
+    "result": []
+  },
+  {
+    "postal": "M8X4M2",
+    "result": []
+  },
+  {
+    "postal": "M8X0X2",
+    "result": []
+  },
+  {
+    "postal": "M8X5Z4",
+    "result": []
+  },
+  {
+    "postal": "M8X6V4",
+    "result": []
+  },
+  {
+    "postal": "M8X8J3",
+    "result": []
+  },
+  {
+    "postal": "M8X8E5",
+    "result": []
+  },
+  {
+    "postal": "M8X2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2V5",
+        "streetName": "THE KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THE KINGSWAY, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7S1",
+    "result": []
+  },
+  {
+    "postal": "M8X6V3",
+    "result": []
+  },
+  {
+    "postal": "M8X2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2L8",
+        "streetName": "PRINCE EDWARD",
+        "streetDirectionId": "N",
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "PRINCE EDWARD DR N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9V0",
+    "result": []
+  },
+  {
+    "postal": "M8X3M4",
+    "result": []
+  },
+  {
+    "postal": "M8X5B2",
+    "result": []
+  },
+  {
+    "postal": "M8X3X5",
+    "result": []
+  },
+  {
+    "postal": "M8X9R7",
+    "result": []
+  },
+  {
+    "postal": "M8X2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2X2",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8Z6",
+    "result": []
+  },
+  {
+    "postal": "M8X4R4",
+    "result": []
+  },
+  {
+    "postal": "M8X2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X2R1",
+        "streetName": "KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSWAY CRES, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3R8",
+    "result": []
+  },
+  {
+    "postal": "M8X9A1",
+    "result": []
+  },
+  {
+    "postal": "M8X8L3",
+    "result": []
+  },
+  {
+    "postal": "M8X9K4",
+    "result": []
+  },
+  {
+    "postal": "M8X9S3",
+    "result": []
+  },
+  {
+    "postal": "M8X8N7",
+    "result": []
+  },
+  {
+    "postal": "M8X1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1C6",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3Z8",
+    "result": []
+  },
+  {
+    "postal": "M8X8G5",
+    "result": []
+  },
+  {
+    "postal": "M8X5R6",
+    "result": []
+  },
+  {
+    "postal": "M8X2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2W3",
+        "streetName": "LOMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "LOMOND DR, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X0A0",
+    "result": []
+  },
+  {
+    "postal": "M8X6P8",
+    "result": []
+  },
+  {
+    "postal": "M8X8N9",
+    "result": []
+  },
+  {
+    "postal": "M8X0S9",
+    "result": []
+  },
+  {
+    "postal": "M8X8G0",
+    "result": []
+  },
+  {
+    "postal": "M8X8C7",
+    "result": []
+  },
+  {
+    "postal": "M8X5X8",
+    "result": []
+  },
+  {
+    "postal": "M8X7E8",
+    "result": []
+  },
+  {
+    "postal": "M8X6X2",
+    "result": []
+  },
+  {
+    "postal": "M8X4C6",
+    "result": []
+  },
+  {
+    "postal": "M8X7H2",
+    "result": []
+  },
+  {
+    "postal": "M8X4R0",
+    "result": []
+  },
+  {
+    "postal": "M8X6J3",
+    "result": []
+  },
+  {
+    "postal": "M8X4B8",
+    "result": []
+  },
+  {
+    "postal": "M8X6H6",
+    "result": []
+  },
+  {
+    "postal": "M8X0S1",
+    "result": []
+  },
+  {
+    "postal": "M8X4E3",
+    "result": []
+  },
+  {
+    "postal": "M8X7K2",
+    "result": []
+  },
+  {
+    "postal": "M8X7T8",
+    "result": []
+  },
+  {
+    "postal": "M8X0J9",
+    "result": []
+  },
+  {
+    "postal": "M8X5J9",
+    "result": []
+  },
+  {
+    "postal": "M8X5S7",
+    "result": []
+  },
+  {
+    "postal": "M8X0G9",
+    "result": []
+  },
+  {
+    "postal": "M8X3J9",
+    "result": []
+  },
+  {
+    "postal": "M8X2Y0",
+    "result": []
+  },
+  {
+    "postal": "M8X8X5",
+    "result": []
+  },
+  {
+    "postal": "M8X2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2M7",
+        "streetName": "PRINCE EDWARD",
+        "streetDirectionId": "N",
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "PRINCE EDWARD DR N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9Z3",
+    "result": []
+  },
+  {
+    "postal": "M8X7W2",
+    "result": []
+  },
+  {
+    "postal": "M8X3W0",
+    "result": []
+  },
+  {
+    "postal": "M8X3M1",
+    "result": []
+  },
+  {
+    "postal": "M8X6A5",
+    "result": []
+  },
+  {
+    "postal": "M8X2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X2M9",
+        "streetName": "KINGS LYNN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGS LYNN RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X5C3",
+    "result": []
+  },
+  {
+    "postal": "M8X0Y6",
+    "result": []
+  },
+  {
+    "postal": "M8X9H7",
+    "result": []
+  },
+  {
+    "postal": "M8X3L0",
+    "result": []
+  },
+  {
+    "postal": "M8X5N9",
+    "result": []
+  },
+  {
+    "postal": "M8X5E3",
+    "result": []
+  },
+  {
+    "postal": "M8X7M9",
+    "result": []
+  },
+  {
+    "postal": "M8X8N2",
+    "result": []
+  },
+  {
+    "postal": "M8X9H3",
+    "result": []
+  },
+  {
+    "postal": "M8X2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2K8",
+        "streetName": "DUNEDIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "DUNEDIN DR, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9L0",
+    "result": []
+  },
+  {
+    "postal": "M8X6L9",
+    "result": []
+  },
+  {
+    "postal": "M8X6A8",
+    "result": []
+  },
+  {
+    "postal": "M8X2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2K6",
+        "streetName": "DUNEDIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "DUNEDIN DR, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2M0",
+    "result": []
+  },
+  {
+    "postal": "M8X5X7",
+    "result": []
+  },
+  {
+    "postal": "M8X0M7",
+    "result": []
+  },
+  {
+    "postal": "M8X7A6",
+    "result": []
+  },
+  {
+    "postal": "M8X3C5",
+    "result": []
+  },
+  {
+    "postal": "M8X2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2P2",
+        "streetName": "WALFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "WALFORD RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9N4",
+    "result": []
+  },
+  {
+    "postal": "M8X3M9",
+    "result": []
+  },
+  {
+    "postal": "M8X8K6",
+    "result": []
+  },
+  {
+    "postal": "M8X1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X1L2",
+        "streetName": "KING GEORGES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KING GEORGES RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2Z9",
+        "streetName": "COSMO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "COSMO RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2S2",
+        "streetName": "KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSWAY CRES, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2W2",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2C3",
+        "streetName": "BRENTWOOD",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BRENTWOOD RD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6L7",
+    "result": []
+  },
+  {
+    "postal": "M8X3K0",
+    "result": []
+  },
+  {
+    "postal": "M8X3C1",
+    "result": []
+  },
+  {
+    "postal": "M8X6M9",
+    "result": []
+  },
+  {
+    "postal": "M8X4N9",
+    "result": []
+  },
+  {
+    "postal": "M8X3Y7",
+    "result": []
+  },
+  {
+    "postal": "M8X2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2A9",
+        "streetName": "UPLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "UPLAND RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6H5",
+    "result": []
+  },
+  {
+    "postal": "M8X8B4",
+    "result": []
+  },
+  {
+    "postal": "M8X4Z2",
+    "result": []
+  },
+  {
+    "postal": "M8X9J0",
+    "result": []
+  },
+  {
+    "postal": "M8X7V7",
+    "result": []
+  },
+  {
+    "postal": "M8X5T5",
+    "result": []
+  },
+  {
+    "postal": "M8X4W5",
+    "result": []
+  },
+  {
+    "postal": "M8X1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1T8",
+        "streetName": "BANNON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BANNON AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9G6",
+    "result": []
+  },
+  {
+    "postal": "M8X1H3",
+    "result": []
+  },
+  {
+    "postal": "M8X5R5",
+    "result": []
+  },
+  {
+    "postal": "M8X8A4",
+    "result": []
+  },
+  {
+    "postal": "M8X3T6",
+    "result": []
+  },
+  {
+    "postal": "M8X9W8",
+    "result": []
+  },
+  {
+    "postal": "M8X0N3",
+    "result": []
+  },
+  {
+    "postal": "M8X7V0",
+    "result": []
+  },
+  {
+    "postal": "M8X8T5",
+    "result": []
+  },
+  {
+    "postal": "M8X5N3",
+    "result": []
+  },
+  {
+    "postal": "M8X5G9",
+    "result": []
+  },
+  {
+    "postal": "M8X3X8",
+    "result": []
+  },
+  {
+    "postal": "M8X9R3",
+    "result": []
+  },
+  {
+    "postal": "M8X2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2S1",
+        "streetName": "KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSWAY CRES, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9J7",
+    "result": []
+  },
+  {
+    "postal": "M8X2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2J3",
+        "streetName": "JACKSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "JACKSON AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3B6",
+    "result": []
+  },
+  {
+    "postal": "M8X8J0",
+    "result": []
+  },
+  {
+    "postal": "M8X7R4",
+    "result": []
+  },
+  {
+    "postal": "M8X8K8",
+    "result": []
+  },
+  {
+    "postal": "M8X4P3",
+    "result": []
+  },
+  {
+    "postal": "M8X0A2",
+    "result": []
+  },
+  {
+    "postal": "M8X2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2G2",
+        "streetName": "ROYAL YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "ROYAL YORK RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X5Y9",
+    "result": []
+  },
+  {
+    "postal": "M8X7X0",
+    "result": []
+  },
+  {
+    "postal": "M8X7W3",
+    "result": []
+  },
+  {
+    "postal": "M8X7X5",
+    "result": []
+  },
+  {
+    "postal": "M8X5K6",
+    "result": []
+  },
+  {
+    "postal": "M8X5B6",
+    "result": []
+  },
+  {
+    "postal": "M8X7Z0",
+    "result": []
+  },
+  {
+    "postal": "M8X9H6",
+    "result": []
+  },
+  {
+    "postal": "M8X1B4",
+    "result": []
+  },
+  {
+    "postal": "M8X1A0",
+    "result": []
+  },
+  {
+    "postal": "M8X9A0",
+    "result": []
+  },
+  {
+    "postal": "M8X1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1M6",
+        "streetName": "LYNNGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "LYNNGROVE AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X5H0",
+    "result": []
+  },
+  {
+    "postal": "M8X1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X1K6",
+        "streetName": "KING GEORGES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KING GEORGES RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X5E1",
+    "result": []
+  },
+  {
+    "postal": "M8X3T9",
+    "result": []
+  },
+  {
+    "postal": "M8X2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2M6",
+        "streetName": "PRINCE EDWARD",
+        "streetDirectionId": "N",
+        "streetTypeId": "DR",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "PRINCE EDWARD DR N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X0G5",
+    "result": []
+  },
+  {
+    "postal": "M8X0Y2",
+    "result": []
+  },
+  {
+    "postal": "M8X2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2Y7",
+        "streetName": "TREMAYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "TREMAYNE AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X2J7",
+        "streetName": "JACKSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "JACKSON AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X4K7",
+    "result": []
+  },
+  {
+    "postal": "M8X7P9",
+    "result": []
+  },
+  {
+    "postal": "M8X8X0",
+    "result": []
+  },
+  {
+    "postal": "M8X3X1",
+    "result": []
+  },
+  {
+    "postal": "M8X1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1R5",
+        "streetName": "STRATH",
+        "streetDirectionId": null,
+        "streetTypeId": "AV",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "STRATH AV, ETOBICOKE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1R5",
+        "streetName": "STRATH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "STRATH AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6X6",
+    "result": []
+  },
+  {
+    "postal": "M8X0Y1",
+    "result": []
+  },
+  {
+    "postal": "M8X8G1",
+    "result": []
+  },
+  {
+    "postal": "M8X3J3",
+    "result": []
+  },
+  {
+    "postal": "M8X8C2",
+    "result": []
+  },
+  {
+    "postal": "M8X4X9",
+    "result": []
+  },
+  {
+    "postal": "M8X6G9",
+    "result": []
+  },
+  {
+    "postal": "M8X4M3",
+    "result": []
+  },
+  {
+    "postal": "M8X9P7",
+    "result": []
+  },
+  {
+    "postal": "M8X4E5",
+    "result": []
+  },
+  {
+    "postal": "M8X5K9",
+    "result": []
+  },
+  {
+    "postal": "M8X2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2V2",
+        "streetName": "THE KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THE KINGSWAY, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2N9",
+        "streetName": "WALFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "WALFORD RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6L4",
+    "result": []
+  },
+  {
+    "postal": "M8X8E0",
+    "result": []
+  },
+  {
+    "postal": "M8X0N0",
+    "result": []
+  },
+  {
+    "postal": "M8X6R0",
+    "result": []
+  },
+  {
+    "postal": "M8X9C1",
+    "result": []
+  },
+  {
+    "postal": "M8X4H4",
+    "result": []
+  },
+  {
+    "postal": "M8X5W3",
+    "result": []
+  },
+  {
+    "postal": "M8X9N9",
+    "result": []
+  },
+  {
+    "postal": "M8X1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1V7",
+        "streetName": "GOVERNMENT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "GOVERNMENT RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8J1",
+    "result": []
+  },
+  {
+    "postal": "M8X5V9",
+    "result": []
+  },
+  {
+    "postal": "M8X2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2S8",
+        "streetName": "THORNDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THORNDALE CRES, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6P0",
+    "result": []
+  },
+  {
+    "postal": "M8X4J8",
+    "result": []
+  },
+  {
+    "postal": "M8X0N1",
+    "result": []
+  },
+  {
+    "postal": "M8X1Y7",
+    "result": []
+  },
+  {
+    "postal": "M8X7W5",
+    "result": []
+  },
+  {
+    "postal": "M8X3Z1",
+    "result": []
+  },
+  {
+    "postal": "M8X7M6",
+    "result": []
+  },
+  {
+    "postal": "M8X1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1W7",
+        "streetName": "THORNDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THORNDALE AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1X1",
+        "streetName": "OLD DUNDAS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "OLD DUNDAS ST, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X0C1",
+    "result": []
+  },
+  {
+    "postal": "M8X4N3",
+    "result": []
+  },
+  {
+    "postal": "M8X4S8",
+    "result": []
+  },
+  {
+    "postal": "M8X1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1H6",
+        "streetName": "BIRCHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BIRCHVIEW BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2Z4",
+        "streetName": "OLD MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "OLD MILL TRAIL, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7K3",
+    "result": []
+  },
+  {
+    "postal": "M8X8A2",
+    "result": []
+  },
+  {
+    "postal": "M8X6J1",
+    "result": []
+  },
+  {
+    "postal": "M8X5Z6",
+    "result": []
+  },
+  {
+    "postal": "M8X3Z0",
+    "result": []
+  },
+  {
+    "postal": "M8X8M0",
+    "result": []
+  },
+  {
+    "postal": "M8X1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1Z6",
+        "streetName": "MONTGOMERY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "MONTGOMERY RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8K7",
+    "result": []
+  },
+  {
+    "postal": "M8X1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1N3",
+        "streetName": "KINGSGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSGROVE BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X9S2",
+    "result": []
+  },
+  {
+    "postal": "M8X2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2K1",
+        "streetName": "GRENVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "GRENVIEW BLVD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X1E8",
+    "result": []
+  },
+  {
+    "postal": "M8X9B8",
+    "result": []
+  },
+  {
+    "postal": "M8X7X4",
+    "result": []
+  },
+  {
+    "postal": "M8X1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1Z4",
+        "streetName": "MONTGOMERY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "MONTGOMERY RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2C7",
+        "streetName": "BRENTWOOD",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BRENTWOOD RD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2E7",
+        "streetName": "ROYAL YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "ROYAL YORK RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3R1",
+    "result": []
+  },
+  {
+    "postal": "M8X4K4",
+    "result": []
+  },
+  {
+    "postal": "M8X9G3",
+    "result": []
+  },
+  {
+    "postal": "M8X6C9",
+    "result": []
+  },
+  {
+    "postal": "M8X9H5",
+    "result": []
+  },
+  {
+    "postal": "M8X1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1P5",
+        "streetName": "VALIANT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "VALIANT RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2J5",
+        "streetName": "JACKSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "JACKSON AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X4W6",
+    "result": []
+  },
+  {
+    "postal": "M8X8M8",
+    "result": []
+  },
+  {
+    "postal": "M8X6C5",
+    "result": []
+  },
+  {
+    "postal": "M8X9H0",
+    "result": []
+  },
+  {
+    "postal": "M8X1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 28,
+            "setId": 0,
+            "name": "Etobicoke Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10138132
+        ],
+        "postalCode": "M8X1X8",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "DUNDAS ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3H4",
+    "result": []
+  },
+  {
+    "postal": "M8X4E7",
+    "result": []
+  },
+  {
+    "postal": "M8X8A0",
+    "result": []
+  },
+  {
+    "postal": "M8X1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1Z7",
+        "streetName": "MONTGOMERY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "MONTGOMERY RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7Z3",
+    "result": []
+  },
+  {
+    "postal": "M8X0L7",
+    "result": []
+  },
+  {
+    "postal": "M8X2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2C6",
+        "streetName": "BRENTWOOD",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BRENTWOOD RD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6M3",
+    "result": []
+  },
+  {
+    "postal": "M8X2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2J1",
+        "streetName": "MCCLINCHY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "MCCLINCHY AVE, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X3E3",
+    "result": []
+  },
+  {
+    "postal": "M8X6Z9",
+    "result": []
+  },
+  {
+    "postal": "M8X3M3",
+    "result": []
+  },
+  {
+    "postal": "M8X9B1",
+    "result": []
+  },
+  {
+    "postal": "M8X9J5",
+    "result": []
+  },
+  {
+    "postal": "M8X4V8",
+    "result": []
+  },
+  {
+    "postal": "M8X6W2",
+    "result": []
+  },
+  {
+    "postal": "M8X0V5",
+    "result": []
+  },
+  {
+    "postal": "M8X0Z8",
+    "result": []
+  },
+  {
+    "postal": "M8X5G2",
+    "result": []
+  },
+  {
+    "postal": "M8X4N4",
+    "result": []
+  },
+  {
+    "postal": "M8X8G7",
+    "result": []
+  },
+  {
+    "postal": "M8X8W1",
+    "result": []
+  },
+  {
+    "postal": "M8X1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1S6",
+        "streetName": "KINGSGARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSGARDEN RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X4E0",
+    "result": []
+  },
+  {
+    "postal": "M8X4L9",
+    "result": []
+  },
+  {
+    "postal": "M8X5Z9",
+    "result": []
+  },
+  {
+    "postal": "M8X5V3",
+    "result": []
+  },
+  {
+    "postal": "M8X4V2",
+    "result": []
+  },
+  {
+    "postal": "M8X7C0",
+    "result": []
+  },
+  {
+    "postal": "M8X6L0",
+    "result": []
+  },
+  {
+    "postal": "M8X1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X1S9",
+        "streetName": "QUEEN ANNE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "QUEEN ANNE RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7R6",
+    "result": []
+  },
+  {
+    "postal": "M8X7J0",
+    "result": []
+  },
+  {
+    "postal": "M8X5M0",
+    "result": []
+  },
+  {
+    "postal": "M8X2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2E5",
+        "streetName": "ROYAL YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "ROYAL YORK RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7C7",
+    "result": []
+  },
+  {
+    "postal": "M8X5C0",
+    "result": []
+  },
+  {
+    "postal": "M8X8V9",
+    "result": []
+  },
+  {
+    "postal": "M8X7E0",
+    "result": []
+  },
+  {
+    "postal": "M8X6R4",
+    "result": []
+  },
+  {
+    "postal": "M8X3Z7",
+    "result": []
+  },
+  {
+    "postal": "M8X1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1J9",
+        "streetName": "BELVEDERE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BELVEDERE BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X7K6",
+    "result": []
+  },
+  {
+    "postal": "M8X7Y5",
+    "result": []
+  },
+  {
+    "postal": "M8X1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1B7",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X4S9",
+    "result": []
+  },
+  {
+    "postal": "M8X9R9",
+    "result": []
+  },
+  {
+    "postal": "M8X5K7",
+    "result": []
+  },
+  {
+    "postal": "M8X6P2",
+    "result": []
+  },
+  {
+    "postal": "M8X2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2C5",
+        "streetName": "BRENTWOOD",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BRENTWOOD RD N, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2N0",
+    "result": []
+  },
+  {
+    "postal": "M8X1G0",
+    "result": []
+  },
+  {
+    "postal": "M8X4K5",
+    "result": []
+  },
+  {
+    "postal": "M8X9B5",
+    "result": []
+  },
+  {
+    "postal": "M8X6T5",
+    "result": []
+  },
+  {
+    "postal": "M8X1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X1N8",
+        "streetName": "KINGSGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "KINGSGROVE BLVD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X0C0",
+    "result": []
+  },
+  {
+    "postal": "M8X0R9",
+    "result": []
+  },
+  {
+    "postal": "M8X7L1",
+    "result": []
+  },
+  {
+    "postal": "M8X3Y8",
+    "result": []
+  },
+  {
+    "postal": "M8X7X9",
+    "result": []
+  },
+  {
+    "postal": "M8X1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145
+        ],
+        "postalCode": "M8X1A7",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138140
+        ],
+        "postalCode": "M8X2T9",
+        "streetName": "THE KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "THE KINGSWAY, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          }
+        ],
+        "pollDivisionIds": [
+          10138144
+        ],
+        "postalCode": "M8X2E6",
+        "streetName": "ROYAL YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "ROYAL YORK RD, ETOBICOKE"
+      }
+    ]
+  },
+  {
+    "postal": "M8X8Y1",
+    "result": []
+  },
+  {
+    "postal": "M8X0J5",
+    "result": []
+  },
+  {
+    "postal": "M8X4J1",
+    "result": []
+  },
+  {
+    "postal": "M8X1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 29,
+            "setId": 0,
+            "name": "Etobicoke—Lakeshore"
+          },
+          {
+            "election": null,
+            "id": 83,
+            "setId": 0,
+            "name": "Parkdale—High Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10138145,
+          10126437,
+          10138140
+        ],
+        "postalCode": "M8X1A5",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "ETOBICOKE",
+        "streetNameDisplayText": "BLOOR ST W, ETOBICOKE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 83,
+            "setId": 0,
+            "name": "Parkdale—High Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10126437
+        ],
+        "postalCode": "M8X1A5",
+        "streetName": "BLOOR",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "BLOOR ST W, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M8X6Z6",
+    "result": []
+  },
+  {
+    "postal": "M8X5K4",
+    "result": []
+  },
+  {
+    "postal": "M8X7R9",
+    "result": []
+  },
+  {
+    "postal": "M8X6G4",
+    "result": []
   }
 ]

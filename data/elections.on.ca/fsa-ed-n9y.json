@@ -6271,5 +6271,5447 @@
   {
     "postal": "N9Y0W6",
     "result": []
+  },
+  {
+    "postal": "N9Y4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y4C5",
+        "streetName": "BUONA VISTA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BUONA VISTA DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7E4",
+    "result": []
+  },
+  {
+    "postal": "N9Y1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1R9",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LANSDOWNE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2P0",
+    "result": []
+  },
+  {
+    "postal": "N9Y5S4",
+    "result": []
+  },
+  {
+    "postal": "N9Y5K8",
+    "result": []
+  },
+  {
+    "postal": "N9Y8K4",
+    "result": []
+  },
+  {
+    "postal": "N9Y7C1",
+    "result": []
+  },
+  {
+    "postal": "N9Y7K9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5J1",
+    "result": []
+  },
+  {
+    "postal": "N9Y4P9",
+    "result": []
+  },
+  {
+    "postal": "N9Y0N2",
+    "result": []
+  },
+  {
+    "postal": "N9Y2G6",
+    "result": []
+  },
+  {
+    "postal": "N9Y6P4",
+    "result": []
+  },
+  {
+    "postal": "N9Y3J0",
+    "result": []
+  },
+  {
+    "postal": "N9Y8X4",
+    "result": []
+  },
+  {
+    "postal": "N9Y1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1Y3",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "STANLEY ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138059,
+          10138043
+        ],
+        "postalCode": "N9Y1A8",
+        "streetName": "MAIN",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN ST E, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6Y5",
+    "result": []
+  },
+  {
+    "postal": "N9Y0J6",
+    "result": []
+  },
+  {
+    "postal": "N9Y2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2C9",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PARK LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8J6",
+    "result": []
+  },
+  {
+    "postal": "N9Y8T4",
+    "result": []
+  },
+  {
+    "postal": "N9Y1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1P7",
+        "streetName": "DIVISION",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIVISION ST S, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9V9",
+    "result": []
+  },
+  {
+    "postal": "N9Y0M1",
+    "result": []
+  },
+  {
+    "postal": "N9Y6K5",
+    "result": []
+  },
+  {
+    "postal": "N9Y2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2T5",
+        "streetName": "SUNNYBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SUNNYBROOK CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7E9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5K5",
+    "result": []
+  },
+  {
+    "postal": "N9Y3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y3R5",
+        "streetName": "WINSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WINSTON CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5B1",
+    "result": []
+  },
+  {
+    "postal": "N9Y2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2P1",
+        "streetName": "CLIFFSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CLIFFSIDE LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7L0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y3L6",
+        "streetName": "CAMERON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CAMERON DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2A4",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "QUEEN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8S0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3L5",
+        "streetName": "STONEHEDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "STONEHEDGE DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2R5",
+        "streetName": "FRANCIS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "FRANCIS DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9T6",
+    "result": []
+  },
+  {
+    "postal": "N9Y8Z2",
+    "result": []
+  },
+  {
+    "postal": "N9Y0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y0E9",
+        "streetName": "CRANBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CRANBERRY ST, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y0E9",
+        "streetName": "HOLLY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HOLLY ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8C0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y3K7",
+        "streetName": "NOTTINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "NOTTINGHAM AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2H3",
+        "streetName": "STONEHEDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "STONEHEDGE DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2Y6",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7M2",
+    "result": []
+  },
+  {
+    "postal": "N9Y6E2",
+    "result": []
+  },
+  {
+    "postal": "N9Y3R0",
+    "result": []
+  },
+  {
+    "postal": "N9Y4J7",
+    "result": []
+  },
+  {
+    "postal": "N9Y6N8",
+    "result": []
+  },
+  {
+    "postal": "N9Y0J7",
+    "result": []
+  },
+  {
+    "postal": "N9Y7P2",
+    "result": []
+  },
+  {
+    "postal": "N9Y3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T8",
+        "streetName": "BIRCH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BIRCH AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T8",
+        "streetName": "HEMLOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HEMLOCK AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T8",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAPLE AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T8",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SPRUCE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3S7",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2S7",
+        "streetName": "GRAHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "GRAHAM SIDERD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1S4",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LANSDOWNE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1L8",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAPLE ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8E9",
+    "result": []
+  },
+  {
+    "postal": "N9Y0T0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3G4",
+        "streetName": "DIX",
+        "streetDirectionId": null,
+        "streetTypeId": "ALLEY",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIX ALLEY, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y0V6",
+    "result": []
+  },
+  {
+    "postal": "N9Y4W1",
+    "result": []
+  },
+  {
+    "postal": "N9Y9G9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5W4",
+    "result": []
+  },
+  {
+    "postal": "N9Y7M8",
+    "result": []
+  },
+  {
+    "postal": "N9Y2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2C2",
+        "streetName": "SUMMERSET",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SUMMERSET AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4Y2",
+    "result": []
+  },
+  {
+    "postal": "N9Y9X9",
+    "result": []
+  },
+  {
+    "postal": "N9Y3T0",
+    "result": []
+  },
+  {
+    "postal": "N9Y4T8",
+    "result": []
+  },
+  {
+    "postal": "N9Y9C4",
+    "result": []
+  },
+  {
+    "postal": "N9Y8P2",
+    "result": []
+  },
+  {
+    "postal": "N9Y0Y8",
+    "result": []
+  },
+  {
+    "postal": "N9Y1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y1G8",
+        "streetName": "MCCALLUM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCCALLUM DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2T6",
+        "streetName": "SUNNYBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SUNNYBROOK CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1N7",
+        "streetName": "LAKEVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LAKEVIEW AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y0L6",
+    "result": []
+  },
+  {
+    "postal": "N9Y9V4",
+    "result": []
+  },
+  {
+    "postal": "N9Y2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V1",
+        "streetName": "COUNTY ROAD 45",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "RUTHVEN",
+        "streetNameDisplayText": "COUNTY ROAD 45 ST, RUTHVEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V1",
+        "streetName": "MAIN UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN UNION ST, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V1",
+        "streetName": "PIGEON BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PIGEON BAY LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y3L8",
+        "streetName": "WESTLAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WESTLAWN AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2R8",
+        "streetName": "MCRAE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCRAE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5C1",
+    "result": []
+  },
+  {
+    "postal": "N9Y4W3",
+    "result": []
+  },
+  {
+    "postal": "N9Y5X5",
+    "result": []
+  },
+  {
+    "postal": "N9Y9W5",
+    "result": []
+  },
+  {
+    "postal": "N9Y3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3C4",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PARK AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1N6",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PARK ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9S9",
+    "result": []
+  },
+  {
+    "postal": "N9Y9M2",
+    "result": []
+  },
+  {
+    "postal": "N9Y8Y4",
+    "result": []
+  },
+  {
+    "postal": "N9Y7S4",
+    "result": []
+  },
+  {
+    "postal": "N9Y0K6",
+    "result": []
+  },
+  {
+    "postal": "N9Y1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1W3",
+        "streetName": "MILL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MILL ST W, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7R2",
+    "result": []
+  },
+  {
+    "postal": "N9Y2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2Y9",
+        "streetName": "DIVISION",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIVISION RD N, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2Y9",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "QUEEN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7G4",
+    "result": []
+  },
+  {
+    "postal": "N9Y7E5",
+    "result": []
+  },
+  {
+    "postal": "N9Y9G2",
+    "result": []
+  },
+  {
+    "postal": "N9Y7Y8",
+    "result": []
+  },
+  {
+    "postal": "N9Y9V2",
+    "result": []
+  },
+  {
+    "postal": "N9Y3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T7",
+        "streetName": "HEMLOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HEMLOCK AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T7",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAPLE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1H0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1M7",
+        "streetName": "PROSPECT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PROSPECT ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8V4",
+    "result": []
+  },
+  {
+    "postal": "N9Y4M2",
+    "result": []
+  },
+  {
+    "postal": "N9Y0X2",
+    "result": []
+  },
+  {
+    "postal": "N9Y5Z4",
+    "result": []
+  },
+  {
+    "postal": "N9Y6V4",
+    "result": []
+  },
+  {
+    "postal": "N9Y8J3",
+    "result": []
+  },
+  {
+    "postal": "N9Y8E5",
+    "result": []
+  },
+  {
+    "postal": "N9Y2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V5",
+        "streetName": "REDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "REDWOOD RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7S1",
+    "result": []
+  },
+  {
+    "postal": "N9Y6V3",
+    "result": []
+  },
+  {
+    "postal": "N9Y2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2L8",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9V0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3M4",
+        "streetName": "BAYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BAYVIEW AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5B2",
+    "result": []
+  },
+  {
+    "postal": "N9Y3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y3X5",
+        "streetName": "ADAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ADAMS LANE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3X5",
+        "streetName": "CHELSEA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CHELSEA CRES, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y3X5",
+        "streetName": "COUNTY 23",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 23 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3X5",
+        "streetName": "STADDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "STADDON AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9R7",
+    "result": []
+  },
+  {
+    "postal": "N9Y2X2",
+    "result": []
+  },
+  {
+    "postal": "N9Y8Z6",
+    "result": []
+  },
+  {
+    "postal": "N9Y4R4",
+    "result": []
+  },
+  {
+    "postal": "N9Y2R1",
+    "result": []
+  },
+  {
+    "postal": "N9Y3R8",
+    "result": []
+  },
+  {
+    "postal": "N9Y9A1",
+    "result": []
+  },
+  {
+    "postal": "N9Y8L3",
+    "result": []
+  },
+  {
+    "postal": "N9Y9K4",
+    "result": []
+  },
+  {
+    "postal": "N9Y9S3",
+    "result": []
+  },
+  {
+    "postal": "N9Y8N7",
+    "result": []
+  },
+  {
+    "postal": "N9Y1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y1C6",
+        "streetName": "AUGUSTINE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "AUGUSTINE DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y3Z8",
+        "streetName": "MCCRACKEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCCRACKEN RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8G5",
+    "result": []
+  },
+  {
+    "postal": "N9Y5R6",
+    "result": []
+  },
+  {
+    "postal": "N9Y2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2W3",
+        "streetName": "COTTONWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COTTONWOOD AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y0A0",
+    "result": []
+  },
+  {
+    "postal": "N9Y6P8",
+    "result": []
+  },
+  {
+    "postal": "N9Y8N9",
+    "result": []
+  },
+  {
+    "postal": "N9Y0S9",
+    "result": []
+  },
+  {
+    "postal": "N9Y8G0",
+    "result": []
+  },
+  {
+    "postal": "N9Y8C7",
+    "result": []
+  },
+  {
+    "postal": "N9Y5X8",
+    "result": []
+  },
+  {
+    "postal": "N9Y7E8",
+    "result": []
+  },
+  {
+    "postal": "N9Y6X2",
+    "result": []
+  },
+  {
+    "postal": "N9Y4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y4C6",
+        "streetName": "BUONA VISTA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BUONA VISTA DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7H2",
+    "result": []
+  },
+  {
+    "postal": "N9Y4R0",
+    "result": []
+  },
+  {
+    "postal": "N9Y6J3",
+    "result": []
+  },
+  {
+    "postal": "N9Y4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y4B8",
+        "streetName": "SANDYBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SANDYBROOK WAY, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y4B8",
+        "streetName": "TIMBERLAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "TIMBERLAKE DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6H6",
+    "result": []
+  },
+  {
+    "postal": "N9Y0S1",
+    "result": []
+  },
+  {
+    "postal": "N9Y4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y4E3",
+        "streetName": "GOLFVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "GOLFVIEW DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7K2",
+    "result": []
+  },
+  {
+    "postal": "N9Y7T8",
+    "result": []
+  },
+  {
+    "postal": "N9Y0J9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5J9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5S7",
+    "result": []
+  },
+  {
+    "postal": "N9Y0G9",
+    "result": []
+  },
+  {
+    "postal": "N9Y3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y3J9",
+        "streetName": "BAINBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BAINBRIDGE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2Y0",
+    "result": []
+  },
+  {
+    "postal": "N9Y8X5",
+    "result": []
+  },
+  {
+    "postal": "N9Y2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2M7",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9Z3",
+    "result": []
+  },
+  {
+    "postal": "N9Y7W2",
+    "result": []
+  },
+  {
+    "postal": "N9Y3W0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3M1",
+        "streetName": "BAYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BAYVIEW AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6A5",
+    "result": []
+  },
+  {
+    "postal": "N9Y2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2M9",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5C3",
+    "result": []
+  },
+  {
+    "postal": "N9Y0Y6",
+    "result": []
+  },
+  {
+    "postal": "N9Y9H7",
+    "result": []
+  },
+  {
+    "postal": "N9Y3L0",
+    "result": []
+  },
+  {
+    "postal": "N9Y5N9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5E3",
+    "result": []
+  },
+  {
+    "postal": "N9Y7M9",
+    "result": []
+  },
+  {
+    "postal": "N9Y8N2",
+    "result": []
+  },
+  {
+    "postal": "N9Y9H3",
+    "result": []
+  },
+  {
+    "postal": "N9Y2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2K8",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9L0",
+    "result": []
+  },
+  {
+    "postal": "N9Y6L9",
+    "result": []
+  },
+  {
+    "postal": "N9Y6A8",
+    "result": []
+  },
+  {
+    "postal": "N9Y2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2K6",
+        "streetName": "LAKE ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LAKE ERIE DR, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2K6",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2K6",
+        "streetName": "WOODBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WOODBRIDGE LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2M0",
+    "result": []
+  },
+  {
+    "postal": "N9Y5X7",
+    "result": []
+  },
+  {
+    "postal": "N9Y0M7",
+    "result": []
+  },
+  {
+    "postal": "N9Y7A6",
+    "result": []
+  },
+  {
+    "postal": "N9Y3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3C5",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PARK AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2P2",
+        "streetName": "CLIFFSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CLIFFSIDE LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9N4",
+    "result": []
+  },
+  {
+    "postal": "N9Y3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3M9",
+        "streetName": "COUNTY 20",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 20 RD W, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038,
+          10138040
+        ],
+        "postalCode": "N9Y3M9",
+        "streetName": "COUNTY 20",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 20 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3M9",
+        "streetName": "MAIN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN ST W, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8K6",
+    "result": []
+  },
+  {
+    "postal": "N9Y1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1L2",
+        "streetName": "GRACE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "GRACE ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2Z9",
+        "streetName": "2 CONC",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "2 CONC RD E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2Z9",
+        "streetName": "ROAD 2",
+        "streetDirectionId": "E",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 2 E, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2S2",
+        "streetName": "BRIARWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BRIARWOOD CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2W2",
+        "streetName": "COTTONWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COTTONWOOD AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2C3",
+        "streetName": "MCDONALD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCDONALD ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6L7",
+    "result": []
+  },
+  {
+    "postal": "N9Y3K0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3C1",
+        "streetName": "MALOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MALOTT AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6M9",
+    "result": []
+  },
+  {
+    "postal": "N9Y4N9",
+    "result": []
+  },
+  {
+    "postal": "N9Y3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y3Y7",
+        "streetName": "APPLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "APPLEWOOD RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2A9",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "QUEEN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6H5",
+    "result": []
+  },
+  {
+    "postal": "N9Y8B4",
+    "result": []
+  },
+  {
+    "postal": "N9Y4Z2",
+    "result": []
+  },
+  {
+    "postal": "N9Y9J0",
+    "result": []
+  },
+  {
+    "postal": "N9Y7V7",
+    "result": []
+  },
+  {
+    "postal": "N9Y5T5",
+    "result": []
+  },
+  {
+    "postal": "N9Y4W5",
+    "result": []
+  },
+  {
+    "postal": "N9Y1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1T8",
+        "streetName": "SPRUCE",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SPRUCE ST S, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9G6",
+    "result": []
+  },
+  {
+    "postal": "N9Y1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1H3",
+        "streetName": "COUNTY 20",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 20 RD W, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1H3",
+        "streetName": "MAIN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN ST W, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5R5",
+    "result": []
+  },
+  {
+    "postal": "N9Y8A4",
+    "result": []
+  },
+  {
+    "postal": "N9Y3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T6",
+        "streetName": "OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "OAK AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9W8",
+    "result": []
+  },
+  {
+    "postal": "N9Y0N3",
+    "result": []
+  },
+  {
+    "postal": "N9Y7V0",
+    "result": []
+  },
+  {
+    "postal": "N9Y8T5",
+    "result": []
+  },
+  {
+    "postal": "N9Y5N3",
+    "result": []
+  },
+  {
+    "postal": "N9Y5G9",
+    "result": []
+  },
+  {
+    "postal": "N9Y3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3X8",
+        "streetName": "COTTAGE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COTTAGE GROVE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9R3",
+    "result": []
+  },
+  {
+    "postal": "N9Y2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2S1",
+        "streetName": "BRIARWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BRIARWOOD CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9J7",
+    "result": []
+  },
+  {
+    "postal": "N9Y2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040,
+          10138044
+        ],
+        "postalCode": "N9Y2J3",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "QUEEN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3B6",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8J0",
+    "result": []
+  },
+  {
+    "postal": "N9Y7R4",
+    "result": []
+  },
+  {
+    "postal": "N9Y8K8",
+    "result": []
+  },
+  {
+    "postal": "N9Y4P3",
+    "result": []
+  },
+  {
+    "postal": "N9Y0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138017,
+          10138044
+        ],
+        "postalCode": "N9Y0A2",
+        "streetName": "METTAWAS",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "METTAWAS LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y2G2",
+        "streetName": "CHERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CHERRY LANE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5Y9",
+    "result": []
+  },
+  {
+    "postal": "N9Y7X0",
+    "result": []
+  },
+  {
+    "postal": "N9Y7W3",
+    "result": []
+  },
+  {
+    "postal": "N9Y7X5",
+    "result": []
+  },
+  {
+    "postal": "N9Y5K6",
+    "result": []
+  },
+  {
+    "postal": "N9Y5B6",
+    "result": []
+  },
+  {
+    "postal": "N9Y7Z0",
+    "result": []
+  },
+  {
+    "postal": "N9Y9H6",
+    "result": []
+  },
+  {
+    "postal": "N9Y1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1B4",
+        "streetName": "PULFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PULFORD ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1A0",
+    "result": []
+  },
+  {
+    "postal": "N9Y9A0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1M6",
+        "streetName": "PROSPECT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PROSPECT ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5H0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1K6",
+        "streetName": "MILL",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MILL ST E, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5E1",
+    "result": []
+  },
+  {
+    "postal": "N9Y3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3T9",
+        "streetName": "BIRCH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BIRCH AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2M6",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": "E",
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2M6",
+        "streetName": "SEACLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SEACLIFF DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y0G5",
+    "result": []
+  },
+  {
+    "postal": "N9Y0Y2",
+    "result": []
+  },
+  {
+    "postal": "N9Y2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138029
+        ],
+        "postalCode": "N9Y2Y7",
+        "streetName": "COUNTY 11+18",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "AMHERSTBURG",
+        "streetNameDisplayText": "COUNTY 11+18 RD, AMHERSTBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2Y7",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2J7",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PARK ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4K7",
+    "result": []
+  },
+  {
+    "postal": "N9Y7P9",
+    "result": []
+  },
+  {
+    "postal": "N9Y8X0",
+    "result": []
+  },
+  {
+    "postal": "N9Y3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y3X1",
+        "streetName": "FORD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "FORD ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1R5",
+        "streetName": "DIVISION",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIVISION ST S, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6X6",
+    "result": []
+  },
+  {
+    "postal": "N9Y0Y1",
+    "result": []
+  },
+  {
+    "postal": "N9Y8G1",
+    "result": []
+  },
+  {
+    "postal": "N9Y3J3",
+    "result": []
+  },
+  {
+    "postal": "N9Y8C2",
+    "result": []
+  },
+  {
+    "postal": "N9Y4X9",
+    "result": []
+  },
+  {
+    "postal": "N9Y6G9",
+    "result": []
+  },
+  {
+    "postal": "N9Y4M3",
+    "result": []
+  },
+  {
+    "postal": "N9Y9P7",
+    "result": []
+  },
+  {
+    "postal": "N9Y4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y4E5",
+        "streetName": "CONSERVATION",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CONSERVATION BLVD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y4E5",
+        "streetName": "CREEKVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CREEKVIEW BLVD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y4E5",
+        "streetName": "CREEKVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CREEKVIEW CRT, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y5K9",
+    "result": []
+  },
+  {
+    "postal": "N9Y2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V2",
+        "streetName": "COUNTY ROAD 45",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY ROAD 45 AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V2",
+        "streetName": "UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "AV",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "UNION AV, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2V2",
+        "streetName": "UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "UNION AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2N9",
+        "streetName": "MCCRACKEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCCRACKEN RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6L4",
+    "result": []
+  },
+  {
+    "postal": "N9Y8E0",
+    "result": []
+  },
+  {
+    "postal": "N9Y0N0",
+    "result": []
+  },
+  {
+    "postal": "N9Y6R0",
+    "result": []
+  },
+  {
+    "postal": "N9Y9C1",
+    "result": []
+  },
+  {
+    "postal": "N9Y4H4",
+    "result": []
+  },
+  {
+    "postal": "N9Y5W3",
+    "result": []
+  },
+  {
+    "postal": "N9Y9N9",
+    "result": []
+  },
+  {
+    "postal": "N9Y1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1V7",
+        "streetName": "PEARL",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PEARL ST W, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8J1",
+    "result": []
+  },
+  {
+    "postal": "N9Y5V9",
+    "result": []
+  },
+  {
+    "postal": "N9Y2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2S8",
+        "streetName": "OXFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "OXFORD AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6P0",
+    "result": []
+  },
+  {
+    "postal": "N9Y4J8",
+    "result": []
+  },
+  {
+    "postal": "N9Y0N1",
+    "result": []
+  },
+  {
+    "postal": "N9Y1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1Y7",
+        "streetName": "WOODLAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WOODLAWN CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7W5",
+    "result": []
+  },
+  {
+    "postal": "N9Y3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3Z1",
+        "streetName": "ESSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ESSEX ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7M6",
+    "result": []
+  },
+  {
+    "postal": "N9Y1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1W7",
+        "streetName": "ELM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ELM ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1X1",
+        "streetName": "ELM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ELM ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y0C1",
+    "result": []
+  },
+  {
+    "postal": "N9Y4N3",
+    "result": []
+  },
+  {
+    "postal": "N9Y4S8",
+    "result": []
+  },
+  {
+    "postal": "N9Y1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1H6",
+        "streetName": "COUNTY 20",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 20 RD W, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1H6",
+        "streetName": "MAIN",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN ST W, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2Z4",
+        "streetName": "COUNTY 29",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 29 RD N, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2Z4",
+        "streetName": "DIVISION",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIVISION RD N, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7K3",
+    "result": []
+  },
+  {
+    "postal": "N9Y8A2",
+    "result": []
+  },
+  {
+    "postal": "N9Y6J1",
+    "result": []
+  },
+  {
+    "postal": "N9Y5Z6",
+    "result": []
+  },
+  {
+    "postal": "N9Y3Z0",
+    "result": []
+  },
+  {
+    "postal": "N9Y8M0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1Z6",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "QUEEN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8K7",
+    "result": []
+  },
+  {
+    "postal": "N9Y1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1N3",
+        "streetName": "ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ERIE ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9S2",
+    "result": []
+  },
+  {
+    "postal": "N9Y2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y2K1",
+        "streetName": "WIGLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WIGLE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1E8",
+        "streetName": "WATERMILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WATERMILL ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9B8",
+    "result": []
+  },
+  {
+    "postal": "N9Y7X4",
+    "result": []
+  },
+  {
+    "postal": "N9Y1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y1Z4",
+        "streetName": "HAROLD CULL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HAROLD CULL DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y2C7",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2E7",
+    "result": []
+  },
+  {
+    "postal": "N9Y3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138030
+        ],
+        "postalCode": "N9Y3R1",
+        "streetName": "KING",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "HARROW",
+        "streetNameDisplayText": "KING ST W, HARROW"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138045
+        ],
+        "postalCode": "N9Y3R1",
+        "streetName": "SUMAC",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SUMAC DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4K4",
+    "result": []
+  },
+  {
+    "postal": "N9Y9G3",
+    "result": []
+  },
+  {
+    "postal": "N9Y6C9",
+    "result": []
+  },
+  {
+    "postal": "N9Y9H5",
+    "result": []
+  },
+  {
+    "postal": "N9Y1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1P5",
+        "streetName": "DIVISION",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIVISION ST S, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2J5",
+        "streetName": "BAYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BAYVIEW CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4W6",
+    "result": []
+  },
+  {
+    "postal": "N9Y8M8",
+    "result": []
+  },
+  {
+    "postal": "N9Y6C5",
+    "result": []
+  },
+  {
+    "postal": "N9Y9H0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1X8",
+        "streetName": "MCLEAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCLEAN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y3H4",
+        "streetName": "KENYON POINT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "KENYON POINT RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y4E7",
+        "streetName": "1",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "1 BLVD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y4E7",
+        "streetName": "CATALINA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CATALINA CRT, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y4E7",
+        "streetName": "MONTEGO BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MONTEGO BAY CRES, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8A0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1Z7",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "QUEEN ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7Z3",
+    "result": []
+  },
+  {
+    "postal": "N9Y0L7",
+    "result": []
+  },
+  {
+    "postal": "N9Y2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2C6",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6M3",
+    "result": []
+  },
+  {
+    "postal": "N9Y2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2J1",
+        "streetName": "PINEWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "PK",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "PINEWAY PK, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3E3",
+        "streetName": "ERIE",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ERIE AVE W, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6Z9",
+    "result": []
+  },
+  {
+    "postal": "N9Y3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3M3",
+        "streetName": "BAYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "BAYVIEW AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y9B1",
+    "result": []
+  },
+  {
+    "postal": "N9Y9J5",
+    "result": []
+  },
+  {
+    "postal": "N9Y4V8",
+    "result": []
+  },
+  {
+    "postal": "N9Y6W2",
+    "result": []
+  },
+  {
+    "postal": "N9Y0V5",
+    "result": []
+  },
+  {
+    "postal": "N9Y0Z8",
+    "result": []
+  },
+  {
+    "postal": "N9Y5G2",
+    "result": []
+  },
+  {
+    "postal": "N9Y4N4",
+    "result": []
+  },
+  {
+    "postal": "N9Y8G7",
+    "result": []
+  },
+  {
+    "postal": "N9Y8W1",
+    "result": []
+  },
+  {
+    "postal": "N9Y1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1S6",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LANSDOWNE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4E0",
+    "result": []
+  },
+  {
+    "postal": "N9Y4L9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5Z9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5V3",
+    "result": []
+  },
+  {
+    "postal": "N9Y4V2",
+    "result": []
+  },
+  {
+    "postal": "N9Y7C0",
+    "result": []
+  },
+  {
+    "postal": "N9Y6L0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1S9",
+        "streetName": "LANSDOWNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LANSDOWNE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7R6",
+    "result": []
+  },
+  {
+    "postal": "N9Y7J0",
+    "result": []
+  },
+  {
+    "postal": "N9Y5M0",
+    "result": []
+  },
+  {
+    "postal": "N9Y2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "3 CONC",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "3 CONC RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "3 CONC",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "RUTHVEN",
+        "streetNameDisplayText": "3 CONC RD, RUTHVEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "3",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "RUTHVEN",
+        "streetNameDisplayText": "3 RD E, RUTHVEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "31 COUNTY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "31 COUNTY RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "6TH CON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "6TH CON RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "6TH CONCESSION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "6TH CONCESSION RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ALBUNA",
+        "streetDirectionId": null,
+        "streetTypeId": "TLINE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ALBUNA TLINE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "COUNTY 18",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 18 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "COUNTY 23",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COTTAM",
+        "streetNameDisplayText": "COUNTY 23 RD, COTTAM"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "COUNTY 23",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 23 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "COUNTY 31",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 31 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "COUNTY 31",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "RUTHVEN",
+        "streetNameDisplayText": "COUNTY 31 RD, RUTHVEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "DIVISION",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "DIVISION RD N, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041,
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "GRAHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "GRAHAM SIDERD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "GRAHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "RUTHVEN",
+        "streetNameDisplayText": "GRAHAM SIDERD, RUTHVEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "MCCAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCCAIN SIDERD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 2",
+        "streetDirectionId": "E",
+        "streetTypeId": null,
+        "placeName": "RUTHVEN",
+        "streetNameDisplayText": "ROAD 2 E, RUTHVEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050,
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 3",
+        "streetDirectionId": "E",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 3 E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050,
+          10138013,
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 3 EAST",
+        "streetDirectionId": "E",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 3 EAST E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 3",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 3 RD W, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041,
+          10138038
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 3",
+        "streetDirectionId": "W",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 3 W, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041,
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 4",
+        "streetDirectionId": "E",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 4 E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 4 EAST",
+        "streetDirectionId": "E",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 4 EAST E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 4",
+        "streetDirectionId": "W",
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 4 W, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "ROAD 4E",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ROAD 4E, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "SETTERINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SETTERINGTON DR, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "SOUTH TALBOT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SOUTH TALBOT RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138050
+        ],
+        "postalCode": "N9Y2E5",
+        "streetName": "SPINKS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "SPINKS DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7C7",
+    "result": []
+  },
+  {
+    "postal": "N9Y5C0",
+    "result": []
+  },
+  {
+    "postal": "N9Y8V9",
+    "result": []
+  },
+  {
+    "postal": "N9Y7E0",
+    "result": []
+  },
+  {
+    "postal": "N9Y6R4",
+    "result": []
+  },
+  {
+    "postal": "N9Y3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y3Z7",
+        "streetName": "GLADSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "GLADSTONE AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y3Z7",
+        "streetName": "STATION",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "STATION CRT, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y3Z7",
+        "streetName": "TRAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "TRAIN CRT, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y3Z7",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WALKER DR, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1J9",
+        "streetName": "CHESTNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CHESTNUT ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7K6",
+    "result": []
+  },
+  {
+    "postal": "N9Y7Y5",
+    "result": []
+  },
+  {
+    "postal": "N9Y1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138041
+        ],
+        "postalCode": "N9Y1B7",
+        "streetName": "THORNCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "THORNCREST ST, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y4S9",
+    "result": []
+  },
+  {
+    "postal": "N9Y9R9",
+    "result": []
+  },
+  {
+    "postal": "N9Y5K7",
+    "result": []
+  },
+  {
+    "postal": "N9Y6P2",
+    "result": []
+  },
+  {
+    "postal": "N9Y2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y2C5",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2N0",
+    "result": []
+  },
+  {
+    "postal": "N9Y1G0",
+    "result": []
+  },
+  {
+    "postal": "N9Y4K5",
+    "result": []
+  },
+  {
+    "postal": "N9Y9B5",
+    "result": []
+  },
+  {
+    "postal": "N9Y6T5",
+    "result": []
+  },
+  {
+    "postal": "N9Y1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138044
+        ],
+        "postalCode": "N9Y1N8",
+        "streetName": "LAKEVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LAKEVIEW AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y0C0",
+    "result": []
+  },
+  {
+    "postal": "N9Y0R9",
+    "result": []
+  },
+  {
+    "postal": "N9Y7L1",
+    "result": []
+  },
+  {
+    "postal": "N9Y3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040
+        ],
+        "postalCode": "N9Y3Y8",
+        "streetName": "LAWNDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LAWNDALE AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y7X9",
+    "result": []
+  },
+  {
+    "postal": "N9Y1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1A7",
+        "streetName": "MAIN",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN ST E, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138017,
+          10138050
+        ],
+        "postalCode": "N9Y2T9",
+        "streetName": "WELLINGTON UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "WELLINGTON UNION AVE, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038,
+          10138032
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "ARNER",
+        "streetDirectionId": null,
+        "streetTypeId": "TLINE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ARNER TLINE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "CANAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CANAL ST, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "CEDAR ISLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CEDAR ISLAND RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "CENTRE AVE, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038,
+          10138040
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "COUNTY 20",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 20 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138032
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "COUNTY 23",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "HARROW",
+        "streetNameDisplayText": "COUNTY 23 RD, HARROW"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038,
+          10138032
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "COUNTY 23",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 23 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "COUNTY 50",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY 50 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138040,
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "COUNTY RD 20",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY RD 20 RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "COUNTY RD 20",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "COUNTY RD 20, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "EDITH",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "EDITH PL, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "ELINOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "ELINOR ST, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "HERITAGE RD, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "LORNA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "LORNA ST, KINGSVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138038
+        ],
+        "postalCode": "N9Y2E6",
+        "streetName": "MCCAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MCCAIN SIDERD, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y8Y1",
+    "result": []
+  },
+  {
+    "postal": "N9Y0J5",
+    "result": []
+  },
+  {
+    "postal": "N9Y4J1",
+    "result": []
+  },
+  {
+    "postal": "N9Y1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 27,
+            "setId": 0,
+            "name": "Essex"
+          }
+        ],
+        "pollDivisionIds": [
+          10138043
+        ],
+        "postalCode": "N9Y1A5",
+        "streetName": "MAIN",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "KINGSVILLE",
+        "streetNameDisplayText": "MAIN ST E, KINGSVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "N9Y6Z6",
+    "result": []
+  },
+  {
+    "postal": "N9Y5K4",
+    "result": []
+  },
+  {
+    "postal": "N9Y7R9",
+    "result": []
+  },
+  {
+    "postal": "N9Y6G4",
+    "result": []
   }
 ]

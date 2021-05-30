@@ -11542,5 +11542,7627 @@
   {
     "postal": "L5N0W6",
     "result": []
+  },
+  {
+    "postal": "L5N4C5",
+    "result": []
+  },
+  {
+    "postal": "L5N7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N7E4",
+        "streetName": "DILLINGWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DILLINGWOOD DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N7E4",
+        "streetName": "DUNNVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DUNNVIEW CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N1R9",
+        "streetName": "AVILA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AVILA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2P0",
+    "result": []
+  },
+  {
+    "postal": "L5N5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N5S4",
+        "streetName": "TENTH",
+        "streetDirectionId": "W",
+        "streetTypeId": "LINE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TENTH LINE W, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K8",
+        "streetName": "MOCKINGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MOCKINGBIRD LANES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K8",
+        "streetName": "SNOW GOOSE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SNOW GOOSE LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N8K4",
+        "streetName": "ARGENTIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ARGENTIA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N7C1",
+        "streetName": "NINTH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NINTH LINE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N7K9",
+        "streetName": "SYNTEX",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SYNTEX CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5J1",
+        "streetName": "SNOW GOOSE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SNOW GOOSE LANES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5J1",
+        "streetName": "SNOW GOOSE LANES",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SNOW GOOSE LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4P9",
+        "streetName": "SIR MONTY'S",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SIR MONTY'S DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0N2",
+    "result": []
+  },
+  {
+    "postal": "L5N2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2G6",
+        "streetName": "LOS PALMAS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LOS PALMAS CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N6P4",
+        "streetName": "PEBBLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PEBBLEWOOD RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N6P4",
+        "streetName": "SHADETREE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SHADETREE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3J0",
+    "result": []
+  },
+  {
+    "postal": "L5N8X4",
+    "result": []
+  },
+  {
+    "postal": "L5N1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N1Y3",
+        "streetName": "CADIZ",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CADIZ CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N1A8",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N6Y5",
+        "streetName": "STONEYWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "STONEYWOOD WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0J6",
+    "result": []
+  },
+  {
+    "postal": "L5N2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N2C9",
+        "streetName": "COPENHAGEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "COPENHAGEN RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N8J6",
+        "streetName": "LISGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LISGAR DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N8J6",
+        "streetName": "MIRIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MIRIAM WAY, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N8J6",
+        "streetName": "SWANSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SWANSON DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8T4",
+    "result": []
+  },
+  {
+    "postal": "L5N1P7",
+    "result": []
+  },
+  {
+    "postal": "L5N9V9",
+    "result": []
+  },
+  {
+    "postal": "L5N0M1",
+    "result": []
+  },
+  {
+    "postal": "L5N6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6K5",
+        "streetName": "SEABREEZE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SEABREEZE DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6K5",
+        "streetName": "STRATA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "STRATA CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2T5",
+        "streetName": "CARIBOU",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CARIBOU PL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N7E9",
+        "streetName": "SUMMER HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SUMMER HEIGHTS DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K5",
+        "streetName": "MOCKINGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MOCKINGBIRD LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3R5",
+    "result": []
+  },
+  {
+    "postal": "L5N5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5B1",
+        "streetName": "HICKLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HICKLING CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N2P1",
+        "streetName": "TURNER VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TURNER VALLEY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7L0",
+    "result": []
+  },
+  {
+    "postal": "L5N3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3L6",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2A4",
+        "streetName": "INLAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "INLAKE CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8S0",
+    "result": []
+  },
+  {
+    "postal": "L5N3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N3L5",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2R5",
+    "result": []
+  },
+  {
+    "postal": "L5N9T6",
+    "result": []
+  },
+  {
+    "postal": "L5N8Z2",
+    "result": []
+  },
+  {
+    "postal": "L5N0E9",
+    "result": []
+  },
+  {
+    "postal": "L5N8C0",
+    "result": []
+  },
+  {
+    "postal": "L5N3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3K7",
+        "streetName": "MELTZER",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MELTZER MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N2H3",
+        "streetName": "BARRISDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BARRISDALE DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N2Y6",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N7M2",
+        "streetName": "LABURNUM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LABURNUM CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N6E2",
+        "streetName": "WARBLER",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WARBLER LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3R0",
+    "result": []
+  },
+  {
+    "postal": "L5N4J7",
+    "result": []
+  },
+  {
+    "postal": "L5N6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N6N8",
+        "streetName": "TRELAWNY",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TRELAWNY CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0J7",
+    "result": []
+  },
+  {
+    "postal": "L5N7P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N7P2",
+        "streetName": "MEADOWPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MEADOWPINE BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3T8",
+    "result": []
+  },
+  {
+    "postal": "L5N3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N3S7",
+        "streetName": "ARGENTIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ARGENTIA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2S7",
+        "streetName": "BATTLEFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BATTLEFORD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N1S4",
+        "streetName": "PAMPLONA",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PAMPLONA MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139839
+        ],
+        "postalCode": "L5N1L8",
+        "streetName": "MILLCREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MILLCREEK DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8E9",
+        "streetName": "CREDITVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CREDITVIEW RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0T0",
+    "result": []
+  },
+  {
+    "postal": "L5N3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3G4",
+        "streetName": "PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PATRICK CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0V6",
+    "result": []
+  },
+  {
+    "postal": "L5N4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4W1",
+        "streetName": "DOLMAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DOLMAGE CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4W1",
+        "streetName": "OLYMPUS",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "OLYMPUS MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9G9",
+    "result": []
+  },
+  {
+    "postal": "L5N5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5W4",
+        "streetName": "OSPREY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "OSPREY BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N7M8",
+        "streetName": "BLACK WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BLACK WALNUT TRAIL, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N7M8",
+        "streetName": "SCOTCH PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SCOTCH PINE GATE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N2C2",
+        "streetName": "TAMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TAMAR RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4Y2",
+        "streetName": "HARRIS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HARRIS CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9X9",
+    "result": []
+  },
+  {
+    "postal": "L5N3T0",
+    "result": []
+  },
+  {
+    "postal": "L5N4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4T8",
+        "streetName": "BRACKNELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRACKNELL CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9C4",
+    "result": []
+  },
+  {
+    "postal": "L5N8P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N8P2",
+        "streetName": "BREAD FRUIT",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BREAD FRUIT LANE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N8P2",
+        "streetName": "PASSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PASSWAY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0Y8",
+    "result": []
+  },
+  {
+    "postal": "L5N1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1G8",
+        "streetName": "SUBURBAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SUBURBAN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2T6",
+        "streetName": "CARIBOU",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CARIBOU PL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N1N7",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0L6",
+    "result": []
+  },
+  {
+    "postal": "L5N9V4",
+    "result": []
+  },
+  {
+    "postal": "L5N2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2V1",
+        "streetName": "KENNINGHALL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KENNINGHALL CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N3L8",
+        "streetName": "FALCONER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FALCONER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2R8",
+        "streetName": "CHIDHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHIDHAM CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5C1",
+        "streetName": "CORRINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CORRINE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4W3",
+        "streetName": "BRACKNELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRACKNELL CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N5X5",
+        "streetName": "SUNDEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SUNDEW CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9W5",
+    "result": []
+  },
+  {
+    "postal": "L5N3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3C4",
+        "streetName": "KILBRIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KILBRIDE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N1N6",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9S9",
+    "result": []
+  },
+  {
+    "postal": "L5N9M2",
+    "result": []
+  },
+  {
+    "postal": "L5N8Y4",
+    "result": []
+  },
+  {
+    "postal": "L5N7S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7S4",
+        "streetName": "STEVINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "STEVINGTON CRES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7S4",
+        "streetName": "TOTTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TOTTINGTON DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0K6",
+    "result": []
+  },
+  {
+    "postal": "L5N1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N1W3",
+        "streetName": "KITIMAT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KITIMAT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R2",
+        "streetName": "FRONTIER",
+        "streetDirectionId": null,
+        "streetTypeId": "RIDGE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FRONTIER RIDGE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R2",
+        "streetName": "WALDORF",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WALDORF WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N2Y9",
+        "streetName": "FARMSTEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FARMSTEAD LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N7G4",
+        "streetName": "ALTHORPE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ALTHORPE CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7E5",
+    "result": []
+  },
+  {
+    "postal": "L5N9G2",
+    "result": []
+  },
+  {
+    "postal": "L5N7Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7Y8",
+        "streetName": "BELLSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BELLSHIRE GATE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7Y8",
+        "streetName": "TORRISDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TORRISDALE LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9V2",
+    "result": []
+  },
+  {
+    "postal": "L5N3T7",
+    "result": []
+  },
+  {
+    "postal": "L5N1H0",
+    "result": []
+  },
+  {
+    "postal": "L5N1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N1M7",
+        "streetName": "CANBERRA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CANBERRA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8V4",
+    "result": []
+  },
+  {
+    "postal": "L5N4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4M2",
+        "streetName": "LOGANDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LOGANDALE DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4M2",
+        "streetName": "ST IVES",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ST IVES WAY, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4M2",
+        "streetName": "ST. IVES",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ST. IVES WAY, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4M2",
+        "streetName": "TILLSDOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TILLSDOWN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0X2",
+    "result": []
+  },
+  {
+    "postal": "L5N5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N5Z4",
+        "streetName": "RAPISTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "RAPISTAN CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6V4",
+        "streetName": "FORRESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FORRESTDALE CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8J3",
+        "streetName": "DOVERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DOVERWOOD DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8J3",
+        "streetName": "JAYSNEST",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JAYSNEST RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8E5",
+        "streetName": "PALLETT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PALLETT CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2V5",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7S1",
+    "result": []
+  },
+  {
+    "postal": "L5N6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6V3",
+        "streetName": "FORRESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FORRESTDALE CIR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6V3",
+        "streetName": "WILD FLOWERS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WILD FLOWERS CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6V3",
+        "streetName": "WILDFLOWERS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WILDFLOWERS CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2L8",
+        "streetName": "CAMPOBELLO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CAMPOBELLO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9V0",
+    "result": []
+  },
+  {
+    "postal": "L5N3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N3M4",
+        "streetName": "GLEN ERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GLEN ERIN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5B2",
+        "streetName": "DANTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PROM",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DANTON PROM, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3X5",
+    "result": []
+  },
+  {
+    "postal": "L5N9R7",
+    "result": []
+  },
+  {
+    "postal": "L5N2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103069
+        ],
+        "postalCode": "L5N2X2",
+        "streetName": "GLEN ERIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GLEN ERIN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8Z6",
+    "result": []
+  },
+  {
+    "postal": "L5N4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4R4",
+        "streetName": "HOLLYWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HOLLYWELL AVE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4R4",
+        "streetName": "SIR MONTY'S",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SIR MONTY'S DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2R1",
+        "streetName": "JUDIQUE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JUDIQUE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N3R8",
+        "streetName": "BATTLEFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BATTLEFORD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9A1",
+    "result": []
+  },
+  {
+    "postal": "L5N8L3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N8L3",
+        "streetName": "LOWVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "HTS",
+        "placeName": "MISSASSAUGA",
+        "streetNameDisplayText": "LOWVILLE HTS, MISSASSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834,
+          10139836
+        ],
+        "postalCode": "L5N8L3",
+        "streetName": "LOWVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "HTS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LOWVILLE HTS, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8L3",
+        "streetName": "WATERGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WATERGROVE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9K4",
+    "result": []
+  },
+  {
+    "postal": "L5N9S3",
+    "result": []
+  },
+  {
+    "postal": "L5N8N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8N7",
+        "streetName": "GOLDEN LOCUST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GOLDEN LOCUST DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8N7",
+        "streetName": "RUSSIAN OLIVE",
+        "streetDirectionId": null,
+        "streetTypeId": "CLOSE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "RUSSIAN OLIVE CLOSE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1C6",
+        "streetName": "PLAINSMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PLAINSMAN RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3Z8",
+    "result": []
+  },
+  {
+    "postal": "L5N8G5",
+    "result": []
+  },
+  {
+    "postal": "L5N5R6",
+    "result": []
+  },
+  {
+    "postal": "L5N2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N2W3",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0A0",
+    "result": []
+  },
+  {
+    "postal": "L5N6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6P8",
+        "streetName": "EAST DANBRO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EAST DANBRO CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N8N9",
+        "streetName": "CORK TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "ROW",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CORK TREE ROW, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835,
+          10139834
+        ],
+        "postalCode": "L5N8N9",
+        "streetName": "PASSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PASSWAY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0S9",
+    "result": []
+  },
+  {
+    "postal": "L5N8G0",
+    "result": []
+  },
+  {
+    "postal": "L5N8C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N8C7",
+        "streetName": "MEADOWPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MEADOWPINE BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N5X8",
+        "streetName": "GREENBELT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GREENBELT CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N7E8",
+        "streetName": "AZELIA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AZELIA CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N7E8",
+        "streetName": "ELMBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ELMBROOK CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N7E8",
+        "streetName": "JUNEBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JUNEBERRY RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N7E8",
+        "streetName": "SUMMER HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SUMMER HEIGHTS DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N6X2",
+        "streetName": "CEDAR HEDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RISE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CEDAR HEDGE RISE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N6X2",
+        "streetName": "LISGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LISGAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4C6",
+    "result": []
+  },
+  {
+    "postal": "L5N7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N7H2",
+        "streetName": "SPYGLASS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SPYGLASS CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4R0",
+    "result": []
+  },
+  {
+    "postal": "L5N6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N6J3",
+        "streetName": "KITIMAT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KITIMAT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4B8",
+    "result": []
+  },
+  {
+    "postal": "L5N6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6H6",
+        "streetName": "MEADOWPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MEADOWPINE BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0S1",
+    "result": []
+  },
+  {
+    "postal": "L5N4E3",
+    "result": []
+  },
+  {
+    "postal": "L5N7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N7K2",
+        "streetName": "CENTURY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CENTURY AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7T8",
+        "streetName": "FOREST BLUFF",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FOREST BLUFF CRES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7T8",
+        "streetName": "RIDGEPOINT",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "RIDGEPOINT WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0J9",
+    "result": []
+  },
+  {
+    "postal": "L5N5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5J9",
+        "streetName": "MOCKINGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MOCKINGBIRD LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N5S7",
+        "streetName": "TENTH",
+        "streetDirectionId": "W",
+        "streetTypeId": "LINE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TENTH LINE W, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0G9",
+    "result": []
+  },
+  {
+    "postal": "L5N3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3J9",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2Y0",
+    "result": []
+  },
+  {
+    "postal": "L5N8X5",
+    "result": []
+  },
+  {
+    "postal": "L5N2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2M7",
+        "streetName": "CHAUMONT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHAUMONT CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9Z3",
+    "result": []
+  },
+  {
+    "postal": "L5N7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7W2",
+        "streetName": "FOREST BLUFF",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FOREST BLUFF CRES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7W2",
+        "streetName": "LISGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LISGAR DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3W0",
+    "result": []
+  },
+  {
+    "postal": "L5N3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N3M1",
+        "streetName": "FALCONER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FALCONER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N6A5",
+        "streetName": "ARGENTIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ARGENTIA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2M9",
+        "streetName": "INLAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "INLAKE CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5C3",
+        "streetName": "CORRINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CORRINE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0Y6",
+    "result": []
+  },
+  {
+    "postal": "L5N9H7",
+    "result": []
+  },
+  {
+    "postal": "L5N3L0",
+    "result": []
+  },
+  {
+    "postal": "L5N5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5N9",
+        "streetName": "ASPEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ASPEN AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5E3",
+        "streetName": "AUGUSTA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AUGUSTA DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N7M9",
+        "streetName": "SCOTCH PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SCOTCH PINE GATE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836,
+          10139834
+        ],
+        "postalCode": "L5N7M9",
+        "streetName": "TERRAGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TERRAGAR BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8N2",
+        "streetName": "PARTITION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PARTITION RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8N2",
+        "streetName": "PASSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PASSWAY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9H3",
+    "result": []
+  },
+  {
+    "postal": "L5N2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2K8",
+        "streetName": "FALCONER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FALCONER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9L0",
+    "result": []
+  },
+  {
+    "postal": "L5N6L9",
+    "result": []
+  },
+  {
+    "postal": "L5N6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N6A8",
+        "streetName": "COLUMBINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "COLUMBINE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2K6",
+        "streetName": "WINDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WINDWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2M0",
+    "result": []
+  },
+  {
+    "postal": "L5N5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N5X7",
+        "streetName": "GREENBELT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GREENBELT CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0M7",
+    "result": []
+  },
+  {
+    "postal": "L5N7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N7A6",
+        "streetName": "DERRY",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DERRY RD W, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3C5",
+        "streetName": "KILBRIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KILBRIDE CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2P2",
+        "streetName": "WINDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WINDWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9N4",
+    "result": []
+  },
+  {
+    "postal": "L5N3M9",
+    "result": []
+  },
+  {
+    "postal": "L5N8K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8K6",
+        "streetName": "SPRING GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SPRING GARDEN CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1L2",
+        "streetName": "DUNRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DUNRAY CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N2Z9",
+        "streetName": "KEYNES",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KEYNES CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2S2",
+    "result": []
+  },
+  {
+    "postal": "L5N2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N2W2",
+        "streetName": "BATTLEFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BATTLEFORD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N2C3",
+        "streetName": "COPENHAGEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "COPENHAGEN RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6L7",
+        "streetName": "MEADOWPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MEADOWPINE BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3K0",
+    "result": []
+  },
+  {
+    "postal": "L5N3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3C1",
+        "streetName": "KINDREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KINDREE CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N6M9",
+        "streetName": "ASPEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ASPEN AVE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N6M9",
+        "streetName": "DALEHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DALEHURST DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837,
+          10139834
+        ],
+        "postalCode": "L5N6M9",
+        "streetName": "OAKVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "OAKVIEW RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4N9",
+        "streetName": "SIR MONTY'S",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SIR MONTY'S DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3Y7",
+    "result": []
+  },
+  {
+    "postal": "L5N2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2A9",
+        "streetName": "WINDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WINDWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6H5",
+        "streetName": "SYNTEX",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SYNTEX DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8B4",
+        "streetName": "QUEST",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "QUEST CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4Z2",
+        "streetName": "CORDINGLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CORDINGLEY CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9J0",
+    "result": []
+  },
+  {
+    "postal": "L5N7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7V7",
+        "streetName": "BENTRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BENTRIDGE RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N7V7",
+        "streetName": "SARATOGA",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SARATOGA WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5T5",
+        "streetName": "TENTH",
+        "streetDirectionId": "W",
+        "streetTypeId": "LINE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TENTH LINE W, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4W5",
+        "streetName": "BRACKNELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRACKNELL CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N1T8",
+        "streetName": "SHELTER BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SHELTER BAY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9G6",
+    "result": []
+  },
+  {
+    "postal": "L5N1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1H3",
+        "streetName": "SHADY LAWN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SHADY LAWN CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N5R5",
+        "streetName": "MINNESOTA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MINNESOTA CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8A4",
+        "streetName": "BLACK WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BLACK WALNUT TRAIL, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8A4",
+        "streetName": "GUMWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GUMWOOD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N3T6",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9W8",
+    "result": []
+  },
+  {
+    "postal": "L5N0N3",
+    "result": []
+  },
+  {
+    "postal": "L5N7V0",
+    "result": []
+  },
+  {
+    "postal": "L5N8T5",
+    "result": []
+  },
+  {
+    "postal": "L5N5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N5N3",
+        "streetName": "ARGENTIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ARGENTIA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5G9",
+        "streetName": "TRELAWNY",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TRELAWNY CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3X8",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9R3",
+    "result": []
+  },
+  {
+    "postal": "L5N2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2S1",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9J7",
+    "result": []
+  },
+  {
+    "postal": "L5N2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2J3",
+        "streetName": "LORCA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LORCA CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3B6",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8J0",
+    "result": []
+  },
+  {
+    "postal": "L5N7R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R4",
+        "streetName": "FRONTIER",
+        "streetDirectionId": null,
+        "streetTypeId": "RIDGE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FRONTIER RIDGE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R4",
+        "streetName": "INUIT",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "INUIT TRAIL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N8K8",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4P3",
+        "streetName": "HOLLYWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HOLLYWELL AVE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4P3",
+        "streetName": "STANCOMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "STANCOMBE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0A2",
+    "result": []
+  },
+  {
+    "postal": "L5N2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2G2",
+        "streetName": "COBBINSHAW",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "COBBINSHAW CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5Y9",
+        "streetName": "PRAIRIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PRAIRIE CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7X0",
+    "result": []
+  },
+  {
+    "postal": "L5N7W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7W3",
+        "streetName": "FOXBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FOXBOROUGH TRAIL, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7W3",
+        "streetName": "GLEN MEADOWS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GLEN MEADOWS RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N7W3",
+        "streetName": "SPICEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SPICEWOOD WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N7X5",
+        "streetName": "MEADOWPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MEADOWPINE BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K6",
+        "streetName": "MOCKINGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MOCKINGBIRD LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5B6",
+        "streetName": "ILOMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ILOMAR CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7Z0",
+    "result": []
+  },
+  {
+    "postal": "L5N9H6",
+    "result": []
+  },
+  {
+    "postal": "L5N1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1B4",
+        "streetName": "FALCONER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FALCONER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1A0",
+    "result": []
+  },
+  {
+    "postal": "L5N9A0",
+    "result": []
+  },
+  {
+    "postal": "L5N1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N1M6",
+        "streetName": "KITIMAT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KITIMAT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5H0",
+    "result": []
+  },
+  {
+    "postal": "L5N1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1K6",
+        "streetName": "LISBON",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LISBON MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5E1",
+        "streetName": "AUGUSTA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AUGUSTA DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5E1",
+        "streetName": "PENDLETON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PENDLETON RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3T9",
+    "result": []
+  },
+  {
+    "postal": "L5N2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N2M6",
+        "streetName": "TORQUAY",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TORQUAY MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0G5",
+    "result": []
+  },
+  {
+    "postal": "L5N0Y2",
+    "result": []
+  },
+  {
+    "postal": "L5N2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N2Y7",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2J7",
+        "streetName": "NEUCHATEL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NEUCHATEL RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N4K7",
+        "streetName": "MARKWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MARKWOOD PL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7P9",
+        "streetName": "FRONTIER",
+        "streetDirectionId": null,
+        "streetTypeId": "RIDGE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FRONTIER RIDGE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7P9",
+        "streetName": "WHIFFLETREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WHIFFLETREE CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8X0",
+    "result": []
+  },
+  {
+    "postal": "L5N3X1",
+    "result": []
+  },
+  {
+    "postal": "L5N1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N1R5",
+        "streetName": "ARVIDA",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ARVIDA CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6X6",
+        "streetName": "FOREST PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FOREST PARK DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6X6",
+        "streetName": "JUNEBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JUNEBERRY RD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139836
+        ],
+        "postalCode": "L5N6X6",
+        "streetName": "ROUND LEAF",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ROUND LEAF CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0Y1",
+    "result": []
+  },
+  {
+    "postal": "L5N8G1",
+    "result": []
+  },
+  {
+    "postal": "L5N3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3J3",
+        "streetName": "OKA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "OKA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N8C2",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MEADOWVALE BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4X9",
+        "streetName": "HICKLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HICKLING CRES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4X9",
+        "streetName": "HICKLING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HICKLING CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N6G9",
+        "streetName": "SNOWFLAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SNOWFLAKE LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4M3",
+        "streetName": "KIRKBY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KIRKBY LANE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4M3",
+        "streetName": "TILLSDOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TILLSDOWN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9P7",
+    "result": []
+  },
+  {
+    "postal": "L5N4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4E5",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K9",
+        "streetName": "TENTH",
+        "streetDirectionId": "W",
+        "streetTypeId": "LINE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TENTH LINE W, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2V2",
+        "streetName": "STEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "STEEN DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2N9",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N6L4",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8E0",
+    "result": []
+  },
+  {
+    "postal": "L5N0N0",
+    "result": []
+  },
+  {
+    "postal": "L5N6R0",
+    "result": []
+  },
+  {
+    "postal": "L5N9C1",
+    "result": []
+  },
+  {
+    "postal": "L5N4H4",
+    "result": []
+  },
+  {
+    "postal": "L5N5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5W3",
+        "streetName": "OSPREY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "OSPREY BLVD, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5W3",
+        "streetName": "WAXWING",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WAXWING DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9N9",
+    "result": []
+  },
+  {
+    "postal": "L5N1V7",
+    "result": []
+  },
+  {
+    "postal": "L5N8J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8J1",
+        "streetName": "DOVERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DOVERWOOD DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8J1",
+        "streetName": "JAYSNEST",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "JAYSNEST RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5V9",
+        "streetName": "SALTMARSH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SALTMARSH CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          },
+          {
+            "election": null,
+            "id": 64,
+            "name": "Mississauga—Malton"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847,
+          10139822
+        ],
+        "postalCode": "L5N2S8",
+        "streetName": "WINDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WINDWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6P0",
+    "result": []
+  },
+  {
+    "postal": "L5N4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N4J8",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0N1",
+    "result": []
+  },
+  {
+    "postal": "L5N1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N1Y7",
+        "streetName": "TAMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TAMAR RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N7W5",
+        "streetName": "MILLTOWER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MILLTOWER CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3Z1",
+    "result": []
+  },
+  {
+    "postal": "L5N7M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N7M6",
+        "streetName": "BLACK WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BLACK WALNUT TRAIL, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N7M6",
+        "streetName": "SNOWBALL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SNOWBALL RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N1W7",
+        "streetName": "WINDWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WINDWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N1X1",
+        "streetName": "STARFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "STARFIELD CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N0C1",
+        "streetName": "NINTH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NINTH LINE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4N3",
+        "streetName": "CAMGREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CAMGREEN CIR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832,
+          10139833
+        ],
+        "postalCode": "L5N4N3",
+        "streetName": "HARSMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HARSMERE LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4S8",
+        "streetName": "EUROPA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EUROPA CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4S8",
+        "streetName": "GANYMEDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GANYMEDE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1H6",
+        "streetName": "ALPHA MILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ALPHA MILLS RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N2Z4",
+        "streetName": "FARMSTEAD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FARMSTEAD LANE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139849
+        ],
+        "postalCode": "L5N7K3",
+        "streetName": "SNOWY OWL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SNOWY OWL CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8A2",
+        "streetName": "BELLSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BELLSHIRE GATE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8A2",
+        "streetName": "SAMUELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SAMUELSON CIR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8A2",
+        "streetName": "WESTBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "WESTBRIDGE WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N6J1",
+        "streetName": "KITIMAT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KITIMAT RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N5Z6",
+        "streetName": "MILLTOWER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MILLTOWER CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3Z0",
+    "result": []
+  },
+  {
+    "postal": "L5N8M0",
+    "result": []
+  },
+  {
+    "postal": "L5N1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N1Z6",
+        "streetName": "QUETTA",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "QUETTA MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N8K7",
+        "streetName": "SPRING GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SPRING GARDEN CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N1N3",
+        "streetName": "ESTORIL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ESTORIL RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9S2",
+    "result": []
+  },
+  {
+    "postal": "L5N2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2K1",
+        "streetName": "GLACE BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GLACE BAY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1E8",
+        "streetName": "CHARING",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHARING DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9B8",
+    "result": []
+  },
+  {
+    "postal": "L5N7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7X4",
+        "streetName": "GODWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GODWICK DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7X4",
+        "streetName": "QUEST",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "QUEST CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N1Z4",
+        "streetName": "BENDIGO",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BENDIGO CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139828,
+          10103051
+        ],
+        "postalCode": "L5N2C7",
+        "streetName": "AQUITAINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AQUITAINE AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2E7",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3R1",
+    "result": []
+  },
+  {
+    "postal": "L5N4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N4K4",
+        "streetName": "TREVISO",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TREVISO TERR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9G3",
+    "result": []
+  },
+  {
+    "postal": "L5N6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N6C9",
+        "streetName": "MAGPIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ROW",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MAGPIE ROW, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N6C9",
+        "streetName": "PINTAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PINTAIL CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9H5",
+    "result": []
+  },
+  {
+    "postal": "L5N1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1P5",
+        "streetName": "FALCONER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FALCONER DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2J5",
+        "streetName": "CRICKADORN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CRICKADORN CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4W6",
+        "streetName": "PLUM TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PLUM TREE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8M8",
+        "streetName": "CACTUS",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CACTUS GATE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N8M8",
+        "streetName": "CRIMSON KING",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CRIMSON KING CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N6C5",
+        "streetName": "ARGENTIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ARGENTIA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9H0",
+    "result": []
+  },
+  {
+    "postal": "L5N1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N1X8",
+        "streetName": "PADDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "PADDLE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3H4",
+        "streetName": "MC CARRON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MC CARRON CRES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3H4",
+        "streetName": "MCCARRON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MCCARRON CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N4E7",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8A0",
+    "result": []
+  },
+  {
+    "postal": "L5N1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N1Z7",
+        "streetName": "QUETTA",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "QUETTA MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7Z3",
+        "streetName": "AVON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "AVON DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7Z3",
+        "streetName": "GLAMORGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GLAMORGAN WAY, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7Z3",
+        "streetName": "KIDLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KIDLINGTON GATE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0L7",
+    "result": []
+  },
+  {
+    "postal": "L5N2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N2C6",
+        "streetName": "COPENHAGEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "COPENHAGEN RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6M3",
+    "result": []
+  },
+  {
+    "postal": "L5N2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139847
+        ],
+        "postalCode": "L5N2J1",
+        "streetName": "ATHERLY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ATHERLY CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3E3",
+        "streetName": "COLEBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "COLEBROOK CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N6Z9",
+        "streetName": "DILLINGWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DILLINGWOOD DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N6Z9",
+        "streetName": "YARROW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "YARROW AVE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N3M3",
+        "streetName": "EDENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "EDENWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9B1",
+    "result": []
+  },
+  {
+    "postal": "L5N9J5",
+    "result": []
+  },
+  {
+    "postal": "L5N4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N4V8",
+        "streetName": "OLYMPUS",
+        "streetDirectionId": null,
+        "streetTypeId": "MEWS",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "OLYMPUS MEWS, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139844
+        ],
+        "postalCode": "L5N6W2",
+        "streetName": "ALDERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ALDERWOOD TRAIL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0V5",
+    "result": []
+  },
+  {
+    "postal": "L5N0Z8",
+    "result": []
+  },
+  {
+    "postal": "L5N5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837
+        ],
+        "postalCode": "L5N5G2",
+        "streetName": "CAMBOURNE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CAMBOURNE CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4N4",
+        "streetName": "CAMGREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CAMGREEN CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8G7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N8G7",
+        "streetName": "CORK TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "ROW",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CORK TREE ROW, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139835
+        ],
+        "postalCode": "L5N8G7",
+        "streetName": "TERRAGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TERRAGAR BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8W1",
+    "result": []
+  },
+  {
+    "postal": "L5N1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N1S6",
+        "streetName": "SAINT MALO",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SAINT MALO CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4E0",
+    "result": []
+  },
+  {
+    "postal": "L5N4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4L9",
+        "streetName": "LOGANDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "LOGANDALE DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4L9",
+        "streetName": "ST IVES",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ST IVES WAY, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N4L9",
+        "streetName": "ST. IVES",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ST. IVES WAY, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N5Z9",
+        "streetName": "BATTLEFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BATTLEFORD RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5V3",
+    "result": []
+  },
+  {
+    "postal": "L5N4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4V2",
+        "streetName": "GANYMEDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GANYMEDE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7C0",
+    "result": []
+  },
+  {
+    "postal": "L5N6L0",
+    "result": []
+  },
+  {
+    "postal": "L5N1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N1S9",
+        "streetName": "SAINT MALO",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SAINT MALO CIR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R6",
+        "streetName": "FRONTIER",
+        "streetDirectionId": null,
+        "streetTypeId": "RIDGE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FRONTIER RIDGE, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7J0",
+    "result": []
+  },
+  {
+    "postal": "L5N5M0",
+    "result": []
+  },
+  {
+    "postal": "L5N2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2E5",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139831
+        ],
+        "postalCode": "L5N7C7",
+        "streetName": "CROSSCURRENT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CROSSCURRENT DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5C0",
+    "result": []
+  },
+  {
+    "postal": "L5N8V9",
+    "result": []
+  },
+  {
+    "postal": "L5N7E0",
+    "result": []
+  },
+  {
+    "postal": "L5N6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N6R4",
+        "streetName": "DERRY",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DERRY RD W, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3Z7",
+    "result": []
+  },
+  {
+    "postal": "L5N1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1J9",
+        "streetName": "BOWSHELM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BOWSHELM CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N7K6",
+        "streetName": "MILLCREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MILLCREEK DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7Y5",
+        "streetName": "FINANCIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "FINANCIAL DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N1B7",
+        "streetName": "SWANHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SWANHURST BLVD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139846
+        ],
+        "postalCode": "L5N4S9",
+        "streetName": "GANYMEDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GANYMEDE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9R9",
+    "result": []
+  },
+  {
+    "postal": "L5N5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K7",
+        "streetName": "MOCKINGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MOCKINGBIRD LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139837,
+          10139834
+        ],
+        "postalCode": "L5N6P2",
+        "streetName": "ASPEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "ASPEN AVE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139834
+        ],
+        "postalCode": "L5N6P2",
+        "streetName": "INNISDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "INNISDALE RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103051
+        ],
+        "postalCode": "L5N2C5",
+        "streetName": "SHELTER BAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "SHELTER BAY RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2N0",
+    "result": []
+  },
+  {
+    "postal": "L5N1G0",
+    "result": []
+  },
+  {
+    "postal": "L5N4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N4K5",
+        "streetName": "MARKWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MARKWOOD CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N4K5",
+        "streetName": "MARKWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MARKWOOD PL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N9B5",
+    "result": []
+  },
+  {
+    "postal": "L5N6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N6T5",
+        "streetName": "BANSBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BANSBRIDGE CRES, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N6T5",
+        "streetName": "GRACEFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GRACEFIELD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10103052
+        ],
+        "postalCode": "L5N1N8",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N0C0",
+    "result": []
+  },
+  {
+    "postal": "L5N0R9",
+    "result": []
+  },
+  {
+    "postal": "L5N7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7L1",
+        "streetName": "BRIDLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BRIDLINGTON CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7L1",
+        "streetName": "DANTHORPE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DANTHORPE DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7L1",
+        "streetName": "HALLSANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "HALLSANDS DR, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7L1",
+        "streetName": "TOTTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "TOTTINGTON DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N3Y8",
+        "streetName": "CHEEGA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "CHEEGA CRT, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7X9",
+    "result": []
+  },
+  {
+    "postal": "L5N1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N1A7",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139833
+        ],
+        "postalCode": "L5N2T9",
+        "streetName": "KENNINGHALL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "KENNINGHALL CRES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139838
+        ],
+        "postalCode": "L5N2E6",
+        "streetName": "MONTEVIDEO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MONTEVIDEO RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N8Y1",
+    "result": []
+  },
+  {
+    "postal": "L5N0J5",
+    "result": []
+  },
+  {
+    "postal": "L5N4J1",
+    "result": []
+  },
+  {
+    "postal": "L5N1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139832
+        ],
+        "postalCode": "L5N1A5",
+        "streetName": "MISSISSAUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MISSISSAUGA RD, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N6Z6",
+        "streetName": "BANFF",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "BANFF CRT, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139843
+        ],
+        "postalCode": "L5N6Z6",
+        "streetName": "DILLINGWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "DILLINGWOOD DR, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N5K4",
+        "streetName": "MOCKINGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANES",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "MOCKINGBIRD LANES, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R9",
+        "streetName": "GAZETTE",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "GAZETTE GATE, MISSISSAUGA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139829
+        ],
+        "postalCode": "L5N7R9",
+        "streetName": "INUIT",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "INUIT TRAIL, MISSISSAUGA"
+      }
+    ]
+  },
+  {
+    "postal": "L5N6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 65,
+            "name": "Mississauga—Streetsville"
+          }
+        ],
+        "pollDivisionIds": [
+          10139845
+        ],
+        "postalCode": "L5N6G4",
+        "streetName": "NIGHTHAWK",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "MISSISSAUGA",
+        "streetNameDisplayText": "NIGHTHAWK TRAIL, MISSISSAUGA"
+      }
+    ]
   }
 ]

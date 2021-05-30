@@ -7636,5 +7636,5290 @@
   {
     "postal": "L7P0W6",
     "result": []
+  },
+  {
+    "postal": "L7P4C5",
+    "result": []
+  },
+  {
+    "postal": "L7P7E4",
+    "result": []
+  },
+  {
+    "postal": "L7P1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P1R9",
+        "streetName": "MOUNT ROYAL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNT ROYAL AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2P0",
+    "result": []
+  },
+  {
+    "postal": "L7P5S4",
+    "result": []
+  },
+  {
+    "postal": "L7P5K8",
+    "result": []
+  },
+  {
+    "postal": "L7P8K4",
+    "result": []
+  },
+  {
+    "postal": "L7P7C1",
+    "result": []
+  },
+  {
+    "postal": "L7P7K9",
+    "result": []
+  },
+  {
+    "postal": "L7P5J1",
+    "result": []
+  },
+  {
+    "postal": "L7P4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          },
+          {
+            "election": null,
+            "id": 75,
+            "name": "Oakville North—Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341,
+          10140418
+        ],
+        "postalCode": "L7P4P9",
+        "streetName": "WHITTAKER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "WHITTAKER DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381,
+          10135424
+        ],
+        "postalCode": "L7P0N2",
+        "streetName": "GUELPH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GUELPH LINE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2G6",
+        "streetName": "ROYAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ROYAL DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6P4",
+    "result": []
+  },
+  {
+    "postal": "L7P3J0",
+    "result": []
+  },
+  {
+    "postal": "L7P8X4",
+    "result": []
+  },
+  {
+    "postal": "L7P1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P1Y3",
+        "streetName": "FALMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FALMOUTH TERR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1A8",
+        "streetName": "MOUNTAINSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAINSIDE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6Y5",
+    "result": []
+  },
+  {
+    "postal": "L7P0J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0J6",
+        "streetName": "CARRIAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CARRIAGE TRAIL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2C9",
+        "streetName": "CHARLES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CHARLES DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8J6",
+    "result": []
+  },
+  {
+    "postal": "L7P8T4",
+    "result": []
+  },
+  {
+    "postal": "L7P1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1P7",
+        "streetName": "KERN'S",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "KERN'S RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9V9",
+    "result": []
+  },
+  {
+    "postal": "L7P0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0M1",
+        "streetName": "PANTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PANTON ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6K5",
+    "result": []
+  },
+  {
+    "postal": "L7P2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2T5",
+        "streetName": "PETTIT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PETTIT RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7E9",
+    "result": []
+  },
+  {
+    "postal": "L7P5K5",
+    "result": []
+  },
+  {
+    "postal": "L7P3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3R5",
+        "streetName": "BELGRAVE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BELGRAVE CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P5B1",
+        "streetName": "SKYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SKYVIEW DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2P1",
+        "streetName": "MARYVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MARYVALE CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7L0",
+    "result": []
+  },
+  {
+    "postal": "L7P3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P3L6",
+        "streetName": "FORESTVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FORESTVALE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2A4",
+        "streetName": "MEADOWBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MEADOWBROOK RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8S0",
+    "result": []
+  },
+  {
+    "postal": "L7P3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3L5",
+        "streetName": "CAYUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAYUGA CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2R5",
+        "streetName": "NOTTINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NOTTINGHAM AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9T6",
+    "result": []
+  },
+  {
+    "postal": "L7P8Z2",
+    "result": []
+  },
+  {
+    "postal": "L7P0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126398,
+          10126381
+        ],
+        "postalCode": "L7P0E9",
+        "streetName": "BRITANNIA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BRITANNIA RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8C0",
+    "result": []
+  },
+  {
+    "postal": "L7P3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3K7",
+        "streetName": "WINCHESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "WINCHESTER CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2H3",
+        "streetName": "MOUNTAIN GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAIN GROVE AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2Y6",
+        "streetName": "STERLING",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "STERLING PL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7M2",
+    "result": []
+  },
+  {
+    "postal": "L7P6E2",
+    "result": []
+  },
+  {
+    "postal": "L7P3R0",
+    "result": []
+  },
+  {
+    "postal": "L7P4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4J7",
+        "streetName": "MELISSA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MELISSA CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6N8",
+    "result": []
+  },
+  {
+    "postal": "L7P0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0J7",
+        "streetName": "BLESSINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BLESSINGTON ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7P2",
+    "result": []
+  },
+  {
+    "postal": "L7P3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P3T8",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3S7",
+        "streetName": "GREENBANK",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GREENBANK TRAIL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137336
+        ],
+        "postalCode": "L7P2S7",
+        "streetName": "GUELPH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GUELPH LINE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1S4",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PARKWAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1L8",
+        "streetName": "IAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "IAN RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8E9",
+    "result": []
+  },
+  {
+    "postal": "L7P0T0",
+    "result": []
+  },
+  {
+    "postal": "L7P3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P3G4",
+        "streetName": "LANCASTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "LANCASTER CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0V6",
+    "result": []
+  },
+  {
+    "postal": "L7P4W1",
+    "result": []
+  },
+  {
+    "postal": "L7P9G9",
+    "result": []
+  },
+  {
+    "postal": "L7P5W4",
+    "result": []
+  },
+  {
+    "postal": "L7P7M8",
+    "result": []
+  },
+  {
+    "postal": "L7P2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2C2",
+        "streetName": "MOSS GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOSS GLEN RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10143439
+        ],
+        "postalCode": "L7P4Y2",
+        "streetName": "SNAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SNAKE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9X9",
+    "result": []
+  },
+  {
+    "postal": "L7P3T0",
+    "result": []
+  },
+  {
+    "postal": "L7P4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4T8",
+        "streetName": "WINTERBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "WINTERBERRY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9C4",
+    "result": []
+  },
+  {
+    "postal": "L7P8P2",
+    "result": []
+  },
+  {
+    "postal": "L7P0Y8",
+    "result": []
+  },
+  {
+    "postal": "L7P1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P1G8",
+        "streetName": "TAIT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TAIT AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2T6",
+        "streetName": "COLONSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "COLONSAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1N7",
+        "streetName": "CANTERBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CANTERBURY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0L6",
+        "streetName": "GLENFERN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GLENFERN AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9V4",
+    "result": []
+  },
+  {
+    "postal": "L7P2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P2V1",
+        "streetName": "COLONSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "COLONSAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3L8",
+        "streetName": "PAULINE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PAULINE CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2R8",
+        "streetName": "NOTTINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NOTTINGHAM AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137360
+        ],
+        "postalCode": "L7P5C1",
+        "streetName": "KING FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "KING FOREST CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4W3",
+        "streetName": "FORESTVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FORESTVALE DR, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4W3",
+        "streetName": "VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CLOSE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "VALLEY CLOSE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5X5",
+    "result": []
+  },
+  {
+    "postal": "L7P9W5",
+    "result": []
+  },
+  {
+    "postal": "L7P3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3C4",
+        "streetName": "ALCONBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ALCONBURY CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1N6",
+        "streetName": "CANTERBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CANTERBURY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9S9",
+    "result": []
+  },
+  {
+    "postal": "L7P9M2",
+    "result": []
+  },
+  {
+    "postal": "L7P8Y4",
+    "result": []
+  },
+  {
+    "postal": "L7P7S4",
+    "result": []
+  },
+  {
+    "postal": "L7P0K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0K6",
+        "streetName": "MCNIVEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MCNIVEN RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P1W3",
+        "streetName": "GRENALLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GRENALLEN DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7R2",
+    "result": []
+  },
+  {
+    "postal": "L7P2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2Y9",
+        "streetName": "HEATHER HILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HEATHER HILLS DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7G4",
+    "result": []
+  },
+  {
+    "postal": "L7P7E5",
+    "result": []
+  },
+  {
+    "postal": "L7P9G2",
+    "result": []
+  },
+  {
+    "postal": "L7P7Y8",
+    "result": []
+  },
+  {
+    "postal": "L7P9V2",
+    "result": []
+  },
+  {
+    "postal": "L7P3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3T7",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1H0",
+    "result": []
+  },
+  {
+    "postal": "L7P1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1M7",
+        "streetName": "FRONTENAC",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FRONTENAC PL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8V4",
+    "result": []
+  },
+  {
+    "postal": "L7P4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4M2",
+        "streetName": "COTSWOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "COTSWOLD CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0X2",
+    "result": []
+  },
+  {
+    "postal": "L7P5Z4",
+    "result": []
+  },
+  {
+    "postal": "L7P6V4",
+    "result": []
+  },
+  {
+    "postal": "L7P8J3",
+    "result": []
+  },
+  {
+    "postal": "L7P8E5",
+    "result": []
+  },
+  {
+    "postal": "L7P2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P2V5",
+        "streetName": "PEART",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PEART CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7S1",
+    "result": []
+  },
+  {
+    "postal": "L7P6V3",
+    "result": []
+  },
+  {
+    "postal": "L7P2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2L8",
+        "streetName": "FISHER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FISHER AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9V0",
+    "result": []
+  },
+  {
+    "postal": "L7P3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P3M4",
+        "streetName": "ALBION",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ALBION CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P5B2",
+        "streetName": "CUMMINS",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CUMMINS LANE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P3X5",
+        "streetName": "MIDDLESMOOR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MIDDLESMOOR CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9R7",
+    "result": []
+  },
+  {
+    "postal": "L7P2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P2X2",
+        "streetName": "SHEFFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SHEFFIELD DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8Z6",
+    "result": []
+  },
+  {
+    "postal": "L7P4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4R4",
+        "streetName": "DUNCASTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DUNCASTER DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P2R1",
+        "streetName": "BARNETT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BARNETT DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3R8",
+        "streetName": "SUSSEX",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SUSSEX CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9A1",
+    "result": []
+  },
+  {
+    "postal": "L7P8L3",
+    "result": []
+  },
+  {
+    "postal": "L7P9K4",
+    "result": []
+  },
+  {
+    "postal": "L7P9S3",
+    "result": []
+  },
+  {
+    "postal": "L7P8N7",
+    "result": []
+  },
+  {
+    "postal": "L7P1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P1C6",
+        "streetName": "MOUNTAINSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAINSIDE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3Z8",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8G5",
+    "result": []
+  },
+  {
+    "postal": "L7P5R6",
+    "result": []
+  },
+  {
+    "postal": "L7P2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2W3",
+        "streetName": "KERN'S",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "KERN'S RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0A0",
+    "result": []
+  },
+  {
+    "postal": "L7P6P8",
+    "result": []
+  },
+  {
+    "postal": "L7P8N9",
+    "result": []
+  },
+  {
+    "postal": "L7P0S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0S9",
+        "streetName": "DUNDAS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DUNDAS ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8G0",
+    "result": []
+  },
+  {
+    "postal": "L7P8C7",
+    "result": []
+  },
+  {
+    "postal": "L7P5X8",
+    "result": []
+  },
+  {
+    "postal": "L7P7E8",
+    "result": []
+  },
+  {
+    "postal": "L7P6X2",
+    "result": []
+  },
+  {
+    "postal": "L7P4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4C6",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7H2",
+    "result": []
+  },
+  {
+    "postal": "L7P4R0",
+    "result": []
+  },
+  {
+    "postal": "L7P6J3",
+    "result": []
+  },
+  {
+    "postal": "L7P4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4B8",
+        "streetName": "LYNINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "LYNINGTON CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6H6",
+    "result": []
+  },
+  {
+    "postal": "L7P0S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0S1",
+        "streetName": "NO 1 SIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NO 1 SIDE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4E3",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7K2",
+    "result": []
+  },
+  {
+    "postal": "L7P7T8",
+    "result": []
+  },
+  {
+    "postal": "L7P0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0J9",
+        "streetName": "FREDERICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FREDERICK ST, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0J9",
+        "streetName": "FREDERICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KILBRIDE",
+        "streetNameDisplayText": "FREDERICK ST, KILBRIDE"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5J9",
+    "result": []
+  },
+  {
+    "postal": "L7P5S7",
+    "result": []
+  },
+  {
+    "postal": "L7P0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0G9",
+        "streetName": "2",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "2 SIDERD, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0G9",
+        "streetName": "NO 2 SIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NO 2 SIDE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3J9",
+        "streetName": "SINCLAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SINCLAIR CIR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2Y0",
+    "result": []
+  },
+  {
+    "postal": "L7P8X5",
+    "result": []
+  },
+  {
+    "postal": "L7P2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2M7",
+        "streetName": "HOMEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HOMEWOOD DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9Z3",
+    "result": []
+  },
+  {
+    "postal": "L7P7W2",
+    "result": []
+  },
+  {
+    "postal": "L7P3W0",
+    "result": []
+  },
+  {
+    "postal": "L7P3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3M1",
+        "streetName": "APPLEFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "APPLEFORD LANE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6A5",
+    "result": []
+  },
+  {
+    "postal": "L7P2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2M9",
+        "streetName": "AUGUSTINE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "AUGUSTINE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137360
+        ],
+        "postalCode": "L7P5C3",
+        "streetName": "NORTH SERVICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NORTH SERVICE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0Y6",
+    "result": []
+  },
+  {
+    "postal": "L7P9H7",
+    "result": []
+  },
+  {
+    "postal": "L7P3L0",
+    "result": []
+  },
+  {
+    "postal": "L7P5N9",
+    "result": []
+  },
+  {
+    "postal": "L7P5E3",
+    "result": []
+  },
+  {
+    "postal": "L7P7M9",
+    "result": []
+  },
+  {
+    "postal": "L7P8N2",
+    "result": []
+  },
+  {
+    "postal": "L7P9H3",
+    "result": []
+  },
+  {
+    "postal": "L7P2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2K8",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "STANLEY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9L0",
+    "result": []
+  },
+  {
+    "postal": "L7P6L9",
+    "result": []
+  },
+  {
+    "postal": "L7P6A8",
+    "result": []
+  },
+  {
+    "postal": "L7P2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2K6",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "STANLEY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2M0",
+    "result": []
+  },
+  {
+    "postal": "L7P5X7",
+    "result": []
+  },
+  {
+    "postal": "L7P0M7",
+    "result": []
+  },
+  {
+    "postal": "L7P7A6",
+    "result": []
+  },
+  {
+    "postal": "L7P3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3C5",
+        "streetName": "ALCONBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ALCONBURY CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2P2",
+        "streetName": "MARYVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MARYVALE CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9N4",
+    "result": []
+  },
+  {
+    "postal": "L7P3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3M9",
+        "streetName": "HAVENDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAVENDALE BLVD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8K6",
+    "result": []
+  },
+  {
+    "postal": "L7P1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1L2",
+        "streetName": "ESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ESTER DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P2Z9",
+        "streetName": "UPPER MIDDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "UPPER MIDDLE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2S2",
+        "streetName": "TYRRELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TYRRELL RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2W2",
+        "streetName": "SCHOLARS",
+        "streetDirectionId": null,
+        "streetTypeId": "COMMON",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SCHOLARS COMMON, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2C3",
+        "streetName": "MOSS GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOSS GLEN RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6L7",
+    "result": []
+  },
+  {
+    "postal": "L7P3K0",
+    "result": []
+  },
+  {
+    "postal": "L7P3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3C1",
+        "streetName": "SINCLAIR",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SINCLAIR CIR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6M9",
+    "result": []
+  },
+  {
+    "postal": "L7P4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4N9",
+        "streetName": "BRUNSWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BRUNSWICK CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P3Y7",
+        "streetName": "MALCOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MALCOLM CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2A9",
+        "streetName": "MEADOWBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MEADOWBROOK RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6H5",
+    "result": []
+  },
+  {
+    "postal": "L7P8B4",
+    "result": []
+  },
+  {
+    "postal": "L7P4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10143439,
+          10137362
+        ],
+        "postalCode": "L7P4Z2",
+        "streetName": "SNAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SNAKE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9J0",
+    "result": []
+  },
+  {
+    "postal": "L7P7V7",
+    "result": []
+  },
+  {
+    "postal": "L7P5T5",
+    "result": []
+  },
+  {
+    "postal": "L7P4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4W5",
+        "streetName": "DELL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DELL CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          },
+          {
+            "election": null,
+            "id": 75,
+            "name": "Oakville North—Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345,
+          10140424
+        ],
+        "postalCode": "L7P1T8",
+        "streetName": "SANDRINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SANDRINGHAM DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9G6",
+    "result": []
+  },
+  {
+    "postal": "L7P1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P1H3",
+        "streetName": "TAIT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TAIT AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5R5",
+    "result": []
+  },
+  {
+    "postal": "L7P8A4",
+    "result": []
+  },
+  {
+    "postal": "L7P3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3T6",
+        "streetName": "PLYMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PLYMOUTH CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9W8",
+    "result": []
+  },
+  {
+    "postal": "L7P0N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126398
+        ],
+        "postalCode": "L7P0N3",
+        "streetName": "GUELPH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GUELPH LINE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7V0",
+    "result": []
+  },
+  {
+    "postal": "L7P8T5",
+    "result": []
+  },
+  {
+    "postal": "L7P5N3",
+    "result": []
+  },
+  {
+    "postal": "L7P5G9",
+    "result": []
+  },
+  {
+    "postal": "L7P3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3X8",
+        "streetName": "PEMBROKE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PEMBROKE CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9R3",
+    "result": []
+  },
+  {
+    "postal": "L7P2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2S1",
+        "streetName": "TYRRELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TYRRELL RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9J7",
+    "result": []
+  },
+  {
+    "postal": "L7P2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P2J3",
+        "streetName": "MOUNTAIN GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAIN GROVE AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137336
+        ],
+        "postalCode": "L7P3B6",
+        "streetName": "GUELPH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GUELPH LINE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8J0",
+    "result": []
+  },
+  {
+    "postal": "L7P7R4",
+    "result": []
+  },
+  {
+    "postal": "L7P8K8",
+    "result": []
+  },
+  {
+    "postal": "L7P4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4P3",
+        "streetName": "DUNCASTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DUNCASTER DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P0A2",
+        "streetName": "NORTH SERVICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NORTH SERVICE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2G2",
+        "streetName": "ROYAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ROYAL DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5Y9",
+    "result": []
+  },
+  {
+    "postal": "L7P7X0",
+    "result": []
+  },
+  {
+    "postal": "L7P7W3",
+    "result": []
+  },
+  {
+    "postal": "L7P7X5",
+    "result": []
+  },
+  {
+    "postal": "L7P5K6",
+    "result": []
+  },
+  {
+    "postal": "L7P5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137360
+        ],
+        "postalCode": "L7P5B6",
+        "streetName": "NORTH SERVICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NORTH SERVICE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7Z0",
+    "result": []
+  },
+  {
+    "postal": "L7P9H6",
+    "result": []
+  },
+  {
+    "postal": "L7P1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P1B4",
+        "streetName": "MOUNTAINSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAINSIDE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1A0",
+    "result": []
+  },
+  {
+    "postal": "L7P9A0",
+    "result": []
+  },
+  {
+    "postal": "L7P1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1M6",
+        "streetName": "FRONTENAC",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FRONTENAC PL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5H0",
+    "result": []
+  },
+  {
+    "postal": "L7P1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1K6",
+        "streetName": "JANINA",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "JANINA BLVD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5E1",
+    "result": []
+  },
+  {
+    "postal": "L7P3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P3T9",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2M6",
+        "streetName": "HOMEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HOMEWOOD DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0G5",
+        "streetName": "COLLING",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "COLLING RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0Y2",
+    "result": []
+  },
+  {
+    "postal": "L7P2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2Y7",
+        "streetName": "GREEN MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GREEN MEADOW DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2J7",
+        "streetName": "HAROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAROLD RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4K7",
+        "streetName": "MANCHESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MANCHESTER DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7P9",
+    "result": []
+  },
+  {
+    "postal": "L7P8X0",
+    "result": []
+  },
+  {
+    "postal": "L7P3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3X1",
+        "streetName": "LEOMINSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "LEOMINSTER DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1R5",
+        "streetName": "MOUNT ROYAL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNT ROYAL AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6X6",
+    "result": []
+  },
+  {
+    "postal": "L7P0Y1",
+    "result": []
+  },
+  {
+    "postal": "L7P8G1",
+    "result": []
+  },
+  {
+    "postal": "L7P3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3J3",
+        "streetName": "MANSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MANSFIELD DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8C2",
+    "result": []
+  },
+  {
+    "postal": "L7P4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137362
+        ],
+        "postalCode": "L7P4X9",
+        "streetName": "OLD YORK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "OLD YORK RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6G9",
+    "result": []
+  },
+  {
+    "postal": "L7P4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4M3",
+        "streetName": "COTSWOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "COTSWOLD CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9P7",
+    "result": []
+  },
+  {
+    "postal": "L7P4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4E5",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5K9",
+    "result": []
+  },
+  {
+    "postal": "L7P2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2V2",
+        "streetName": "MARTIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MARTIN CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2N9",
+        "streetName": "TAVISTOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TAVISTOCK DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6L4",
+    "result": []
+  },
+  {
+    "postal": "L7P8E0",
+    "result": []
+  },
+  {
+    "postal": "L7P0N0",
+    "result": []
+  },
+  {
+    "postal": "L7P6R0",
+    "result": []
+  },
+  {
+    "postal": "L7P9C1",
+    "result": []
+  },
+  {
+    "postal": "L7P4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4H4",
+        "streetName": "MALCOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MALCOLM CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5W3",
+    "result": []
+  },
+  {
+    "postal": "L7P9N9",
+    "result": []
+  },
+  {
+    "postal": "L7P1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P1V7",
+        "streetName": "ST FRANCES",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ST FRANCES DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8J1",
+    "result": []
+  },
+  {
+    "postal": "L7P5V9",
+    "result": []
+  },
+  {
+    "postal": "L7P2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2S8",
+        "streetName": "GUELPH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GUELPH LINE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6P0",
+    "result": []
+  },
+  {
+    "postal": "L7P4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P4J8",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PARKWAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0N1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0N1",
+        "streetName": "CEDAR",
+        "streetDirectionId": null,
+        "streetTypeId": "GROVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CEDAR GROVE, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0N1",
+        "streetName": "FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "HILL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FOREST HILL, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0N1",
+        "streetName": "GRAND",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "GRAND BLVD, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0N1",
+        "streetName": "MOUNTAIN TOP",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAIN TOP RD, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0N1",
+        "streetName": "RIVERSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "RIVERSIDE DR, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0N1",
+        "streetName": "SUNSET",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SUNSET DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P1Y7",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7W5",
+    "result": []
+  },
+  {
+    "postal": "L7P3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3Z1",
+        "streetName": "KIRSTIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "KIRSTIE CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7M6",
+    "result": []
+  },
+  {
+    "postal": "L7P1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P1W7",
+        "streetName": "CHEVIOT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CHEVIOT CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P1X1",
+        "streetName": "DAWLISH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DAWLISH RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0C1",
+        "streetName": "CEDAR SPRINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CEDAR SPRINGS RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4N3",
+        "streetName": "BRANT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BRANT ST, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4N3",
+        "streetName": "HEMMINGWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HEMMINGWAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4S8",
+        "streetName": "WINTERBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "WINTERBERRY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348,
+          10137346
+        ],
+        "postalCode": "L7P1H6",
+        "streetName": "MOUNT FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNT FOREST DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P2Z4",
+        "streetName": "CARTIER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CARTIER CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7K3",
+    "result": []
+  },
+  {
+    "postal": "L7P8A2",
+    "result": []
+  },
+  {
+    "postal": "L7P6J1",
+    "result": []
+  },
+  {
+    "postal": "L7P5Z6",
+    "result": []
+  },
+  {
+    "postal": "L7P3Z0",
+    "result": []
+  },
+  {
+    "postal": "L7P8M0",
+    "result": []
+  },
+  {
+    "postal": "L7P1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P1Z6",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8K7",
+    "result": []
+  },
+  {
+    "postal": "L7P1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1N3",
+        "streetName": "TYANDAGA PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TYANDAGA PARK DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9S2",
+    "result": []
+  },
+  {
+    "postal": "L7P2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2K1",
+        "streetName": "DUNBAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DUNBAR RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P1E8",
+        "streetName": "SUNNYDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SUNNYDALE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9B8",
+    "result": []
+  },
+  {
+    "postal": "L7P7X4",
+    "result": []
+  },
+  {
+    "postal": "L7P1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P1Z4",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2C7",
+        "streetName": "JEFFERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "JEFFERSON RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P2E7",
+        "streetName": "NIELS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NIELS AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P3R1",
+        "streetName": "AMHERST HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "AMHERST HEIGHTS DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4K4",
+        "streetName": "TINTAGEL",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "TINTAGEL LANE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9G3",
+    "result": []
+  },
+  {
+    "postal": "L7P6C9",
+    "result": []
+  },
+  {
+    "postal": "L7P9H5",
+    "result": []
+  },
+  {
+    "postal": "L7P1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1P5",
+        "streetName": "BUCKINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BUCKINGHAM CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2J5",
+        "streetName": "HAROLD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAROLD RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4W6",
+        "streetName": "HAZELTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAZELTON BLVD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8M8",
+    "result": []
+  },
+  {
+    "postal": "L7P6C5",
+    "result": []
+  },
+  {
+    "postal": "L7P9H0",
+    "result": []
+  },
+  {
+    "postal": "L7P1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1X8",
+        "streetName": "BRANT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BRANT ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P3H4",
+        "streetName": "FIELDGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "FIELDGATE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4E7",
+        "streetName": "HAVENDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAVENDALE BLVD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8A0",
+    "result": []
+  },
+  {
+    "postal": "L7P1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137344
+        ],
+        "postalCode": "L7P1Z7",
+        "streetName": "AMESBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "AMESBURY CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7Z3",
+    "result": []
+  },
+  {
+    "postal": "L7P0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0L7",
+        "streetName": "PANTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PANTON ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2C6",
+        "streetName": "JEFFERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "JEFFERSON RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6M3",
+    "result": []
+  },
+  {
+    "postal": "L7P2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137345
+        ],
+        "postalCode": "L7P2J1",
+        "streetName": "MOUNTAIN GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAIN GROVE AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3E3",
+        "streetName": "HAVENDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAVENDALE BLVD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6Z9",
+    "result": []
+  },
+  {
+    "postal": "L7P3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137343
+        ],
+        "postalCode": "L7P3M3",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9B1",
+    "result": []
+  },
+  {
+    "postal": "L7P9J5",
+    "result": []
+  },
+  {
+    "postal": "L7P4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4V8",
+        "streetName": "BEAUFORT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BEAUFORT CRT, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4V8",
+        "streetName": "BEAUFORT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BEAUFORT DR, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4V8",
+        "streetName": "SOMERSET",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "SOMERSET DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6W2",
+    "result": []
+  },
+  {
+    "postal": "L7P0V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P0V5",
+        "streetName": "NORTH SERVICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NORTH SERVICE RD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0Z8",
+    "result": []
+  },
+  {
+    "postal": "L7P5G2",
+    "result": []
+  },
+  {
+    "postal": "L7P4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4N4",
+        "streetName": "BADER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BADER CRES, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4N4",
+        "streetName": "DUNCASTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "DUNCASTER DR, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4N4",
+        "streetName": "KELLER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "KELLER CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8G7",
+    "result": []
+  },
+  {
+    "postal": "L7P8W1",
+    "result": []
+  },
+  {
+    "postal": "L7P1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P1S6",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PARKWAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4E0",
+    "result": []
+  },
+  {
+    "postal": "L7P4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4L9",
+        "streetName": "BRANT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BRANT ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P5Z9",
+    "result": []
+  },
+  {
+    "postal": "L7P5V3",
+    "result": []
+  },
+  {
+    "postal": "L7P4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4V2",
+        "streetName": "HAZELTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HAZELTON BLVD, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P4V2",
+        "streetName": "HOOVER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "HOOVER CRT, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7C0",
+    "result": []
+  },
+  {
+    "postal": "L7P6L0",
+    "result": []
+  },
+  {
+    "postal": "L7P1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P1S9",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "PARKWAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7R6",
+    "result": []
+  },
+  {
+    "postal": "L7P7J0",
+    "result": []
+  },
+  {
+    "postal": "L7P5M0",
+    "result": []
+  },
+  {
+    "postal": "L7P2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2E5",
+        "streetName": "NIELS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NIELS AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7C7",
+    "result": []
+  },
+  {
+    "postal": "L7P5C0",
+    "result": []
+  },
+  {
+    "postal": "L7P8V9",
+    "result": []
+  },
+  {
+    "postal": "L7P7E0",
+    "result": []
+  },
+  {
+    "postal": "L7P6R4",
+    "result": []
+  },
+  {
+    "postal": "L7P3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137342
+        ],
+        "postalCode": "L7P3Z7",
+        "streetName": "EAGLESFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "EAGLESFIELD DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1J9",
+        "streetName": "BLUEFIELDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BLUEFIELDS DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7K6",
+    "result": []
+  },
+  {
+    "postal": "L7P7Y5",
+    "result": []
+  },
+  {
+    "postal": "L7P1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P1B7",
+        "streetName": "MOUNTAINSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAINSIDE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4S9",
+        "streetName": "BROOKBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "BROOKBRIDGE DR, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P4S9",
+        "streetName": "WHITE CEDAR",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "WHITE CEDAR TRAIL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9R9",
+    "result": []
+  },
+  {
+    "postal": "L7P5K7",
+    "result": []
+  },
+  {
+    "postal": "L7P6P2",
+    "result": []
+  },
+  {
+    "postal": "L7P2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2C5",
+        "streetName": "INNSWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "INNSWOOD DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2N0",
+    "result": []
+  },
+  {
+    "postal": "L7P1G0",
+    "result": []
+  },
+  {
+    "postal": "L7P4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4K5",
+        "streetName": "CAVENDISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CAVENDISH DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P9B5",
+    "result": []
+  },
+  {
+    "postal": "L7P6T5",
+    "result": []
+  },
+  {
+    "postal": "L7P1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1N8",
+        "streetName": "CANTERBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CANTERBURY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P0C0",
+    "result": []
+  },
+  {
+    "postal": "L7P0R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0R9",
+        "streetName": "1 SIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "1 SIDE RD, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0R9",
+        "streetName": "1 SIDERD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "1 SIDERD RD, BURLINGTON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0R9",
+        "streetName": "1",
+        "streetDirectionId": null,
+        "streetTypeId": "SIDERD",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "1 SIDERD, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7L1",
+    "result": []
+  },
+  {
+    "postal": "L7P3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P3Y8",
+        "streetName": "LYFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "LYFORD LANE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P7X9",
+    "result": []
+  },
+  {
+    "postal": "L7P1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137348
+        ],
+        "postalCode": "L7P1A7",
+        "streetName": "MOUNTAINSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "MOUNTAINSIDE DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P2T9",
+        "streetName": "COLONSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "COLONSAY DR, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137346
+        ],
+        "postalCode": "L7P2E6",
+        "streetName": "NIELS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "NIELS AVE, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P8Y1",
+    "result": []
+  },
+  {
+    "postal": "L7P0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 59,
+            "name": "Milton"
+          }
+        ],
+        "pollDivisionIds": [
+          10126381
+        ],
+        "postalCode": "L7P0J5",
+        "streetName": "CARRIAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "CARRIAGE TRAIL, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137341
+        ],
+        "postalCode": "L7P4J1",
+        "streetName": "ARNOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "ARNOLD CRES, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 15,
+            "name": "Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10137347
+        ],
+        "postalCode": "L7P1A5",
+        "streetName": "INDUSTRIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BURLINGTON",
+        "streetNameDisplayText": "INDUSTRIAL ST, BURLINGTON"
+      }
+    ]
+  },
+  {
+    "postal": "L7P6Z6",
+    "result": []
+  },
+  {
+    "postal": "L7P5K4",
+    "result": []
+  },
+  {
+    "postal": "L7P7R9",
+    "result": []
+  },
+  {
+    "postal": "L7P6G4",
+    "result": []
   }
 ]

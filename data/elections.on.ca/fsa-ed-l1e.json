@@ -6861,5 +6861,4511 @@
   {
     "postal": "L1E0W6",
     "result": []
+  },
+  {
+    "postal": "L1E4C5",
+    "result": []
+  },
+  {
+    "postal": "L1E7E4",
+    "result": []
+  },
+  {
+    "postal": "L1E1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1R9",
+        "streetName": "LONGWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "LONGWOOD CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2P0",
+    "result": []
+  },
+  {
+    "postal": "L1E5S4",
+    "result": []
+  },
+  {
+    "postal": "L1E5K8",
+    "result": []
+  },
+  {
+    "postal": "L1E8K4",
+    "result": []
+  },
+  {
+    "postal": "L1E7C1",
+    "result": []
+  },
+  {
+    "postal": "L1E7K9",
+    "result": []
+  },
+  {
+    "postal": "L1E5J1",
+    "result": []
+  },
+  {
+    "postal": "L1E4P9",
+    "result": []
+  },
+  {
+    "postal": "L1E0N2",
+    "result": []
+  },
+  {
+    "postal": "L1E2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137841,
+          10137846
+        ],
+        "postalCode": "L1E2G6",
+        "streetName": "GRANVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GRANVILLE DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137841,
+          10137846
+        ],
+        "postalCode": "L1E2G6",
+        "streetName": "SANDRINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SANDRINGHAM DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6P4",
+    "result": []
+  },
+  {
+    "postal": "L1E3J0",
+    "result": []
+  },
+  {
+    "postal": "L1E8X4",
+    "result": []
+  },
+  {
+    "postal": "L1E1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842,
+          10137843
+        ],
+        "postalCode": "L1E1Y3",
+        "streetName": "WINDHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "WINDHAM CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1A8",
+        "streetName": "TURNBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TURNBERRY CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6Y5",
+    "result": []
+  },
+  {
+    "postal": "L1E0J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E0J6",
+        "streetName": "GORD VINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GORD VINSON AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2C9",
+        "streetName": "GEORGE REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GEORGE REYNOLDS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2C9",
+        "streetName": "MULL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "MULL CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8J6",
+    "result": []
+  },
+  {
+    "postal": "L1E8T4",
+    "result": []
+  },
+  {
+    "postal": "L1E1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1P7",
+        "streetName": "BROADLANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BROADLANDS CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1P7",
+        "streetName": "FIRWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FIRWOOD AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9V9",
+    "result": []
+  },
+  {
+    "postal": "L1E0M1",
+    "result": []
+  },
+  {
+    "postal": "L1E6K5",
+    "result": []
+  },
+  {
+    "postal": "L1E2T5",
+    "result": []
+  },
+  {
+    "postal": "L1E7E9",
+    "result": []
+  },
+  {
+    "postal": "L1E5K5",
+    "result": []
+  },
+  {
+    "postal": "L1E3R5",
+    "result": []
+  },
+  {
+    "postal": "L1E5B1",
+    "result": []
+  },
+  {
+    "postal": "L1E2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E2P1",
+        "streetName": "PRESTONVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRESTONVALE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7L0",
+    "result": []
+  },
+  {
+    "postal": "L1E3L6",
+    "result": []
+  },
+  {
+    "postal": "L1E2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137841
+        ],
+        "postalCode": "L1E2A4",
+        "streetName": "HILLHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HILLHURST CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8S0",
+    "result": []
+  },
+  {
+    "postal": "L1E3L5",
+    "result": []
+  },
+  {
+    "postal": "L1E2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137841
+        ],
+        "postalCode": "L1E2R5",
+        "streetName": "2",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "2 HWY, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9T6",
+    "result": []
+  },
+  {
+    "postal": "L1E8Z2",
+    "result": []
+  },
+  {
+    "postal": "L1E0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E0E9",
+        "streetName": "KATERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "KATERSON LANE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E0E9",
+        "streetName": "MEADOWGLADE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "MEADOWGLADE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8C0",
+    "result": []
+  },
+  {
+    "postal": "L1E3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E3K7",
+        "streetName": "FOURTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FOURTH AVE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E3K7",
+        "streetName": "RUNDLE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "RUNDLE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E2H3",
+        "streetName": "FAIRCOMB",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FAIRCOMB CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E2H3",
+        "streetName": "MCMANN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "MCMANN CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2Y6",
+        "streetName": "KINTYRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "KINTYRE ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7M2",
+    "result": []
+  },
+  {
+    "postal": "L1E6E2",
+    "result": []
+  },
+  {
+    "postal": "L1E3R0",
+    "result": []
+  },
+  {
+    "postal": "L1E4J7",
+    "result": []
+  },
+  {
+    "postal": "L1E6N8",
+    "result": []
+  },
+  {
+    "postal": "L1E0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E0J7",
+        "streetName": "SPRYFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SPRYFIELD TRAIL, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E0J7",
+        "streetName": "WASHBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "PATH",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "WASHBURN PATH, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7P2",
+    "result": []
+  },
+  {
+    "postal": "L1E3T8",
+    "result": []
+  },
+  {
+    "postal": "L1E3S7",
+    "result": []
+  },
+  {
+    "postal": "L1E2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2S7",
+        "streetName": "BASELINE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BASELINE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1S4",
+        "streetName": "OAKFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "OAKFIELD GATE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1S4",
+        "streetName": "VARCOE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "VARCOE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1L8",
+        "streetName": "HARTSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HARTSFIELD DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8E9",
+    "result": []
+  },
+  {
+    "postal": "L1E0T0",
+    "result": []
+  },
+  {
+    "postal": "L1E3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E3G4",
+        "streetName": "RICHFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "RICHFIELD SQ, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0V6",
+    "result": []
+  },
+  {
+    "postal": "L1E4W1",
+    "result": []
+  },
+  {
+    "postal": "L1E9G9",
+    "result": []
+  },
+  {
+    "postal": "L1E5W4",
+    "result": []
+  },
+  {
+    "postal": "L1E7M8",
+    "result": []
+  },
+  {
+    "postal": "L1E2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E2C2",
+        "streetName": "HEMMINGWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HEMMINGWAY DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137844
+        ],
+        "postalCode": "L1E2C2",
+        "streetName": "NEWPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NEWPORT AVE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137844
+        ],
+        "postalCode": "L1E2C2",
+        "streetName": "PEBBLEBEACH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PEBBLEBEACH DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4Y2",
+    "result": []
+  },
+  {
+    "postal": "L1E9X9",
+    "result": []
+  },
+  {
+    "postal": "L1E3T0",
+    "result": []
+  },
+  {
+    "postal": "L1E4T8",
+    "result": []
+  },
+  {
+    "postal": "L1E9C4",
+    "result": []
+  },
+  {
+    "postal": "L1E8P2",
+    "result": []
+  },
+  {
+    "postal": "L1E0Y8",
+    "result": []
+  },
+  {
+    "postal": "L1E1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1G8",
+        "streetName": "CHERRY BLOSSOM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CHERRY BLOSSOM CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2T6",
+    "result": []
+  },
+  {
+    "postal": "L1E1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1N7",
+        "streetName": "GOLDPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GOLDPINE AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0L6",
+    "result": []
+  },
+  {
+    "postal": "L1E9V4",
+    "result": []
+  },
+  {
+    "postal": "L1E2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137846
+        ],
+        "postalCode": "L1E2V1",
+        "streetName": "OKE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "OKE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3L8",
+    "result": []
+  },
+  {
+    "postal": "L1E2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842,
+          10137840
+        ],
+        "postalCode": "L1E2R8",
+        "streetName": "2",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "2 HWY, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137842
+        ],
+        "postalCode": "L1E2R8",
+        "streetName": "OLD KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "OLD KINGSTON RD, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E2R8",
+        "streetName": "PRESTONVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRESTONVALE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E5C1",
+    "result": []
+  },
+  {
+    "postal": "L1E4W3",
+    "result": []
+  },
+  {
+    "postal": "L1E5X5",
+    "result": []
+  },
+  {
+    "postal": "L1E9W5",
+    "result": []
+  },
+  {
+    "postal": "L1E3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E3C4",
+        "streetName": "2",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "2 HWY, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137873
+        ],
+        "postalCode": "L1E3C4",
+        "streetName": "HWY 2",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HWY 2, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1N6",
+        "streetName": "ABBEYWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ABBEYWOOD CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1N6",
+        "streetName": "ALDERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ALDERBROOK DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1N6",
+        "streetName": "GOLDPINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GOLDPINE AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9S9",
+    "result": []
+  },
+  {
+    "postal": "L1E9M2",
+    "result": []
+  },
+  {
+    "postal": "L1E8Y4",
+    "result": []
+  },
+  {
+    "postal": "L1E7S4",
+    "result": []
+  },
+  {
+    "postal": "L1E0K6",
+    "result": []
+  },
+  {
+    "postal": "L1E1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1W3",
+        "streetName": "LYNDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "LYNDALE CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7R2",
+    "result": []
+  },
+  {
+    "postal": "L1E2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846,
+          10137841
+        ],
+        "postalCode": "L1E2Y9",
+        "streetName": "FIELDCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FIELDCREST AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7G4",
+    "result": []
+  },
+  {
+    "postal": "L1E7E5",
+    "result": []
+  },
+  {
+    "postal": "L1E9G2",
+    "result": []
+  },
+  {
+    "postal": "L1E7Y8",
+    "result": []
+  },
+  {
+    "postal": "L1E9V2",
+    "result": []
+  },
+  {
+    "postal": "L1E3T7",
+    "result": []
+  },
+  {
+    "postal": "L1E1H0",
+    "result": []
+  },
+  {
+    "postal": "L1E1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1M7",
+        "streetName": "BIRCHFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BIRCHFIELD DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1M7",
+        "streetName": "HARTSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HARTSFIELD DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8V4",
+    "result": []
+  },
+  {
+    "postal": "L1E4M2",
+    "result": []
+  },
+  {
+    "postal": "L1E0X2",
+    "result": []
+  },
+  {
+    "postal": "L1E5Z4",
+    "result": []
+  },
+  {
+    "postal": "L1E6V4",
+    "result": []
+  },
+  {
+    "postal": "L1E8J3",
+    "result": []
+  },
+  {
+    "postal": "L1E8E5",
+    "result": []
+  },
+  {
+    "postal": "L1E2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E2V5",
+        "streetName": "LIVING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "LIVING CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7S1",
+    "result": []
+  },
+  {
+    "postal": "L1E6V3",
+    "result": []
+  },
+  {
+    "postal": "L1E2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E2L8",
+        "streetName": "COURTICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "COURTICE RD, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137837
+        ],
+        "postalCode": "L1E2L8",
+        "streetName": "NASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NASH RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9V0",
+    "result": []
+  },
+  {
+    "postal": "L1E3M4",
+    "result": []
+  },
+  {
+    "postal": "L1E5B2",
+    "result": []
+  },
+  {
+    "postal": "L1E3X5",
+    "result": []
+  },
+  {
+    "postal": "L1E9R7",
+    "result": []
+  },
+  {
+    "postal": "L1E2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E2X2",
+        "streetName": "SHECO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SHECO CRT, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E2X2",
+        "streetName": "WABBOKISH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "WABBOKISH CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8Z6",
+    "result": []
+  },
+  {
+    "postal": "L1E4R4",
+    "result": []
+  },
+  {
+    "postal": "L1E2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2R1",
+        "streetName": "SOUTH SERVICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SOUTH SERVICE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3R8",
+    "result": []
+  },
+  {
+    "postal": "L1E9A1",
+    "result": []
+  },
+  {
+    "postal": "L1E8L3",
+    "result": []
+  },
+  {
+    "postal": "L1E9K4",
+    "result": []
+  },
+  {
+    "postal": "L1E9S3",
+    "result": []
+  },
+  {
+    "postal": "L1E8N7",
+    "result": []
+  },
+  {
+    "postal": "L1E1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E1C6",
+        "streetName": "PINEDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PINEDALE CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3Z8",
+    "result": []
+  },
+  {
+    "postal": "L1E8G5",
+    "result": []
+  },
+  {
+    "postal": "L1E5R6",
+    "result": []
+  },
+  {
+    "postal": "L1E2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E2W3",
+        "streetName": "CECIL FOUND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CECIL FOUND CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837,
+          10137838
+        ],
+        "postalCode": "L1E2W3",
+        "streetName": "PIDDUCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PIDDUCK ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0A0",
+    "result": []
+  },
+  {
+    "postal": "L1E6P8",
+    "result": []
+  },
+  {
+    "postal": "L1E8N9",
+    "result": []
+  },
+  {
+    "postal": "L1E0S9",
+    "result": []
+  },
+  {
+    "postal": "L1E8G0",
+    "result": []
+  },
+  {
+    "postal": "L1E8C7",
+    "result": []
+  },
+  {
+    "postal": "L1E5X8",
+    "result": []
+  },
+  {
+    "postal": "L1E7E8",
+    "result": []
+  },
+  {
+    "postal": "L1E6X2",
+    "result": []
+  },
+  {
+    "postal": "L1E4C6",
+    "result": []
+  },
+  {
+    "postal": "L1E7H2",
+    "result": []
+  },
+  {
+    "postal": "L1E4R0",
+    "result": []
+  },
+  {
+    "postal": "L1E6J3",
+    "result": []
+  },
+  {
+    "postal": "L1E4B8",
+    "result": []
+  },
+  {
+    "postal": "L1E6H6",
+    "result": []
+  },
+  {
+    "postal": "L1E0S1",
+    "result": []
+  },
+  {
+    "postal": "L1E4E3",
+    "result": []
+  },
+  {
+    "postal": "L1E7K2",
+    "result": []
+  },
+  {
+    "postal": "L1E7T8",
+    "result": []
+  },
+  {
+    "postal": "L1E0J9",
+    "result": []
+  },
+  {
+    "postal": "L1E5J9",
+    "result": []
+  },
+  {
+    "postal": "L1E5S7",
+    "result": []
+  },
+  {
+    "postal": "L1E0G9",
+    "result": []
+  },
+  {
+    "postal": "L1E3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E3J9",
+        "streetName": "AYLESWORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "AYLESWORTH AVE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E3J9",
+        "streetName": "SOUTHFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SOUTHFIELD AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2Y0",
+    "result": []
+  },
+  {
+    "postal": "L1E8X5",
+    "result": []
+  },
+  {
+    "postal": "L1E2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137841
+        ],
+        "postalCode": "L1E2M7",
+        "streetName": "COURTICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "COURTICE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9Z3",
+    "result": []
+  },
+  {
+    "postal": "L1E7W2",
+    "result": []
+  },
+  {
+    "postal": "L1E3W0",
+    "result": []
+  },
+  {
+    "postal": "L1E3M1",
+    "result": []
+  },
+  {
+    "postal": "L1E6A5",
+    "result": []
+  },
+  {
+    "postal": "L1E2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2M9",
+        "streetName": "BLOOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BLOOR ST, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2M9",
+        "streetName": "COURTICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "COURTICE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E5C3",
+    "result": []
+  },
+  {
+    "postal": "L1E0Y6",
+    "result": []
+  },
+  {
+    "postal": "L1E9H7",
+    "result": []
+  },
+  {
+    "postal": "L1E3L0",
+    "result": []
+  },
+  {
+    "postal": "L1E5N9",
+    "result": []
+  },
+  {
+    "postal": "L1E5E3",
+    "result": []
+  },
+  {
+    "postal": "L1E7M9",
+    "result": []
+  },
+  {
+    "postal": "L1E8N2",
+    "result": []
+  },
+  {
+    "postal": "L1E9H3",
+    "result": []
+  },
+  {
+    "postal": "L1E2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839,
+          10137840
+        ],
+        "postalCode": "L1E2K8",
+        "streetName": "NASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NASH RD, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839,
+          10137840
+        ],
+        "postalCode": "L1E2K8",
+        "streetName": "TOOLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TOOLEY RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9L0",
+    "result": []
+  },
+  {
+    "postal": "L1E6L9",
+    "result": []
+  },
+  {
+    "postal": "L1E6A8",
+    "result": []
+  },
+  {
+    "postal": "L1E2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E2K6",
+        "streetName": "PEBBLESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PEBBLESTONE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2M0",
+    "result": []
+  },
+  {
+    "postal": "L1E5X7",
+    "result": []
+  },
+  {
+    "postal": "L1E0M7",
+    "result": []
+  },
+  {
+    "postal": "L1E7A6",
+    "result": []
+  },
+  {
+    "postal": "L1E3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E3C5",
+        "streetName": "HUNTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HUNTINGTON CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2P2",
+        "streetName": "PRESTONVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRESTONVALE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9N4",
+    "result": []
+  },
+  {
+    "postal": "L1E3M9",
+    "result": []
+  },
+  {
+    "postal": "L1E8K6",
+    "result": []
+  },
+  {
+    "postal": "L1E1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1L2",
+        "streetName": "HOMEFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HOMEFIELD SQ, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842,
+          10137841
+        ],
+        "postalCode": "L1E2Z9",
+        "streetName": "TRULLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TRULLS RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2S2",
+        "streetName": "BLOOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BLOOR ST, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137844,
+          10137846
+        ],
+        "postalCode": "L1E2S2",
+        "streetName": "PRESTONVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRESTONVALE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E2W2",
+        "streetName": "BELLMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BELLMAN CRT, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E2W2",
+        "streetName": "GEORGE REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GEORGE REYNOLDS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837,
+          10137838
+        ],
+        "postalCode": "L1E2W2",
+        "streetName": "PIDDUCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PIDDUCK ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844,
+          10137843
+        ],
+        "postalCode": "L1E2C3",
+        "streetName": "AUBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "AUBURN LANE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E2C3",
+        "streetName": "PEBBLEBEACH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PEBBLEBEACH DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6L7",
+    "result": []
+  },
+  {
+    "postal": "L1E3K0",
+    "result": []
+  },
+  {
+    "postal": "L1E3C1",
+    "result": []
+  },
+  {
+    "postal": "L1E6M9",
+    "result": []
+  },
+  {
+    "postal": "L1E4N9",
+    "result": []
+  },
+  {
+    "postal": "L1E3Y7",
+    "result": []
+  },
+  {
+    "postal": "L1E2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2A9",
+        "streetName": "KINGSVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "KINGSVIEW CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6H5",
+    "result": []
+  },
+  {
+    "postal": "L1E8B4",
+    "result": []
+  },
+  {
+    "postal": "L1E4Z2",
+    "result": []
+  },
+  {
+    "postal": "L1E9J0",
+    "result": []
+  },
+  {
+    "postal": "L1E7V7",
+    "result": []
+  },
+  {
+    "postal": "L1E5T5",
+    "result": []
+  },
+  {
+    "postal": "L1E4W5",
+    "result": []
+  },
+  {
+    "postal": "L1E1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E1T8",
+        "streetName": "MULHOLLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "MULHOLLAND CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9G6",
+    "result": []
+  },
+  {
+    "postal": "L1E1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1H3",
+        "streetName": "NASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NASH RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E5R5",
+    "result": []
+  },
+  {
+    "postal": "L1E8A4",
+    "result": []
+  },
+  {
+    "postal": "L1E3T6",
+    "result": []
+  },
+  {
+    "postal": "L1E9W8",
+    "result": []
+  },
+  {
+    "postal": "L1E0N3",
+    "result": []
+  },
+  {
+    "postal": "L1E7V0",
+    "result": []
+  },
+  {
+    "postal": "L1E8T5",
+    "result": []
+  },
+  {
+    "postal": "L1E5N3",
+    "result": []
+  },
+  {
+    "postal": "L1E5G9",
+    "result": []
+  },
+  {
+    "postal": "L1E3X8",
+    "result": []
+  },
+  {
+    "postal": "L1E9R3",
+    "result": []
+  },
+  {
+    "postal": "L1E2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137846
+        ],
+        "postalCode": "L1E2S1",
+        "streetName": "PRESTONVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRESTONVALE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9J7",
+    "result": []
+  },
+  {
+    "postal": "L1E2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E2J3",
+        "streetName": "TOWNLINE",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TOWNLINE RD N, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E3B6",
+        "streetName": "WILKINS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "WILKINS CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8J0",
+    "result": []
+  },
+  {
+    "postal": "L1E7R4",
+    "result": []
+  },
+  {
+    "postal": "L1E8K8",
+    "result": []
+  },
+  {
+    "postal": "L1E4P3",
+    "result": []
+  },
+  {
+    "postal": "L1E0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E0A2",
+        "streetName": "GORD VINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GORD VINSON AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E2G2",
+        "streetName": "ROBERT ADAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ROBERT ADAMS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844,
+          10137843
+        ],
+        "postalCode": "L1E2G2",
+        "streetName": "SAGEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SAGEWOOD AVE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E2G2",
+        "streetName": "THORNBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "THORNBURY ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E5Y9",
+    "result": []
+  },
+  {
+    "postal": "L1E7X0",
+    "result": []
+  },
+  {
+    "postal": "L1E7W3",
+    "result": []
+  },
+  {
+    "postal": "L1E7X5",
+    "result": []
+  },
+  {
+    "postal": "L1E5K6",
+    "result": []
+  },
+  {
+    "postal": "L1E5B6",
+    "result": []
+  },
+  {
+    "postal": "L1E7Z0",
+    "result": []
+  },
+  {
+    "postal": "L1E9H6",
+    "result": []
+  },
+  {
+    "postal": "L1E1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1B4",
+        "streetName": "BRUNTSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BRUNTSFIELD ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1A0",
+    "result": []
+  },
+  {
+    "postal": "L1E9A0",
+    "result": []
+  },
+  {
+    "postal": "L1E1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1M6",
+        "streetName": "BIRCHFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BIRCHFIELD DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E5H0",
+    "result": []
+  },
+  {
+    "postal": "L1E1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1K6",
+        "streetName": "CENTERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CENTERFIELD DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E5E1",
+    "result": []
+  },
+  {
+    "postal": "L1E3T9",
+    "result": []
+  },
+  {
+    "postal": "L1E2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2M6",
+        "streetName": "COURTICE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "COURTICE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E0G5",
+        "streetName": "ARTHUR TREWIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ARTHUR TREWIN ST, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137837
+        ],
+        "postalCode": "L1E0G5",
+        "streetName": "ELMER ADAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ELMER ADAMS DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0Y2",
+    "result": []
+  },
+  {
+    "postal": "L1E2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2Y7",
+        "streetName": "STAGEMASTER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "STAGEMASTER CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137843
+        ],
+        "postalCode": "L1E2J7",
+        "streetName": "DARLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "DARLINGTON BLVD, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137835
+        ],
+        "postalCode": "L1E2J7",
+        "streetName": "DARLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "DARLINGTON ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4K7",
+    "result": []
+  },
+  {
+    "postal": "L1E7P9",
+    "result": []
+  },
+  {
+    "postal": "L1E8X0",
+    "result": []
+  },
+  {
+    "postal": "L1E3X1",
+    "result": []
+  },
+  {
+    "postal": "L1E1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1R5",
+        "streetName": "BROADLANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BROADLANDS CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1R5",
+        "streetName": "FIRWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FIRWOOD AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6X6",
+    "result": []
+  },
+  {
+    "postal": "L1E0Y1",
+    "result": []
+  },
+  {
+    "postal": "L1E8G1",
+    "result": []
+  },
+  {
+    "postal": "L1E3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E3J3",
+        "streetName": "HUNTINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HUNTINGTON CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E3J3",
+        "streetName": "SHUTTLEWORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SHUTTLEWORTH DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8C2",
+    "result": []
+  },
+  {
+    "postal": "L1E4X9",
+    "result": []
+  },
+  {
+    "postal": "L1E6G9",
+    "result": []
+  },
+  {
+    "postal": "L1E4M3",
+    "result": []
+  },
+  {
+    "postal": "L1E9P7",
+    "result": []
+  },
+  {
+    "postal": "L1E4E5",
+    "result": []
+  },
+  {
+    "postal": "L1E5K9",
+    "result": []
+  },
+  {
+    "postal": "L1E2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2V2",
+        "streetName": "FOUND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FOUND CRT, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2V2",
+        "streetName": "GLENABBEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GLENABBEY DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137846
+        ],
+        "postalCode": "L1E2V2",
+        "streetName": "OKE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "OKE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E2N9",
+        "streetName": "PRESTONVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRESTONVALE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6L4",
+    "result": []
+  },
+  {
+    "postal": "L1E8E0",
+    "result": []
+  },
+  {
+    "postal": "L1E0N0",
+    "result": []
+  },
+  {
+    "postal": "L1E6R0",
+    "result": []
+  },
+  {
+    "postal": "L1E9C1",
+    "result": []
+  },
+  {
+    "postal": "L1E4H4",
+    "result": []
+  },
+  {
+    "postal": "L1E5W3",
+    "result": []
+  },
+  {
+    "postal": "L1E9N9",
+    "result": []
+  },
+  {
+    "postal": "L1E1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1V7",
+        "streetName": "EMPIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "EMPIRE CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8J1",
+    "result": []
+  },
+  {
+    "postal": "L1E5V9",
+    "result": []
+  },
+  {
+    "postal": "L1E2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137846
+        ],
+        "postalCode": "L1E2S8",
+        "streetName": "BASELINE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BASELINE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6P0",
+    "result": []
+  },
+  {
+    "postal": "L1E4J8",
+    "result": []
+  },
+  {
+    "postal": "L1E0N1",
+    "result": []
+  },
+  {
+    "postal": "L1E1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137842
+        ],
+        "postalCode": "L1E1Y7",
+        "streetName": "WINDHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "WINDHAM CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7W5",
+    "result": []
+  },
+  {
+    "postal": "L1E3Z1",
+    "result": []
+  },
+  {
+    "postal": "L1E7M6",
+    "result": []
+  },
+  {
+    "postal": "L1E1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1W7",
+        "streetName": "LYNDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "LYNDALE CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1W7",
+        "streetName": "SANDRINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SANDRINGHAM DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1X1",
+        "streetName": "LYNDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "LYNDALE CRES, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1X1",
+        "streetName": "SANDRINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SANDRINGHAM DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E0C1",
+        "streetName": "REX TOOLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "REX TOOLEY LANE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4N3",
+    "result": []
+  },
+  {
+    "postal": "L1E4S8",
+    "result": []
+  },
+  {
+    "postal": "L1E1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1H6",
+        "streetName": "CENTERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CENTERFIELD DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1H6",
+        "streetName": "NASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NASH RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E2Z4",
+        "streetName": "DALEPARK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "DALEPARK DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7K3",
+    "result": []
+  },
+  {
+    "postal": "L1E8A2",
+    "result": []
+  },
+  {
+    "postal": "L1E6J1",
+    "result": []
+  },
+  {
+    "postal": "L1E5Z6",
+    "result": []
+  },
+  {
+    "postal": "L1E3Z0",
+    "result": []
+  },
+  {
+    "postal": "L1E8M0",
+    "result": []
+  },
+  {
+    "postal": "L1E1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838,
+          10137840
+        ],
+        "postalCode": "L1E1Z6",
+        "streetName": "ALDERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ALDERBROOK DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838,
+          10137840
+        ],
+        "postalCode": "L1E1Z6",
+        "streetName": "OBAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "OBAN CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8K7",
+    "result": []
+  },
+  {
+    "postal": "L1E1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137838
+        ],
+        "postalCode": "L1E1N3",
+        "streetName": "ALDERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ALDERBROOK DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9S2",
+    "result": []
+  },
+  {
+    "postal": "L1E2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E2K1",
+        "streetName": "NASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NASH RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137843
+        ],
+        "postalCode": "L1E1E8",
+        "streetName": "EDINBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "EDINBOROUGH LANE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1E8",
+        "streetName": "KINGSWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "KINGSWOOD DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E9B8",
+    "result": []
+  },
+  {
+    "postal": "L1E7X4",
+    "result": []
+  },
+  {
+    "postal": "L1E1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1Z4",
+        "streetName": "PRINCE RUPERT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PRINCE RUPERT DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1Z4",
+        "streetName": "TOOLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TOOLEY RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E2C7",
+        "streetName": "HEMMINGWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HEMMINGWAY DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838,
+          10137840
+        ],
+        "postalCode": "L1E2E7",
+        "streetName": "GEORGE REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GEORGE REYNOLDS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E2E7",
+        "streetName": "ISLAY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ISLAY CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3R1",
+    "result": []
+  },
+  {
+    "postal": "L1E4K4",
+    "result": []
+  },
+  {
+    "postal": "L1E9G3",
+    "result": []
+  },
+  {
+    "postal": "L1E6C9",
+    "result": []
+  },
+  {
+    "postal": "L1E9H5",
+    "result": []
+  },
+  {
+    "postal": "L1E1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840,
+          10137838
+        ],
+        "postalCode": "L1E1P5",
+        "streetName": "DEVONDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "DEVONDALE ST, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1P5",
+        "streetName": "FIRWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FIRWOOD AVE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2J5",
+    "result": []
+  },
+  {
+    "postal": "L1E4W6",
+    "result": []
+  },
+  {
+    "postal": "L1E8M8",
+    "result": []
+  },
+  {
+    "postal": "L1E6C5",
+    "result": []
+  },
+  {
+    "postal": "L1E9H0",
+    "result": []
+  },
+  {
+    "postal": "L1E1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1X8",
+        "streetName": "STIRLING",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "STIRLING AVE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137842
+        ],
+        "postalCode": "L1E1X8",
+        "streetName": "STRATHALLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "STRATHALLAN DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E3H4",
+        "streetName": "CORNISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CORNISH DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4E7",
+    "result": []
+  },
+  {
+    "postal": "L1E8A0",
+    "result": []
+  },
+  {
+    "postal": "L1E1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1Z7",
+        "streetName": "GEORGE REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GEORGE REYNOLDS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1Z7",
+        "streetName": "MCLELLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "MCLELLAN DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838,
+          10137840
+        ],
+        "postalCode": "L1E1Z7",
+        "streetName": "OBAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "OBAN CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7Z3",
+    "result": []
+  },
+  {
+    "postal": "L1E0L7",
+    "result": []
+  },
+  {
+    "postal": "L1E2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137844
+        ],
+        "postalCode": "L1E2C6",
+        "streetName": "AUBURN",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "AUBURN LANE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843
+        ],
+        "postalCode": "L1E2C6",
+        "streetName": "HEMMINGWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "HEMMINGWAY DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6M3",
+    "result": []
+  },
+  {
+    "postal": "L1E2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E2J1",
+        "streetName": "TOWNLINE",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TOWNLINE RD N, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137863,
+          10137840
+        ],
+        "postalCode": "L1E2J1",
+        "streetName": "TOWNLINE",
+        "streetDirectionId": "S",
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TOWNLINE RD S, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E3E3",
+        "streetName": "CORNISH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CORNISH DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137845
+        ],
+        "postalCode": "L1E3E3",
+        "streetName": "PICKARD",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "PICKARD GATE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6Z9",
+    "result": []
+  },
+  {
+    "postal": "L1E3M3",
+    "result": []
+  },
+  {
+    "postal": "L1E9B1",
+    "result": []
+  },
+  {
+    "postal": "L1E9J5",
+    "result": []
+  },
+  {
+    "postal": "L1E4V8",
+    "result": []
+  },
+  {
+    "postal": "L1E6W2",
+    "result": []
+  },
+  {
+    "postal": "L1E0V5",
+    "result": []
+  },
+  {
+    "postal": "L1E0Z8",
+    "result": []
+  },
+  {
+    "postal": "L1E5G2",
+    "result": []
+  },
+  {
+    "postal": "L1E4N4",
+    "result": []
+  },
+  {
+    "postal": "L1E8G7",
+    "result": []
+  },
+  {
+    "postal": "L1E8W1",
+    "result": []
+  },
+  {
+    "postal": "L1E1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1S6",
+        "streetName": "VARCOE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "VARCOE RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4E0",
+    "result": []
+  },
+  {
+    "postal": "L1E4L9",
+    "result": []
+  },
+  {
+    "postal": "L1E5Z9",
+    "result": []
+  },
+  {
+    "postal": "L1E5V3",
+    "result": []
+  },
+  {
+    "postal": "L1E4V2",
+    "result": []
+  },
+  {
+    "postal": "L1E7C0",
+    "result": []
+  },
+  {
+    "postal": "L1E6L0",
+    "result": []
+  },
+  {
+    "postal": "L1E1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137839
+        ],
+        "postalCode": "L1E1S9",
+        "streetName": "NASH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "NASH RD, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7R6",
+    "result": []
+  },
+  {
+    "postal": "L1E7J0",
+    "result": []
+  },
+  {
+    "postal": "L1E5M0",
+    "result": []
+  },
+  {
+    "postal": "L1E2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2E5",
+        "streetName": "ARRAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ARRAN CRT, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2E5",
+        "streetName": "KINTYRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "KINTYRE ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7C7",
+    "result": []
+  },
+  {
+    "postal": "L1E5C0",
+    "result": []
+  },
+  {
+    "postal": "L1E8V9",
+    "result": []
+  },
+  {
+    "postal": "L1E7E0",
+    "result": []
+  },
+  {
+    "postal": "L1E6R4",
+    "result": []
+  },
+  {
+    "postal": "L1E3Z7",
+    "result": []
+  },
+  {
+    "postal": "L1E1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1J9",
+        "streetName": "BLACKCREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BLACKCREEK TRAIL, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E1J9",
+        "streetName": "CARRIAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "CARRIAGE LANE, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E7K6",
+    "result": []
+  },
+  {
+    "postal": "L1E7Y5",
+    "result": []
+  },
+  {
+    "postal": "L1E1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1B7",
+        "streetName": "BRUNTSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BRUNTSFIELD ST, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1B7",
+        "streetName": "GLENABBEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GLENABBEY DR, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4S9",
+    "result": []
+  },
+  {
+    "postal": "L1E9R9",
+    "result": []
+  },
+  {
+    "postal": "L1E5K7",
+    "result": []
+  },
+  {
+    "postal": "L1E6P2",
+    "result": []
+  },
+  {
+    "postal": "L1E2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137843,
+          10137844
+        ],
+        "postalCode": "L1E2C5",
+        "streetName": "ROBERT ADAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ROBERT ADAMS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E2C5",
+        "streetName": "SADDLEBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "SADDLEBROOK CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2N0",
+    "result": []
+  },
+  {
+    "postal": "L1E1G0",
+    "result": []
+  },
+  {
+    "postal": "L1E4K5",
+    "result": []
+  },
+  {
+    "postal": "L1E9B5",
+    "result": []
+  },
+  {
+    "postal": "L1E6T5",
+    "result": []
+  },
+  {
+    "postal": "L1E1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E1N8",
+        "streetName": "ABBEYWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "ABBEYWOOD CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E0C0",
+    "result": []
+  },
+  {
+    "postal": "L1E0R9",
+    "result": []
+  },
+  {
+    "postal": "L1E7L1",
+    "result": []
+  },
+  {
+    "postal": "L1E3Y8",
+    "result": []
+  },
+  {
+    "postal": "L1E7X9",
+    "result": []
+  },
+  {
+    "postal": "L1E1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1A7",
+        "streetName": "TURNBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TURNBERRY CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E2T9",
+    "result": []
+  },
+  {
+    "postal": "L1E2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2E6",
+        "streetName": "GEORGE REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "GEORGE REYNOLDS DR, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137840
+        ],
+        "postalCode": "L1E2E6",
+        "streetName": "JURA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "JURA CRT, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E8Y1",
+    "result": []
+  },
+  {
+    "postal": "L1E0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E0J5",
+        "streetName": "FIRWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "FIRWOOD AVE, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137838
+        ],
+        "postalCode": "L1E0J5",
+        "streetName": "MALLORY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "MALLORY ST, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E4J1",
+    "result": []
+  },
+  {
+    "postal": "L1E1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1A5",
+        "streetName": "BRUNTSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "BRUNTSFIELD ST, COURTICE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137844
+        ],
+        "postalCode": "L1E1A5",
+        "streetName": "TURNBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "COURTICE",
+        "streetNameDisplayText": "TURNBERRY CRES, COURTICE"
+      }
+    ]
+  },
+  {
+    "postal": "L1E6Z6",
+    "result": []
+  },
+  {
+    "postal": "L1E5K4",
+    "result": []
+  },
+  {
+    "postal": "L1E7R9",
+    "result": []
+  },
+  {
+    "postal": "L1E6G4",
+    "result": []
   }
 ]

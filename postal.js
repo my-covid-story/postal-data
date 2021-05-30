@@ -190,7 +190,7 @@ const HOTSPOT_FSAS = [
 ]
 
 // How many random LDUs to search for urban FSAs.
-const SEARCH_LDU_COUNT = 600
+const SEARCH_LDU_COUNT = 1000
 
 // Ontario Electoral District IDs: 1..124.
 // Elections Ontario uses numbers, but we will use strings for compatibility with other ID forms.

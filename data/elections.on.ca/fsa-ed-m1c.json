@@ -7146,5 +7146,5015 @@
   {
     "postal": "M1C0W6",
     "result": []
+  },
+  {
+    "postal": "M1C4C5",
+    "result": []
+  },
+  {
+    "postal": "M1C7E4",
+    "result": []
+  },
+  {
+    "postal": "M1C1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C1R9",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MEADOWVALE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2P0",
+    "result": []
+  },
+  {
+    "postal": "M1C5S4",
+    "result": []
+  },
+  {
+    "postal": "M1C5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K8",
+        "streetName": "WHARFSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WHARFSIDE LANE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8K4",
+    "result": []
+  },
+  {
+    "postal": "M1C7C1",
+    "result": []
+  },
+  {
+    "postal": "M1C7K9",
+    "result": []
+  },
+  {
+    "postal": "M1C5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C5J1",
+        "streetName": "BRIDLEHOLME",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BRIDLEHOLME CRES, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C5J1",
+        "streetName": "CHARTWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHARTWAY BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4P9",
+        "streetName": "BORNHOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BORNHOLM DR, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4P9",
+        "streetName": "RIDGEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "RIDGEWOOD RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0N2",
+    "result": []
+  },
+  {
+    "postal": "M1C2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2G6",
+        "streetName": "SHEA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "SHEA CRT, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6P4",
+    "result": []
+  },
+  {
+    "postal": "M1C3J0",
+    "result": []
+  },
+  {
+    "postal": "M1C8X4",
+    "result": []
+  },
+  {
+    "postal": "M1C1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1Y3",
+        "streetName": "DUNHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DUNHILL ST, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1A8",
+        "streetName": "MILITARY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MILITARY TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6Y5",
+    "result": []
+  },
+  {
+    "postal": "M1C0J6",
+    "result": []
+  },
+  {
+    "postal": "M1C2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2C9",
+        "streetName": "CHARLOTTETOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHARLOTTETOWN BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8J6",
+    "result": []
+  },
+  {
+    "postal": "M1C8T4",
+    "result": []
+  },
+  {
+    "postal": "M1C1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C1P7",
+        "streetName": "BONACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BONACRES AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9V9",
+    "result": []
+  },
+  {
+    "postal": "M1C0M1",
+    "result": []
+  },
+  {
+    "postal": "M1C6K5",
+    "result": []
+  },
+  {
+    "postal": "M1C2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751,
+          10143252,
+          10141752
+        ],
+        "postalCode": "M1C2T5",
+        "streetName": "D'ARCY MAGEE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "D'ARCY MAGEE CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7E9",
+    "result": []
+  },
+  {
+    "postal": "M1C5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K5",
+        "streetName": "PORT UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PORT UNION RD, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K5",
+        "streetName": "VESSEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "VESSEL CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3R5",
+        "streetName": "CALVERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CALVERLEY TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C5B1",
+        "streetName": "DEVONRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DEVONRIDGE CRES, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C5B1",
+        "streetName": "PAYNE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PAYNE AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2P1",
+        "streetName": "KIRKDENE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KIRKDENE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7L0",
+    "result": []
+  },
+  {
+    "postal": "M1C3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C3L6",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EAST AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2A4",
+        "streetName": "CENTENNIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CENTENNIAL RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8S0",
+    "result": []
+  },
+  {
+    "postal": "M1C3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C3L5",
+        "streetName": "OXHORN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "OXHORN RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2R5",
+        "streetName": "KING ARTHURS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KING ARTHURS CRT, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9T6",
+    "result": []
+  },
+  {
+    "postal": "M1C8Z2",
+    "result": []
+  },
+  {
+    "postal": "M1C0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C0E9",
+        "streetName": "CULLODEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CULLODEN CRT, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C0E9",
+        "streetName": "KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KINGSTON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8C0",
+    "result": []
+  },
+  {
+    "postal": "M1C3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C3K7",
+        "streetName": "MABERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MABERLEY CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2H3",
+        "streetName": "CLAPPISON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CLAPPISON BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2Y6",
+        "streetName": "BROWNFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BROWNFIELD GDNS, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7M2",
+    "result": []
+  },
+  {
+    "postal": "M1C6E2",
+    "result": []
+  },
+  {
+    "postal": "M1C3R0",
+    "result": []
+  },
+  {
+    "postal": "M1C4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4J7",
+        "streetName": "HOUNDTRAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "HOUNDTRAIL DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6N8",
+    "result": []
+  },
+  {
+    "postal": "M1C0J7",
+    "result": []
+  },
+  {
+    "postal": "M1C7P2",
+    "result": []
+  },
+  {
+    "postal": "M1C3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3T8",
+        "streetName": "CANMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CANMORE BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3S7",
+        "streetName": "LINDERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LINDERWOOD DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2S7",
+        "streetName": "KONING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KONING CRT, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C1S4",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MEADOWVALE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1L8",
+        "streetName": "DEEP DENE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DEEP DENE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8E9",
+    "result": []
+  },
+  {
+    "postal": "M1C0T0",
+    "result": []
+  },
+  {
+    "postal": "M1C3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3G4",
+        "streetName": "WHITEACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WHITEACRES AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0V6",
+    "result": []
+  },
+  {
+    "postal": "M1C4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4W1",
+        "streetName": "GROVER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GROVER DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9G9",
+    "result": []
+  },
+  {
+    "postal": "M1C5W4",
+    "result": []
+  },
+  {
+    "postal": "M1C7M8",
+    "result": []
+  },
+  {
+    "postal": "M1C2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2C2",
+        "streetName": "ELKWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ELKWOOD DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4Y2",
+        "streetName": "CALVERLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CALVERLEY TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9X9",
+    "result": []
+  },
+  {
+    "postal": "M1C3T0",
+    "result": []
+  },
+  {
+    "postal": "M1C4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C4T8",
+        "streetName": "EVENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EVENWOOD AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9C4",
+    "result": []
+  },
+  {
+    "postal": "M1C8P2",
+    "result": []
+  },
+  {
+    "postal": "M1C0Y8",
+    "result": []
+  },
+  {
+    "postal": "M1C1G8",
+    "result": []
+  },
+  {
+    "postal": "M1C2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751,
+          10143252,
+          10141752
+        ],
+        "postalCode": "M1C2T6",
+        "streetName": "HAVILAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "HAVILAND DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1N7",
+        "streetName": "FALCON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "FALCON LANE, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1N7",
+        "streetName": "KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KINGSTON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0L6",
+    "result": []
+  },
+  {
+    "postal": "M1C9V4",
+    "result": []
+  },
+  {
+    "postal": "M1C2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2V1",
+        "streetName": "PENDERMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PENDERMERE PKY, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3L8",
+        "streetName": "DUNWATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DUNWATSON DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2R8",
+        "streetName": "WESTPOINT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WESTPOINT AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5C1",
+        "streetName": "BRIDGEPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BRIDGEPORT DR, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5C1",
+        "streetName": "WATERBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WATERBRIDGE WAY, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C4W3",
+        "streetName": "DALMATIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DALMATIAN CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5X5",
+    "result": []
+  },
+  {
+    "postal": "M1C9W5",
+    "result": []
+  },
+  {
+    "postal": "M1C3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3C4",
+        "streetName": "ACHESON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ACHESON BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1N6",
+        "streetName": "ACLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ACLAND CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9S9",
+    "result": []
+  },
+  {
+    "postal": "M1C9M2",
+    "result": []
+  },
+  {
+    "postal": "M1C8Y4",
+    "result": []
+  },
+  {
+    "postal": "M1C7S4",
+    "result": []
+  },
+  {
+    "postal": "M1C0K6",
+    "result": []
+  },
+  {
+    "postal": "M1C1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1W3",
+        "streetName": "RODARICK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "RODARICK DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7R2",
+    "result": []
+  },
+  {
+    "postal": "M1C2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2Y9",
+        "streetName": "ROUGE HILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ROUGE HILLS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7G4",
+    "result": []
+  },
+  {
+    "postal": "M1C7E5",
+    "result": []
+  },
+  {
+    "postal": "M1C9G2",
+    "result": []
+  },
+  {
+    "postal": "M1C7Y8",
+    "result": []
+  },
+  {
+    "postal": "M1C9V2",
+    "result": []
+  },
+  {
+    "postal": "M1C3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3T7",
+        "streetName": "CANMORE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CANMORE BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1H0",
+    "result": []
+  },
+  {
+    "postal": "M1C1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1M7",
+        "streetName": "ZAPH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ZAPH AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8V4",
+    "result": []
+  },
+  {
+    "postal": "M1C4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4M2",
+        "streetName": "BIRDSILVER",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BIRDSILVER GDNS, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0X2",
+    "result": []
+  },
+  {
+    "postal": "M1C5Z4",
+    "result": []
+  },
+  {
+    "postal": "M1C6V4",
+    "result": []
+  },
+  {
+    "postal": "M1C8J3",
+    "result": []
+  },
+  {
+    "postal": "M1C8E5",
+    "result": []
+  },
+  {
+    "postal": "M1C2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2V5",
+        "streetName": "ROUGE HIGHLANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ROUGE HIGHLANDS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7S1",
+    "result": []
+  },
+  {
+    "postal": "M1C6V3",
+    "result": []
+  },
+  {
+    "postal": "M1C2L8",
+    "result": []
+  },
+  {
+    "postal": "M1C9V0",
+    "result": []
+  },
+  {
+    "postal": "M1C3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3M4",
+        "streetName": "INVERMARGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "INVERMARGE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C5B2",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MEADOWVALE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C3X5",
+        "streetName": "GLENTHORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GLENTHORNE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9R7",
+    "result": []
+  },
+  {
+    "postal": "M1C2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753,
+          10141754
+        ],
+        "postalCode": "M1C2X2",
+        "streetName": "RIDGEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "RIDGEWOOD RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8Z6",
+    "result": []
+  },
+  {
+    "postal": "M1C4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4R4",
+        "streetName": "MILLDOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MILLDOCK DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2R1",
+        "streetName": "ISLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ISLAND RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3R8",
+        "streetName": "GRANTOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GRANTOWN AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9A1",
+    "result": []
+  },
+  {
+    "postal": "M1C8L3",
+    "result": []
+  },
+  {
+    "postal": "M1C9K4",
+    "result": []
+  },
+  {
+    "postal": "M1C9S3",
+    "result": []
+  },
+  {
+    "postal": "M1C8N7",
+    "result": []
+  },
+  {
+    "postal": "M1C1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1C6",
+        "streetName": "GLADYS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GLADYS RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C3Z8",
+        "streetName": "WINDRUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WINDRUSH TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8G5",
+    "result": []
+  },
+  {
+    "postal": "M1C5R6",
+    "result": []
+  },
+  {
+    "postal": "M1C2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2W3",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EAST AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0A0",
+    "result": []
+  },
+  {
+    "postal": "M1C6P8",
+    "result": []
+  },
+  {
+    "postal": "M1C8N9",
+    "result": []
+  },
+  {
+    "postal": "M1C0S9",
+    "result": []
+  },
+  {
+    "postal": "M1C8G0",
+    "result": []
+  },
+  {
+    "postal": "M1C8C7",
+    "result": []
+  },
+  {
+    "postal": "M1C5X8",
+    "result": []
+  },
+  {
+    "postal": "M1C7E8",
+    "result": []
+  },
+  {
+    "postal": "M1C6X2",
+    "result": []
+  },
+  {
+    "postal": "M1C4C6",
+    "result": []
+  },
+  {
+    "postal": "M1C7H2",
+    "result": []
+  },
+  {
+    "postal": "M1C4R0",
+    "result": []
+  },
+  {
+    "postal": "M1C6J3",
+    "result": []
+  },
+  {
+    "postal": "M1C4B8",
+    "result": []
+  },
+  {
+    "postal": "M1C6H6",
+    "result": []
+  },
+  {
+    "postal": "M1C0S1",
+    "result": []
+  },
+  {
+    "postal": "M1C4E3",
+    "result": []
+  },
+  {
+    "postal": "M1C7K2",
+    "result": []
+  },
+  {
+    "postal": "M1C7T8",
+    "result": []
+  },
+  {
+    "postal": "M1C0J9",
+    "result": []
+  },
+  {
+    "postal": "M1C5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C5J9",
+        "streetName": "MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MORNINGSIDE AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5S7",
+    "result": []
+  },
+  {
+    "postal": "M1C0G9",
+    "result": []
+  },
+  {
+    "postal": "M1C3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C3J9",
+        "streetName": "BROADBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BROADBRIDGE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2Y0",
+    "result": []
+  },
+  {
+    "postal": "M1C8X5",
+    "result": []
+  },
+  {
+    "postal": "M1C2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2M7",
+        "streetName": "EAST WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EAST WILLOW GATE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9Z3",
+    "result": []
+  },
+  {
+    "postal": "M1C7W2",
+    "result": []
+  },
+  {
+    "postal": "M1C3W0",
+    "result": []
+  },
+  {
+    "postal": "M1C3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3M1",
+        "streetName": "DUNWATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DUNWATSON DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6A5",
+    "result": []
+  },
+  {
+    "postal": "M1C2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2M9",
+        "streetName": "FANFARE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "FANFARE AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C5C3",
+        "streetName": "MAGNUM",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MAGNUM WAY, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0Y6",
+    "result": []
+  },
+  {
+    "postal": "M1C9H7",
+    "result": []
+  },
+  {
+    "postal": "M1C3L0",
+    "result": []
+  },
+  {
+    "postal": "M1C5N9",
+    "result": []
+  },
+  {
+    "postal": "M1C5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5E3",
+        "streetName": "BRIDGEPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BRIDGEPORT DR, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5E3",
+        "streetName": "LAKERIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAKERIDGE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7M9",
+    "result": []
+  },
+  {
+    "postal": "M1C8N2",
+    "result": []
+  },
+  {
+    "postal": "M1C9H3",
+    "result": []
+  },
+  {
+    "postal": "M1C2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2K8",
+        "streetName": "BRUMWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BRUMWELL ST, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9L0",
+    "result": []
+  },
+  {
+    "postal": "M1C6L9",
+    "result": []
+  },
+  {
+    "postal": "M1C6A8",
+    "result": []
+  },
+  {
+    "postal": "M1C2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2K6",
+        "streetName": "CEDARVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CEDARVIEW DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2M0",
+    "result": []
+  },
+  {
+    "postal": "M1C5X7",
+    "result": []
+  },
+  {
+    "postal": "M1C0M7",
+    "result": []
+  },
+  {
+    "postal": "M1C7A6",
+    "result": []
+  },
+  {
+    "postal": "M1C3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3C5",
+        "streetName": "ACHESON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ACHESON BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2P2",
+        "streetName": "DONSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DONSHIRE CRT, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9N4",
+    "result": []
+  },
+  {
+    "postal": "M1C3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C3M9",
+        "streetName": "WINTER GARDENS",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WINTER GARDENS TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8K6",
+    "result": []
+  },
+  {
+    "postal": "M1C1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1L2",
+        "streetName": "KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KINGSTON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2Z9",
+        "streetName": "ROUGE HILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ROUGE HILLS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2S2",
+        "streetName": "TUDOR GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "TUDOR GLEN CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2W2",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EAST AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2C3",
+        "streetName": "CHAPAIS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHAPAIS CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6L7",
+    "result": []
+  },
+  {
+    "postal": "M1C3K0",
+    "result": []
+  },
+  {
+    "postal": "M1C3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3C1",
+        "streetName": "JEAN DEMPSEY",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "JEAN DEMPSEY GATE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6M9",
+    "result": []
+  },
+  {
+    "postal": "M1C4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4N9",
+        "streetName": "BORNHOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BORNHOLM DR, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4N9",
+        "streetName": "GREYBEAVER",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GREYBEAVER TRAIL, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4N9",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWRENCE AVE E, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C3Y7",
+        "streetName": "MILROY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MILROY CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2A9",
+        "streetName": "CHARLES TUPPER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHARLES TUPPER DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6H5",
+    "result": []
+  },
+  {
+    "postal": "M1C8B4",
+    "result": []
+  },
+  {
+    "postal": "M1C4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C4Z2",
+        "streetName": "LAVERY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAVERY TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9J0",
+    "result": []
+  },
+  {
+    "postal": "M1C7V7",
+    "result": []
+  },
+  {
+    "postal": "M1C5T5",
+    "result": []
+  },
+  {
+    "postal": "M1C4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C4W5",
+        "streetName": "DALMATIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DALMATIAN CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C1T8",
+        "streetName": "CLYDE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CLYDE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9G6",
+    "result": []
+  },
+  {
+    "postal": "M1C1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C1H3",
+        "streetName": "ELLESMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ELLESMERE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5R5",
+    "result": []
+  },
+  {
+    "postal": "M1C8A4",
+    "result": []
+  },
+  {
+    "postal": "M1C3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3T6",
+        "streetName": "PARADE",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PARADE SQ, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9W8",
+    "result": []
+  },
+  {
+    "postal": "M1C0N3",
+    "result": []
+  },
+  {
+    "postal": "M1C7V0",
+    "result": []
+  },
+  {
+    "postal": "M1C8T5",
+    "result": []
+  },
+  {
+    "postal": "M1C5N3",
+    "result": []
+  },
+  {
+    "postal": "M1C5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C5G9",
+        "streetName": "SCARBELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "SCARBELL DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3X8",
+        "streetName": "WANITA",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WANITA RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9R3",
+    "result": []
+  },
+  {
+    "postal": "M1C2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2S1",
+        "streetName": "WESTPOINT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WESTPOINT AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9J7",
+    "result": []
+  },
+  {
+    "postal": "M1C2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2J3",
+        "streetName": "LAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWSON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C3B6",
+        "streetName": "FEAGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "FEAGAN DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8J0",
+    "result": []
+  },
+  {
+    "postal": "M1C7R4",
+    "result": []
+  },
+  {
+    "postal": "M1C8K8",
+    "result": []
+  },
+  {
+    "postal": "M1C4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4P3",
+        "streetName": "STARSPRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "STARSPRAY BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C0A2",
+        "streetName": "STAGECOACH",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "STAGECOACH CIR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2G2",
+        "streetName": "TILLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "TILLEY DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5Y9",
+    "result": []
+  },
+  {
+    "postal": "M1C7X0",
+    "result": []
+  },
+  {
+    "postal": "M1C7W3",
+    "result": []
+  },
+  {
+    "postal": "M1C7X5",
+    "result": []
+  },
+  {
+    "postal": "M1C5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K6",
+        "streetName": "VESSEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "VESSEL CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C5B6",
+        "streetName": "BRIMFOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BRIMFOREST GATE, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C5B6",
+        "streetName": "MOOREFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MOOREFIELD DR, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C5B6",
+        "streetName": "TRELLANOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "TRELLANOCK AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7Z0",
+    "result": []
+  },
+  {
+    "postal": "M1C9H6",
+    "result": []
+  },
+  {
+    "postal": "M1C1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1B4",
+        "streetName": "OLD KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "OLD KINGSTON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1A0",
+    "result": []
+  },
+  {
+    "postal": "M1C9A0",
+    "result": []
+  },
+  {
+    "postal": "M1C1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1M6",
+        "streetName": "ZAPH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ZAPH AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5H0",
+    "result": []
+  },
+  {
+    "postal": "M1C1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1K6",
+        "streetName": "KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KINGSTON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5E1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5E1",
+        "streetName": "PORTSMOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PORTSMOUTH DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3T9",
+        "streetName": "CHARCOAL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHARCOAL DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2M6",
+        "streetName": "RAVINE PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "RAVINE PARK CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0G5",
+    "result": []
+  },
+  {
+    "postal": "M1C0Y2",
+    "result": []
+  },
+  {
+    "postal": "M1C2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2Y7",
+        "streetName": "BROWNFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BROWNFIELD GDNS, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2J7",
+        "streetName": "LAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWSON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4K7",
+        "streetName": "PONYMEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PONYMEADOW TERR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7P9",
+    "result": []
+  },
+  {
+    "postal": "M1C8X0",
+    "result": []
+  },
+  {
+    "postal": "M1C3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3X1",
+        "streetName": "GOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GOOD RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1R5",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWRENCE AVE E, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6X6",
+    "result": []
+  },
+  {
+    "postal": "M1C0Y1",
+    "result": []
+  },
+  {
+    "postal": "M1C8G1",
+    "result": []
+  },
+  {
+    "postal": "M1C3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3J3",
+        "streetName": "CLOSSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CLOSSON DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8C2",
+    "result": []
+  },
+  {
+    "postal": "M1C4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C4X9",
+        "streetName": "WALDING",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WALDING GATE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6G9",
+    "result": []
+  },
+  {
+    "postal": "M1C4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4M3",
+        "streetName": "BIRDSILVER",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BIRDSILVER GDNS, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9P7",
+    "result": []
+  },
+  {
+    "postal": "M1C4E5",
+    "result": []
+  },
+  {
+    "postal": "M1C5K9",
+    "result": []
+  },
+  {
+    "postal": "M1C2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2V2",
+        "streetName": "ROUGE HIGHLANDS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ROUGE HIGHLANDS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2N9",
+        "streetName": "KIRKDENE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KIRKDENE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6L4",
+    "result": []
+  },
+  {
+    "postal": "M1C8E0",
+    "result": []
+  },
+  {
+    "postal": "M1C0N0",
+    "result": []
+  },
+  {
+    "postal": "M1C6R0",
+    "result": []
+  },
+  {
+    "postal": "M1C9C1",
+    "result": []
+  },
+  {
+    "postal": "M1C4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4H4",
+        "streetName": "FRIENDSHIP",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "FRIENDSHIP AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5W3",
+    "result": []
+  },
+  {
+    "postal": "M1C9N9",
+    "result": []
+  },
+  {
+    "postal": "M1C1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1V7",
+        "streetName": "HOLMCREST",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "HOLMCREST TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8J1",
+    "result": []
+  },
+  {
+    "postal": "M1C5V9",
+    "result": []
+  },
+  {
+    "postal": "M1C2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C2S8",
+        "streetName": "KONING",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "KONING CRT, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6P0",
+    "result": []
+  },
+  {
+    "postal": "M1C4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4J8",
+        "streetName": "HOUNDTRAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "HOUNDTRAIL DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0N1",
+    "result": []
+  },
+  {
+    "postal": "M1C1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1Y7",
+        "streetName": "PEPPER TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PEPPER TREE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7W5",
+    "result": []
+  },
+  {
+    "postal": "M1C3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C3Z1",
+        "streetName": "WHEELING",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "WHEELING DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7M6",
+    "result": []
+  },
+  {
+    "postal": "M1C1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1W7",
+        "streetName": "PAULANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PAULANDER AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1X1",
+        "streetName": "CHERRYHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHERRYHILL AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C0C1",
+        "streetName": "PYTHAGORAS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PYTHAGORAS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4N3",
+        "streetName": "BORNHOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BORNHOLM DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C4S8",
+        "streetName": "ORLEANS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ORLEANS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C1H6",
+        "streetName": "ELLESMERE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ELLESMERE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C2Z4",
+        "streetName": "ROUGE HILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ROUGE HILLS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7K3",
+    "result": []
+  },
+  {
+    "postal": "M1C8A2",
+    "result": []
+  },
+  {
+    "postal": "M1C6J1",
+    "result": []
+  },
+  {
+    "postal": "M1C5Z6",
+    "result": []
+  },
+  {
+    "postal": "M1C3Z0",
+    "result": []
+  },
+  {
+    "postal": "M1C8M0",
+    "result": []
+  },
+  {
+    "postal": "M1C1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1Z6",
+        "streetName": "CENTENNIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CENTENNIAL RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8K7",
+    "result": []
+  },
+  {
+    "postal": "M1C1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1N3",
+        "streetName": "BRAMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BRAMBER RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9S2",
+    "result": []
+  },
+  {
+    "postal": "M1C2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753,
+          10143252
+        ],
+        "postalCode": "M1C2K1",
+        "streetName": "LAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWSON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1E8",
+        "streetName": "MORRISH",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MORRISH RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9B8",
+    "result": []
+  },
+  {
+    "postal": "M1C7X4",
+    "result": []
+  },
+  {
+    "postal": "M1C1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1Z4",
+        "streetName": "CENTENNIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CENTENNIAL RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2C7",
+        "streetName": "CHARLOTTETOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHARLOTTETOWN BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2E7",
+        "streetName": "CONFERENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CONFERENCE BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141753
+        ],
+        "postalCode": "M1C3R1",
+        "streetName": "BLUE ANCHOR",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BLUE ANCHOR TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4K4",
+        "streetName": "PICTORIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PICTORIAL ST, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4K4",
+        "streetName": "PORTRUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PORTRUSH CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9G3",
+    "result": []
+  },
+  {
+    "postal": "M1C6C9",
+    "result": []
+  },
+  {
+    "postal": "M1C9H5",
+    "result": []
+  },
+  {
+    "postal": "M1C1P5",
+    "result": []
+  },
+  {
+    "postal": "M1C2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2J5",
+        "streetName": "LAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWSON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C4W6",
+        "streetName": "DALMATIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "DALMATIAN CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8M8",
+    "result": []
+  },
+  {
+    "postal": "M1C6C5",
+    "result": []
+  },
+  {
+    "postal": "M1C9H0",
+    "result": []
+  },
+  {
+    "postal": "M1C1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1X8",
+        "streetName": "ROLLING MEADOWS",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ROLLING MEADOWS, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C3H4",
+        "streetName": "GOLDBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GOLDBERRY SQ, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4E7",
+    "result": []
+  },
+  {
+    "postal": "M1C8A0",
+    "result": []
+  },
+  {
+    "postal": "M1C1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C1Z7",
+        "streetName": "CENTENNIAL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CENTENNIAL RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7Z3",
+    "result": []
+  },
+  {
+    "postal": "M1C0L7",
+    "result": []
+  },
+  {
+    "postal": "M1C2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2C6",
+        "streetName": "CHARLOTTETOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHARLOTTETOWN BLVD, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2C6",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWRENCE AVE E, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6M3",
+    "result": []
+  },
+  {
+    "postal": "M1C2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252,
+          86997
+        ],
+        "postalCode": "M1C2J1",
+        "streetName": "LAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWSON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3E3",
+        "streetName": "RAMBLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "RAMBLEWOOD DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6Z9",
+    "result": []
+  },
+  {
+    "postal": "M1C3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C3M3",
+        "streetName": "INVERMARGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "INVERMARGE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9B1",
+    "result": []
+  },
+  {
+    "postal": "M1C9J5",
+    "result": []
+  },
+  {
+    "postal": "M1C4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4V8",
+        "streetName": "GROVER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GROVER DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6W2",
+    "result": []
+  },
+  {
+    "postal": "M1C0V5",
+    "result": []
+  },
+  {
+    "postal": "M1C0Z8",
+    "result": []
+  },
+  {
+    "postal": "M1C5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5G2",
+        "streetName": "EASTPORT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EASTPORT DR, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5G2",
+        "streetName": "LAKERIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAKERIDGE DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4N4",
+        "streetName": "BORNHOLM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BORNHOLM DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8G7",
+    "result": []
+  },
+  {
+    "postal": "M1C8W1",
+    "result": []
+  },
+  {
+    "postal": "M1C1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1S6",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MEADOWVALE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4E0",
+    "result": []
+  },
+  {
+    "postal": "M1C4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4L9",
+        "streetName": "BOWES GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "BOWES GARDEN CRT, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4L9",
+        "streetName": "MILLDOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MILLDOCK DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C5Z9",
+    "result": []
+  },
+  {
+    "postal": "M1C5V3",
+    "result": []
+  },
+  {
+    "postal": "M1C4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141754
+        ],
+        "postalCode": "M1C4V2",
+        "streetName": "STARSPRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "STARSPRAY BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7C0",
+    "result": []
+  },
+  {
+    "postal": "M1C6L0",
+    "result": []
+  },
+  {
+    "postal": "M1C1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1S9",
+        "streetName": "MEADOWVALE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MEADOWVALE RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7R6",
+    "result": []
+  },
+  {
+    "postal": "M1C7J0",
+    "result": []
+  },
+  {
+    "postal": "M1C5M0",
+    "result": []
+  },
+  {
+    "postal": "M1C2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2E5",
+        "streetName": "CONFERENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CONFERENCE BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7C7",
+    "result": []
+  },
+  {
+    "postal": "M1C5C0",
+    "result": []
+  },
+  {
+    "postal": "M1C8V9",
+    "result": []
+  },
+  {
+    "postal": "M1C7E0",
+    "result": []
+  },
+  {
+    "postal": "M1C6R4",
+    "result": []
+  },
+  {
+    "postal": "M1C3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C3Z7",
+        "streetName": "SCARBELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "SCARBELL DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1J9",
+        "streetName": "EUCLID",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "EUCLID AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7K6",
+    "result": []
+  },
+  {
+    "postal": "M1C7Y5",
+    "result": []
+  },
+  {
+    "postal": "M1C1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1B7",
+        "streetName": "OLD KINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "OLD KINGSTON RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C4S9",
+        "streetName": "ORLEANS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "ORLEANS DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9R9",
+    "result": []
+  },
+  {
+    "postal": "M1C5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K7",
+        "streetName": "VESSEL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "VESSEL CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6P2",
+    "result": []
+  },
+  {
+    "postal": "M1C2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C2C5",
+        "streetName": "CHAPAIS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CHAPAIS CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2N0",
+    "result": []
+  },
+  {
+    "postal": "M1C1G0",
+    "result": []
+  },
+  {
+    "postal": "M1C4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4K5",
+        "streetName": "PORTRUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PORTRUSH CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C9B5",
+    "result": []
+  },
+  {
+    "postal": "M1C6T5",
+    "result": []
+  },
+  {
+    "postal": "M1C1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141745
+        ],
+        "postalCode": "M1C1N8",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "FRANKLIN AVE, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C0C0",
+    "result": []
+  },
+  {
+    "postal": "M1C0R9",
+    "result": []
+  },
+  {
+    "postal": "M1C7L1",
+    "result": []
+  },
+  {
+    "postal": "M1C3Y8",
+    "result": []
+  },
+  {
+    "postal": "M1C7X9",
+    "result": []
+  },
+  {
+    "postal": "M1C1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1A7",
+        "streetName": "MILITARY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MILITARY TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10143252
+        ],
+        "postalCode": "M1C2T9",
+        "streetName": "TILLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "TILLEY DR, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141752
+        ],
+        "postalCode": "M1C2E6",
+        "streetName": "CONFERENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "CONFERENCE BLVD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C8Y1",
+    "result": []
+  },
+  {
+    "postal": "M1C0J5",
+    "result": []
+  },
+  {
+    "postal": "M1C4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141744
+        ],
+        "postalCode": "M1C4J1",
+        "streetName": "GRAYBARK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "GRAYBARK CRES, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141746
+        ],
+        "postalCode": "M1C1A5",
+        "streetName": "MILITARY",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "MILITARY TRAIL, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C6Z6",
+    "result": []
+  },
+  {
+    "postal": "M1C5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K4",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "LAWRENCE AVE E, SCARBOROUGH"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 97,
+            "name": "Scarborough—Rouge Park"
+          }
+        ],
+        "pollDivisionIds": [
+          10141751
+        ],
+        "postalCode": "M1C5K4",
+        "streetName": "PORT UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "SCARBOROUGH",
+        "streetNameDisplayText": "PORT UNION RD, SCARBOROUGH"
+      }
+    ]
+  },
+  {
+    "postal": "M1C7R9",
+    "result": []
+  },
+  {
+    "postal": "M1C6G4",
+    "result": []
   }
 ]

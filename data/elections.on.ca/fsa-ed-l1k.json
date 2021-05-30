@@ -6884,5 +6884,5180 @@
         "streetNameDisplayText": "BENSON ST, OSHAWA"
       }
     ]
+  },
+  {
+    "postal": "L1K4C5",
+    "result": []
+  },
+  {
+    "postal": "L1K7E4",
+    "result": []
+  },
+  {
+    "postal": "L1K1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1R9",
+        "streetName": "WICKHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WICKHAM ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2P0",
+    "result": []
+  },
+  {
+    "postal": "L1K5S4",
+    "result": []
+  },
+  {
+    "postal": "L1K5K8",
+    "result": []
+  },
+  {
+    "postal": "L1K8K4",
+    "result": []
+  },
+  {
+    "postal": "L1K7C1",
+    "result": []
+  },
+  {
+    "postal": "L1K7K9",
+    "result": []
+  },
+  {
+    "postal": "L1K5J1",
+    "result": []
+  },
+  {
+    "postal": "L1K4P9",
+    "result": []
+  },
+  {
+    "postal": "L1K0N2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K0N2",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K2G6",
+        "streetName": "PEGGOTY",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PEGGOTY CIR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6P4",
+    "result": []
+  },
+  {
+    "postal": "L1K3J0",
+    "result": []
+  },
+  {
+    "postal": "L1K8X4",
+    "result": []
+  },
+  {
+    "postal": "L1K1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1Y3",
+        "streetName": "BEACONHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BEACONHILL CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K1A8",
+        "streetName": "TAUNTON",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TAUNTON RD E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6Y5",
+    "result": []
+  },
+  {
+    "postal": "L1K0J6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J6",
+        "streetName": "COLDSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COLDSTREAM DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J6",
+        "streetName": "SCHOOLING",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SCHOOLING DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2C9",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2C9",
+        "streetName": "LINDSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LINDSAY BLVD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2C9",
+        "streetName": "SANDCLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SANDCLIFF DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8J6",
+    "result": []
+  },
+  {
+    "postal": "L1K8T4",
+    "result": []
+  },
+  {
+    "postal": "L1K1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1P7",
+        "streetName": "LEMANS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LEMANS AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9V9",
+    "result": []
+  },
+  {
+    "postal": "L1K0M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0M1",
+        "streetName": "QUAIL RUN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "QUAIL RUN DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6K5",
+    "result": []
+  },
+  {
+    "postal": "L1K2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137865
+        ],
+        "postalCode": "L1K2T5",
+        "streetName": "WOODMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WOODMOUNT CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7E9",
+    "result": []
+  },
+  {
+    "postal": "L1K5K5",
+    "result": []
+  },
+  {
+    "postal": "L1K3R5",
+    "result": []
+  },
+  {
+    "postal": "L1K5B1",
+    "result": []
+  },
+  {
+    "postal": "L1K2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2P1",
+        "streetName": "HEARTLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HEARTLAND BLVD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2P1",
+        "streetName": "OAKHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "OAKHILL AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7L0",
+    "result": []
+  },
+  {
+    "postal": "L1K3L6",
+    "result": []
+  },
+  {
+    "postal": "L1K2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2A4",
+        "streetName": "KILMAURS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "KILMAURS AVE, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2A4",
+        "streetName": "KILMAURS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "KILMAURS CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2A4",
+        "streetName": "TOWNLINE",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TOWNLINE RD N, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8S0",
+    "result": []
+  },
+  {
+    "postal": "L1K3L5",
+    "result": []
+  },
+  {
+    "postal": "L1K2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2R5",
+        "streetName": "FORESTDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "FORESTDALE CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2R5",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2R5",
+        "streetName": "WINDRUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WINDRUSH DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9T6",
+    "result": []
+  },
+  {
+    "postal": "L1K8Z2",
+    "result": []
+  },
+  {
+    "postal": "L1K0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137865
+        ],
+        "postalCode": "L1K0E9",
+        "streetName": "ORMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ORMOND DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8C0",
+    "result": []
+  },
+  {
+    "postal": "L1K3K7",
+    "result": []
+  },
+  {
+    "postal": "L1K2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2H3",
+        "streetName": "PALMTREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PALMTREE CRES, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2H3",
+        "streetName": "THIMBLEBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "THIMBLEBERRY CIR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2Y6",
+        "streetName": "ALDERGROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ALDERGROVE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2Y6",
+        "streetName": "ARBORWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ARBORWOOD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7M2",
+    "result": []
+  },
+  {
+    "postal": "L1K6E2",
+    "result": []
+  },
+  {
+    "postal": "L1K3R0",
+    "result": []
+  },
+  {
+    "postal": "L1K4J7",
+    "result": []
+  },
+  {
+    "postal": "L1K6N8",
+    "result": []
+  },
+  {
+    "postal": "L1K0J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J7",
+        "streetName": "COLDSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COLDSTREAM DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J7",
+        "streetName": "FROLIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "FROLIS ST, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J7",
+        "streetName": "GOWER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GOWER DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7P2",
+    "result": []
+  },
+  {
+    "postal": "L1K3T8",
+    "result": []
+  },
+  {
+    "postal": "L1K3S7",
+    "result": []
+  },
+  {
+    "postal": "L1K2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2S7",
+        "streetName": "BEATRICE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BEATRICE ST E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K1S4",
+        "streetName": "COPPERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COPPERFIELD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K1L8",
+        "streetName": "GENTRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GENTRY CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8E9",
+    "result": []
+  },
+  {
+    "postal": "L1K0T0",
+    "result": []
+  },
+  {
+    "postal": "L1K3G4",
+    "result": []
+  },
+  {
+    "postal": "L1K0V6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K0V6",
+        "streetName": "SILVERSTONE",
+        "streetDirectionId": "N",
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SILVERSTONE CRES N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K0V6",
+        "streetName": "SILVERSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SILVERSTONE CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4W1",
+    "result": []
+  },
+  {
+    "postal": "L1K9G9",
+    "result": []
+  },
+  {
+    "postal": "L1K5W4",
+    "result": []
+  },
+  {
+    "postal": "L1K7M8",
+    "result": []
+  },
+  {
+    "postal": "L1K2C2",
+    "result": []
+  },
+  {
+    "postal": "L1K4Y2",
+    "result": []
+  },
+  {
+    "postal": "L1K9X9",
+    "result": []
+  },
+  {
+    "postal": "L1K3T0",
+    "result": []
+  },
+  {
+    "postal": "L1K4T8",
+    "result": []
+  },
+  {
+    "postal": "L1K9C4",
+    "result": []
+  },
+  {
+    "postal": "L1K8P2",
+    "result": []
+  },
+  {
+    "postal": "L1K0Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y8",
+        "streetName": "CONLIN",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CONLIN RD E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1G8",
+        "streetName": "SKYLARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SKYLARK AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137863,
+          10137865
+        ],
+        "postalCode": "L1K2T6",
+        "streetName": "COLDSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COLDSTREAM DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1N7",
+        "streetName": "TRADDLES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TRADDLES AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          },
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10140520,
+          10137867
+        ],
+        "postalCode": "L1K0L6",
+        "streetName": "FETCHISON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "FETCHISON DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0L6",
+        "streetName": "FROLIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "FROLIS ST, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0L6",
+        "streetName": "GOWER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GOWER DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9V4",
+    "result": []
+  },
+  {
+    "postal": "L1K2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2V1",
+        "streetName": "CASCADE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CASCADE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2V1",
+        "streetName": "GREYSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GREYSTONE CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3L8",
+    "result": []
+  },
+  {
+    "postal": "L1K2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2R8",
+        "streetName": "BLYTHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "SQ",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BLYTHWOOD SQ, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2R8",
+        "streetName": "ORMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ORMOND DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5C1",
+    "result": []
+  },
+  {
+    "postal": "L1K4W3",
+    "result": []
+  },
+  {
+    "postal": "L1K5X5",
+    "result": []
+  },
+  {
+    "postal": "L1K9W5",
+    "result": []
+  },
+  {
+    "postal": "L1K3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K3C4",
+        "streetName": "COPPERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COPPERFIELD DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K3C4",
+        "streetName": "COYSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COYSTON CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K3C4",
+        "streetName": "COYSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COYSTON DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1N6",
+        "streetName": "WICKHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WICKHAM ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9S9",
+    "result": []
+  },
+  {
+    "postal": "L1K9M2",
+    "result": []
+  },
+  {
+    "postal": "L1K8Y4",
+    "result": []
+  },
+  {
+    "postal": "L1K7S4",
+    "result": []
+  },
+  {
+    "postal": "L1K0K6",
+    "result": []
+  },
+  {
+    "postal": "L1K1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1W3",
+        "streetName": "HAYES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HAYES AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7R2",
+    "result": []
+  },
+  {
+    "postal": "L1K2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2Y9",
+        "streetName": "BRASSWINDS",
+        "streetDirectionId": null,
+        "streetTypeId": "TRAIL",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BRASSWINDS TRAIL, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2Y9",
+        "streetName": "SONGBIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SONGBIRD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7G4",
+    "result": []
+  },
+  {
+    "postal": "L1K7E5",
+    "result": []
+  },
+  {
+    "postal": "L1K9G2",
+    "result": []
+  },
+  {
+    "postal": "L1K7Y8",
+    "result": []
+  },
+  {
+    "postal": "L1K9V2",
+    "result": []
+  },
+  {
+    "postal": "L1K3T7",
+    "result": []
+  },
+  {
+    "postal": "L1K1H0",
+    "result": []
+  },
+  {
+    "postal": "L1K1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K1M7",
+        "streetName": "GALAHAD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GALAHAD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8V4",
+    "result": []
+  },
+  {
+    "postal": "L1K4M2",
+    "result": []
+  },
+  {
+    "postal": "L1K0X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0X2",
+        "streetName": "IRVINE SCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "IRVINE SCOTT CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0X2",
+        "streetName": "IRVINE SCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "IRVINE SCOTT ST, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0X2",
+        "streetName": "WILLIAM LOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WILLIAM LOTT DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5Z4",
+    "result": []
+  },
+  {
+    "postal": "L1K6V4",
+    "result": []
+  },
+  {
+    "postal": "L1K8J3",
+    "result": []
+  },
+  {
+    "postal": "L1K8E5",
+    "result": []
+  },
+  {
+    "postal": "L1K2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2V5",
+        "streetName": "MARGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "MARGATE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2V5",
+        "streetName": "WADEBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WADEBRIDGE CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7S1",
+    "result": []
+  },
+  {
+    "postal": "L1K6V3",
+    "result": []
+  },
+  {
+    "postal": "L1K2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2L8",
+        "streetName": "KINGSFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "KINGSFIELD AVE, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2L8",
+        "streetName": "ORMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ORMOND DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9V0",
+    "result": []
+  },
+  {
+    "postal": "L1K3M4",
+    "result": []
+  },
+  {
+    "postal": "L1K5B2",
+    "result": []
+  },
+  {
+    "postal": "L1K3X5",
+    "result": []
+  },
+  {
+    "postal": "L1K9R7",
+    "result": []
+  },
+  {
+    "postal": "L1K2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2X2",
+        "streetName": "WHITESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WHITESTONE DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8Z6",
+    "result": []
+  },
+  {
+    "postal": "L1K4R4",
+    "result": []
+  },
+  {
+    "postal": "L1K2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2R1",
+        "streetName": "APPLEBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "APPLEBY AVE, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2R1",
+        "streetName": "APPLEBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "APPLEBY CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2R1",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3R8",
+    "result": []
+  },
+  {
+    "postal": "L1K9A1",
+    "result": []
+  },
+  {
+    "postal": "L1K8L3",
+    "result": []
+  },
+  {
+    "postal": "L1K9K4",
+    "result": []
+  },
+  {
+    "postal": "L1K9S3",
+    "result": []
+  },
+  {
+    "postal": "L1K8N7",
+    "result": []
+  },
+  {
+    "postal": "L1K1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1C6",
+        "streetName": "CENTURY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CENTURY ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3Z8",
+    "result": []
+  },
+  {
+    "postal": "L1K8G5",
+    "result": []
+  },
+  {
+    "postal": "L1K5R6",
+    "result": []
+  },
+  {
+    "postal": "L1K2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2W3",
+        "streetName": "LOGANBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LOGANBERRY ST, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2W3",
+        "streetName": "PONDVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PONDVIEW CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2W3",
+        "streetName": "TRAIL VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TRAIL VALLEY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0A0",
+    "result": []
+  },
+  {
+    "postal": "L1K6P8",
+    "result": []
+  },
+  {
+    "postal": "L1K8N9",
+    "result": []
+  },
+  {
+    "postal": "L1K0S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K0S9",
+        "streetName": "SHELBURNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SHELBURNE ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8G0",
+    "result": []
+  },
+  {
+    "postal": "L1K8C7",
+    "result": []
+  },
+  {
+    "postal": "L1K5X8",
+    "result": []
+  },
+  {
+    "postal": "L1K7E8",
+    "result": []
+  },
+  {
+    "postal": "L1K6X2",
+    "result": []
+  },
+  {
+    "postal": "L1K4C6",
+    "result": []
+  },
+  {
+    "postal": "L1K7H2",
+    "result": []
+  },
+  {
+    "postal": "L1K4R0",
+    "result": []
+  },
+  {
+    "postal": "L1K6J3",
+    "result": []
+  },
+  {
+    "postal": "L1K4B8",
+    "result": []
+  },
+  {
+    "postal": "L1K6H6",
+    "result": []
+  },
+  {
+    "postal": "L1K0S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0S1",
+        "streetName": "QUEENSBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "QUEENSBURY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4E3",
+    "result": []
+  },
+  {
+    "postal": "L1K7K2",
+    "result": []
+  },
+  {
+    "postal": "L1K7T8",
+    "result": []
+  },
+  {
+    "postal": "L1K0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J9",
+        "streetName": "PENNEL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PENNEL DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0J9",
+        "streetName": "SCHOOLING",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SCHOOLING DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5J9",
+    "result": []
+  },
+  {
+    "postal": "L1K5S7",
+    "result": []
+  },
+  {
+    "postal": "L1K0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0G9",
+        "streetName": "LIVESEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LIVESEY DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0G9",
+        "streetName": "MCCUE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "MCCUE DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3J9",
+    "result": []
+  },
+  {
+    "postal": "L1K2Y0",
+    "result": []
+  },
+  {
+    "postal": "L1K8X5",
+    "result": []
+  },
+  {
+    "postal": "L1K2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2M7",
+        "streetName": "ALDERSHOT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ALDERSHOT DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2M7",
+        "streetName": "ANDOVER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ANDOVER DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K2M7",
+        "streetName": "DARTMOOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "DARTMOOR ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9Z3",
+    "result": []
+  },
+  {
+    "postal": "L1K7W2",
+    "result": []
+  },
+  {
+    "postal": "L1K3W0",
+    "result": []
+  },
+  {
+    "postal": "L1K3M1",
+    "result": []
+  },
+  {
+    "postal": "L1K6A5",
+    "result": []
+  },
+  {
+    "postal": "L1K2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2M9",
+        "streetName": "SPRINGBANK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SPRINGBANK DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2M9",
+        "streetName": "WESTRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WESTRIDGE CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2M9",
+        "streetName": "WESTRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WESTRIDGE DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5C3",
+    "result": []
+  },
+  {
+    "postal": "L1K0Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y6",
+        "streetName": "DOUGLAS LANGTREE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "DOUGLAS LANGTREE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y6",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y6",
+        "streetName": "RONALD INCHE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RONALD INCHE DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9H7",
+    "result": []
+  },
+  {
+    "postal": "L1K3L0",
+    "result": []
+  },
+  {
+    "postal": "L1K5N9",
+    "result": []
+  },
+  {
+    "postal": "L1K5E3",
+    "result": []
+  },
+  {
+    "postal": "L1K7M9",
+    "result": []
+  },
+  {
+    "postal": "L1K8N2",
+    "result": []
+  },
+  {
+    "postal": "L1K9H3",
+    "result": []
+  },
+  {
+    "postal": "L1K2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2K8",
+        "streetName": "RIDGEMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIDGEMOUNT BLVD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2K8",
+        "streetName": "TIMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TIMBERLAND CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9L0",
+    "result": []
+  },
+  {
+    "postal": "L1K6L9",
+    "result": []
+  },
+  {
+    "postal": "L1K6A8",
+    "result": []
+  },
+  {
+    "postal": "L1K2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689,
+          10140493
+        ],
+        "postalCode": "L1K2K6",
+        "streetName": "HIGHBROOKE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HIGHBROOKE CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689,
+          10140493
+        ],
+        "postalCode": "L1K2K6",
+        "streetName": "RIDGEMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIDGEMOUNT BLVD, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2M0",
+    "result": []
+  },
+  {
+    "postal": "L1K5X7",
+    "result": []
+  },
+  {
+    "postal": "L1K0M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K0M7",
+        "streetName": "MEATH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "MEATH DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7A6",
+    "result": []
+  },
+  {
+    "postal": "L1K3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K3C5",
+        "streetName": "COYSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COYSTON DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K3C5",
+        "streetName": "STEERFORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "STEERFORTH ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2P2",
+        "streetName": "HEARTLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HEARTLAND BLVD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2P2",
+        "streetName": "LYNCROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LYNCROFT CRES, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2P2",
+        "streetName": "PARK RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PARK RIDGE DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9N4",
+    "result": []
+  },
+  {
+    "postal": "L1K3M9",
+    "result": []
+  },
+  {
+    "postal": "L1K8K6",
+    "result": []
+  },
+  {
+    "postal": "L1K1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1L2",
+        "streetName": "ADELAIDE",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ADELAIDE AVE E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K2Z9",
+        "streetName": "EAGLE RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "EAGLE RIDGE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K2Z9",
+        "streetName": "RED DEER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RED DEER AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K2S2",
+        "streetName": "CLEARBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CLEARBROOK DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K2S2",
+        "streetName": "SKYVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SKYVIEW ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2W2",
+        "streetName": "LOGANBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LOGANBERRY ST, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2W2",
+        "streetName": "TRAIL VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TRAIL VALLEY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K2C3",
+        "streetName": "PEGGOTY",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PEGGOTY CIR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K2C3",
+        "streetName": "STEERFORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "STEERFORTH ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6L7",
+    "result": []
+  },
+  {
+    "postal": "L1K3K0",
+    "result": []
+  },
+  {
+    "postal": "L1K3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          },
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10140490,
+          10137866
+        ],
+        "postalCode": "L1K3C1",
+        "streetName": "BIRCHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BIRCHVIEW DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K3C1",
+        "streetName": "ORMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ORMOND DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6M9",
+    "result": []
+  },
+  {
+    "postal": "L1K4N9",
+    "result": []
+  },
+  {
+    "postal": "L1K3Y7",
+    "result": []
+  },
+  {
+    "postal": "L1K2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2A9",
+        "streetName": "SWISS HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SWISS HEIGHTS DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6H5",
+    "result": []
+  },
+  {
+    "postal": "L1K8B4",
+    "result": []
+  },
+  {
+    "postal": "L1K4Z2",
+    "result": []
+  },
+  {
+    "postal": "L1K9J0",
+    "result": []
+  },
+  {
+    "postal": "L1K7V7",
+    "result": []
+  },
+  {
+    "postal": "L1K5T5",
+    "result": []
+  },
+  {
+    "postal": "L1K4W5",
+    "result": []
+  },
+  {
+    "postal": "L1K1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1T8",
+        "streetName": "ATTERSLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ATTERSLEY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9G6",
+    "result": []
+  },
+  {
+    "postal": "L1K1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1H3",
+        "streetName": "ASTRA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ASTRA AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5R5",
+    "result": []
+  },
+  {
+    "postal": "L1K8A4",
+    "result": []
+  },
+  {
+    "postal": "L1K3T6",
+    "result": []
+  },
+  {
+    "postal": "L1K9W8",
+    "result": []
+  },
+  {
+    "postal": "L1K0N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0N3",
+        "streetName": "ESTERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ESTERBROOK DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0N3",
+        "streetName": "KENMARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "KENMARK AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7V0",
+    "result": []
+  },
+  {
+    "postal": "L1K8T5",
+    "result": []
+  },
+  {
+    "postal": "L1K5N3",
+    "result": []
+  },
+  {
+    "postal": "L1K5G9",
+    "result": []
+  },
+  {
+    "postal": "L1K3X8",
+    "result": []
+  },
+  {
+    "postal": "L1K9R3",
+    "result": []
+  },
+  {
+    "postal": "L1K2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2S1",
+        "streetName": "SHERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SHERBROOK CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9J7",
+    "result": []
+  },
+  {
+    "postal": "L1K2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2J3",
+        "streetName": "BEATRICE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BEATRICE ST E, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2J3",
+        "streetName": "ELDERBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ELDERBERRY DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2J3",
+        "streetName": "SNOWBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SNOWBERRY CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2J3",
+        "streetName": "SNOWBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SNOWBERRY ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K3B6",
+        "streetName": "ORMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ORMOND DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8J0",
+    "result": []
+  },
+  {
+    "postal": "L1K7R4",
+    "result": []
+  },
+  {
+    "postal": "L1K8K8",
+    "result": []
+  },
+  {
+    "postal": "L1K4P3",
+    "result": []
+  },
+  {
+    "postal": "L1K0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K0A2",
+        "streetName": "BENEFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BENEFORD RD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K0A2",
+        "streetName": "FLEETWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "FLEETWOOD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140490
+        ],
+        "postalCode": "L1K2G2",
+        "streetName": "BEATRICE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BEATRICE ST E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5Y9",
+    "result": []
+  },
+  {
+    "postal": "L1K7X0",
+    "result": []
+  },
+  {
+    "postal": "L1K7W3",
+    "result": []
+  },
+  {
+    "postal": "L1K7X5",
+    "result": []
+  },
+  {
+    "postal": "L1K5K6",
+    "result": []
+  },
+  {
+    "postal": "L1K5B6",
+    "result": []
+  },
+  {
+    "postal": "L1K7Z0",
+    "result": []
+  },
+  {
+    "postal": "L1K9H6",
+    "result": []
+  },
+  {
+    "postal": "L1K1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1B4",
+        "streetName": "MALIBU",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "MALIBU ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1A0",
+    "result": []
+  },
+  {
+    "postal": "L1K9A0",
+    "result": []
+  },
+  {
+    "postal": "L1K1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K1M6",
+        "streetName": "CAMELOT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CAMELOT DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5H0",
+    "result": []
+  },
+  {
+    "postal": "L1K1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140502
+        ],
+        "postalCode": "L1K1K6",
+        "streetName": "CAMELOT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CAMELOT DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5E1",
+    "result": []
+  },
+  {
+    "postal": "L1K3T9",
+    "result": []
+  },
+  {
+    "postal": "L1K2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140487,
+          10140493
+        ],
+        "postalCode": "L1K2M6",
+        "streetName": "HINTERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HINTERLAND CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2M6",
+        "streetName": "HINTERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HINTERLAND DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2M6",
+        "streetName": "INTERLAKE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "INTERLAKE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2M6",
+        "streetName": "WILLIAM TELL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WILLIAM TELL DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K0G5",
+        "streetName": "MEATH",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "MEATH DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K0G5",
+        "streetName": "STIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "STIRE ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y2",
+        "streetName": "GRAHAM CLAPP",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRAHAM CLAPP AVE, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y2",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Y2",
+        "streetName": "WILLIAM LOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WILLIAM LOTT DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K2Y7",
+        "streetName": "COLDSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COLDSTREAM DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2J7",
+    "result": []
+  },
+  {
+    "postal": "L1K4K7",
+    "result": []
+  },
+  {
+    "postal": "L1K7P9",
+    "result": []
+  },
+  {
+    "postal": "L1K8X0",
+    "result": []
+  },
+  {
+    "postal": "L1K3X1",
+    "result": []
+  },
+  {
+    "postal": "L1K1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1R5",
+        "streetName": "CRICKLEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CRICKLEWOOD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6X6",
+    "result": []
+  },
+  {
+    "postal": "L1K0Y1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          },
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10140513,
+          10137867
+        ],
+        "postalCode": "L1K0Y1",
+        "streetName": "WRENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WRENWOOD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8G1",
+    "result": []
+  },
+  {
+    "postal": "L1K3J3",
+    "result": []
+  },
+  {
+    "postal": "L1K8C2",
+    "result": []
+  },
+  {
+    "postal": "L1K4X9",
+    "result": []
+  },
+  {
+    "postal": "L1K6G9",
+    "result": []
+  },
+  {
+    "postal": "L1K4M3",
+    "result": []
+  },
+  {
+    "postal": "L1K9P7",
+    "result": []
+  },
+  {
+    "postal": "L1K4E5",
+    "result": []
+  },
+  {
+    "postal": "L1K5K9",
+    "result": []
+  },
+  {
+    "postal": "L1K2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2V2",
+        "streetName": "GREYSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GREYSTONE CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2V2",
+        "streetName": "KESWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "KESWICK CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2N9",
+        "streetName": "ASHCROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ASHCROFT CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137869
+        ],
+        "postalCode": "L1K2N9",
+        "streetName": "OAKHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "OAKHILL AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6L4",
+    "result": []
+  },
+  {
+    "postal": "L1K8E0",
+    "result": []
+  },
+  {
+    "postal": "L1K0N0",
+    "result": []
+  },
+  {
+    "postal": "L1K6R0",
+    "result": []
+  },
+  {
+    "postal": "L1K9C1",
+    "result": []
+  },
+  {
+    "postal": "L1K4H4",
+    "result": []
+  },
+  {
+    "postal": "L1K5W3",
+    "result": []
+  },
+  {
+    "postal": "L1K9N9",
+    "result": []
+  },
+  {
+    "postal": "L1K1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1V7",
+        "streetName": "ATTERSLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ATTERSLEY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8J1",
+    "result": []
+  },
+  {
+    "postal": "L1K5V9",
+    "result": []
+  },
+  {
+    "postal": "L1K2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2S8",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2S8",
+        "streetName": "TALL PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TALL PINE AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6P0",
+    "result": []
+  },
+  {
+    "postal": "L1K4J8",
+    "result": []
+  },
+  {
+    "postal": "L1K0N1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0N1",
+        "streetName": "COLDSTREAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COLDSTREAM DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1Y7",
+        "streetName": "COBBLEHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COBBLEHILL DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7W5",
+    "result": []
+  },
+  {
+    "postal": "L1K3Z1",
+    "result": []
+  },
+  {
+    "postal": "L1K7M6",
+    "result": []
+  },
+  {
+    "postal": "L1K1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1W7",
+        "streetName": "LAVIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LAVIS ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1X1",
+        "streetName": "CROWELLS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CROWELLS CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137863
+        ],
+        "postalCode": "L1K0C1",
+        "streetName": "FALCONRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "FALCONRIDGE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137863
+        ],
+        "postalCode": "L1K0C1",
+        "streetName": "RITSON",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RITSON RD N, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4N3",
+    "result": []
+  },
+  {
+    "postal": "L1K4S8",
+    "result": []
+  },
+  {
+    "postal": "L1K1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1H6",
+        "streetName": "ASTRA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ASTRA CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K2Z4",
+        "streetName": "WHITESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WHITESTONE CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7K3",
+    "result": []
+  },
+  {
+    "postal": "L1K8A2",
+    "result": []
+  },
+  {
+    "postal": "L1K6J1",
+    "result": []
+  },
+  {
+    "postal": "L1K5Z6",
+    "result": []
+  },
+  {
+    "postal": "L1K3Z0",
+    "result": []
+  },
+  {
+    "postal": "L1K8M0",
+    "result": []
+  },
+  {
+    "postal": "L1K1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K1Z6",
+        "streetName": "LINDSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LINDSAY BLVD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K1Z6",
+        "streetName": "RIDGE VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIDGE VALLEY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8K7",
+    "result": []
+  },
+  {
+    "postal": "L1K1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1N3",
+        "streetName": "WICKHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WICKHAM CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9S2",
+    "result": []
+  },
+  {
+    "postal": "L1K2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2K1",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1E8",
+        "streetName": "ELDORADO",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ELDORADO AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K9B8",
+    "result": []
+  },
+  {
+    "postal": "L1K7X4",
+    "result": []
+  },
+  {
+    "postal": "L1K1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K1Z4",
+        "streetName": "STONE COTTAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "STONE COTTAGE CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2C7",
+        "streetName": "PONDTAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PONDTAIL CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2E7",
+        "streetName": "KINGSLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "KINGSLEY CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2E7",
+        "streetName": "RIPLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIPLEY CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3R1",
+    "result": []
+  },
+  {
+    "postal": "L1K4K4",
+    "result": []
+  },
+  {
+    "postal": "L1K9G3",
+    "result": []
+  },
+  {
+    "postal": "L1K6C9",
+    "result": []
+  },
+  {
+    "postal": "L1K9H5",
+    "result": []
+  },
+  {
+    "postal": "L1K1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K1P5",
+        "streetName": "COPPERFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "COPPERFIELD DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2J5",
+        "streetName": "ATTERSLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ATTERSLEY DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2J5",
+        "streetName": "STRAWBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "STRAWBERRY CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4W6",
+    "result": []
+  },
+  {
+    "postal": "L1K8M8",
+    "result": []
+  },
+  {
+    "postal": "L1K6C5",
+    "result": []
+  },
+  {
+    "postal": "L1K9H0",
+    "result": []
+  },
+  {
+    "postal": "L1K1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1X8",
+        "streetName": "ATTERSLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ATTERSLEY DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1X8",
+        "streetName": "CROWELLS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CROWELLS ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3H4",
+    "result": []
+  },
+  {
+    "postal": "L1K4E7",
+    "result": []
+  },
+  {
+    "postal": "L1K8A0",
+    "result": []
+  },
+  {
+    "postal": "L1K1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K1Z7",
+        "streetName": "LINDSAY",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LINDSAY BLVD, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K1Z7",
+        "streetName": "RIDGE VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIDGE VALLEY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7Z3",
+    "result": []
+  },
+  {
+    "postal": "L1K0L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0L7",
+        "streetName": "EAGLE RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "EAGLE RIDGE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K0L7",
+        "streetName": "QUAIL RUN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "QUAIL RUN DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2C6",
+        "streetName": "GREENLANE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GREENLANE CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2C6",
+        "streetName": "GREENLANE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GREENLANE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K2C6",
+        "streetName": "PONDTAIL",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PONDTAIL CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6M3",
+    "result": []
+  },
+  {
+    "postal": "L1K2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140490
+        ],
+        "postalCode": "L1K2J1",
+        "streetName": "BEATRICE",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BEATRICE ST E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K3E3",
+        "streetName": "TAUNTON",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TAUNTON RD E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K6Z9",
+    "result": []
+  },
+  {
+    "postal": "L1K3M3",
+    "result": []
+  },
+  {
+    "postal": "L1K9B1",
+    "result": []
+  },
+  {
+    "postal": "L1K9J5",
+    "result": []
+  },
+  {
+    "postal": "L1K4V8",
+    "result": []
+  },
+  {
+    "postal": "L1K6W2",
+    "result": []
+  },
+  {
+    "postal": "L1K0V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137866
+        ],
+        "postalCode": "L1K0V5",
+        "streetName": "SILVERSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SILVERSTONE CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0Z8",
+        "streetName": "HARMONY",
+        "streetDirectionId": "N",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "HARMONY RD N, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K5G2",
+    "result": []
+  },
+  {
+    "postal": "L1K4N4",
+    "result": []
+  },
+  {
+    "postal": "L1K8G7",
+    "result": []
+  },
+  {
+    "postal": "L1K8W1",
+    "result": []
+  },
+  {
+    "postal": "L1K1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1S6",
+        "streetName": "BLACKTHORN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "BLACKTHORN ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4E0",
+    "result": []
+  },
+  {
+    "postal": "L1K4L9",
+    "result": []
+  },
+  {
+    "postal": "L1K5Z9",
+    "result": []
+  },
+  {
+    "postal": "L1K5V3",
+    "result": []
+  },
+  {
+    "postal": "L1K4V2",
+    "result": []
+  },
+  {
+    "postal": "L1K7C0",
+    "result": []
+  },
+  {
+    "postal": "L1K6L0",
+    "result": []
+  },
+  {
+    "postal": "L1K1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1S9",
+        "streetName": "AVERY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "AVERY CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140492
+        ],
+        "postalCode": "L1K1S9",
+        "streetName": "PASCOE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PASCOE CRT, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7R6",
+    "result": []
+  },
+  {
+    "postal": "L1K7J0",
+    "result": []
+  },
+  {
+    "postal": "L1K5M0",
+    "result": []
+  },
+  {
+    "postal": "L1K2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2E5",
+        "streetName": "RIDGE VALLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIDGE VALLEY DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2E5",
+        "streetName": "SANDCLIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SANDCLIFF DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7C7",
+    "result": []
+  },
+  {
+    "postal": "L1K5C0",
+    "result": []
+  },
+  {
+    "postal": "L1K8V9",
+    "result": []
+  },
+  {
+    "postal": "L1K7E0",
+    "result": []
+  },
+  {
+    "postal": "L1K6R4",
+    "result": []
+  },
+  {
+    "postal": "L1K3Z7",
+    "result": []
+  },
+  {
+    "postal": "L1K1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K1J9",
+        "streetName": "LANCELOT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "LANCELOT CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7K6",
+    "result": []
+  },
+  {
+    "postal": "L1K7Y5",
+    "result": []
+  },
+  {
+    "postal": "L1K1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137867
+        ],
+        "postalCode": "L1K1B7",
+        "streetName": "TAUNTON",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TAUNTON RD E, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4S9",
+    "result": []
+  },
+  {
+    "postal": "L1K9R9",
+    "result": []
+  },
+  {
+    "postal": "L1K5K7",
+    "result": []
+  },
+  {
+    "postal": "L1K6P2",
+    "result": []
+  },
+  {
+    "postal": "L1K2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K2C5",
+        "streetName": "PEGGOTY",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "PEGGOTY CIR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140503
+        ],
+        "postalCode": "L1K2C5",
+        "streetName": "STEERFORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "STEERFORTH ST, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2N0",
+    "result": []
+  },
+  {
+    "postal": "L1K1G0",
+    "result": []
+  },
+  {
+    "postal": "L1K4K5",
+    "result": []
+  },
+  {
+    "postal": "L1K9B5",
+    "result": []
+  },
+  {
+    "postal": "L1K6T5",
+    "result": []
+  },
+  {
+    "postal": "L1K1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140504
+        ],
+        "postalCode": "L1K1N8",
+        "streetName": "TRADDLES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "TRADDLES AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K0C0",
+    "result": []
+  },
+  {
+    "postal": "L1K0R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0R9",
+        "streetName": "QUEENSBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "QUEENSBURY DR, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K7L1",
+    "result": []
+  },
+  {
+    "postal": "L1K3Y8",
+    "result": []
+  },
+  {
+    "postal": "L1K7X9",
+    "result": []
+  },
+  {
+    "postal": "L1K1A7",
+    "result": []
+  },
+  {
+    "postal": "L1K2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2T9",
+        "streetName": "CASCADE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "CASCADE DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2T9",
+        "streetName": "SILVER FOX",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SILVER FOX CRT, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10140493
+        ],
+        "postalCode": "L1K2T9",
+        "streetName": "SUMMERWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "HTS",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "SUMMERWOOD HTS, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2E6",
+        "streetName": "GRANDVIEW",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "GRANDVIEW ST N, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 77,
+            "name": "Oshawa"
+          }
+        ],
+        "pollDivisionIds": [
+          10143689
+        ],
+        "postalCode": "L1K2E6",
+        "streetName": "RIPLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "RIPLEY CRES, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K8Y1",
+    "result": []
+  },
+  {
+    "postal": "L1K0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0J5",
+        "streetName": "ESTERBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "ESTERBROOK DR, OSHAWA"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 24,
+            "name": "Durham"
+          }
+        ],
+        "pollDivisionIds": [
+          10137868
+        ],
+        "postalCode": "L1K0J5",
+        "streetName": "WALLIG",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OSHAWA",
+        "streetNameDisplayText": "WALLIG AVE, OSHAWA"
+      }
+    ]
+  },
+  {
+    "postal": "L1K4J1",
+    "result": []
+  },
+  {
+    "postal": "L1K1A5",
+    "result": []
+  },
+  {
+    "postal": "L1K6Z6",
+    "result": []
+  },
+  {
+    "postal": "L1K5K4",
+    "result": []
+  },
+  {
+    "postal": "L1K7R9",
+    "result": []
+  },
+  {
+    "postal": "L1K6G4",
+    "result": []
   }
 ]

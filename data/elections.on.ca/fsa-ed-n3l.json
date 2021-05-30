@@ -6510,5 +6510,4486 @@
   {
     "postal": "N3L0W6",
     "result": []
+  },
+  {
+    "postal": "N3L4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4C5",
+        "streetName": "GRIFFITHS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRIFFITHS DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7E4",
+    "result": []
+  },
+  {
+    "postal": "N3L1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1R9",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SPRUCE ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2P0",
+    "result": []
+  },
+  {
+    "postal": "N3L5S4",
+    "result": []
+  },
+  {
+    "postal": "N3L5K8",
+    "result": []
+  },
+  {
+    "postal": "N3L8K4",
+    "result": []
+  },
+  {
+    "postal": "N3L7C1",
+    "result": []
+  },
+  {
+    "postal": "N3L7K9",
+    "result": []
+  },
+  {
+    "postal": "N3L5J1",
+    "result": []
+  },
+  {
+    "postal": "N3L4P9",
+    "result": []
+  },
+  {
+    "postal": "N3L0N2",
+    "result": []
+  },
+  {
+    "postal": "N3L2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          },
+          {
+            "election": null,
+            "id": 42,
+            "setId": 0,
+            "name": "Huron—Bruce"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189,
+          10138850
+        ],
+        "postalCode": "N3L2G6",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "KING EDWARD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6P4",
+    "result": []
+  },
+  {
+    "postal": "N3L3J0",
+    "result": []
+  },
+  {
+    "postal": "N3L8X4",
+    "result": []
+  },
+  {
+    "postal": "N3L1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1Y3",
+        "streetName": "CHARLES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CHARLES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1A8",
+        "streetName": "EVANS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "EVANS ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6Y5",
+    "result": []
+  },
+  {
+    "postal": "N3L0J6",
+    "result": []
+  },
+  {
+    "postal": "N3L2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2C9",
+        "streetName": "DUMFRIES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUMFRIES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8J6",
+    "result": []
+  },
+  {
+    "postal": "N3L8T4",
+    "result": []
+  },
+  {
+    "postal": "N3L1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1P7",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ST PATRICK ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9V9",
+    "result": []
+  },
+  {
+    "postal": "N3L0M1",
+    "result": []
+  },
+  {
+    "postal": "N3L6K5",
+    "result": []
+  },
+  {
+    "postal": "N3L2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2T5",
+        "streetName": "WARWICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WARWICK ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7E9",
+    "result": []
+  },
+  {
+    "postal": "N3L5K5",
+    "result": []
+  },
+  {
+    "postal": "N3L3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3R5",
+        "streetName": "PARKSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "PARKSIDE DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5B1",
+    "result": []
+  },
+  {
+    "postal": "N3L2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2P1",
+        "streetName": "GRAND RIVER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRAND RIVER ST N, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7L0",
+    "result": []
+  },
+  {
+    "postal": "N3L3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L3L6",
+        "streetName": "BROADWAY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BROADWAY ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2A4",
+        "streetName": "WASHINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WASHINGTON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8S0",
+    "result": []
+  },
+  {
+    "postal": "N3L3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3L5",
+        "streetName": "HILLSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "HILLSIDE AVE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2R5",
+        "streetName": "BROADWAY",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BROADWAY ST E, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9T6",
+    "result": []
+  },
+  {
+    "postal": "N3L8Z2",
+    "result": []
+  },
+  {
+    "postal": "N3L0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L0E9",
+        "streetName": "GIBBONS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GIBBONS RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L0E9",
+        "streetName": "GRANDVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRANDVILLE CIR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8C0",
+    "result": []
+  },
+  {
+    "postal": "N3L3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3K7",
+        "streetName": "GILSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PKY",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GILSTON PKY, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2H3",
+        "streetName": "BARKER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BARKER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2Y6",
+        "streetName": "BANFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BANFIELD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7M2",
+    "result": []
+  },
+  {
+    "postal": "N3L6E2",
+    "result": []
+  },
+  {
+    "postal": "N3L3R0",
+    "result": []
+  },
+  {
+    "postal": "N3L4J7",
+    "result": []
+  },
+  {
+    "postal": "N3L6N8",
+    "result": []
+  },
+  {
+    "postal": "N3L0J7",
+    "result": []
+  },
+  {
+    "postal": "N3L7P2",
+    "result": []
+  },
+  {
+    "postal": "N3L3T8",
+    "result": []
+  },
+  {
+    "postal": "N3L3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3S7",
+        "streetName": "PARKSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "PARKSIDE DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2S7",
+        "streetName": "BROADWAY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BROADWAY ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1S4",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WELLINGTON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1L8",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WILLIAM ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8E9",
+    "result": []
+  },
+  {
+    "postal": "N3L0T0",
+    "result": []
+  },
+  {
+    "postal": "N3L3G4",
+    "result": []
+  },
+  {
+    "postal": "N3L0V6",
+    "result": []
+  },
+  {
+    "postal": "N3L4W1",
+    "result": []
+  },
+  {
+    "postal": "N3L9G9",
+    "result": []
+  },
+  {
+    "postal": "N3L5W4",
+    "result": []
+  },
+  {
+    "postal": "N3L7M8",
+    "result": []
+  },
+  {
+    "postal": "N3L2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2C2",
+        "streetName": "ARNOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ARNOLD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4Y2",
+    "result": []
+  },
+  {
+    "postal": "N3L9X9",
+    "result": []
+  },
+  {
+    "postal": "N3L3T0",
+    "result": []
+  },
+  {
+    "postal": "N3L4T8",
+    "result": []
+  },
+  {
+    "postal": "N3L9C4",
+    "result": []
+  },
+  {
+    "postal": "N3L8P2",
+    "result": []
+  },
+  {
+    "postal": "N3L0Y8",
+    "result": []
+  },
+  {
+    "postal": "N3L1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1G8",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUNDAS ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2T6",
+        "streetName": "WEST RIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WEST RIVER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1N7",
+        "streetName": "EMILY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "EMILY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L0L6",
+    "result": []
+  },
+  {
+    "postal": "N3L9V4",
+    "result": []
+  },
+  {
+    "postal": "N3L2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187,
+          10137188
+        ],
+        "postalCode": "N3L2V1",
+        "streetName": "WEST RIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WEST RIVER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3L8",
+        "streetName": "BARKER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BARKER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2R8",
+        "streetName": "BAIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BAIRD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5C1",
+    "result": []
+  },
+  {
+    "postal": "N3L4W3",
+    "result": []
+  },
+  {
+    "postal": "N3L5X5",
+    "result": []
+  },
+  {
+    "postal": "N3L9W5",
+    "result": []
+  },
+  {
+    "postal": "N3L3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3C4",
+        "streetName": "MULBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MULBERRY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1N6",
+        "streetName": "EMILY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "EMILY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9S9",
+    "result": []
+  },
+  {
+    "postal": "N3L9M2",
+    "result": []
+  },
+  {
+    "postal": "N3L8Y4",
+    "result": []
+  },
+  {
+    "postal": "N3L7S4",
+    "result": []
+  },
+  {
+    "postal": "N3L0K6",
+    "result": []
+  },
+  {
+    "postal": "N3L1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1W3",
+        "streetName": "SPENCER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SPENCER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7R2",
+    "result": []
+  },
+  {
+    "postal": "N3L2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2Y9",
+        "streetName": "BANFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BANFIELD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7G4",
+    "result": []
+  },
+  {
+    "postal": "N3L7E5",
+    "result": []
+  },
+  {
+    "postal": "N3L9G2",
+    "result": []
+  },
+  {
+    "postal": "N3L7Y8",
+    "result": []
+  },
+  {
+    "postal": "N3L9V2",
+    "result": []
+  },
+  {
+    "postal": "N3L3T7",
+    "result": []
+  },
+  {
+    "postal": "N3L1H0",
+    "result": []
+  },
+  {
+    "postal": "N3L1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1M7",
+        "streetName": "BROADWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BROADWAY LANE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8V4",
+    "result": []
+  },
+  {
+    "postal": "N3L4M2",
+    "result": []
+  },
+  {
+    "postal": "N3L0X2",
+    "result": []
+  },
+  {
+    "postal": "N3L5Z4",
+    "result": []
+  },
+  {
+    "postal": "N3L6V4",
+    "result": []
+  },
+  {
+    "postal": "N3L8J3",
+    "result": []
+  },
+  {
+    "postal": "N3L8E5",
+    "result": []
+  },
+  {
+    "postal": "N3L2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2V5",
+        "streetName": "ALEXANDER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ALEXANDER AVE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7S1",
+    "result": []
+  },
+  {
+    "postal": "N3L6V3",
+    "result": []
+  },
+  {
+    "postal": "N3L2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2L8",
+        "streetName": "ELM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ELM ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9V0",
+    "result": []
+  },
+  {
+    "postal": "N3L3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3M4",
+        "streetName": "TRILLIUM",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "TRILLIUM WAY, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5B2",
+    "result": []
+  },
+  {
+    "postal": "N3L3X5",
+    "result": []
+  },
+  {
+    "postal": "N3L9R7",
+    "result": []
+  },
+  {
+    "postal": "N3L2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2X2",
+        "streetName": "ST ANDREW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ST ANDREW ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8Z6",
+    "result": []
+  },
+  {
+    "postal": "N3L4R4",
+    "result": []
+  },
+  {
+    "postal": "N3L2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2R1",
+        "streetName": "BAYLY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BAYLY DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3R8",
+    "result": []
+  },
+  {
+    "postal": "N3L9A1",
+    "result": []
+  },
+  {
+    "postal": "N3L8L3",
+    "result": []
+  },
+  {
+    "postal": "N3L9K4",
+    "result": []
+  },
+  {
+    "postal": "N3L9S3",
+    "result": []
+  },
+  {
+    "postal": "N3L8N7",
+    "result": []
+  },
+  {
+    "postal": "N3L1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1C6",
+        "streetName": "QUEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "QUEEN ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3Z8",
+        "streetName": "MILE HILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MILE HILL RD, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8G5",
+    "result": []
+  },
+  {
+    "postal": "N3L5R6",
+    "result": []
+  },
+  {
+    "postal": "N3L2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2W3",
+        "streetName": "JURY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "JURY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L0A0",
+    "result": []
+  },
+  {
+    "postal": "N3L6P8",
+    "result": []
+  },
+  {
+    "postal": "N3L8N9",
+    "result": []
+  },
+  {
+    "postal": "N3L0S9",
+    "result": []
+  },
+  {
+    "postal": "N3L8G0",
+    "result": []
+  },
+  {
+    "postal": "N3L8C7",
+    "result": []
+  },
+  {
+    "postal": "N3L5X8",
+    "result": []
+  },
+  {
+    "postal": "N3L7E8",
+    "result": []
+  },
+  {
+    "postal": "N3L6X2",
+    "result": []
+  },
+  {
+    "postal": "N3L4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4C6",
+        "streetName": "MACPHERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MACPHERSON DR, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4C6",
+        "streetName": "SCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SCOTT AVE, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4C6",
+        "streetName": "SCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SCOTT ST, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4C6",
+        "streetName": "SHARP",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SHARP ST, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4C6",
+        "streetName": "SHARPE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SHARPE ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7H2",
+    "result": []
+  },
+  {
+    "postal": "N3L4R0",
+    "result": []
+  },
+  {
+    "postal": "N3L6J3",
+    "result": []
+  },
+  {
+    "postal": "N3L4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L4B8",
+        "streetName": "COURT",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "COURT DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6H6",
+    "result": []
+  },
+  {
+    "postal": "N3L0S1",
+    "result": []
+  },
+  {
+    "postal": "N3L4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L4E3",
+        "streetName": "BRADBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BRADBURY CRES, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7K2",
+    "result": []
+  },
+  {
+    "postal": "N3L7T8",
+    "result": []
+  },
+  {
+    "postal": "N3L0J9",
+    "result": []
+  },
+  {
+    "postal": "N3L5J9",
+    "result": []
+  },
+  {
+    "postal": "N3L5S7",
+    "result": []
+  },
+  {
+    "postal": "N3L0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L0G9",
+        "streetName": "HARTLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "HARTLEY AVE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3J9",
+        "streetName": "OLD MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "OLD MILL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2Y0",
+    "result": []
+  },
+  {
+    "postal": "N3L8X5",
+    "result": []
+  },
+  {
+    "postal": "N3L2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2M7",
+        "streetName": "GRAND RIVER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRAND RIVER ST N, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9Z3",
+    "result": []
+  },
+  {
+    "postal": "N3L7W2",
+    "result": []
+  },
+  {
+    "postal": "N3L3W0",
+    "result": []
+  },
+  {
+    "postal": "N3L3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3M1",
+        "streetName": "FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "FOREST DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6A5",
+    "result": []
+  },
+  {
+    "postal": "N3L2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2M9",
+        "streetName": "GRAND RIVER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRAND RIVER ST N, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5C3",
+    "result": []
+  },
+  {
+    "postal": "N3L0Y6",
+    "result": []
+  },
+  {
+    "postal": "N3L9H7",
+    "result": []
+  },
+  {
+    "postal": "N3L3L0",
+    "result": []
+  },
+  {
+    "postal": "N3L5N9",
+    "result": []
+  },
+  {
+    "postal": "N3L5E3",
+    "result": []
+  },
+  {
+    "postal": "N3L7M9",
+    "result": []
+  },
+  {
+    "postal": "N3L8N2",
+    "result": []
+  },
+  {
+    "postal": "N3L9H3",
+    "result": []
+  },
+  {
+    "postal": "N3L2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2K8",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WILLOW ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9L0",
+    "result": []
+  },
+  {
+    "postal": "N3L6L9",
+    "result": []
+  },
+  {
+    "postal": "N3L6A8",
+    "result": []
+  },
+  {
+    "postal": "N3L2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2K6",
+        "streetName": "WILLOW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WILLOW ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2M0",
+    "result": []
+  },
+  {
+    "postal": "N3L5X7",
+    "result": []
+  },
+  {
+    "postal": "N3L0M7",
+    "result": []
+  },
+  {
+    "postal": "N3L7A6",
+    "result": []
+  },
+  {
+    "postal": "N3L3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3C5",
+        "streetName": "MULBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MULBERRY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2P2",
+        "streetName": "RIVERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "RIVERVIEW TERR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9N4",
+    "result": []
+  },
+  {
+    "postal": "N3L3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3M9",
+        "streetName": "MAGNOLIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MAGNOLIA DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8K6",
+    "result": []
+  },
+  {
+    "postal": "N3L1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1L2",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WILLIAM ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2Z9",
+        "streetName": "GOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GOLD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2S2",
+        "streetName": "BROADWAY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BROADWAY ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2W2",
+        "streetName": "JURY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "JURY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2C3",
+        "streetName": "BURWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BURWELL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6L7",
+    "result": []
+  },
+  {
+    "postal": "N3L3K0",
+    "result": []
+  },
+  {
+    "postal": "N3L3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3C1",
+        "streetName": "JEFFERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "JEFFERSON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6M9",
+    "result": []
+  },
+  {
+    "postal": "N3L4N9",
+    "result": []
+  },
+  {
+    "postal": "N3L3Y7",
+    "result": []
+  },
+  {
+    "postal": "N3L2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2A9",
+        "streetName": "WASHINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WASHINGTON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6H5",
+    "result": []
+  },
+  {
+    "postal": "N3L8B4",
+    "result": []
+  },
+  {
+    "postal": "N3L4Z2",
+    "result": []
+  },
+  {
+    "postal": "N3L9J0",
+    "result": []
+  },
+  {
+    "postal": "N3L7V7",
+    "result": []
+  },
+  {
+    "postal": "N3L5T5",
+    "result": []
+  },
+  {
+    "postal": "N3L4W5",
+    "result": []
+  },
+  {
+    "postal": "N3L1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1T8",
+        "streetName": "SILVER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SILVER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9G6",
+    "result": []
+  },
+  {
+    "postal": "N3L1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1H3",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CHURCH ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5R5",
+    "result": []
+  },
+  {
+    "postal": "N3L8A4",
+    "result": []
+  },
+  {
+    "postal": "N3L3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L3T6",
+        "streetName": "CONSOLIDATED",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CONSOLIDATED DR, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3T6",
+        "streetName": "WOODSLEE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WOODSLEE AVE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9W8",
+    "result": []
+  },
+  {
+    "postal": "N3L0N3",
+    "result": []
+  },
+  {
+    "postal": "N3L7V0",
+    "result": []
+  },
+  {
+    "postal": "N3L8T5",
+    "result": []
+  },
+  {
+    "postal": "N3L5N3",
+    "result": []
+  },
+  {
+    "postal": "N3L5G9",
+    "result": []
+  },
+  {
+    "postal": "N3L3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3X8",
+        "streetName": "KATHLEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "KATHLEEN ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9R3",
+    "result": []
+  },
+  {
+    "postal": "N3L2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2S1",
+        "streetName": "BAIRD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BAIRD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9J7",
+    "result": []
+  },
+  {
+    "postal": "N3L2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2J3",
+        "streetName": "WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WALNUT ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3B6",
+        "streetName": "FRANKLIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "FRANKLIN ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8J0",
+    "result": []
+  },
+  {
+    "postal": "N3L7R4",
+    "result": []
+  },
+  {
+    "postal": "N3L8K8",
+    "result": []
+  },
+  {
+    "postal": "N3L4P3",
+    "result": []
+  },
+  {
+    "postal": "N3L0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L0A2",
+        "streetName": "MARRIOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MARRIOTT PL, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2G2",
+        "streetName": "CHAPEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CHAPEL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5Y9",
+    "result": []
+  },
+  {
+    "postal": "N3L7X0",
+    "result": []
+  },
+  {
+    "postal": "N3L7W3",
+    "result": []
+  },
+  {
+    "postal": "N3L7X5",
+    "result": []
+  },
+  {
+    "postal": "N3L5K6",
+    "result": []
+  },
+  {
+    "postal": "N3L5B6",
+    "result": []
+  },
+  {
+    "postal": "N3L7Z0",
+    "result": []
+  },
+  {
+    "postal": "N3L9H6",
+    "result": []
+  },
+  {
+    "postal": "N3L1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1B4",
+        "streetName": "CATHERINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CATHERINE ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1A0",
+    "result": []
+  },
+  {
+    "postal": "N3L9A0",
+    "result": []
+  },
+  {
+    "postal": "N3L1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1M6",
+        "streetName": "JOSEPH BRANT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "JOSEPH BRANT ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5H0",
+    "result": []
+  },
+  {
+    "postal": "N3L1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1K6",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WILLIAM ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5E1",
+    "result": []
+  },
+  {
+    "postal": "N3L3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3T9",
+        "streetName": "ROSE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ROSE CRT, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2M6",
+        "streetName": "GRAND RIVER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRAND RIVER ST N, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L0G5",
+        "streetName": "SAVANNAH RIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SAVANNAH RIDGE DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L0Y2",
+    "result": []
+  },
+  {
+    "postal": "N3L2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2Y7",
+        "streetName": "BANFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BANFIELD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2J7",
+        "streetName": "WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WALNUT ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4K7",
+    "result": []
+  },
+  {
+    "postal": "N3L7P9",
+    "result": []
+  },
+  {
+    "postal": "N3L8X0",
+    "result": []
+  },
+  {
+    "postal": "N3L3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3X1",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUNDAS ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1R5",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SPRUCE ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6X6",
+    "result": []
+  },
+  {
+    "postal": "N3L0Y1",
+    "result": []
+  },
+  {
+    "postal": "N3L8G1",
+    "result": []
+  },
+  {
+    "postal": "N3L3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L3J3",
+        "streetName": "CURTIS",
+        "streetDirectionId": "S",
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CURTIS AVE S, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8C2",
+    "result": []
+  },
+  {
+    "postal": "N3L4X9",
+    "result": []
+  },
+  {
+    "postal": "N3L6G9",
+    "result": []
+  },
+  {
+    "postal": "N3L4M3",
+    "result": []
+  },
+  {
+    "postal": "N3L9P7",
+    "result": []
+  },
+  {
+    "postal": "N3L4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L4E5",
+        "streetName": "DAUGAARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DAUGAARD AVE, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L4E5",
+        "streetName": "LONG",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "LONG LANE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5K9",
+    "result": []
+  },
+  {
+    "postal": "N3L2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2V2",
+        "streetName": "WEST RIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WEST RIVER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137221,
+          10137187
+        ],
+        "postalCode": "N3L2N9",
+        "streetName": "GRAND RIVER",
+        "streetDirectionId": "N",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GRAND RIVER ST N, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6L4",
+    "result": []
+  },
+  {
+    "postal": "N3L8E0",
+    "result": []
+  },
+  {
+    "postal": "N3L0N0",
+    "result": []
+  },
+  {
+    "postal": "N3L6R0",
+    "result": []
+  },
+  {
+    "postal": "N3L9C1",
+    "result": []
+  },
+  {
+    "postal": "N3L4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L4H4",
+        "streetName": "LAURIE ANN",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "LAURIE ANN LANE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L5W3",
+    "result": []
+  },
+  {
+    "postal": "N3L9N9",
+    "result": []
+  },
+  {
+    "postal": "N3L1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1V7",
+        "streetName": "KATHLEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "KATHLEEN ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8J1",
+    "result": []
+  },
+  {
+    "postal": "N3L5V9",
+    "result": []
+  },
+  {
+    "postal": "N3L2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2S8",
+        "streetName": "JOHN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "JOHN AVE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6P0",
+    "result": []
+  },
+  {
+    "postal": "N3L4J8",
+    "result": []
+  },
+  {
+    "postal": "N3L0N1",
+    "result": []
+  },
+  {
+    "postal": "N3L1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1Y7",
+        "streetName": "PATTERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "PATTERSON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7W5",
+    "result": []
+  },
+  {
+    "postal": "N3L3Z1",
+    "result": []
+  },
+  {
+    "postal": "N3L7M6",
+    "result": []
+  },
+  {
+    "postal": "N3L1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1W7",
+        "streetName": "BALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BALL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1X1",
+        "streetName": "BALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BALL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137224,
+          10137189
+        ],
+        "postalCode": "N3L0C1",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "KING EDWARD ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4N3",
+    "result": []
+  },
+  {
+    "postal": "N3L4S8",
+    "result": []
+  },
+  {
+    "postal": "N3L1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1H6",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "VICTORIA ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L2Z4",
+        "streetName": "BROADWAY",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BROADWAY ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7K3",
+    "result": []
+  },
+  {
+    "postal": "N3L8A2",
+    "result": []
+  },
+  {
+    "postal": "N3L6J1",
+    "result": []
+  },
+  {
+    "postal": "N3L5Z6",
+    "result": []
+  },
+  {
+    "postal": "N3L3Z0",
+    "result": []
+  },
+  {
+    "postal": "N3L8M0",
+    "result": []
+  },
+  {
+    "postal": "N3L1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1Z6",
+        "streetName": "AMELIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "AMELIA ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8K7",
+    "result": []
+  },
+  {
+    "postal": "N3L1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1N3",
+        "streetName": "CHARLOTTE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CHARLOTTE ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9S2",
+    "result": []
+  },
+  {
+    "postal": "N3L2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2K1",
+        "streetName": "WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WALNUT ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1E8",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUNDAS ST W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9B8",
+    "result": []
+  },
+  {
+    "postal": "N3L7X4",
+    "result": []
+  },
+  {
+    "postal": "N3L1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1Z4",
+        "streetName": "AMELIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "AMELIA ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2C7",
+        "streetName": "DUMFRIES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUMFRIES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2E7",
+        "streetName": "DUMFRIES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUMFRIES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3R1",
+        "streetName": "SCOTT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "SCOTT AVE, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4K4",
+    "result": []
+  },
+  {
+    "postal": "N3L9G3",
+    "result": []
+  },
+  {
+    "postal": "N3L6C9",
+    "result": []
+  },
+  {
+    "postal": "N3L9H5",
+    "result": []
+  },
+  {
+    "postal": "N3L1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1P5",
+        "streetName": "ST PATRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "ST PATRICK ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2J5",
+        "streetName": "WALNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WALNUT ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4W6",
+    "result": []
+  },
+  {
+    "postal": "N3L8M8",
+    "result": []
+  },
+  {
+    "postal": "N3L6C5",
+    "result": []
+  },
+  {
+    "postal": "N3L9H0",
+    "result": []
+  },
+  {
+    "postal": "N3L1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1X8",
+        "streetName": "BALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BALL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L3H4",
+        "streetName": "DUNDAS",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUNDAS ST E, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L4E7",
+        "streetName": "HANLON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "HANLON PL, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8A0",
+    "result": []
+  },
+  {
+    "postal": "N3L1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1Z7",
+        "streetName": "CROSS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CROSS ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7Z3",
+    "result": []
+  },
+  {
+    "postal": "N3L0L7",
+    "result": []
+  },
+  {
+    "postal": "N3L2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2C6",
+        "streetName": "DUMFRIES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUMFRIES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6M3",
+    "result": []
+  },
+  {
+    "postal": "N3L2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2J1",
+        "streetName": "MULHOLLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MULHOLLAND DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "2",
+        "streetDirectionId": null,
+        "streetTypeId": "HWY",
+        "placeName": "PRINCETON",
+        "streetNameDisplayText": "2 HWY, PRINCETON"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137206
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "BETHEL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BETHEL RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "BISHOPGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BISHOPGATE RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137206,
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "BISHOPSGATE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BISHOPSGATE RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137206,
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "CLEAVER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CLEAVER RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "FALKLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "FALKLAND RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "GOVERNORS",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "GOVERNORS RD W, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "HANLON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "HANLON PL, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "HWY 2",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "PARIS",
+        "streetNameDisplayText": "HWY 2, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 42,
+            "setId": 0,
+            "name": "Huron—Bruce"
+          },
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10138850,
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "KING EDWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "KING EDWARD ST, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189,
+          10137206
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "POTTRUFF",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "POTTRUFF RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "POWERLINE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "POWERLINE RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "PUTTOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "PUTTOWN RD, PARIS"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137206,
+          10137189
+        ],
+        "postalCode": "N3L3E3",
+        "streetName": "REST ACRES",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "REST ACRES RD, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6Z9",
+    "result": []
+  },
+  {
+    "postal": "N3L3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L3M3",
+        "streetName": "MAGNOLIA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MAGNOLIA DR, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L9B1",
+    "result": []
+  },
+  {
+    "postal": "N3L9J5",
+    "result": []
+  },
+  {
+    "postal": "N3L4V8",
+    "result": []
+  },
+  {
+    "postal": "N3L6W2",
+    "result": []
+  },
+  {
+    "postal": "N3L0V5",
+    "result": []
+  },
+  {
+    "postal": "N3L0Z8",
+    "result": []
+  },
+  {
+    "postal": "N3L5G2",
+    "result": []
+  },
+  {
+    "postal": "N3L4N4",
+    "result": []
+  },
+  {
+    "postal": "N3L8G7",
+    "result": []
+  },
+  {
+    "postal": "N3L8W1",
+    "result": []
+  },
+  {
+    "postal": "N3L1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1S6",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WELLINGTON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4E0",
+    "result": []
+  },
+  {
+    "postal": "N3L4L9",
+    "result": []
+  },
+  {
+    "postal": "N3L5Z9",
+    "result": []
+  },
+  {
+    "postal": "N3L5V3",
+    "result": []
+  },
+  {
+    "postal": "N3L4V2",
+    "result": []
+  },
+  {
+    "postal": "N3L7C0",
+    "result": []
+  },
+  {
+    "postal": "N3L6L0",
+    "result": []
+  },
+  {
+    "postal": "N3L1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1S9",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WELLINGTON ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7R6",
+    "result": []
+  },
+  {
+    "postal": "N3L7J0",
+    "result": []
+  },
+  {
+    "postal": "N3L5M0",
+    "result": []
+  },
+  {
+    "postal": "N3L2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2E5",
+        "streetName": "DUMFRIES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUMFRIES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7C7",
+    "result": []
+  },
+  {
+    "postal": "N3L5C0",
+    "result": []
+  },
+  {
+    "postal": "N3L8V9",
+    "result": []
+  },
+  {
+    "postal": "N3L7E0",
+    "result": []
+  },
+  {
+    "postal": "N3L6R4",
+    "result": []
+  },
+  {
+    "postal": "N3L3Z7",
+    "result": []
+  },
+  {
+    "postal": "N3L1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L1J9",
+        "streetName": "MECHANIC",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MECHANIC ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7K6",
+    "result": []
+  },
+  {
+    "postal": "N3L7Y5",
+    "result": []
+  },
+  {
+    "postal": "N3L1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1B7",
+        "streetName": "CATHERINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "CATHERINE ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L4S9",
+    "result": []
+  },
+  {
+    "postal": "N3L9R9",
+    "result": []
+  },
+  {
+    "postal": "N3L5K7",
+    "result": []
+  },
+  {
+    "postal": "N3L6P2",
+    "result": []
+  },
+  {
+    "postal": "N3L2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2C5",
+        "streetName": "BURWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "BURWELL ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2N0",
+    "result": []
+  },
+  {
+    "postal": "N3L1G0",
+    "result": []
+  },
+  {
+    "postal": "N3L4K5",
+    "result": []
+  },
+  {
+    "postal": "N3L9B5",
+    "result": []
+  },
+  {
+    "postal": "N3L6T5",
+    "result": []
+  },
+  {
+    "postal": "N3L1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137187
+        ],
+        "postalCode": "N3L1N8",
+        "streetName": "EMILY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "EMILY ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L0C0",
+    "result": []
+  },
+  {
+    "postal": "N3L0R9",
+    "result": []
+  },
+  {
+    "postal": "N3L7L1",
+    "result": []
+  },
+  {
+    "postal": "N3L3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L3Y8",
+        "streetName": "MISENER",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MISENER RD W, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L7X9",
+    "result": []
+  },
+  {
+    "postal": "N3L1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1A7",
+        "streetName": "MONK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MONK ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137188
+        ],
+        "postalCode": "N3L2T9",
+        "streetName": "WEST RIVER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "WEST RIVER ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L2E6",
+        "streetName": "DUMFRIES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "DUMFRIES ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L8Y1",
+    "result": []
+  },
+  {
+    "postal": "N3L0J5",
+    "result": []
+  },
+  {
+    "postal": "N3L4J1",
+    "result": []
+  },
+  {
+    "postal": "N3L1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137189
+        ],
+        "postalCode": "N3L1A5",
+        "streetName": "MONK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "PARIS",
+        "streetNameDisplayText": "MONK ST, PARIS"
+      }
+    ]
+  },
+  {
+    "postal": "N3L6Z6",
+    "result": []
+  },
+  {
+    "postal": "N3L5K4",
+    "result": []
+  },
+  {
+    "postal": "N3L7R9",
+    "result": []
+  },
+  {
+    "postal": "N3L6G4",
+    "result": []
   }
 ]

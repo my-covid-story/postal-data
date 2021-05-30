@@ -9855,5 +9855,6744 @@
   {
     "postal": "N3S0W6",
     "result": []
+  },
+  {
+    "postal": "N3S4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4C5",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NELSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7E4",
+        "streetName": "LINDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LINDEN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1R9",
+        "streetName": "ABERDEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ABERDEEN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2P0",
+    "result": []
+  },
+  {
+    "postal": "N3S5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5S4",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MURRAY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5K8",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8K4",
+    "result": []
+  },
+  {
+    "postal": "N3S7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7C1",
+        "streetName": "ROWANWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ROWANWOOD AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S7K9",
+        "streetName": "GLENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GLENWOOD DR, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5J1",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4P9",
+        "streetName": "SHERIDAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SHERIDAN ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0N2",
+    "result": []
+  },
+  {
+    "postal": "N3S2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2G6",
+        "streetName": "ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ERIE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6P4",
+        "streetName": "FOURTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "FOURTH AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3J0",
+    "result": []
+  },
+  {
+    "postal": "N3S8X4",
+    "result": []
+  },
+  {
+    "postal": "N3S1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1Y3",
+        "streetName": "PORT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PORT ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1A8",
+        "streetName": "SIXTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SIXTH AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S6Y5",
+        "streetName": "JAMES",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "JAMES AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0J6",
+    "result": []
+  },
+  {
+    "postal": "N3S2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2C9",
+        "streetName": "BARKER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BARKER ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8J6",
+    "result": []
+  },
+  {
+    "postal": "N3S8T4",
+    "result": []
+  },
+  {
+    "postal": "N3S1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1P7",
+        "streetName": "ALLENBY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ALLENBY AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9V9",
+    "result": []
+  },
+  {
+    "postal": "N3S0M1",
+    "result": []
+  },
+  {
+    "postal": "N3S6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S6K5",
+        "streetName": "MAITLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MAITLAND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2T5",
+        "streetName": "TOM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "TOM ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7E9",
+    "result": []
+  },
+  {
+    "postal": "N3S5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5K5",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3R5",
+        "streetName": "COLBORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "COLBORNE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5B1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5B1",
+        "streetName": "ELGIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ELGIN ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2P1",
+        "streetName": "DIVISION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DIVISION ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7L0",
+    "result": []
+  },
+  {
+    "postal": "N3S3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3L6",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2A4",
+        "streetName": "PONTIAC",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PONTIAC ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8S0",
+    "result": []
+  },
+  {
+    "postal": "N3S3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3L5",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2R5",
+        "streetName": "LIDA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LIDA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9T6",
+    "result": []
+  },
+  {
+    "postal": "N3S8Z2",
+    "result": []
+  },
+  {
+    "postal": "N3S0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S0E9",
+        "streetName": "JOHNSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "JOHNSON RD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8C0",
+    "result": []
+  },
+  {
+    "postal": "N3S3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3K7",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "VICTORIA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2H3",
+        "streetName": "ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ERIE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S2Y6",
+        "streetName": "GLANVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GLANVILLE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7M2",
+        "streetName": "PEARTREE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PEARTREE CRT, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6E2",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3R0",
+    "result": []
+  },
+  {
+    "postal": "N3S4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S4J7",
+        "streetName": "BURT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BURT ST, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S4J7",
+        "streetName": "CHATHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CHATHAM ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6N8",
+        "streetName": "IROQUOIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "IROQUOIS ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0J7",
+    "result": []
+  },
+  {
+    "postal": "N3S7P2",
+    "result": []
+  },
+  {
+    "postal": "N3S3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3T8",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DALHOUSIE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204,
+          10137201
+        ],
+        "postalCode": "N3S3S7",
+        "streetName": "COLBORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "COLBORNE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2S7",
+        "streetName": "WEBLING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WEBLING ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1S4",
+        "streetName": "EMILIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EMILIE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1L8",
+        "streetName": "BISHOP",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BISHOP ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8E9",
+    "result": []
+  },
+  {
+    "postal": "N3S0T0",
+    "result": []
+  },
+  {
+    "postal": "N3S3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3G4",
+        "streetName": "GLENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GLENWOOD DR, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0V6",
+    "result": []
+  },
+  {
+    "postal": "N3S4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S4W1",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9G9",
+    "result": []
+  },
+  {
+    "postal": "N3S5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5W4",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7M8",
+    "result": []
+  },
+  {
+    "postal": "N3S2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2C2",
+        "streetName": "ONTARIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ONTARIO ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204,
+          10137201
+        ],
+        "postalCode": "N3S4Y2",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9X9",
+    "result": []
+  },
+  {
+    "postal": "N3S3T0",
+    "result": []
+  },
+  {
+    "postal": "N3S4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4T8",
+        "streetName": "MARLBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARLBOROUGH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9C4",
+    "result": []
+  },
+  {
+    "postal": "N3S8P2",
+    "result": []
+  },
+  {
+    "postal": "N3S0Y8",
+    "result": []
+  },
+  {
+    "postal": "N3S1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1G8",
+        "streetName": "DOROTHY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DOROTHY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2T6",
+        "streetName": "TOM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "TOM ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1N7",
+        "streetName": "WALTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WALTER ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0L6",
+    "result": []
+  },
+  {
+    "postal": "N3S9V4",
+    "result": []
+  },
+  {
+    "postal": "N3S2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2V1",
+        "streetName": "SANDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SANDERSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3L8",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2R8",
+        "streetName": "LIDA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LIDA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5C1",
+        "streetName": "CURTIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CURTIS ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S4W3",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5X5",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9W5",
+    "result": []
+  },
+  {
+    "postal": "N3S3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3C4",
+        "streetName": "MARVIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARVIN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1N6",
+        "streetName": "WALTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WALTER ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9S9",
+    "result": []
+  },
+  {
+    "postal": "N3S9M2",
+    "result": []
+  },
+  {
+    "postal": "N3S8Y4",
+    "result": []
+  },
+  {
+    "postal": "N3S7S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S7S4",
+        "streetName": "TECUMSEH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "TECUMSEH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0K6",
+    "result": []
+  },
+  {
+    "postal": "N3S1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1W3",
+        "streetName": "CAYUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CAYUGA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7R2",
+        "streetName": "EMPEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EMPEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S2Y9",
+        "streetName": "SOUTH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SOUTH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S7G4",
+        "streetName": "DARLING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DARLING ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7E5",
+        "streetName": "LINDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LINDEN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9G2",
+    "result": []
+  },
+  {
+    "postal": "N3S7Y8",
+    "result": []
+  },
+  {
+    "postal": "N3S9V2",
+    "result": []
+  },
+  {
+    "postal": "N3S3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3T7",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DALHOUSIE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1H0",
+    "result": []
+  },
+  {
+    "postal": "N3S1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1M7",
+        "streetName": "SALISBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SALISBURY AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8V4",
+    "result": []
+  },
+  {
+    "postal": "N3S4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4M2",
+        "streetName": "AVONDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "AVONDALE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0X2",
+    "result": []
+  },
+  {
+    "postal": "N3S5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5Z4",
+        "streetName": "DRUMMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DRUMMOND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6V4",
+        "streetName": "FAIRMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "FAIRMOUNT AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8J3",
+    "result": []
+  },
+  {
+    "postal": "N3S8E5",
+    "result": []
+  },
+  {
+    "postal": "N3S2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2V5",
+        "streetName": "SANDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SANDERSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7S1",
+        "streetName": "RYAN",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RYAN PL, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6V3",
+        "streetName": "FAIRMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "FAIRMOUNT AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2L8",
+        "streetName": "HEAGERTY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HEAGERTY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9V0",
+    "result": []
+  },
+  {
+    "postal": "N3S3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3M4",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5B2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137200,
+          10137203
+        ],
+        "postalCode": "N3S5B2",
+        "streetName": "ELGIN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ELGIN ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3X5",
+        "streetName": "DARLING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DARLING ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9R7",
+    "result": []
+  },
+  {
+    "postal": "N3S2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2X2",
+        "streetName": "MOHAWK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MOHAWK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8Z6",
+    "result": []
+  },
+  {
+    "postal": "N3S4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4R4",
+        "streetName": "SHERIDAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SHERIDAN ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2R1",
+        "streetName": "LIDA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LIDA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S3R8",
+        "streetName": "COLBORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "COLBORNE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9A1",
+    "result": []
+  },
+  {
+    "postal": "N3S8L3",
+    "result": []
+  },
+  {
+    "postal": "N3S9K4",
+    "result": []
+  },
+  {
+    "postal": "N3S9S3",
+    "result": []
+  },
+  {
+    "postal": "N3S8N7",
+    "result": []
+  },
+  {
+    "postal": "N3S1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1C6",
+        "streetName": "EIGHTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EIGHTH AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3Z8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WELLINGTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8G5",
+    "result": []
+  },
+  {
+    "postal": "N3S5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5R6",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MURRAY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2W3",
+        "streetName": "MOHAWK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MOHAWK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0A0",
+    "result": []
+  },
+  {
+    "postal": "N3S6P8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S6P8",
+        "streetName": "MCCONKEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MCCONKEY CRES, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8N9",
+    "result": []
+  },
+  {
+    "postal": "N3S0S9",
+    "result": []
+  },
+  {
+    "postal": "N3S8G0",
+    "result": []
+  },
+  {
+    "postal": "N3S8C7",
+    "result": []
+  },
+  {
+    "postal": "N3S5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5X8",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7E8",
+        "streetName": "JOHNSON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "JOHNSON RD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S6X2",
+        "streetName": "PATTERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PATTERSON AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4C6",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NELSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7H2",
+        "streetName": "ADELAIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ADELAIDE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4R0",
+    "result": []
+  },
+  {
+    "postal": "N3S6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S6J3",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4B8",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NELSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S6H6",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0S1",
+    "result": []
+  },
+  {
+    "postal": "N3S4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4E3",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NELSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7K2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7K2",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STANLEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7T8",
+    "result": []
+  },
+  {
+    "postal": "N3S0J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S0J9",
+        "streetName": "MARLENE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARLENE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5J9",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5S7",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MURRAY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212,
+          10137211
+        ],
+        "postalCode": "N3S0G9",
+        "streetName": "BIRKETT",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BIRKETT LANE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3J9",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "VICTORIA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2Y0",
+    "result": []
+  },
+  {
+    "postal": "N3S8X5",
+    "result": []
+  },
+  {
+    "postal": "N3S2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2M7",
+        "streetName": "GORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GORDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9Z3",
+    "result": []
+  },
+  {
+    "postal": "N3S7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7W2",
+        "streetName": "PLANT FARM",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PLANT FARM BLVD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3W0",
+    "result": []
+  },
+  {
+    "postal": "N3S3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3M1",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6A5",
+        "streetName": "DRUMMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DRUMMOND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2M9",
+        "streetName": "GORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GORDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5C3",
+        "streetName": "FREEBORN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "FREEBORN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0Y6",
+    "result": []
+  },
+  {
+    "postal": "N3S9H7",
+    "result": []
+  },
+  {
+    "postal": "N3S3L0",
+    "result": []
+  },
+  {
+    "postal": "N3S5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5N9",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MURRAY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5E3",
+        "streetName": "ALFRED",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ALFRED ST, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5E3",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7M9",
+        "streetName": "SAGITTARIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SAGITTARIO ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8N2",
+    "result": []
+  },
+  {
+    "postal": "N3S9H3",
+    "result": []
+  },
+  {
+    "postal": "N3S2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2K8",
+        "streetName": "SUPERIOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SUPERIOR ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9L0",
+    "result": []
+  },
+  {
+    "postal": "N3S6L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6L9",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STANLEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S6A8",
+        "streetName": "DRUMMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DRUMMOND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2K6",
+        "streetName": "SUPERIOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SUPERIOR ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2M0",
+    "result": []
+  },
+  {
+    "postal": "N3S5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5X7",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0M7",
+    "result": []
+  },
+  {
+    "postal": "N3S7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7A6",
+        "streetName": "MORLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MORLEY AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3C5",
+        "streetName": "MARVIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARVIN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2P2",
+        "streetName": "DIVISION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DIVISION ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9N4",
+    "result": []
+  },
+  {
+    "postal": "N3S3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3M9",
+        "streetName": "COLBORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "COLBORNE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8K6",
+    "result": []
+  },
+  {
+    "postal": "N3S1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1L2",
+        "streetName": "MINTERN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MINTERN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S2Z9",
+        "streetName": "SARAH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SARAH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2S2",
+        "streetName": "LIDA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LIDA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2W2",
+        "streetName": "MOHAWK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MOHAWK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2C3",
+        "streetName": "ONTARIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ONTARIO ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6L7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6L7",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STANLEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3K0",
+    "result": []
+  },
+  {
+    "postal": "N3S3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3C1",
+        "streetName": "MARY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S6M9",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STANLEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4N9",
+        "streetName": "ALBEMARLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ALBEMARLE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3Y7",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WELLINGTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2A9",
+        "streetName": "FOSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "FOSTER ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S6H5",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8B4",
+    "result": []
+  },
+  {
+    "postal": "N3S4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S4Z2",
+        "streetName": "BRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BRUCE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9J0",
+    "result": []
+  },
+  {
+    "postal": "N3S7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7V7",
+        "streetName": "MIDDLETON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MIDDLETON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5T5",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203,
+          10137201
+        ],
+        "postalCode": "N3S4W5",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1T8",
+        "streetName": "STRATHCONA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STRATHCONA AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9G6",
+    "result": []
+  },
+  {
+    "postal": "N3S1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1H3",
+        "streetName": "DOROTHY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DOROTHY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5R5",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MURRAY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8A4",
+    "result": []
+  },
+  {
+    "postal": "N3S3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S3T6",
+        "streetName": "COLBORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "COLBORNE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9W8",
+    "result": []
+  },
+  {
+    "postal": "N3S0N3",
+    "result": []
+  },
+  {
+    "postal": "N3S7V0",
+    "result": []
+  },
+  {
+    "postal": "N3S8T5",
+    "result": []
+  },
+  {
+    "postal": "N3S5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5N3",
+        "streetName": "MURRAY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MURRAY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5G9",
+        "streetName": "PARK",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE E, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5G9",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3X8",
+        "streetName": "DARLING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DARLING ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9R3",
+    "result": []
+  },
+  {
+    "postal": "N3S2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2S1",
+        "streetName": "LIDA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LIDA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9J7",
+    "result": []
+  },
+  {
+    "postal": "N3S2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2J3",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HURON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3B6",
+        "streetName": "MARY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8J0",
+    "result": []
+  },
+  {
+    "postal": "N3S7R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7R4",
+        "streetName": "HENRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HENRY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8K8",
+    "result": []
+  },
+  {
+    "postal": "N3S4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4P3",
+        "streetName": "CUMBERLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CUMBERLAND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S0A2",
+        "streetName": "GENERAL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GENERAL ST, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S0A2",
+        "streetName": "LAYCOCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LAYCOCK ST, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S0A2",
+        "streetName": "MISSION",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MISSION RD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2G2",
+        "streetName": "ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ERIE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5Y9",
+        "streetName": "DRUMMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DRUMMOND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7X0",
+    "result": []
+  },
+  {
+    "postal": "N3S7W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7W3",
+        "streetName": "PLANT FARM",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PLANT FARM BLVD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7X5",
+        "streetName": "GLENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GLENWOOD DR, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5K6",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S5B6",
+        "streetName": "CAMPBELL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CAMPBELL ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7Z0",
+    "result": []
+  },
+  {
+    "postal": "N3S9H6",
+    "result": []
+  },
+  {
+    "postal": "N3S1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1B4",
+        "streetName": "SEVENTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SEVENTH AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1A0",
+    "result": []
+  },
+  {
+    "postal": "N3S9A0",
+    "result": []
+  },
+  {
+    "postal": "N3S1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1M6",
+        "streetName": "SALISBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SALISBURY AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5H0",
+    "result": []
+  },
+  {
+    "postal": "N3S1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1K6",
+        "streetName": "MINTERN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MINTERN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5E1",
+    "result": []
+  },
+  {
+    "postal": "N3S3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3T9",
+        "streetName": "DALHOUSIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DALHOUSIE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2M6",
+        "streetName": "GORDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GORDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0G5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204,
+          10137203
+        ],
+        "postalCode": "N3S0G5",
+        "streetName": "GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GARDEN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0Y2",
+    "result": []
+  },
+  {
+    "postal": "N3S2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S2Y7",
+        "streetName": "GLANVILLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GLANVILLE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2J7",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HURON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4K7",
+        "streetName": "HAMPTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HAMPTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7P9",
+        "streetName": "EMPEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EMPEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8X0",
+    "result": []
+  },
+  {
+    "postal": "N3S3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3X1",
+        "streetName": "DARLING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DARLING ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1R5",
+        "streetName": "ABERDEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ABERDEEN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6X6",
+        "streetName": "ROBINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ROBINSON AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0Y1",
+    "result": []
+  },
+  {
+    "postal": "N3S8G1",
+    "result": []
+  },
+  {
+    "postal": "N3S3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3J3",
+        "streetName": "ARTHUR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ARTHUR ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8C2",
+    "result": []
+  },
+  {
+    "postal": "N3S4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4X9",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S6G9",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4M3",
+        "streetName": "LYNDHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LYNDHURST ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9P7",
+    "result": []
+  },
+  {
+    "postal": "N3S4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4E5",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NELSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5K9",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2V2",
+        "streetName": "SANDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SANDERSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2N9",
+        "streetName": "DIVISION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DIVISION ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S6L4",
+        "streetName": "MAITLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MAITLAND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8E0",
+    "result": []
+  },
+  {
+    "postal": "N3S0N0",
+    "result": []
+  },
+  {
+    "postal": "N3S6R0",
+    "result": []
+  },
+  {
+    "postal": "N3S9C1",
+    "result": []
+  },
+  {
+    "postal": "N3S4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4H4",
+        "streetName": "CHATHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CHATHAM ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5W3",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9N9",
+    "result": []
+  },
+  {
+    "postal": "N3S1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1V7",
+        "streetName": "BRIGHTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BRIGHTON AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8J1",
+    "result": []
+  },
+  {
+    "postal": "N3S5V9",
+    "result": []
+  },
+  {
+    "postal": "N3S2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2S8",
+        "streetName": "WEBLING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WEBLING ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6P0",
+    "result": []
+  },
+  {
+    "postal": "N3S4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4J8",
+        "streetName": "CHATHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CHATHAM ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0N1",
+    "result": []
+  },
+  {
+    "postal": "N3S1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1Y7",
+        "streetName": "PORT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PORT ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7W5",
+        "streetName": "HACHBORN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HACHBORN RD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3Z1",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WELLINGTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S7M6",
+        "streetName": "MARIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARIE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1W7",
+        "streetName": "CAYUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CAYUGA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1X1",
+        "streetName": "CAYUGA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CAYUGA ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S0C1",
+        "streetName": "MCCONKEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MCCONKEY CRES, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4N3",
+        "streetName": "ALBEMARLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ALBEMARLE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4S8",
+        "streetName": "MARLBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARLBOROUGH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1H6",
+        "streetName": "BALDWIN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BALDWIN AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2Z4",
+    "result": []
+  },
+  {
+    "postal": "N3S7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S7K3",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STANLEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8A2",
+    "result": []
+  },
+  {
+    "postal": "N3S6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137203
+        ],
+        "postalCode": "N3S6J1",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5Z6",
+        "streetName": "DRUMMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DRUMMOND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3Z0",
+    "result": []
+  },
+  {
+    "postal": "N3S8M0",
+    "result": []
+  },
+  {
+    "postal": "N3S1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1Z6",
+        "streetName": "EAGLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAGLE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8K7",
+    "result": []
+  },
+  {
+    "postal": "N3S1N3",
+    "result": []
+  },
+  {
+    "postal": "N3S9S2",
+    "result": []
+  },
+  {
+    "postal": "N3S2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2K1",
+        "streetName": "SUPERIOR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SUPERIOR ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1E8",
+        "streetName": "NINTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NINTH AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9B8",
+    "result": []
+  },
+  {
+    "postal": "N3S7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S7X4",
+        "streetName": "GREENWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREENWICH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1Z4",
+        "streetName": "EAGLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAGLE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2C7",
+        "streetName": "ONTARIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ONTARIO ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2E7",
+        "streetName": "ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ERIE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3R1",
+        "streetName": "COLBORNE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "COLBORNE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4K4",
+        "streetName": "HAMPTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HAMPTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9G3",
+    "result": []
+  },
+  {
+    "postal": "N3S6C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6C9",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9H5",
+    "result": []
+  },
+  {
+    "postal": "N3S1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1P5",
+        "streetName": "GLADSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GLADSTONE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2J5",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HURON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4W6",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8M8",
+    "result": []
+  },
+  {
+    "postal": "N3S6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6C5",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9H0",
+    "result": []
+  },
+  {
+    "postal": "N3S1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1X8",
+        "streetName": "PORT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PORT ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3H4",
+        "streetName": "ARTHUR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ARTHUR ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4E7",
+        "streetName": "NELSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "NELSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8A0",
+    "result": []
+  },
+  {
+    "postal": "N3S1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1Z7",
+        "streetName": "EAGLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAGLE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7Z3",
+    "result": []
+  },
+  {
+    "postal": "N3S0L7",
+    "result": []
+  },
+  {
+    "postal": "N3S2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2C6",
+        "streetName": "ONTARIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ONTARIO ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S6M3",
+        "streetName": "STANLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "STANLEY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2J1",
+        "streetName": "ERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ERIE AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S3E3",
+        "streetName": "LLOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LLOYD ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S6Z9",
+        "streetName": "HAMILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HAMILTON AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S3M3",
+        "streetName": "EAST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EAST AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9B1",
+    "result": []
+  },
+  {
+    "postal": "N3S9J5",
+    "result": []
+  },
+  {
+    "postal": "N3S4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4V8",
+        "streetName": "GREY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREY ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6W2",
+        "streetName": "FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "FOREST RD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0V5",
+    "result": []
+  },
+  {
+    "postal": "N3S0Z8",
+    "result": []
+  },
+  {
+    "postal": "N3S5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5G2",
+        "streetName": "ALFRED",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ALFRED ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4N4",
+        "streetName": "ALBEMARLE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ALBEMARLE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S8G7",
+    "result": []
+  },
+  {
+    "postal": "N3S8W1",
+    "result": []
+  },
+  {
+    "postal": "N3S1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1S6",
+        "streetName": "EMILIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EMILIE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4E0",
+    "result": []
+  },
+  {
+    "postal": "N3S4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4L9",
+        "streetName": "AVONDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "AVONDALE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5Z9",
+        "streetName": "DRUMMOND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "DRUMMOND ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S5V3",
+        "streetName": "BROCK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "BROCK ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S4V2",
+        "streetName": "MARLBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARLBOROUGH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7C0",
+    "result": []
+  },
+  {
+    "postal": "N3S6L0",
+    "result": []
+  },
+  {
+    "postal": "N3S1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1S9",
+        "streetName": "EMILIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "EMILIE ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S7R6",
+        "streetName": "IROQUOIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "IROQUOIS ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7J0",
+    "result": []
+  },
+  {
+    "postal": "N3S5M0",
+    "result": []
+  },
+  {
+    "postal": "N3S2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2E5",
+        "streetName": "MARKET",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARKET ST S, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7C7",
+        "streetName": "CLARA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CLARA CRES, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5C0",
+    "result": []
+  },
+  {
+    "postal": "N3S8V9",
+    "result": []
+  },
+  {
+    "postal": "N3S7E0",
+    "result": []
+  },
+  {
+    "postal": "N3S6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6R4",
+        "streetName": "SECOND",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SECOND AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3Z7",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WELLINGTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S1J9",
+        "streetName": "ROBERTSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ROBERTSON AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S7K6",
+        "streetName": "KEELER",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "KEELER PL, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7Y5",
+    "result": []
+  },
+  {
+    "postal": "N3S1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1B7",
+        "streetName": "SEVENTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SEVENTH AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4S9",
+        "streetName": "MARLBOROUGH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "MARLBOROUGH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9R9",
+    "result": []
+  },
+  {
+    "postal": "N3S5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5K7",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S6P2",
+        "streetName": "PULESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PULESTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137211
+        ],
+        "postalCode": "N3S2C5",
+        "streetName": "ONTARIO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "ONTARIO ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2N0",
+    "result": []
+  },
+  {
+    "postal": "N3S1G0",
+    "result": []
+  },
+  {
+    "postal": "N3S4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S4K5",
+        "streetName": "HAMPTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HAMPTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S9B5",
+    "result": []
+  },
+  {
+    "postal": "N3S6T5",
+    "result": []
+  },
+  {
+    "postal": "N3S1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1N8",
+        "streetName": "WALTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WALTER ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S0C0",
+    "result": []
+  },
+  {
+    "postal": "N3S0R9",
+    "result": []
+  },
+  {
+    "postal": "N3S7L1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S7L1",
+        "streetName": "LLOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "LLOYD ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S3Y8",
+        "streetName": "WELLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "WELLINGTON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7X9",
+    "result": []
+  },
+  {
+    "postal": "N3S1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137206
+        ],
+        "postalCode": "N3S1A7",
+        "streetName": "6TH",
+        "streetDirectionId": null,
+        "streetTypeId": "CONC",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "6TH CONC, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1A7",
+        "streetName": "SIXTH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SIXTH AVE, BRANTFORD"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137206
+        ],
+        "postalCode": "N3S1A7",
+        "streetName": "SIXTH CON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SIXTH CON RD, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S2T9",
+        "streetName": "SANDERSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "SANDERSON ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S2E6",
+    "result": []
+  },
+  {
+    "postal": "N3S8Y1",
+    "result": []
+  },
+  {
+    "postal": "N3S0J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S0J5",
+        "streetName": "GREENWICH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "GREENWICH ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S4J1",
+        "streetName": "CHATHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "CHATHAM ST, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137212
+        ],
+        "postalCode": "N3S1A5",
+        "streetName": "KITCHENER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "KITCHENER AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137204
+        ],
+        "postalCode": "N3S6Z6",
+        "streetName": "HAMILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "HAMILTON AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S5K4",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137202
+        ],
+        "postalCode": "N3S7R9",
+        "streetName": "PARK",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "PARK AVE E, BRANTFORD"
+      }
+    ]
+  },
+  {
+    "postal": "N3S6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 13,
+            "setId": 0,
+            "name": "Brantford—Brant"
+          }
+        ],
+        "pollDivisionIds": [
+          10137201
+        ],
+        "postalCode": "N3S6G4",
+        "streetName": "RAWDON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BRANTFORD",
+        "streetNameDisplayText": "RAWDON ST, BRANTFORD"
+      }
+    ]
   }
 ]

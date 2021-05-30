@@ -9185,5 +9185,6355 @@
   {
     "postal": "L6J0W6",
     "result": []
+  },
+  {
+    "postal": "L6J4C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J4C5",
+        "streetName": "CORAL",
+        "streetDirectionId": null,
+        "streetTypeId": "TERR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CORAL TERR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7E4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7E4",
+        "streetName": "WINTERBOURNE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WINTERBOURNE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1R9",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAMBRIDGE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2P0",
+    "result": []
+  },
+  {
+    "postal": "L6J5S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J5S4",
+        "streetName": "COLCHESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "COLCHESTER DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5K8",
+        "streetName": "CANTERBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CANTERBURY CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8K4",
+    "result": []
+  },
+  {
+    "postal": "L6J7C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343,
+          10140325
+        ],
+        "postalCode": "L6J7C1",
+        "streetName": "HARDY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "HARDY CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7K9",
+        "streetName": "LANSDOWN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LANSDOWN DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7K9",
+        "streetName": "STOLL",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "STOLL DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343,
+          10140344
+        ],
+        "postalCode": "L6J7K9",
+        "streetName": "WYNTEN",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WYNTEN WAY, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5J1",
+        "streetName": "ASH TREE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ASH TREE WAY, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4P9",
+        "streetName": "COX",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "COX DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0N2",
+    "result": []
+  },
+  {
+    "postal": "L6J2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2G6",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SPRUCE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6P4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J6P4",
+        "streetName": "BLENHEIM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BLENHEIM CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3J0",
+    "result": []
+  },
+  {
+    "postal": "L6J8X4",
+    "result": []
+  },
+  {
+    "postal": "L6J1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1Y3",
+        "streetName": "SHEDDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SHEDDON AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1A8",
+        "streetName": "ARGYLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ARGYLE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6Y5",
+        "streetName": "GREENIAUS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GREENIAUS RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0J6",
+    "result": []
+  },
+  {
+    "postal": "L6J2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2C9",
+        "streetName": "BALMORAL",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BALMORAL PL, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8J6",
+    "result": []
+  },
+  {
+    "postal": "L6J8T4",
+    "result": []
+  },
+  {
+    "postal": "L6J1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1P7",
+        "streetName": "RANDALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "RANDALL ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9V9",
+    "result": []
+  },
+  {
+    "postal": "L6J0M1",
+    "result": []
+  },
+  {
+    "postal": "L6J6K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6K5",
+        "streetName": "ACACIA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ACACIA CRT, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2T5",
+        "streetName": "AVON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "AVON CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7E9",
+        "streetName": "VALERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "VALERIE CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5K5",
+        "streetName": "BROOKMILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BROOKMILL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3R5",
+        "streetName": "FIRST",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "FIRST ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5B1",
+    "result": []
+  },
+  {
+    "postal": "L6J2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2P1",
+        "streetName": "AMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "AMBER CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7L0",
+    "result": []
+  },
+  {
+    "postal": "L6J3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J3L6",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2A4",
+        "streetName": "BRAESIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BRAESIDE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8S0",
+    "result": []
+  },
+  {
+    "postal": "L6J3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362,
+          10140395
+        ],
+        "postalCode": "L6J3L5",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "REYNOLDS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2R5",
+        "streetName": "DUNCAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNCAN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9T6",
+    "result": []
+  },
+  {
+    "postal": "L6J8Z2",
+    "result": []
+  },
+  {
+    "postal": "L6J0E9",
+    "result": []
+  },
+  {
+    "postal": "L6J8C0",
+    "result": []
+  },
+  {
+    "postal": "L6J3K7",
+    "result": []
+  },
+  {
+    "postal": "L6J2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2H3",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SPRUCE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J2Y6",
+        "streetName": "NAVY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "NAVY ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7M2",
+        "streetName": "KINGSWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "KINGSWAY DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6E2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6E2",
+        "streetName": "KINGSFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "KINGSFORD PL, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3R0",
+    "result": []
+  },
+  {
+    "postal": "L6J4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4J7",
+        "streetName": "MORRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MORRISON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J6N8",
+        "streetName": "CHILLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHILLINGHAM CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0J7",
+    "result": []
+  },
+  {
+    "postal": "L6J7P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7P2",
+        "streetName": "BEECHNUT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BEECHNUT RD, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7P2",
+        "streetName": "GABLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GABLE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3T8",
+        "streetName": "WATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WATSON AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J3S7",
+        "streetName": "DOUGLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DOUGLAS AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2S7",
+        "streetName": "BRIARWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BRIARWOOD CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J1S4",
+        "streetName": "CAMBRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAMBRIDGE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J1L8",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8E9",
+    "result": []
+  },
+  {
+    "postal": "L6J0T0",
+    "result": []
+  },
+  {
+    "postal": "L6J3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3G4",
+        "streetName": "TRAFALGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "TRAFALGAR RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0V6",
+    "result": []
+  },
+  {
+    "postal": "L6J4W1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4W1",
+        "streetName": "MAPLE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE GROVE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9G9",
+    "result": []
+  },
+  {
+    "postal": "L6J5W4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5W4",
+        "streetName": "CHEVERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHEVERIE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7M8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7M8",
+        "streetName": "MAHOGANY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAHOGANY LANE, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7M8",
+        "streetName": "ROSEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ROSEWOOD LANE, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7M8",
+        "streetName": "THORESBY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "THORESBY DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2C2",
+        "streetName": "CEDAR GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CEDAR GROVE BLVD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4Y2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J4Y2",
+        "streetName": "DONNYBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DONNYBROOK RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9X9",
+    "result": []
+  },
+  {
+    "postal": "L6J3T0",
+    "result": []
+  },
+  {
+    "postal": "L6J4T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4T8",
+        "streetName": "MAPLE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE GROVE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9C4",
+    "result": []
+  },
+  {
+    "postal": "L6J8P2",
+    "result": []
+  },
+  {
+    "postal": "L6J0Y8",
+    "result": []
+  },
+  {
+    "postal": "L6J1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1G8",
+        "streetName": "ROBINSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ROBINSON ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2T6",
+        "streetName": "AVON",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "AVON CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1N7",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHURCH ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0L6",
+    "result": []
+  },
+  {
+    "postal": "L6J9V4",
+    "result": []
+  },
+  {
+    "postal": "L6J2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2V1",
+        "streetName": "CONSTANCE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CONSTANCE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J3L8",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "REYNOLDS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J2R8",
+        "streetName": "DUNCAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNCAN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5C1",
+    "result": []
+  },
+  {
+    "postal": "L6J4W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4W3",
+        "streetName": "MAPLE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE GROVE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5X5",
+    "result": []
+  },
+  {
+    "postal": "L6J9W5",
+    "result": []
+  },
+  {
+    "postal": "L6J3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3C4",
+        "streetName": "DUNN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNN ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1N6",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHURCH ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9S9",
+    "result": []
+  },
+  {
+    "postal": "L6J9M2",
+    "result": []
+  },
+  {
+    "postal": "L6J8Y4",
+    "result": []
+  },
+  {
+    "postal": "L6J7S4",
+    "result": []
+  },
+  {
+    "postal": "L6J0K6",
+    "result": []
+  },
+  {
+    "postal": "L6J1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1W3",
+        "streetName": "CLEAVER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CLEAVER DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7R2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7R2",
+        "streetName": "SHERIDAN GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SHERIDAN GARDEN DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J2Y9",
+        "streetName": "NAVY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "NAVY ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140393
+        ],
+        "postalCode": "L6J7G4",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHURCH ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7E5",
+        "streetName": "VALERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "VALERIE CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9G2",
+    "result": []
+  },
+  {
+    "postal": "L6J7Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7Y8",
+        "streetName": "SHERWOOD HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SHERWOOD HEIGHTS DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9V2",
+    "result": []
+  },
+  {
+    "postal": "L6J3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3T7",
+        "streetName": "WATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WATSON AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1H0",
+    "result": []
+  },
+  {
+    "postal": "L6J1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J1M7",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8V4",
+    "result": []
+  },
+  {
+    "postal": "L6J4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4M2",
+        "streetName": "CAIRNCROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAIRNCROFT RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0X2",
+    "result": []
+  },
+  {
+    "postal": "L6J5Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5Z4",
+        "streetName": "BENNINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BENNINGTON GATE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6V4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6V4",
+        "streetName": "GREENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GREENWOOD CRES, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6V4",
+        "streetName": "SIR DAVID",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SIR DAVID DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8J3",
+    "result": []
+  },
+  {
+    "postal": "L6J8E5",
+    "result": []
+  },
+  {
+    "postal": "L6J2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J2V5",
+        "streetName": "CONSTANCE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CONSTANCE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7S1",
+    "result": []
+  },
+  {
+    "postal": "L6J6V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6V3",
+        "streetName": "GREENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GREENWOOD CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2L8",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9V0",
+    "result": []
+  },
+  {
+    "postal": "L6J3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J3M4",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "REYNOLDS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5B2",
+    "result": []
+  },
+  {
+    "postal": "L6J3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3X5",
+        "streetName": "BALSAM",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BALSAM DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9R7",
+    "result": []
+  },
+  {
+    "postal": "L6J2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2X2",
+        "streetName": "DAVIS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DAVIS RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8Z6",
+    "result": []
+  },
+  {
+    "postal": "L6J4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4R4",
+        "streetName": "ALSCOT",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ALSCOT CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2R1",
+        "streetName": "DUNCAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNCAN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3R8",
+        "streetName": "DOUGLAS",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DOUGLAS AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9A1",
+    "result": []
+  },
+  {
+    "postal": "L6J8L3",
+    "result": []
+  },
+  {
+    "postal": "L6J9K4",
+    "result": []
+  },
+  {
+    "postal": "L6J9S3",
+    "result": []
+  },
+  {
+    "postal": "L6J8N7",
+    "result": []
+  },
+  {
+    "postal": "L6J1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1C6",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WILLIAM ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3Z8",
+        "streetName": "CHARTWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHARTWELL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8G5",
+    "result": []
+  },
+  {
+    "postal": "L6J5R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5R6",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2W3",
+        "streetName": "CYNTHIA",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CYNTHIA LANE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0A0",
+    "result": []
+  },
+  {
+    "postal": "L6J6P8",
+    "result": []
+  },
+  {
+    "postal": "L6J8N9",
+    "result": []
+  },
+  {
+    "postal": "L6J0S9",
+    "result": []
+  },
+  {
+    "postal": "L6J8G0",
+    "result": []
+  },
+  {
+    "postal": "L6J8C7",
+    "result": []
+  },
+  {
+    "postal": "L6J5X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J5X8",
+        "streetName": "KINGSFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "KINGSFORD PL, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7E8",
+        "streetName": "VALERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "VALERIE CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6X2",
+        "streetName": "CLEARVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CLEARVIEW DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J4C6",
+        "streetName": "POPLAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "POPLAR DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7H2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343,
+          10140344
+        ],
+        "postalCode": "L6J7H2",
+        "streetName": "JONATHAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "JONATHAN DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7H2",
+        "streetName": "MULBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MULBERRY DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4R0",
+    "result": []
+  },
+  {
+    "postal": "L6J6J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J6J3",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4B8",
+        "streetName": "COPELAND",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "COPELAND CRT, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6H6",
+        "streetName": "ASPEN FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ASPEN FOREST DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0S1",
+    "result": []
+  },
+  {
+    "postal": "L6J4E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4E3",
+        "streetName": "POPLAR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "POPLAR DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7K2",
+    "result": []
+  },
+  {
+    "postal": "L6J7T8",
+    "result": []
+  },
+  {
+    "postal": "L6J0J9",
+    "result": []
+  },
+  {
+    "postal": "L6J5J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5J9",
+        "streetName": "BETHNAL GREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BETHNAL GREEN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J5S7",
+        "streetName": "DOLPHIN",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DOLPHIN CRT, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0G9",
+    "result": []
+  },
+  {
+    "postal": "L6J3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3J9",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "REYNOLDS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2Y0",
+    "result": []
+  },
+  {
+    "postal": "L6J8X5",
+    "result": []
+  },
+  {
+    "postal": "L6J2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2M7",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9Z3",
+    "result": []
+  },
+  {
+    "postal": "L6J7W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140384
+        ],
+        "postalCode": "L6J7W2",
+        "streetName": "OLD MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "OLD MILL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3W0",
+    "result": []
+  },
+  {
+    "postal": "L6J3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J3M1",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "REYNOLDS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J6A5",
+        "streetName": "COLEEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "COLEEN DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J2M9",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J5C3",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0Y6",
+    "result": []
+  },
+  {
+    "postal": "L6J9H7",
+    "result": []
+  },
+  {
+    "postal": "L6J3L0",
+    "result": []
+  },
+  {
+    "postal": "L6J5N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5N9",
+        "streetName": "BRETON",
+        "streetDirectionId": null,
+        "streetTypeId": "CLOSE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BRETON CLOSE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5E3",
+    "result": []
+  },
+  {
+    "postal": "L6J7M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J7M9",
+        "streetName": "MAPLE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE GROVE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8N2",
+    "result": []
+  },
+  {
+    "postal": "L6J9H3",
+    "result": []
+  },
+  {
+    "postal": "L6J2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2K8",
+        "streetName": "BOHEMIA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BOHEMIA CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9L0",
+    "result": []
+  },
+  {
+    "postal": "L6J6L9",
+    "result": []
+  },
+  {
+    "postal": "L6J6A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6A8",
+        "streetName": "DIGBY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DIGBY RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2K6",
+        "streetName": "ANTHONY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ANTHONY DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2M0",
+    "result": []
+  },
+  {
+    "postal": "L6J5X7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J5X7",
+        "streetName": "KINGSFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "KINGSFORD PL, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0M7",
+    "result": []
+  },
+  {
+    "postal": "L6J7A6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7A6",
+        "streetName": "BISHOPSTOKE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BISHOPSTOKE WAY, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7A6",
+        "streetName": "WINTERBOURNE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WINTERBOURNE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3C5",
+        "streetName": "DUNN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNN ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2P2",
+        "streetName": "AMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "AMBER CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9N4",
+    "result": []
+  },
+  {
+    "postal": "L6J3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140327,
+          10140360
+        ],
+        "postalCode": "L6J3M9",
+        "streetName": "ALLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ALLAN ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8K6",
+    "result": []
+  },
+  {
+    "postal": "L6J1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364,
+          10140361
+        ],
+        "postalCode": "L6J1L2",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J2Z9",
+        "streetName": "THOMAS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "THOMAS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J2S2",
+        "streetName": "DUNCAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNCAN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2W2",
+        "streetName": "CYNTHIA",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CYNTHIA LANE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2C3",
+        "streetName": "CEDAR GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CEDAR GROVE BLVD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6L7",
+    "result": []
+  },
+  {
+    "postal": "L6J3K0",
+    "result": []
+  },
+  {
+    "postal": "L6J3C1",
+    "result": []
+  },
+  {
+    "postal": "L6J6M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J6M9",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4N9",
+        "streetName": "CLAXTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CLAXTON DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3Y7",
+        "streetName": "DONESSLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DONESSLE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2A9",
+    "result": []
+  },
+  {
+    "postal": "L6J6H5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6H5",
+        "streetName": "ASPEN FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ASPEN FOREST DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8B4",
+    "result": []
+  },
+  {
+    "postal": "L6J4Z2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 75,
+            "name": "Oakville North—Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10140402,
+          10140397
+        ],
+        "postalCode": "L6J4Z2",
+        "streetName": "FOURTH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "FOURTH LINE, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 75,
+            "name": "Oakville North—Burlington"
+          },
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140397,
+          10140342
+        ],
+        "postalCode": "L6J4Z2",
+        "streetName": "NINTH",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "NINTH LINE, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4Z2",
+        "streetName": "ROYAL WINDSOR",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ROYAL WINDSOR DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 75,
+            "name": "Oakville North—Burlington"
+          }
+        ],
+        "pollDivisionIds": [
+          10140399,
+          10140397
+        ],
+        "postalCode": "L6J4Z2",
+        "streetName": "TRAFALGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "TRAFALGAR RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9J0",
+    "result": []
+  },
+  {
+    "postal": "L6J7V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J7V7",
+        "streetName": "FORD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "FORD DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5T5",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J4W5",
+        "streetName": "WOODLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WOODLAND DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1T8",
+        "streetName": "PALMER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "PALMER AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9G6",
+    "result": []
+  },
+  {
+    "postal": "L6J1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1H3",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5R5",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8A4",
+    "result": []
+  },
+  {
+    "postal": "L6J3T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3T6",
+        "streetName": "WATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WATSON AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9W8",
+    "result": []
+  },
+  {
+    "postal": "L6J0N3",
+    "result": []
+  },
+  {
+    "postal": "L6J7V0",
+    "result": []
+  },
+  {
+    "postal": "L6J8T5",
+    "result": []
+  },
+  {
+    "postal": "L6J5N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5N3",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5G9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5G9",
+        "streetName": "CHARNWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHARNWOOD DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360,
+          10140361
+        ],
+        "postalCode": "L6J3X8",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "PARK AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9R3",
+    "result": []
+  },
+  {
+    "postal": "L6J2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J2S1",
+        "streetName": "DUNCAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNCAN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9J7",
+    "result": []
+  },
+  {
+    "postal": "L6J2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2J3",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J3B6",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GEORGE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8J0",
+    "result": []
+  },
+  {
+    "postal": "L6J7R4",
+    "result": []
+  },
+  {
+    "postal": "L6J8K8",
+    "result": []
+  },
+  {
+    "postal": "L6J4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4P3",
+        "streetName": "DALEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DALEWOOD DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J0A2",
+        "streetName": "GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GEORGE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J2G2",
+        "streetName": "GATESTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GATESTONE AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5Y9",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7X0",
+    "result": []
+  },
+  {
+    "postal": "L6J7W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140386
+        ],
+        "postalCode": "L6J7W3",
+        "streetName": "OLD MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "OLD MILL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J7X5",
+        "streetName": "WINSTON CHURCHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WINSTON CHURCHILL BLVD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5K6",
+        "streetName": "BROOKMILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BROOKMILL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5B6",
+    "result": []
+  },
+  {
+    "postal": "L6J7Z0",
+    "result": []
+  },
+  {
+    "postal": "L6J9H6",
+    "result": []
+  },
+  {
+    "postal": "L6J1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1B4",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "KING ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1A0",
+    "result": []
+  },
+  {
+    "postal": "L6J9A0",
+    "result": []
+  },
+  {
+    "postal": "L6J1M6",
+    "result": []
+  },
+  {
+    "postal": "L6J5H0",
+    "result": []
+  },
+  {
+    "postal": "L6J1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1K6",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5E1",
+    "result": []
+  },
+  {
+    "postal": "L6J3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3T9",
+        "streetName": "WATSON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WATSON AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2M6",
+        "streetName": "DEVON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DEVON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0G5",
+    "result": []
+  },
+  {
+    "postal": "L6J0Y2",
+    "result": []
+  },
+  {
+    "postal": "L6J2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J2Y7",
+        "streetName": "NAVY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "NAVY ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2J7",
+    "result": []
+  },
+  {
+    "postal": "L6J4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4K7",
+        "streetName": "MORRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MORRISON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J7P9",
+        "streetName": "BYRON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BYRON ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8X0",
+    "result": []
+  },
+  {
+    "postal": "L6J3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J3X1",
+        "streetName": "GLOUCESTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GLOUCESTER AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1R5",
+        "streetName": "RANDALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "RANDALL ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6X6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6X6",
+        "streetName": "CLEARVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CLEARVIEW DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0Y1",
+    "result": []
+  },
+  {
+    "postal": "L6J8G1",
+    "result": []
+  },
+  {
+    "postal": "L6J3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140358
+        ],
+        "postalCode": "L6J3J3",
+        "streetName": "ARGUS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ARGUS RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8C2",
+    "result": []
+  },
+  {
+    "postal": "L6J4X9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J4X9",
+        "streetName": "BEDFORD",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BEDFORD RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6G9",
+    "result": []
+  },
+  {
+    "postal": "L6J4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4M3",
+        "streetName": "CAIRNCROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAIRNCROFT RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9P7",
+    "result": []
+  },
+  {
+    "postal": "L6J4E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J4E5",
+        "streetName": "FORESTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "FORESTWOOD DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5K9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5K9",
+        "streetName": "CAROL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAROL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2V2",
+        "streetName": "CONSTANCE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CONSTANCE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2N9",
+        "streetName": "AMBER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "AMBER CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6L4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6L4",
+        "streetName": "ASPEN FOREST",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ASPEN FOREST DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8E0",
+    "result": []
+  },
+  {
+    "postal": "L6J0N0",
+    "result": []
+  },
+  {
+    "postal": "L6J6R0",
+    "result": []
+  },
+  {
+    "postal": "L6J9C1",
+    "result": []
+  },
+  {
+    "postal": "L6J4H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4H4",
+        "streetName": "CHAMBERLAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHAMBERLAIN LANE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5W3",
+        "streetName": "CHEVERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHEVERIE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9N9",
+    "result": []
+  },
+  {
+    "postal": "L6J1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1V7",
+        "streetName": "DONLEA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DONLEA CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8J1",
+    "result": []
+  },
+  {
+    "postal": "L6J5V9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5V9",
+        "streetName": "BACCARO",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BACCARO RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2S8",
+        "streetName": "BRIARWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BRIARWOOD CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6P0",
+    "result": []
+  },
+  {
+    "postal": "L6J4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4J8",
+        "streetName": "MORRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MORRISON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0N1",
+    "result": []
+  },
+  {
+    "postal": "L6J1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J1Y7",
+        "streetName": "MALBROOK",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MALBROOK RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7W5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J7W5",
+        "streetName": "CORNWALL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CORNWALL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J3Z1",
+        "streetName": "CAESAR",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAESAR AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7M6",
+        "streetName": "ROSEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ROSEWOOD LANE, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7M6",
+        "streetName": "THORESBY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "THORESBY DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J1W7",
+        "streetName": "WARREN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WARREN DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J1X1",
+        "streetName": "ELMHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ELMHURST AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0C1",
+    "result": []
+  },
+  {
+    "postal": "L6J4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4N3",
+        "streetName": "ENNISCLARE",
+        "streetDirectionId": "E",
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ENNISCLARE DR E, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4N3",
+        "streetName": "ENNISCLARE",
+        "streetDirectionId": "W",
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ENNISCLARE DR W, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4S8",
+        "streetName": "BELLWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BELLWOOD AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1H6",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J2Z4",
+        "streetName": "NAVY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "NAVY ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7K3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140325,
+          10140344
+        ],
+        "postalCode": "L6J7K3",
+        "streetName": "ASHRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ASHRIDGE PL, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7K3",
+        "streetName": "THORESBY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "THORESBY DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343,
+          10140344
+        ],
+        "postalCode": "L6J7K3",
+        "streetName": "WYNTEN",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WYNTEN WAY, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8A2",
+    "result": []
+  },
+  {
+    "postal": "L6J6J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6J1",
+        "streetName": "BONNY MEADOW",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BONNY MEADOW RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5Z6",
+        "streetName": "BENNINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "GATE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BENNINGTON GATE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3Z0",
+    "result": []
+  },
+  {
+    "postal": "L6J8M0",
+    "result": []
+  },
+  {
+    "postal": "L6J1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J1Z6",
+        "streetName": "GALT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GALT AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8K7",
+    "result": []
+  },
+  {
+    "postal": "L6J1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1N3",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHURCH ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9S2",
+    "result": []
+  },
+  {
+    "postal": "L6J2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2K1",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "AV",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "PINE AV, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1E8",
+        "streetName": "CARSON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CARSON LANE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9B8",
+    "result": []
+  },
+  {
+    "postal": "L6J7X4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J7X4",
+        "streetName": "BERYL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BERYL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1Z4",
+        "streetName": "LAWSON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAWSON ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361,
+          10140326
+        ],
+        "postalCode": "L6J2C7",
+        "streetName": "CRESTVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CRESTVIEW ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2E7",
+        "streetName": "SPRUCELEA",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SPRUCELEA DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J3R1",
+        "streetName": "ALLAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ALLAN ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4K4",
+        "streetName": "MORRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MORRISON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9G3",
+    "result": []
+  },
+  {
+    "postal": "L6J6C9",
+    "result": []
+  },
+  {
+    "postal": "L6J9H5",
+    "result": []
+  },
+  {
+    "postal": "L6J1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1P5",
+        "streetName": "RANDALL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "RANDALL ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2J5",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4W6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J4W6",
+        "streetName": "WOODLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WOODLAND DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8M8",
+    "result": []
+  },
+  {
+    "postal": "L6J6C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J6C5",
+        "streetName": "CHEVERIE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHEVERIE ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9H0",
+    "result": []
+  },
+  {
+    "postal": "L6J1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J1X8",
+        "streetName": "SHEDDON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SHEDDON AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J3H4",
+        "streetName": "TRAFALGAR",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "TRAFALGAR RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J4E7",
+        "streetName": "FORESTWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "FORESTWOOD DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8A0",
+    "result": []
+  },
+  {
+    "postal": "L6J1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140362
+        ],
+        "postalCode": "L6J1Z7",
+        "streetName": "GALT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GALT AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7Z3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J7Z3",
+        "streetName": "WATERSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WATERSTONE CRT, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0L7",
+    "result": []
+  },
+  {
+    "postal": "L6J2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J2C6",
+        "streetName": "CRESTVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CRESTVIEW ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J6M3",
+        "streetName": "CARSON",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CARSON LANE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2J1",
+        "streetName": "MAPLE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3E3",
+    "result": []
+  },
+  {
+    "postal": "L6J6Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6Z9",
+        "streetName": "BISHOPSTOKE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BISHOPSTOKE WAY, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J3M3",
+        "streetName": "REYNOLDS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "REYNOLDS ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9B1",
+    "result": []
+  },
+  {
+    "postal": "L6J9J5",
+    "result": []
+  },
+  {
+    "postal": "L6J4V8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J4V8",
+        "streetName": "MAPLE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE GROVE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6W2",
+        "streetName": "GREENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "GREENWOOD CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0V5",
+    "result": []
+  },
+  {
+    "postal": "L6J0Z8",
+    "result": []
+  },
+  {
+    "postal": "L6J5G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5G2",
+        "streetName": "ELMHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ELMHURST AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4N4",
+    "result": []
+  },
+  {
+    "postal": "L6J8G7",
+    "result": []
+  },
+  {
+    "postal": "L6J8W1",
+    "result": []
+  },
+  {
+    "postal": "L6J1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1S6",
+        "streetName": "SUMNER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SUMNER AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4E0",
+    "result": []
+  },
+  {
+    "postal": "L6J4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J4L9",
+        "streetName": "CAIRNCROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CAIRNCROFT RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J5Z9",
+        "streetName": "CARLA",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CARLA CRT, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5V3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5V3",
+        "streetName": "DUNEDIN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNEDIN RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J4V2",
+        "streetName": "MAPLE GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MAPLE GROVE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7C0",
+    "result": []
+  },
+  {
+    "postal": "L6J6L0",
+    "result": []
+  },
+  {
+    "postal": "L6J1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1S9",
+        "streetName": "SUMNER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SUMNER AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7R6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J7R6",
+        "streetName": "CARRINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CARRINGTON PL, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7J0",
+    "result": []
+  },
+  {
+    "postal": "L6J5M0",
+    "result": []
+  },
+  {
+    "postal": "L6J2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2E5",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAWRENCE CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7C7",
+        "streetName": "EDDIE SHAIN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "EDDIE SHAIN DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5C0",
+    "result": []
+  },
+  {
+    "postal": "L6J8V9",
+    "result": []
+  },
+  {
+    "postal": "L6J7E0",
+    "result": []
+  },
+  {
+    "postal": "L6J6R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6R4",
+        "streetName": "ARLINGTON",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ARLINGTON DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6R4",
+        "streetName": "CHALFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHALFIELD DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3Z7",
+        "streetName": "CHARTWELL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHARTWELL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1J9",
+        "streetName": "LAKESHORE",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAKESHORE RD E, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J7K6",
+        "streetName": "ADDINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ADDINGHAM CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7Y5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7Y5",
+        "streetName": "SHERIDAN GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SHERIDAN GARDEN DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1B7",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "KING ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J4S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J4S9",
+        "streetName": "BELLWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BELLWOOD AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9R9",
+    "result": []
+  },
+  {
+    "postal": "L6J5K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J5K7",
+        "streetName": "CANTERBURY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CANTERBURY CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J6P2",
+        "streetName": "CARDIFF",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CARDIFF DR, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J6P2",
+        "streetName": "CHILLINGHAM",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHILLINGHAM CRES, OAKVILLE"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J6P2",
+        "streetName": "DUNVEGAN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DUNVEGAN AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J2C5",
+        "streetName": "BIRCHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BIRCHVIEW AVE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2N0",
+    "result": []
+  },
+  {
+    "postal": "L6J1G0",
+    "result": []
+  },
+  {
+    "postal": "L6J4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J4K5",
+        "streetName": "MORRISON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MORRISON RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J9B5",
+    "result": []
+  },
+  {
+    "postal": "L6J6T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6T5",
+        "streetName": "WAKEHURST",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "WAKEHURST CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140360
+        ],
+        "postalCode": "L6J1N8",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CHURCH ST, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J0C0",
+    "result": []
+  },
+  {
+    "postal": "L6J0R9",
+    "result": []
+  },
+  {
+    "postal": "L6J7L1",
+    "result": []
+  },
+  {
+    "postal": "L6J3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J3Y8",
+        "streetName": "DONESSLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "DONESSLE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7X9",
+    "result": []
+  },
+  {
+    "postal": "L6J1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1A7",
+        "streetName": "ARGYLE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ARGYLE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140364
+        ],
+        "postalCode": "L6J2T9",
+        "streetName": "CONSTANCE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CONSTANCE DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140363
+        ],
+        "postalCode": "L6J2E6",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "LAWRENCE CRES, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J8Y1",
+    "result": []
+  },
+  {
+    "postal": "L6J0J5",
+    "result": []
+  },
+  {
+    "postal": "L6J4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J4J1",
+        "streetName": "MORRISON HEIGHTS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "MORRISON HEIGHTS DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140361
+        ],
+        "postalCode": "L6J1A5",
+        "streetName": "ESPLANADE",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "ESPLANADE, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140343
+        ],
+        "postalCode": "L6J6Z6",
+        "streetName": "BISHOPSTOKE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BISHOPSTOKE WAY, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J5K4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140366
+        ],
+        "postalCode": "L6J5K4",
+        "streetName": "BROOKMILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "BROOKMILL RD, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J7R9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140344
+        ],
+        "postalCode": "L6J7R9",
+        "streetName": "SHERIDAN GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "SHERIDAN GARDEN DR, OAKVILLE"
+      }
+    ]
+  },
+  {
+    "postal": "L6J6G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 74,
+            "name": "Oakville"
+          }
+        ],
+        "pollDivisionIds": [
+          10140365
+        ],
+        "postalCode": "L6J6G4",
+        "streetName": "CONSTANCE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "OAKVILLE",
+        "streetNameDisplayText": "CONSTANCE DR, OAKVILLE"
+      }
+    ]
   }
 ]

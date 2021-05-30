@@ -6500,5 +6500,4624 @@
   {
     "postal": "N3A0W6",
     "result": []
+  },
+  {
+    "postal": "N3A4C5",
+    "result": []
+  },
+  {
+    "postal": "N3A7E4",
+    "result": []
+  },
+  {
+    "postal": "N3A1R9",
+    "result": []
+  },
+  {
+    "postal": "N3A2P0",
+    "result": []
+  },
+  {
+    "postal": "N3A5S4",
+    "result": []
+  },
+  {
+    "postal": "N3A5K8",
+    "result": []
+  },
+  {
+    "postal": "N3A8K4",
+    "result": []
+  },
+  {
+    "postal": "N3A7C1",
+    "result": []
+  },
+  {
+    "postal": "N3A7K9",
+    "result": []
+  },
+  {
+    "postal": "N3A5J1",
+    "result": []
+  },
+  {
+    "postal": "N3A4P9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A4P9",
+        "streetName": "BONAVENTURE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BONAVENTURE DR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0N2",
+    "result": []
+  },
+  {
+    "postal": "N3A2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G6",
+        "streetName": "EAST MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "EAST MORNINGSIDE CIR, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G6",
+        "streetName": "GREENFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "GREENFIELD PL, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G6",
+        "streetName": "MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MORNINGSIDE CIR, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G6",
+        "streetName": "SPRUCE",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "SPRUCE LANE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G6",
+        "streetName": "WEST MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WEST MORNINGSIDE CIR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6P4",
+    "result": []
+  },
+  {
+    "postal": "N3A3J0",
+    "result": []
+  },
+  {
+    "postal": "N3A8X4",
+    "result": []
+  },
+  {
+    "postal": "N3A1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A1Y3",
+        "streetName": "BIER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BIER CRES, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1A8",
+        "streetName": "SEYLER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "SEYLER ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6Y5",
+    "result": []
+  },
+  {
+    "postal": "N3A0J6",
+    "result": []
+  },
+  {
+    "postal": "N3A2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139283
+        ],
+        "postalCode": "N3A2C9",
+        "streetName": "BOULLEE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BOULLEE ST, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139283
+        ],
+        "postalCode": "N3A2C9",
+        "streetName": "HAMILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HAMILTON RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8J6",
+    "result": []
+  },
+  {
+    "postal": "N3A8T4",
+    "result": []
+  },
+  {
+    "postal": "N3A1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1P7",
+        "streetName": "MILL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MILL ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9V9",
+    "result": []
+  },
+  {
+    "postal": "N3A0M1",
+    "result": []
+  },
+  {
+    "postal": "N3A6K5",
+    "result": []
+  },
+  {
+    "postal": "N3A2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2T5",
+        "streetName": "ST GEORGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "ST GEORGE ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7E9",
+    "result": []
+  },
+  {
+    "postal": "N3A5K5",
+    "result": []
+  },
+  {
+    "postal": "N3A3R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A3R5",
+        "streetName": "SILVER SPRINGS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SILVER SPRINGS DR, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5B1",
+    "result": []
+  },
+  {
+    "postal": "N3A2P1",
+    "result": []
+  },
+  {
+    "postal": "N3A7L0",
+    "result": []
+  },
+  {
+    "postal": "N3A3L6",
+    "result": []
+  },
+  {
+    "postal": "N3A2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271,
+          10139272
+        ],
+        "postalCode": "N3A2A4",
+        "streetName": "HINCKS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HINCKS ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8S0",
+    "result": []
+  },
+  {
+    "postal": "N3A3L5",
+    "result": []
+  },
+  {
+    "postal": "N3A2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2R5",
+        "streetName": "CHARLOTTA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "CHARLOTTA ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9T6",
+    "result": []
+  },
+  {
+    "postal": "N3A8Z2",
+    "result": []
+  },
+  {
+    "postal": "N3A0E9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A0E9",
+        "streetName": "ANGUS GLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "ANGUS GLEN LANE, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8C0",
+    "result": []
+  },
+  {
+    "postal": "N3A3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273,
+          10139271
+        ],
+        "postalCode": "N3A3K7",
+        "streetName": "CHRISTNER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "CHRISTNER RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A2H3",
+        "streetName": "NITHVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "NITHVIEW DR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2Y6",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WALKER RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7M2",
+    "result": []
+  },
+  {
+    "postal": "N3A6E2",
+    "result": []
+  },
+  {
+    "postal": "N3A3R0",
+    "result": []
+  },
+  {
+    "postal": "N3A4J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A4J7",
+        "streetName": "DEVONSHIRE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "DEVONSHIRE DR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6N8",
+    "result": []
+  },
+  {
+    "postal": "N3A0J7",
+    "result": []
+  },
+  {
+    "postal": "N3A7P2",
+    "result": []
+  },
+  {
+    "postal": "N3A3T8",
+    "result": []
+  },
+  {
+    "postal": "N3A3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A3S7",
+        "streetName": "WILMOT-EASTHOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WILMOT-EASTHOPE RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2S7",
+        "streetName": "BREWERY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "BREWERY ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273,
+          10139272
+        ],
+        "postalCode": "N3A1S4",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WATERLOO ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1L8",
+        "streetName": "BLEAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BLEAMS CRT, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1L8",
+        "streetName": "BLEAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BLEAMS RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8E9",
+    "result": []
+  },
+  {
+    "postal": "N3A0T0",
+    "result": []
+  },
+  {
+    "postal": "N3A3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3G4",
+        "streetName": "HOLLAND MILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HOLLAND MILLS RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0V6",
+    "result": []
+  },
+  {
+    "postal": "N3A4W1",
+    "result": []
+  },
+  {
+    "postal": "N3A9G9",
+    "result": []
+  },
+  {
+    "postal": "N3A5W4",
+    "result": []
+  },
+  {
+    "postal": "N3A7M8",
+    "result": []
+  },
+  {
+    "postal": "N3A2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A2C2",
+        "streetName": "QUEEN MARY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "QUEEN MARY ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4Y2",
+    "result": []
+  },
+  {
+    "postal": "N3A9X9",
+    "result": []
+  },
+  {
+    "postal": "N3A3T0",
+    "result": []
+  },
+  {
+    "postal": "N3A4T8",
+    "result": []
+  },
+  {
+    "postal": "N3A9C4",
+    "result": []
+  },
+  {
+    "postal": "N3A8P2",
+    "result": []
+  },
+  {
+    "postal": "N3A0Y8",
+    "result": []
+  },
+  {
+    "postal": "N3A1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1G8",
+        "streetName": "BLEAMS",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BLEAMS RD W, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2T6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2T6",
+        "streetName": "LOUISA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "LOUISA ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1N7",
+        "streetName": "MILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MILTON ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0L6",
+    "result": []
+  },
+  {
+    "postal": "N3A9V4",
+    "result": []
+  },
+  {
+    "postal": "N3A2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2V1",
+        "streetName": "LOUISA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "LOUISA ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3L8",
+    "result": []
+  },
+  {
+    "postal": "N3A2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2R8",
+        "streetName": "KING WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "KING WILLIAM ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5C1",
+    "result": []
+  },
+  {
+    "postal": "N3A4W3",
+    "result": []
+  },
+  {
+    "postal": "N3A5X5",
+    "result": []
+  },
+  {
+    "postal": "N3A9W5",
+    "result": []
+  },
+  {
+    "postal": "N3A3C4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3C4",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HURON RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1N6",
+        "streetName": "MILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MILTON ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9S9",
+    "result": []
+  },
+  {
+    "postal": "N3A9M2",
+    "result": []
+  },
+  {
+    "postal": "N3A8Y4",
+    "result": []
+  },
+  {
+    "postal": "N3A7S4",
+    "result": []
+  },
+  {
+    "postal": "N3A0K6",
+    "result": []
+  },
+  {
+    "postal": "N3A1W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1W3",
+        "streetName": "PARK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PARK PL, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7R2",
+    "result": []
+  },
+  {
+    "postal": "N3A2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2Y9",
+        "streetName": "TYE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "TYE RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7G4",
+    "result": []
+  },
+  {
+    "postal": "N3A7E5",
+    "result": []
+  },
+  {
+    "postal": "N3A9G2",
+    "result": []
+  },
+  {
+    "postal": "N3A7Y8",
+    "result": []
+  },
+  {
+    "postal": "N3A9V2",
+    "result": []
+  },
+  {
+    "postal": "N3A3T7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A3T7",
+        "streetName": "WILMOT-EASTHOPE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WILMOT-EASTHOPE RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1H0",
+    "result": []
+  },
+  {
+    "postal": "N3A1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1M7",
+        "streetName": "FAIRVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "FAIRVIEW ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8V4",
+    "result": []
+  },
+  {
+    "postal": "N3A4M2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4M2",
+        "streetName": "HUNSBERGER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "HUNSBERGER DR, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4M2",
+        "streetName": "MCFADYEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "MCFADYEN ST, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4M2",
+        "streetName": "WAGLER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "WAGLER AVE, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0X2",
+    "result": []
+  },
+  {
+    "postal": "N3A5Z4",
+    "result": []
+  },
+  {
+    "postal": "N3A6V4",
+    "result": []
+  },
+  {
+    "postal": "N3A8J3",
+    "result": []
+  },
+  {
+    "postal": "N3A8E5",
+    "result": []
+  },
+  {
+    "postal": "N3A2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2V5",
+        "streetName": "SNYDER'S",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SNYDER'S RD E, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2V5",
+        "streetName": "SNYDER'S",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SNYDER'S RD W, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7S1",
+    "result": []
+  },
+  {
+    "postal": "N3A6V3",
+    "result": []
+  },
+  {
+    "postal": "N3A2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2L8",
+        "streetName": "SNYDER'S",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SNYDER'S RD E, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9V0",
+    "result": []
+  },
+  {
+    "postal": "N3A3M4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A3M4",
+        "streetName": "ERBS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "ERBS RD, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139255
+        ],
+        "postalCode": "N3A3M4",
+        "streetName": "ERB'S",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "ERB'S RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5B2",
+    "result": []
+  },
+  {
+    "postal": "N3A3X5",
+    "result": []
+  },
+  {
+    "postal": "N3A9R7",
+    "result": []
+  },
+  {
+    "postal": "N3A2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2X2",
+        "streetName": "BEAN",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BEAN RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8Z6",
+    "result": []
+  },
+  {
+    "postal": "N3A4R4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A4R4",
+        "streetName": "CHARLES YOUNG",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "CHARLES YOUNG AVE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A4R4",
+        "streetName": "LASCHINGER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "LASCHINGER BLVD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2R1",
+        "streetName": "FOUNDRY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "FOUNDRY ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3R8",
+    "result": []
+  },
+  {
+    "postal": "N3A9A1",
+    "result": []
+  },
+  {
+    "postal": "N3A8L3",
+    "result": []
+  },
+  {
+    "postal": "N3A9K4",
+    "result": []
+  },
+  {
+    "postal": "N3A9S3",
+    "result": []
+  },
+  {
+    "postal": "N3A8N7",
+    "result": []
+  },
+  {
+    "postal": "N3A1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1C6",
+        "streetName": "JACOB",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "JACOB ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 85,
+            "setId": 0,
+            "name": "Perth—Wellington"
+          }
+        ],
+        "pollDivisionIds": [
+          10135502
+        ],
+        "postalCode": "N3A3Z8",
+        "streetName": "PERTH 43",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PERTH 43 LINE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 85,
+            "setId": 0,
+            "name": "Perth—Wellington"
+          }
+        ],
+        "pollDivisionIds": [
+          10135502
+        ],
+        "postalCode": "N3A3Z8",
+        "streetName": "PERTH LINE 43",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PERTH LINE 43, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8G5",
+    "result": []
+  },
+  {
+    "postal": "N3A5R6",
+    "result": []
+  },
+  {
+    "postal": "N3A2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2W3",
+        "streetName": "BRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BRIDGE ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0A0",
+    "result": []
+  },
+  {
+    "postal": "N3A6P8",
+    "result": []
+  },
+  {
+    "postal": "N3A8N9",
+    "result": []
+  },
+  {
+    "postal": "N3A0S9",
+    "result": []
+  },
+  {
+    "postal": "N3A8G0",
+    "result": []
+  },
+  {
+    "postal": "N3A8C7",
+    "result": []
+  },
+  {
+    "postal": "N3A5X8",
+    "result": []
+  },
+  {
+    "postal": "N3A7E8",
+    "result": []
+  },
+  {
+    "postal": "N3A6X2",
+    "result": []
+  },
+  {
+    "postal": "N3A4C6",
+    "result": []
+  },
+  {
+    "postal": "N3A7H2",
+    "result": []
+  },
+  {
+    "postal": "N3A4R0",
+    "result": []
+  },
+  {
+    "postal": "N3A6J3",
+    "result": []
+  },
+  {
+    "postal": "N3A4B8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 85,
+            "setId": 0,
+            "name": "Perth—Wellington"
+          }
+        ],
+        "pollDivisionIds": [
+          10135502
+        ],
+        "postalCode": "N3A4B8",
+        "streetName": "37",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "37 LINE, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6H6",
+    "result": []
+  },
+  {
+    "postal": "N3A0S1",
+    "result": []
+  },
+  {
+    "postal": "N3A4E3",
+    "result": []
+  },
+  {
+    "postal": "N3A7K2",
+    "result": []
+  },
+  {
+    "postal": "N3A7T8",
+    "result": []
+  },
+  {
+    "postal": "N3A0J9",
+    "result": []
+  },
+  {
+    "postal": "N3A5J9",
+    "result": []
+  },
+  {
+    "postal": "N3A5S7",
+    "result": []
+  },
+  {
+    "postal": "N3A0G9",
+    "result": []
+  },
+  {
+    "postal": "N3A3J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3J9",
+        "streetName": "WILMOT CENTRE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "WILMOT CENTRE RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2Y0",
+    "result": []
+  },
+  {
+    "postal": "N3A8X5",
+    "result": []
+  },
+  {
+    "postal": "N3A2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2M7",
+        "streetName": "CHRISTIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "CHRISTIAN ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9Z3",
+    "result": []
+  },
+  {
+    "postal": "N3A7W2",
+    "result": []
+  },
+  {
+    "postal": "N3A3W0",
+    "result": []
+  },
+  {
+    "postal": "N3A3M1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A3M1",
+        "streetName": "ERB'S",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "ERB'S RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6A5",
+    "result": []
+  },
+  {
+    "postal": "N3A2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2M9",
+        "streetName": "MILLER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "MILLER ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5C3",
+    "result": []
+  },
+  {
+    "postal": "N3A0Y6",
+    "result": []
+  },
+  {
+    "postal": "N3A9H7",
+    "result": []
+  },
+  {
+    "postal": "N3A3L0",
+    "result": []
+  },
+  {
+    "postal": "N3A5N9",
+    "result": []
+  },
+  {
+    "postal": "N3A5E3",
+    "result": []
+  },
+  {
+    "postal": "N3A7M9",
+    "result": []
+  },
+  {
+    "postal": "N3A8N2",
+    "result": []
+  },
+  {
+    "postal": "N3A9H3",
+    "result": []
+  },
+  {
+    "postal": "N3A2K8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2K8",
+        "streetName": "SCHNELLER",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SCHNELLER CRT, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2K8",
+        "streetName": "SCHNELLER",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SCHNELLER DR, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9L0",
+    "result": []
+  },
+  {
+    "postal": "N3A6L9",
+    "result": []
+  },
+  {
+    "postal": "N3A6A8",
+    "result": []
+  },
+  {
+    "postal": "N3A2K6",
+    "result": []
+  },
+  {
+    "postal": "N3A2M0",
+    "result": []
+  },
+  {
+    "postal": "N3A5X7",
+    "result": []
+  },
+  {
+    "postal": "N3A0M7",
+    "result": []
+  },
+  {
+    "postal": "N3A7A6",
+    "result": []
+  },
+  {
+    "postal": "N3A3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3C5",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HURON RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2P2",
+        "streetName": "BECK",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "BECK ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9N4",
+    "result": []
+  },
+  {
+    "postal": "N3A3M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139255
+        ],
+        "postalCode": "N3A3M9",
+        "streetName": "WILBY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "WILBY RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8K6",
+    "result": []
+  },
+  {
+    "postal": "N3A1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1L2",
+        "streetName": "GREENWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "GREENWOOD DR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139258
+        ],
+        "postalCode": "N3A2Z9",
+        "streetName": "PINEHILL",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PINEHILL RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2S2",
+        "streetName": "TANNERY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "TANNERY ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2W2",
+        "streetName": "BRIDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BRIDGE ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271,
+          10139272
+        ],
+        "postalCode": "N3A2C3",
+        "streetName": "WILLIAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WILLIAMS ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6L7",
+    "result": []
+  },
+  {
+    "postal": "N3A3K0",
+    "result": []
+  },
+  {
+    "postal": "N3A3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139255
+        ],
+        "postalCode": "N3A3C1",
+        "streetName": "SANDHILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SANDHILLS RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6M9",
+    "result": []
+  },
+  {
+    "postal": "N3A4N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N9",
+        "streetName": "MARTY",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MARTY LANE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N9",
+        "streetName": "STRAUCH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "STRAUCH AVE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N9",
+        "streetName": "STRAUCH",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "STRAUCH LANE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N9",
+        "streetName": "THEODORE SCHULER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "THEODORE SCHULER BLVD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3Y7",
+    "result": []
+  },
+  {
+    "postal": "N3A2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A2A9",
+        "streetName": "HINCKS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HINCKS ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6H5",
+    "result": []
+  },
+  {
+    "postal": "N3A8B4",
+    "result": []
+  },
+  {
+    "postal": "N3A4Z2",
+    "result": []
+  },
+  {
+    "postal": "N3A9J0",
+    "result": []
+  },
+  {
+    "postal": "N3A7V7",
+    "result": []
+  },
+  {
+    "postal": "N3A5T5",
+    "result": []
+  },
+  {
+    "postal": "N3A4W5",
+    "result": []
+  },
+  {
+    "postal": "N3A1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1T8",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WATERLOO ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9G6",
+    "result": []
+  },
+  {
+    "postal": "N3A1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1H3",
+        "streetName": "WEBER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WEBER ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5R5",
+    "result": []
+  },
+  {
+    "postal": "N3A8A4",
+    "result": []
+  },
+  {
+    "postal": "N3A3T6",
+    "result": []
+  },
+  {
+    "postal": "N3A9W8",
+    "result": []
+  },
+  {
+    "postal": "N3A0N3",
+    "result": []
+  },
+  {
+    "postal": "N3A7V0",
+    "result": []
+  },
+  {
+    "postal": "N3A8T5",
+    "result": []
+  },
+  {
+    "postal": "N3A5N3",
+    "result": []
+  },
+  {
+    "postal": "N3A5G9",
+    "result": []
+  },
+  {
+    "postal": "N3A3X8",
+    "result": []
+  },
+  {
+    "postal": "N3A9R3",
+    "result": []
+  },
+  {
+    "postal": "N3A2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2S1",
+        "streetName": "TANNERY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "TANNERY ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9J7",
+    "result": []
+  },
+  {
+    "postal": "N3A2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A2J3",
+        "streetName": "HERITAGE",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HERITAGE DR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3B6",
+        "streetName": "SANDHILLS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SANDHILLS RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8J0",
+    "result": []
+  },
+  {
+    "postal": "N3A7R4",
+    "result": []
+  },
+  {
+    "postal": "N3A8K8",
+    "result": []
+  },
+  {
+    "postal": "N3A4P3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4P3",
+        "streetName": "SNYDER'S",
+        "streetDirectionId": "W",
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SNYDER'S RD W, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0A2",
+    "result": []
+  },
+  {
+    "postal": "N3A2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G2",
+        "streetName": "EAST MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "EAST MORNINGSIDE CIR, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G2",
+        "streetName": "FIELDSTONE",
+        "streetDirectionId": null,
+        "streetTypeId": "WALK",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "FIELDSTONE WALK, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G2",
+        "streetName": "MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MORNINGSIDE CIR, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2G2",
+        "streetName": "WEST MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WEST MORNINGSIDE CIR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5Y9",
+    "result": []
+  },
+  {
+    "postal": "N3A7X0",
+    "result": []
+  },
+  {
+    "postal": "N3A7W3",
+    "result": []
+  },
+  {
+    "postal": "N3A7X5",
+    "result": []
+  },
+  {
+    "postal": "N3A5K6",
+    "result": []
+  },
+  {
+    "postal": "N3A5B6",
+    "result": []
+  },
+  {
+    "postal": "N3A7Z0",
+    "result": []
+  },
+  {
+    "postal": "N3A9H6",
+    "result": []
+  },
+  {
+    "postal": "N3A1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1B4",
+        "streetName": "GRACE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "GRACE ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1A0",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1A0",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HURON ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9A0",
+    "result": []
+  },
+  {
+    "postal": "N3A1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1M6",
+        "streetName": "FAIRVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "FAIRVIEW ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5H0",
+    "result": []
+  },
+  {
+    "postal": "N3A1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1K6",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HURON ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5E1",
+    "result": []
+  },
+  {
+    "postal": "N3A3T9",
+    "result": []
+  },
+  {
+    "postal": "N3A2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2M6",
+        "streetName": "CHRISTIAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "CHRISTIAN ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0G5",
+    "result": []
+  },
+  {
+    "postal": "N3A0Y2",
+    "result": []
+  },
+  {
+    "postal": "N3A2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2Y7",
+        "streetName": "WALKER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WALKER RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273,
+          10139259
+        ],
+        "postalCode": "N3A2J7",
+        "streetName": "BLEAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BLEAMS RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4K7",
+        "streetName": "LIVINGSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "LIVINGSTON BLVD, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4K7",
+        "streetName": "MCFADYEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "MCFADYEN ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7P9",
+    "result": []
+  },
+  {
+    "postal": "N3A8X0",
+    "result": []
+  },
+  {
+    "postal": "N3A3X1",
+    "result": []
+  },
+  {
+    "postal": "N3A1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1R5",
+        "streetName": "UNION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "UNION ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6X6",
+    "result": []
+  },
+  {
+    "postal": "N3A0Y1",
+    "result": []
+  },
+  {
+    "postal": "N3A8G1",
+    "result": []
+  },
+  {
+    "postal": "N3A3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3J3",
+        "streetName": "BLEAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BLEAMS RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8C2",
+    "result": []
+  },
+  {
+    "postal": "N3A4X9",
+    "result": []
+  },
+  {
+    "postal": "N3A6G9",
+    "result": []
+  },
+  {
+    "postal": "N3A4M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A4M3",
+        "streetName": "ISAAC SHANTZ",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "ISAAC SHANTZ DR, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A4M3",
+        "streetName": "STUCKEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "STUCKEY AVE, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9P7",
+    "result": []
+  },
+  {
+    "postal": "N3A4E5",
+    "result": []
+  },
+  {
+    "postal": "N3A5K9",
+    "result": []
+  },
+  {
+    "postal": "N3A2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2V2",
+        "streetName": "BRUBACHER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "BRUBACHER ST, BADEN"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2V2",
+        "streetName": "COUNTRY CREEK",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "COUNTRY CREEK DR, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A2N9",
+        "streetName": "CHARLES",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "CHARLES ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6L4",
+    "result": []
+  },
+  {
+    "postal": "N3A8E0",
+    "result": []
+  },
+  {
+    "postal": "N3A0N0",
+    "result": []
+  },
+  {
+    "postal": "N3A6R0",
+    "result": []
+  },
+  {
+    "postal": "N3A9C1",
+    "result": []
+  },
+  {
+    "postal": "N3A4H4",
+    "result": []
+  },
+  {
+    "postal": "N3A5W3",
+    "result": []
+  },
+  {
+    "postal": "N3A9N9",
+    "result": []
+  },
+  {
+    "postal": "N3A1V7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1V7",
+        "streetName": "VICTORIA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "VICTORIA ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8J1",
+    "result": []
+  },
+  {
+    "postal": "N3A5V9",
+    "result": []
+  },
+  {
+    "postal": "N3A2S8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A2S8",
+        "streetName": "BREWERY",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "BREWERY ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6P0",
+    "result": []
+  },
+  {
+    "postal": "N3A4J8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257
+        ],
+        "postalCode": "N3A4J8",
+        "streetName": "SNYDER'S",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "SNYDER'S RD E, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0N1",
+    "result": []
+  },
+  {
+    "postal": "N3A1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A1Y7",
+        "streetName": "EBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "EBY CRES, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7W5",
+    "result": []
+  },
+  {
+    "postal": "N3A3Z1",
+    "result": []
+  },
+  {
+    "postal": "N3A7M6",
+    "result": []
+  },
+  {
+    "postal": "N3A1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1W7",
+        "streetName": "WEBSTER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WEBSTER ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1X1",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "KING ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A0C1",
+        "streetName": "AMBERDALE",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "AMBERDALE WAY, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A4N3",
+        "streetName": "BRENNEMAN",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "BRENNEMAN DR, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4S8",
+    "result": []
+  },
+  {
+    "postal": "N3A1H6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1H6",
+        "streetName": "WILMOT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WILMOT ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2Z4",
+        "streetName": "PUDDICOMBE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PUDDICOMBE RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7K3",
+    "result": []
+  },
+  {
+    "postal": "N3A8A2",
+    "result": []
+  },
+  {
+    "postal": "N3A6J1",
+    "result": []
+  },
+  {
+    "postal": "N3A5Z6",
+    "result": []
+  },
+  {
+    "postal": "N3A3Z0",
+    "result": []
+  },
+  {
+    "postal": "N3A8M0",
+    "result": []
+  },
+  {
+    "postal": "N3A1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A1Z6",
+        "streetName": "MERNER",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MERNER PL, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8K7",
+    "result": []
+  },
+  {
+    "postal": "N3A1N3",
+    "result": []
+  },
+  {
+    "postal": "N3A9S2",
+    "result": []
+  },
+  {
+    "postal": "N3A2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139283,
+          10139273
+        ],
+        "postalCode": "N3A2K1",
+        "streetName": "HAMILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HAMILTON RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1E8",
+        "streetName": "PEEL",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PEEL ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9B8",
+    "result": []
+  },
+  {
+    "postal": "N3A7X4",
+    "result": []
+  },
+  {
+    "postal": "N3A1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A1Z4",
+        "streetName": "DANIELLS",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "DANIELLS CRES, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A2C7",
+        "streetName": "ARNOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "ARNOLD ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E7",
+        "streetName": "GROVE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "GROVE PL, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E7",
+        "streetName": "HEATH",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HEATH PL, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E7",
+        "streetName": "PARKWAY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PARKWAY DR, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E7",
+        "streetName": "WEST MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WEST MORNINGSIDE CIR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139255
+        ],
+        "postalCode": "N3A3R1",
+        "streetName": "WOODS EDGE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "WOODS EDGE CRT, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4K4",
+    "result": []
+  },
+  {
+    "postal": "N3A9G3",
+    "result": []
+  },
+  {
+    "postal": "N3A6C9",
+    "result": []
+  },
+  {
+    "postal": "N3A9H5",
+    "result": []
+  },
+  {
+    "postal": "N3A1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1P5",
+        "streetName": "LEWIS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "LEWIS ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273,
+          10139259
+        ],
+        "postalCode": "N3A2J5",
+        "streetName": "BERGEY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BERGEY CRT, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4W6",
+    "result": []
+  },
+  {
+    "postal": "N3A8M8",
+    "result": []
+  },
+  {
+    "postal": "N3A6C5",
+    "result": []
+  },
+  {
+    "postal": "N3A9H0",
+    "result": []
+  },
+  {
+    "postal": "N3A1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A1X8",
+        "streetName": "FORREST",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "FORREST AVE E, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139256
+        ],
+        "postalCode": "N3A3H4",
+        "streetName": "NAFZIGER",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "NAFZIGER RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4E7",
+    "result": []
+  },
+  {
+    "postal": "N3A8A0",
+    "result": []
+  },
+  {
+    "postal": "N3A1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272,
+          10139271
+        ],
+        "postalCode": "N3A1Z7",
+        "streetName": "CATHERINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "CATHERINE ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7Z3",
+    "result": []
+  },
+  {
+    "postal": "N3A0L7",
+    "result": []
+  },
+  {
+    "postal": "N3A2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A2C6",
+        "streetName": "ARNOLD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "ARNOLD ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6M3",
+    "result": []
+  },
+  {
+    "postal": "N3A2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2J1",
+        "streetName": "BLEAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "BLEAMS RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A3E3",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HURON RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6Z9",
+    "result": []
+  },
+  {
+    "postal": "N3A3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139255
+        ],
+        "postalCode": "N3A3M3",
+        "streetName": "ERB'S",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "ERB'S RD, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9B1",
+    "result": []
+  },
+  {
+    "postal": "N3A9J5",
+    "result": []
+  },
+  {
+    "postal": "N3A4V8",
+    "result": []
+  },
+  {
+    "postal": "N3A6W2",
+    "result": []
+  },
+  {
+    "postal": "N3A0V5",
+    "result": []
+  },
+  {
+    "postal": "N3A0Z8",
+    "result": []
+  },
+  {
+    "postal": "N3A5G2",
+    "result": []
+  },
+  {
+    "postal": "N3A4N4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N4",
+        "streetName": "ASTOR",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "ASTOR CRES, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N4",
+        "streetName": "FORREST",
+        "streetDirectionId": "E",
+        "streetTypeId": "AVE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "FORREST AVE E, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A4N4",
+        "streetName": "THEODORE SCHULER",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "THEODORE SCHULER BLVD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8G7",
+    "result": []
+  },
+  {
+    "postal": "N3A8W1",
+    "result": []
+  },
+  {
+    "postal": "N3A1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1S6",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WATERLOO ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4E0",
+    "result": []
+  },
+  {
+    "postal": "N3A4L9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A4L9",
+        "streetName": "SHIREFIELD",
+        "streetDirectionId": null,
+        "streetTypeId": "LANE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "SHIREFIELD LANE, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A5Z9",
+    "result": []
+  },
+  {
+    "postal": "N3A5V3",
+    "result": []
+  },
+  {
+    "postal": "N3A4V2",
+    "result": []
+  },
+  {
+    "postal": "N3A7C0",
+    "result": []
+  },
+  {
+    "postal": "N3A6L0",
+    "result": []
+  },
+  {
+    "postal": "N3A1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139272
+        ],
+        "postalCode": "N3A1S9",
+        "streetName": "WATERLOO",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WATERLOO ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7R6",
+    "result": []
+  },
+  {
+    "postal": "N3A7J0",
+    "result": []
+  },
+  {
+    "postal": "N3A5M0",
+    "result": []
+  },
+  {
+    "postal": "N3A2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E5",
+        "streetName": "SHEPHARD",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "SHEPHARD PL, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7C7",
+    "result": []
+  },
+  {
+    "postal": "N3A5C0",
+    "result": []
+  },
+  {
+    "postal": "N3A8V9",
+    "result": []
+  },
+  {
+    "postal": "N3A7E0",
+    "result": []
+  },
+  {
+    "postal": "N3A6R4",
+    "result": []
+  },
+  {
+    "postal": "N3A3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 85,
+            "setId": 0,
+            "name": "Perth—Wellington"
+          }
+        ],
+        "pollDivisionIds": [
+          10135502
+        ],
+        "postalCode": "N3A3Z7",
+        "streetName": "PERTH 43",
+        "streetDirectionId": null,
+        "streetTypeId": "LINE",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PERTH 43 LINE, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 85,
+            "setId": 0,
+            "name": "Perth—Wellington"
+          }
+        ],
+        "pollDivisionIds": [
+          10135502
+        ],
+        "postalCode": "N3A3Z7",
+        "streetName": "PERTH LINE 43",
+        "streetDirectionId": null,
+        "streetTypeId": null,
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "PERTH LINE 43, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1J9",
+        "streetName": "HURON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "HURON ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A7K6",
+    "result": []
+  },
+  {
+    "postal": "N3A7Y5",
+    "result": []
+  },
+  {
+    "postal": "N3A1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1B7",
+        "streetName": "JACOB",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "JACOB ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A4S9",
+    "result": []
+  },
+  {
+    "postal": "N3A9R9",
+    "result": []
+  },
+  {
+    "postal": "N3A5K7",
+    "result": []
+  },
+  {
+    "postal": "N3A6P2",
+    "result": []
+  },
+  {
+    "postal": "N3A2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271
+        ],
+        "postalCode": "N3A2C5",
+        "streetName": "WILLIAMS",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WILLIAMS ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2N0",
+    "result": []
+  },
+  {
+    "postal": "N3A1G0",
+    "result": []
+  },
+  {
+    "postal": "N3A4K5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A4K5",
+        "streetName": "TYE",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "TYE RD, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A9B5",
+    "result": []
+  },
+  {
+    "postal": "N3A6T5",
+    "result": []
+  },
+  {
+    "postal": "N3A1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1N8",
+        "streetName": "MILTON",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "MILTON ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A0C0",
+    "result": []
+  },
+  {
+    "postal": "N3A0R9",
+    "result": []
+  },
+  {
+    "postal": "N3A7L1",
+    "result": []
+  },
+  {
+    "postal": "N3A3Y8",
+    "result": []
+  },
+  {
+    "postal": "N3A7X9",
+    "result": []
+  },
+  {
+    "postal": "N3A1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A1A7",
+        "streetName": "SEYLER",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "SEYLER ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139257,
+          10139256
+        ],
+        "postalCode": "N3A2T9",
+        "streetName": "LOUISA",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "BADEN",
+        "streetNameDisplayText": "LOUISA ST, BADEN"
+      }
+    ]
+  },
+  {
+    "postal": "N3A2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E6",
+        "streetName": "EVERGREEN",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "EVERGREEN PL, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E6",
+        "streetName": "GARDEN",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "GARDEN PL, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E6",
+        "streetName": "SUNSHINE",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "SUNSHINE PL, NEW HAMBURG"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139259
+        ],
+        "postalCode": "N3A2E6",
+        "streetName": "WEST MORNINGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "CIR",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "WEST MORNINGSIDE CIR, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A8Y1",
+    "result": []
+  },
+  {
+    "postal": "N3A0J5",
+    "result": []
+  },
+  {
+    "postal": "N3A4J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139273
+        ],
+        "postalCode": "N3A4J1",
+        "streetName": "STONECROFT",
+        "streetDirectionId": null,
+        "streetTypeId": "WAY",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "STONECROFT WAY, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 48,
+            "setId": 0,
+            "name": "Kitchener—Conestoga"
+          }
+        ],
+        "pollDivisionIds": [
+          10139271,
+          10139272
+        ],
+        "postalCode": "N3A1A5",
+        "streetName": "GRANT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEW HAMBURG",
+        "streetNameDisplayText": "GRANT ST, NEW HAMBURG"
+      }
+    ]
+  },
+  {
+    "postal": "N3A6Z6",
+    "result": []
+  },
+  {
+    "postal": "N3A5K4",
+    "result": []
+  },
+  {
+    "postal": "N3A7R9",
+    "result": []
+  },
+  {
+    "postal": "N3A6G4",
+    "result": []
   }
 ]

@@ -5699,5 +5699,4130 @@
   {
     "postal": "M9N0W6",
     "result": []
+  },
+  {
+    "postal": "M9N4C5",
+    "result": []
+  },
+  {
+    "postal": "M9N7E4",
+    "result": []
+  },
+  {
+    "postal": "M9N1R9",
+    "result": []
+  },
+  {
+    "postal": "M9N2P0",
+    "result": []
+  },
+  {
+    "postal": "M9N5S4",
+    "result": []
+  },
+  {
+    "postal": "M9N5K8",
+    "result": []
+  },
+  {
+    "postal": "M9N8K4",
+    "result": []
+  },
+  {
+    "postal": "M9N7C1",
+    "result": []
+  },
+  {
+    "postal": "M9N7K9",
+    "result": []
+  },
+  {
+    "postal": "M9N5J1",
+    "result": []
+  },
+  {
+    "postal": "M9N4P9",
+    "result": []
+  },
+  {
+    "postal": "M9N0N2",
+    "result": []
+  },
+  {
+    "postal": "M9N2G6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2G6",
+        "streetName": "WILLIAM",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WILLIAM ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6P4",
+    "result": []
+  },
+  {
+    "postal": "M9N3J0",
+    "result": []
+  },
+  {
+    "postal": "M9N8X4",
+    "result": []
+  },
+  {
+    "postal": "M9N1Y3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142955
+        ],
+        "postalCode": "M9N1Y3",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTON RD, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142955
+        ],
+        "postalCode": "M9N1Y3",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1A8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142962
+        ],
+        "postalCode": "M9N1A8",
+        "streetName": "CLOUSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CLOUSTON AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6Y5",
+    "result": []
+  },
+  {
+    "postal": "M9N0J6",
+    "result": []
+  },
+  {
+    "postal": "M9N2C9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2C9",
+        "streetName": "BOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "BOYD AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8J6",
+    "result": []
+  },
+  {
+    "postal": "M9N8T4",
+    "result": []
+  },
+  {
+    "postal": "M9N1P7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142956
+        ],
+        "postalCode": "M9N1P7",
+        "streetName": "COULTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "COULTER AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9V9",
+    "result": []
+  },
+  {
+    "postal": "M9N0M1",
+    "result": []
+  },
+  {
+    "postal": "M9N6K5",
+    "result": []
+  },
+  {
+    "postal": "M9N2T5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N2T5",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "JANE ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7E9",
+    "result": []
+  },
+  {
+    "postal": "M9N5K5",
+    "result": []
+  },
+  {
+    "postal": "M9N3R5",
+    "result": []
+  },
+  {
+    "postal": "M9N5B1",
+    "result": []
+  },
+  {
+    "postal": "M9N2P1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N2P1",
+        "streetName": "CHANTILLY",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CHANTILLY GDNS, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7L0",
+    "result": []
+  },
+  {
+    "postal": "M9N3L6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3L6",
+        "streetName": "GALEWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GALEWOOD DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2A4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142986
+        ],
+        "postalCode": "M9N2A4",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTON RD, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142986
+        ],
+        "postalCode": "M9N2A4",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8S0",
+    "result": []
+  },
+  {
+    "postal": "M9N3L5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3L5",
+        "streetName": "TELCO",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "TELCO CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N2R5",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9T6",
+    "result": []
+  },
+  {
+    "postal": "M9N8Z2",
+    "result": []
+  },
+  {
+    "postal": "M9N0E9",
+    "result": []
+  },
+  {
+    "postal": "M9N8C0",
+    "result": []
+  },
+  {
+    "postal": "M9N3K7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3K7",
+        "streetName": "WENDELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WENDELL AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N2H3",
+        "streetName": "QUEENS",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "YORK",
+        "streetNameDisplayText": "QUEENS DR, YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 112,
+            "setId": 0,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10143706
+        ],
+        "postalCode": "M9N2H3",
+        "streetName": "QUEEN'S",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "YORK",
+        "streetNameDisplayText": "QUEEN'S DR, YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 101,
+            "setId": 0,
+            "name": "Spadina—Fort York"
+          }
+        ],
+        "pollDivisionIds": [
+          10141970
+        ],
+        "postalCode": "M9N2H3",
+        "streetName": "QUEEN'S",
+        "streetDirectionId": "E",
+        "streetTypeId": "QUAY",
+        "placeName": "YORK",
+        "streetNameDisplayText": "QUEEN'S QUAY E, YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 101,
+            "setId": 0,
+            "name": "Spadina—Fort York"
+          }
+        ],
+        "pollDivisionIds": [
+          10141965
+        ],
+        "postalCode": "M9N2H3",
+        "streetName": "QUEENS",
+        "streetDirectionId": "W",
+        "streetTypeId": "QUAY",
+        "placeName": "YORK",
+        "streetNameDisplayText": "QUEENS QUAY W, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2Y6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2Y6",
+        "streetName": "DALBEATTIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DALBEATTIE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7M2",
+    "result": []
+  },
+  {
+    "postal": "M9N6E2",
+    "result": []
+  },
+  {
+    "postal": "M9N3R0",
+    "result": []
+  },
+  {
+    "postal": "M9N4J7",
+    "result": []
+  },
+  {
+    "postal": "M9N6N8",
+    "result": []
+  },
+  {
+    "postal": "M9N0J7",
+    "result": []
+  },
+  {
+    "postal": "M9N7P2",
+    "result": []
+  },
+  {
+    "postal": "M9N3T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958,
+          10142954
+        ],
+        "postalCode": "M9N3T8",
+        "streetName": "SOUTH STATION",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "SOUTH STATION ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N3S7",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2S7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142959
+        ],
+        "postalCode": "M9N2S7",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1S4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N1S4",
+        "streetName": "CARDELL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CARDELL AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 109,
+            "setId": 0,
+            "name": "Toronto Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10135204
+        ],
+        "postalCode": "M9N1L8",
+        "streetName": "KING",
+        "streetDirectionId": "E",
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "KING ST E, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          }
+        ],
+        "pollDivisionIds": [
+          10142917
+        ],
+        "postalCode": "M9N1L8",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "MOUNT ALBERT",
+        "streetNameDisplayText": "KING ST, MOUNT ALBERT"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N1L8",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "KING ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8E9",
+    "result": []
+  },
+  {
+    "postal": "M9N0T0",
+    "result": []
+  },
+  {
+    "postal": "M9N3G4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3G4",
+        "streetName": "SNOWBERRY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SNOWBERRY AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N0V6",
+    "result": []
+  },
+  {
+    "postal": "M9N4W1",
+    "result": []
+  },
+  {
+    "postal": "M9N9G9",
+    "result": []
+  },
+  {
+    "postal": "M9N5W4",
+    "result": []
+  },
+  {
+    "postal": "M9N7M8",
+    "result": []
+  },
+  {
+    "postal": "M9N2C2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2C2",
+        "streetName": "WINDAL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WINDAL AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4Y2",
+    "result": []
+  },
+  {
+    "postal": "M9N9X9",
+    "result": []
+  },
+  {
+    "postal": "M9N3T0",
+    "result": []
+  },
+  {
+    "postal": "M9N4T8",
+    "result": []
+  },
+  {
+    "postal": "M9N9C4",
+    "result": []
+  },
+  {
+    "postal": "M9N8P2",
+    "result": []
+  },
+  {
+    "postal": "M9N0Y8",
+    "result": []
+  },
+  {
+    "postal": "M9N1G8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N1G8",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "LAWRENCE AVE W, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2T6",
+    "result": []
+  },
+  {
+    "postal": "M9N1N7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 89,
+            "setId": 0,
+            "name": "Richmond Hill"
+          }
+        ],
+        "pollDivisionIds": [
+          10141286
+        ],
+        "postalCode": "M9N1N7",
+        "streetName": "CHURCH",
+        "streetDirectionId": "S",
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST S, YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 67,
+            "setId": 0,
+            "name": "Newmarket—Aurora"
+          }
+        ],
+        "pollDivisionIds": [
+          10139866
+        ],
+        "postalCode": "M9N1N7",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NEWMARKET",
+        "streetNameDisplayText": "CHURCH ST, NEWMARKET"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          },
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142923,
+          10142957
+        ],
+        "postalCode": "M9N1N7",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N0L6",
+    "result": []
+  },
+  {
+    "postal": "M9N9V4",
+    "result": []
+  },
+  {
+    "postal": "M9N2V1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142952
+        ],
+        "postalCode": "M9N2V1",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3L8",
+        "streetName": "JAYMAR",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JAYMAR PL, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142959
+        ],
+        "postalCode": "M9N2R8",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N5C1",
+    "result": []
+  },
+  {
+    "postal": "M9N4W3",
+    "result": []
+  },
+  {
+    "postal": "M9N5X5",
+    "result": []
+  },
+  {
+    "postal": "M9N9W5",
+    "result": []
+  },
+  {
+    "postal": "M9N3C4",
+    "result": []
+  },
+  {
+    "postal": "M9N1N6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          }
+        ],
+        "pollDivisionIds": [
+          10142923
+        ],
+        "postalCode": "M9N1N6",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KESWICK",
+        "streetNameDisplayText": "CHURCH ST, KESWICK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N1N6",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9S9",
+    "result": []
+  },
+  {
+    "postal": "M9N9M2",
+    "result": []
+  },
+  {
+    "postal": "M9N8Y4",
+    "result": []
+  },
+  {
+    "postal": "M9N7S4",
+    "result": []
+  },
+  {
+    "postal": "M9N0K6",
+    "result": []
+  },
+  {
+    "postal": "M9N1W3",
+    "result": []
+  },
+  {
+    "postal": "M9N7R2",
+    "result": []
+  },
+  {
+    "postal": "M9N2Y9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2Y9",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "PINE ST, TORONTO"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7G4",
+    "result": []
+  },
+  {
+    "postal": "M9N7E5",
+    "result": []
+  },
+  {
+    "postal": "M9N9G2",
+    "result": []
+  },
+  {
+    "postal": "M9N7Y8",
+    "result": []
+  },
+  {
+    "postal": "M9N9V2",
+    "result": []
+  },
+  {
+    "postal": "M9N3T7",
+    "result": []
+  },
+  {
+    "postal": "M9N1H0",
+    "result": []
+  },
+  {
+    "postal": "M9N1M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          },
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142924,
+          10142956
+        ],
+        "postalCode": "M9N1M7",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8V4",
+    "result": []
+  },
+  {
+    "postal": "M9N4M2",
+    "result": []
+  },
+  {
+    "postal": "M9N0X2",
+    "result": []
+  },
+  {
+    "postal": "M9N5Z4",
+    "result": []
+  },
+  {
+    "postal": "M9N6V4",
+    "result": []
+  },
+  {
+    "postal": "M9N8J3",
+    "result": []
+  },
+  {
+    "postal": "M9N8E5",
+    "result": []
+  },
+  {
+    "postal": "M9N2V5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142952
+        ],
+        "postalCode": "M9N2V5",
+        "streetName": "GORDON MACKAY",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GORDON MACKAY RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7S1",
+    "result": []
+  },
+  {
+    "postal": "M9N6V3",
+    "result": []
+  },
+  {
+    "postal": "M9N2L8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2L8",
+        "streetName": "DEBBY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DEBBY CRT, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9V0",
+    "result": []
+  },
+  {
+    "postal": "M9N3M4",
+    "result": []
+  },
+  {
+    "postal": "M9N5B2",
+    "result": []
+  },
+  {
+    "postal": "M9N3X5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3X5",
+        "streetName": "QUEENSLEA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "QUEENSLEA AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9R7",
+    "result": []
+  },
+  {
+    "postal": "M9N2X2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2X2",
+        "streetName": "LONGVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LONGVIEW DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8Z6",
+    "result": []
+  },
+  {
+    "postal": "M9N4R4",
+    "result": []
+  },
+  {
+    "postal": "M9N2R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N2R1",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3R8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          }
+        ],
+        "pollDivisionIds": [
+          10142921
+        ],
+        "postalCode": "M9N3R8",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "KING ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9A1",
+    "result": []
+  },
+  {
+    "postal": "M9N8L3",
+    "result": []
+  },
+  {
+    "postal": "M9N9K4",
+    "result": []
+  },
+  {
+    "postal": "M9N9S3",
+    "result": []
+  },
+  {
+    "postal": "M9N8N7",
+    "result": []
+  },
+  {
+    "postal": "M9N1C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142962
+        ],
+        "postalCode": "M9N1C6",
+        "streetName": "ARTHUR",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "ARTHUR ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3Z8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N3Z8",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PINE ST, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N3Z8",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "PINE ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8G5",
+    "result": []
+  },
+  {
+    "postal": "M9N5R6",
+    "result": []
+  },
+  {
+    "postal": "M9N2W3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2W3",
+        "streetName": "BOYLEN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "BOYLEN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N0A0",
+    "result": []
+  },
+  {
+    "postal": "M9N6P8",
+    "result": []
+  },
+  {
+    "postal": "M9N8N9",
+    "result": []
+  },
+  {
+    "postal": "M9N0S9",
+    "result": []
+  },
+  {
+    "postal": "M9N8G0",
+    "result": []
+  },
+  {
+    "postal": "M9N8C7",
+    "result": []
+  },
+  {
+    "postal": "M9N5X8",
+    "result": []
+  },
+  {
+    "postal": "M9N7E8",
+    "result": []
+  },
+  {
+    "postal": "M9N6X2",
+    "result": []
+  },
+  {
+    "postal": "M9N4C6",
+    "result": []
+  },
+  {
+    "postal": "M9N7H2",
+    "result": []
+  },
+  {
+    "postal": "M9N4R0",
+    "result": []
+  },
+  {
+    "postal": "M9N6J3",
+    "result": []
+  },
+  {
+    "postal": "M9N4B8",
+    "result": []
+  },
+  {
+    "postal": "M9N6H6",
+    "result": []
+  },
+  {
+    "postal": "M9N0S1",
+    "result": []
+  },
+  {
+    "postal": "M9N4E3",
+    "result": []
+  },
+  {
+    "postal": "M9N7K2",
+    "result": []
+  },
+  {
+    "postal": "M9N7T8",
+    "result": []
+  },
+  {
+    "postal": "M9N0J9",
+    "result": []
+  },
+  {
+    "postal": "M9N5J9",
+    "result": []
+  },
+  {
+    "postal": "M9N5S7",
+    "result": []
+  },
+  {
+    "postal": "M9N0G9",
+    "result": []
+  },
+  {
+    "postal": "M9N3J9",
+    "result": []
+  },
+  {
+    "postal": "M9N2Y0",
+    "result": []
+  },
+  {
+    "postal": "M9N8X5",
+    "result": []
+  },
+  {
+    "postal": "M9N2M7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N2M7",
+        "streetName": "GARY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GARY DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9Z3",
+    "result": []
+  },
+  {
+    "postal": "M9N7W2",
+    "result": []
+  },
+  {
+    "postal": "M9N3W0",
+    "result": []
+  },
+  {
+    "postal": "M9N3M1",
+    "result": []
+  },
+  {
+    "postal": "M9N6A5",
+    "result": []
+  },
+  {
+    "postal": "M9N2M9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2M9",
+        "streetName": "GARY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GARY DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N5C3",
+    "result": []
+  },
+  {
+    "postal": "M9N0Y6",
+    "result": []
+  },
+  {
+    "postal": "M9N9H7",
+    "result": []
+  },
+  {
+    "postal": "M9N3L0",
+    "result": []
+  },
+  {
+    "postal": "M9N5N9",
+    "result": []
+  },
+  {
+    "postal": "M9N5E3",
+    "result": []
+  },
+  {
+    "postal": "M9N7M9",
+    "result": []
+  },
+  {
+    "postal": "M9N8N2",
+    "result": []
+  },
+  {
+    "postal": "M9N9H3",
+    "result": []
+  },
+  {
+    "postal": "M9N2K8",
+    "result": []
+  },
+  {
+    "postal": "M9N9L0",
+    "result": []
+  },
+  {
+    "postal": "M9N6L9",
+    "result": []
+  },
+  {
+    "postal": "M9N6A8",
+    "result": []
+  },
+  {
+    "postal": "M9N2K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2K6",
+        "streetName": "ETTRICK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "ETTRICK CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2M0",
+    "result": []
+  },
+  {
+    "postal": "M9N5X7",
+    "result": []
+  },
+  {
+    "postal": "M9N0M7",
+    "result": []
+  },
+  {
+    "postal": "M9N7A6",
+    "result": []
+  },
+  {
+    "postal": "M9N3C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3C5",
+        "streetName": "ROSEMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "ROSEMOUNT AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2P2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N2P2",
+        "streetName": "LIMERICK",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LIMERICK AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9N4",
+    "result": []
+  },
+  {
+    "postal": "M9N3M9",
+    "result": []
+  },
+  {
+    "postal": "M9N8K6",
+    "result": []
+  },
+  {
+    "postal": "M9N1L2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N1L2",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "KING ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2Z9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2Z9",
+        "streetName": "LOCKERBIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LOCKERBIE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2S2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N2S2",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "JANE ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2W2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2W2",
+        "streetName": "VIMY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "VIMY AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2C3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2C3",
+        "streetName": "WINDAL",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WINDAL AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6L7",
+    "result": []
+  },
+  {
+    "postal": "M9N3K0",
+    "result": []
+  },
+  {
+    "postal": "M9N3C1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N3C1",
+        "streetName": "ROSEMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "ROSEMOUNT AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6M9",
+    "result": []
+  },
+  {
+    "postal": "M9N4N9",
+    "result": []
+  },
+  {
+    "postal": "M9N3Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N3Y7",
+        "streetName": "RICHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "RICHWOOD ST, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N3Y7",
+        "streetName": "SAM FRUSTAGLIO",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "SAM FRUSTAGLIO DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2A9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N2A9",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTON RD, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6H5",
+    "result": []
+  },
+  {
+    "postal": "M9N8B4",
+    "result": []
+  },
+  {
+    "postal": "M9N4Z2",
+    "result": []
+  },
+  {
+    "postal": "M9N9J0",
+    "result": []
+  },
+  {
+    "postal": "M9N7V7",
+    "result": []
+  },
+  {
+    "postal": "M9N5T5",
+    "result": []
+  },
+  {
+    "postal": "M9N4W5",
+    "result": []
+  },
+  {
+    "postal": "M9N1T8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142962
+        ],
+        "postalCode": "M9N1T8",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9G6",
+    "result": []
+  },
+  {
+    "postal": "M9N1H3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N1H3",
+        "streetName": "LAWRENCE",
+        "streetDirectionId": "W",
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "LAWRENCE AVE W, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N5R5",
+    "result": []
+  },
+  {
+    "postal": "M9N8A4",
+    "result": []
+  },
+  {
+    "postal": "M9N3T6",
+    "result": []
+  },
+  {
+    "postal": "M9N9W8",
+    "result": []
+  },
+  {
+    "postal": "M9N0N3",
+    "result": []
+  },
+  {
+    "postal": "M9N7V0",
+    "result": []
+  },
+  {
+    "postal": "M9N8T5",
+    "result": []
+  },
+  {
+    "postal": "M9N5N3",
+    "result": []
+  },
+  {
+    "postal": "M9N5G9",
+    "result": []
+  },
+  {
+    "postal": "M9N3X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3X8",
+        "streetName": "KIRAH",
+        "streetDirectionId": null,
+        "streetTypeId": "CRT",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "KIRAH CRT, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3X8",
+        "streetName": "PURDY",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "PURDY CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9R3",
+    "result": []
+  },
+  {
+    "postal": "M9N2S1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N2S1",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "JANE ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9J7",
+    "result": []
+  },
+  {
+    "postal": "M9N2J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N2J3",
+        "streetName": "WOODWARD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WOODWARD AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3B6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N3B6",
+        "streetName": "ROSEMOUNT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "ROSEMOUNT AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8J0",
+    "result": []
+  },
+  {
+    "postal": "M9N7R4",
+    "result": []
+  },
+  {
+    "postal": "M9N8K8",
+    "result": []
+  },
+  {
+    "postal": "M9N4P3",
+    "result": []
+  },
+  {
+    "postal": "M9N0A2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N0A2",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTON RD, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N0A2",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2G2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          },
+          {
+            "election": null,
+            "id": 28,
+            "setId": 0,
+            "name": "Etobicoke Centre"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958,
+          10138081
+        ],
+        "postalCode": "M9N2G2",
+        "streetName": "WADSWORTH",
+        "streetDirectionId": null,
+        "streetTypeId": "BLVD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WADSWORTH BLVD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N5Y9",
+    "result": []
+  },
+  {
+    "postal": "M9N7X0",
+    "result": []
+  },
+  {
+    "postal": "M9N7W3",
+    "result": []
+  },
+  {
+    "postal": "M9N7X5",
+    "result": []
+  },
+  {
+    "postal": "M9N5K6",
+    "result": []
+  },
+  {
+    "postal": "M9N5B6",
+    "result": []
+  },
+  {
+    "postal": "M9N7Z0",
+    "result": []
+  },
+  {
+    "postal": "M9N9H6",
+    "result": []
+  },
+  {
+    "postal": "M9N1B4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142962
+        ],
+        "postalCode": "M9N1B4",
+        "streetName": "LIPPINCOTT",
+        "streetDirectionId": "W",
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "LIPPINCOTT ST W, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1A0",
+    "result": []
+  },
+  {
+    "postal": "M9N9A0",
+    "result": []
+  },
+  {
+    "postal": "M9N1M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N1M6",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO,ONTARIO",
+        "streetNameDisplayText": "CHURCH ST, TORONTO,ONTARIO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142956
+        ],
+        "postalCode": "M9N1M6",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N5H0",
+    "result": []
+  },
+  {
+    "postal": "M9N1K6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142956
+        ],
+        "postalCode": "M9N1K6",
+        "streetName": "KING STREET",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "YORK",
+        "streetNameDisplayText": "KING STREET CRES, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N5E1",
+    "result": []
+  },
+  {
+    "postal": "M9N3T9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142988
+        ],
+        "postalCode": "M9N3T9",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2M6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2M6",
+        "streetName": "GARY",
+        "streetDirectionId": null,
+        "streetTypeId": "DR",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GARY DR, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N0G5",
+    "result": []
+  },
+  {
+    "postal": "M9N0Y2",
+    "result": []
+  },
+  {
+    "postal": "M9N2Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2Y7",
+        "streetName": "DALBEATTIE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DALBEATTIE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2J7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          },
+          {
+            "election": null,
+            "id": 112,
+            "setId": 0,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951,
+          10136388
+        ],
+        "postalCode": "M9N2J7",
+        "streetName": "ROBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "ROBERT ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4K7",
+    "result": []
+  },
+  {
+    "postal": "M9N7P9",
+    "result": []
+  },
+  {
+    "postal": "M9N8X0",
+    "result": []
+  },
+  {
+    "postal": "M9N3X1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142991
+        ],
+        "postalCode": "M9N3X1",
+        "streetName": "KING",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "KING ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1R5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N1R5",
+        "streetName": "HUMBERVIEW",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "YORK",
+        "streetNameDisplayText": "HUMBERVIEW CRES, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6X6",
+    "result": []
+  },
+  {
+    "postal": "M9N0Y1",
+    "result": []
+  },
+  {
+    "postal": "M9N8G1",
+    "result": []
+  },
+  {
+    "postal": "M9N3J3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3J3",
+        "streetName": "GRATTAN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "GRATTAN ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8C2",
+    "result": []
+  },
+  {
+    "postal": "M9N4X9",
+    "result": []
+  },
+  {
+    "postal": "M9N6G9",
+    "result": []
+  },
+  {
+    "postal": "M9N4M3",
+    "result": []
+  },
+  {
+    "postal": "M9N9P7",
+    "result": []
+  },
+  {
+    "postal": "M9N4E5",
+    "result": []
+  },
+  {
+    "postal": "M9N5K9",
+    "result": []
+  },
+  {
+    "postal": "M9N2V2",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142952
+        ],
+        "postalCode": "M9N2V2",
+        "streetName": "JANE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "JANE ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2N9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N2N9",
+        "streetName": "CHANTILLY",
+        "streetDirectionId": null,
+        "streetTypeId": "GDNS",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "CHANTILLY GDNS, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6L4",
+    "result": []
+  },
+  {
+    "postal": "M9N8E0",
+    "result": []
+  },
+  {
+    "postal": "M9N0N0",
+    "result": []
+  },
+  {
+    "postal": "M9N6R0",
+    "result": []
+  },
+  {
+    "postal": "M9N9C1",
+    "result": []
+  },
+  {
+    "postal": "M9N4H4",
+    "result": []
+  },
+  {
+    "postal": "M9N5W3",
+    "result": []
+  },
+  {
+    "postal": "M9N9N9",
+    "result": []
+  },
+  {
+    "postal": "M9N1V7",
+    "result": []
+  },
+  {
+    "postal": "M9N8J1",
+    "result": []
+  },
+  {
+    "postal": "M9N5V9",
+    "result": []
+  },
+  {
+    "postal": "M9N2S8",
+    "result": []
+  },
+  {
+    "postal": "M9N6P0",
+    "result": []
+  },
+  {
+    "postal": "M9N4J8",
+    "result": []
+  },
+  {
+    "postal": "M9N0N1",
+    "result": []
+  },
+  {
+    "postal": "M9N1Y7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N1Y7",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORHT YORK",
+        "streetNameDisplayText": "CHURCH ST, NORHT YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142955
+        ],
+        "postalCode": "M9N1Y7",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WESTON RD, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142955
+        ],
+        "postalCode": "M9N1Y7",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7W5",
+    "result": []
+  },
+  {
+    "postal": "M9N3Z1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N3Z1",
+        "streetName": "WRIGHT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WRIGHT AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7M6",
+    "result": []
+  },
+  {
+    "postal": "M9N1W7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N1W7",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1X1",
+    "result": []
+  },
+  {
+    "postal": "M9N0C1",
+    "result": []
+  },
+  {
+    "postal": "M9N4N3",
+    "result": []
+  },
+  {
+    "postal": "M9N4S8",
+    "result": []
+  },
+  {
+    "postal": "M9N1H6",
+    "result": []
+  },
+  {
+    "postal": "M9N2Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N2Z4",
+        "streetName": "PINE",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "PINE ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7K3",
+    "result": []
+  },
+  {
+    "postal": "M9N8A2",
+    "result": []
+  },
+  {
+    "postal": "M9N6J1",
+    "result": []
+  },
+  {
+    "postal": "M9N5Z6",
+    "result": []
+  },
+  {
+    "postal": "M9N3Z0",
+    "result": []
+  },
+  {
+    "postal": "M9N8M0",
+    "result": []
+  },
+  {
+    "postal": "M9N1Z6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N1Z6",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8K7",
+    "result": []
+  },
+  {
+    "postal": "M9N1N3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 56,
+            "setId": 0,
+            "name": "Markham—Stouffville"
+          },
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          },
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          }
+        ],
+        "pollDivisionIds": [
+          10134339,
+          10142951,
+          10142923
+        ],
+        "postalCode": "M9N1N3",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9S2",
+    "result": []
+  },
+  {
+    "postal": "M9N2K1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2K1",
+        "streetName": "LAMONT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LAMONT AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1E8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N1E8",
+        "streetName": "WRIGHT",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WRIGHT AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9B8",
+    "result": []
+  },
+  {
+    "postal": "M9N7X4",
+    "result": []
+  },
+  {
+    "postal": "M9N1Z4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142955
+        ],
+        "postalCode": "M9N1Z4",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2C7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2C7",
+        "streetName": "BOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "BOYD AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2E7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2E7",
+        "streetName": "PATIKA",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "PATIKA AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3R1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3R1",
+        "streetName": "DEE",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DEE CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4K4",
+    "result": []
+  },
+  {
+    "postal": "M9N9G3",
+    "result": []
+  },
+  {
+    "postal": "M9N6C9",
+    "result": []
+  },
+  {
+    "postal": "M9N9H5",
+    "result": []
+  },
+  {
+    "postal": "M9N1P5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142956
+        ],
+        "postalCode": "M9N1P5",
+        "streetName": "COULTER",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "COULTER AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2J5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 121,
+            "setId": 0,
+            "name": "York—Simcoe"
+          }
+        ],
+        "pollDivisionIds": [
+          10142927
+        ],
+        "postalCode": "M9N2J5",
+        "streetName": "ROBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "KESWICK",
+        "streetNameDisplayText": "ROBERT ST, KESWICK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          },
+          {
+            "election": null,
+            "id": 112,
+            "setId": 0,
+            "name": "University—Rosedale"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951,
+          10136388
+        ],
+        "postalCode": "M9N2J5",
+        "streetName": "ROBERT",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "ROBERT ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4W6",
+    "result": []
+  },
+  {
+    "postal": "M9N8M8",
+    "result": []
+  },
+  {
+    "postal": "M9N6C5",
+    "result": []
+  },
+  {
+    "postal": "M9N9H0",
+    "result": []
+  },
+  {
+    "postal": "M9N1X8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142956
+        ],
+        "postalCode": "M9N1X8",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3H4",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3H4",
+        "streetName": "WALWYN",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WALWYN AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4E7",
+    "result": []
+  },
+  {
+    "postal": "M9N8A0",
+    "result": []
+  },
+  {
+    "postal": "M9N1Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N1Z7",
+        "streetName": "WESTON",
+        "streetDirectionId": null,
+        "streetTypeId": "RD",
+        "placeName": "YORK",
+        "streetNameDisplayText": "WESTON RD, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7Z3",
+    "result": []
+  },
+  {
+    "postal": "M9N0L7",
+    "result": []
+  },
+  {
+    "postal": "M9N2C6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2C6",
+        "streetName": "BOYD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "BOYD AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6M3",
+    "result": []
+  },
+  {
+    "postal": "M9N2J1",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 56,
+            "setId": 0,
+            "name": "Markham—Stouffville"
+          },
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10134355,
+          10142951
+        ],
+        "postalCode": "M9N2J1",
+        "streetName": "JOSEPH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "JOSEPH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N3E3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3E3",
+        "streetName": "LANGSIDE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "LANGSIDE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6Z9",
+    "result": []
+  },
+  {
+    "postal": "M9N3M3",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N3M3",
+        "streetName": "YELLAND",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "YELLAND ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N9B1",
+    "result": []
+  },
+  {
+    "postal": "M9N9J5",
+    "result": []
+  },
+  {
+    "postal": "M9N4V8",
+    "result": []
+  },
+  {
+    "postal": "M9N6W2",
+    "result": []
+  },
+  {
+    "postal": "M9N0V5",
+    "result": []
+  },
+  {
+    "postal": "M9N0Z8",
+    "result": []
+  },
+  {
+    "postal": "M9N5G2",
+    "result": []
+  },
+  {
+    "postal": "M9N4N4",
+    "result": []
+  },
+  {
+    "postal": "M9N8G7",
+    "result": []
+  },
+  {
+    "postal": "M9N8W1",
+    "result": []
+  },
+  {
+    "postal": "M9N1S6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N1S6",
+        "streetName": "MAPLE BUSH",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MAPLE BUSH AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4E0",
+    "result": []
+  },
+  {
+    "postal": "M9N4L9",
+    "result": []
+  },
+  {
+    "postal": "M9N5Z9",
+    "result": []
+  },
+  {
+    "postal": "M9N5V3",
+    "result": []
+  },
+  {
+    "postal": "M9N4V2",
+    "result": []
+  },
+  {
+    "postal": "M9N7C0",
+    "result": []
+  },
+  {
+    "postal": "M9N6L0",
+    "result": []
+  },
+  {
+    "postal": "M9N1S9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N1S9",
+        "streetName": "DEE",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DEE AVE, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7R6",
+    "result": []
+  },
+  {
+    "postal": "M9N7J0",
+    "result": []
+  },
+  {
+    "postal": "M9N5M0",
+    "result": []
+  },
+  {
+    "postal": "M9N2E5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2E5",
+        "streetName": "MACDONALD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "MACDONALD AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7C7",
+    "result": []
+  },
+  {
+    "postal": "M9N5C0",
+    "result": []
+  },
+  {
+    "postal": "M9N8V9",
+    "result": []
+  },
+  {
+    "postal": "M9N7E0",
+    "result": []
+  },
+  {
+    "postal": "M9N6R4",
+    "result": []
+  },
+  {
+    "postal": "M9N3Z7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3Z7",
+        "streetName": "MEADOW OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "PL",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "MEADOW OAK PL, NORTH YORK"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142950
+        ],
+        "postalCode": "M9N3Z7",
+        "streetName": "WEST OAK",
+        "streetDirectionId": null,
+        "streetTypeId": "CRES",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "WEST OAK CRES, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N1J9",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 101,
+            "setId": 0,
+            "name": "Spadina—Fort York"
+          }
+        ],
+        "pollDivisionIds": [
+          10141959
+        ],
+        "postalCode": "M9N1J9",
+        "streetName": "JOHN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "TORONTO",
+        "streetNameDisplayText": "JOHN ST, TORONTO"
+      },
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 101,
+            "setId": 0,
+            "name": "Spadina—Fort York"
+          },
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10141945,
+          10141959,
+          10142957
+        ],
+        "postalCode": "M9N1J9",
+        "streetName": "JOHN",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "JOHN ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7K6",
+    "result": []
+  },
+  {
+    "postal": "M9N7Y5",
+    "result": []
+  },
+  {
+    "postal": "M9N1B7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N1B7",
+        "streetName": "DENISON",
+        "streetDirectionId": "E",
+        "streetTypeId": "RD",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "DENISON RD E, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N4S9",
+    "result": []
+  },
+  {
+    "postal": "M9N9R9",
+    "result": []
+  },
+  {
+    "postal": "M9N5K7",
+    "result": []
+  },
+  {
+    "postal": "M9N6P2",
+    "result": []
+  },
+  {
+    "postal": "M9N2C5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142951
+        ],
+        "postalCode": "M9N2C5",
+        "streetName": "HOLLEY",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "HOLLEY AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2N0",
+    "result": []
+  },
+  {
+    "postal": "M9N1G0",
+    "result": []
+  },
+  {
+    "postal": "M9N4K5",
+    "result": []
+  },
+  {
+    "postal": "M9N9B5",
+    "result": []
+  },
+  {
+    "postal": "M9N6T5",
+    "result": []
+  },
+  {
+    "postal": "M9N1N8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142957
+        ],
+        "postalCode": "M9N1N8",
+        "streetName": "CHURCH",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CHURCH ST, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N0C0",
+    "result": []
+  },
+  {
+    "postal": "M9N0R9",
+    "result": []
+  },
+  {
+    "postal": "M9N7L1",
+    "result": []
+  },
+  {
+    "postal": "M9N3Y8",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142963
+        ],
+        "postalCode": "M9N3Y8",
+        "streetName": "RICHWOOD",
+        "streetDirectionId": null,
+        "streetTypeId": "ST",
+        "placeName": "NORTH YORK",
+        "streetNameDisplayText": "RICHWOOD ST, NORTH YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N7X9",
+    "result": []
+  },
+  {
+    "postal": "M9N1A7",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142962
+        ],
+        "postalCode": "M9N1A7",
+        "streetName": "CLOUSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CLOUSTON AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N2T9",
+    "result": []
+  },
+  {
+    "postal": "M9N2E6",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142958
+        ],
+        "postalCode": "M9N2E6",
+        "streetName": "MACDONALD",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "MACDONALD AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N8Y1",
+    "result": []
+  },
+  {
+    "postal": "M9N0J5",
+    "result": []
+  },
+  {
+    "postal": "M9N4J1",
+    "result": []
+  },
+  {
+    "postal": "M9N1A5",
+    "result": [
+      {
+        "electoralDistricts": [
+          {
+            "election": null,
+            "id": 122,
+            "setId": 0,
+            "name": "York South—Weston"
+          }
+        ],
+        "pollDivisionIds": [
+          10142962
+        ],
+        "postalCode": "M9N1A5",
+        "streetName": "CLOUSTON",
+        "streetDirectionId": null,
+        "streetTypeId": "AVE",
+        "placeName": "YORK",
+        "streetNameDisplayText": "CLOUSTON AVE, YORK"
+      }
+    ]
+  },
+  {
+    "postal": "M9N6Z6",
+    "result": []
+  },
+  {
+    "postal": "M9N5K4",
+    "result": []
+  },
+  {
+    "postal": "M9N7R9",
+    "result": []
+  },
+  {
+    "postal": "M9N6G4",
+    "result": []
   }
 ]
