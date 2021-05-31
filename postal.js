@@ -517,7 +517,7 @@ function fsaEdAggregateFor(results) {
   const eds = Array.from(edCounts, ([id, count]) => ({
     id,
     count,
-    percent: Math.round((100 * count) / edCount),
+    percent: Math.round((10000 * count) / edCount) / 100, // 2 decimal places
   })).sort((a, b) => b.count - a.count)
   return { postalCount, foundPostalCount, edCount, eds }
 }
@@ -576,10 +576,13 @@ async function dataExport() {
   log(`Exporting FSA-ED mappings from from ${PATH_FSA_ED}`)
   const aggregates = JSON.parse(await fs.readFile(PATH_FSA_ED, 'utf8'))
   const ridingsForPostalCodes = []
+
+  // For now, we just take the best mapping for each FSA.
   aggregates.forEach(({ fsa, province, eds }) => {
-    eds.forEach(({ id, count }) => {
-      ridingsForPostalCodes.push({ postal: fsa, province, ridingId: id, weight: count })
-    })
+    if (eds.length > 0) {
+      const { id, percent } = eds[0]
+      ridingsForPostalCodes.push({ postal: fsa, province, ridingId: id, weight: percent })
+    }
   })
 
   log(`Writing JSON data to ${PATH_EXPORT}`)
