@@ -1,5 +1,5 @@
 {
-  "postalCodes": [
+  "postalCode": [
     {
       "code": "A0A",
       "province": "NL",
@@ -11642,7 +11642,7 @@
       "name": "Whitehorse"
     }
   ],
-  "ridings": [
+  "riding": [
     {
       "province": "ON",
       "id": "1",
@@ -13628,7 +13628,7 @@
       "mppUrl": "https://www.ola.org/en/members/all/Guy-Bourgouin"
     }
   ],
-  "ridingsForPostalCodes": [
+  "postalCodeToRiding": [
     {
       "postal": "K0A",
       "province": "ON",

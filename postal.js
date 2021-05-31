@@ -548,13 +548,13 @@ async function fsaEdAggregate(fsas = []) {
 async function dataExport() {
   log(`Exporting FSA data from from ${PATH_FSA}`)
   const fsas = JSON.parse(await fs.readFile(PATH_FSA, 'utf8'))
-  const postalCodes = fsas.map(({ fsa, province, type, hotspot, name }) => {
+  const postalCode = fsas.map(({ fsa, province, type, hotspot, name }) => {
     return { code: fsa, province, type, hotspot, name }
   })
 
   log(`Exporting ED data from from ${PATH_ED}`)
   const eds = JSON.parse(await fs.readFile(PATH_ED, 'utf8'))
-  const ridings = eds.map((ed) => {
+  const riding = eds.map((ed) => {
     return {
       province: ed.province,
       id: ed.id,
@@ -575,18 +575,18 @@ async function dataExport() {
 
   log(`Exporting FSA-ED mappings from from ${PATH_FSA_ED}`)
   const aggregates = JSON.parse(await fs.readFile(PATH_FSA_ED, 'utf8'))
-  const ridingsForPostalCodes = []
+  const postalCodeToRiding = []
 
   // For now, we just take the best mapping for each FSA.
   aggregates.forEach(({ fsa, province, eds }) => {
     if (eds.length > 0) {
       const { id, percent } = eds[0]
-      ridingsForPostalCodes.push({ postal: fsa, province, ridingId: id, weight: percent })
+      postalCodeToRiding.push({ postal: fsa, province, ridingId: id, weight: percent })
     }
   })
 
   log(`Writing JSON data to ${PATH_EXPORT}`)
-  await fs.writeFile(PATH_EXPORT, stringify({ postalCodes, ridings, ridingsForPostalCodes }))
+  await fs.writeFile(PATH_EXPORT, stringify({ postalCode, riding, postalCodeToRiding }))
   log('Done')
 }
 
